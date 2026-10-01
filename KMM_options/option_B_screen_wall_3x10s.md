@@ -1,6 +1,6 @@
 # KMM — Option B: Screen-wall sequence (10 script scenes) split into 3 clips x 10 s
 
-Status: drafts submitted 2026-10-01. Content not yet reviewed by the assistant (cannot view video).
+Status: all drafts COMPLETED 2026-10-01 (~08:50 UTC). Content not yet reviewed by the assistant (cannot view video).
 - Clip 1 (scenes 1-2: gate slams, Mai slumps against the door, startles, push-in to face): job `71749210-5e89-4a15-8e9d-c2cd6a40408d`
 - Clip 2 (scenes 3-5: shadow people working, Mai hides, phone shows missed call): job `5d372e2c-14f0-415b-b103-b49928041d63`
 - Clip 3 (scenes 6-10: snake, shadow hands, whip pan, scream, room turns): job `19e7da67-a327-4893-90cb-545debb2fa81`

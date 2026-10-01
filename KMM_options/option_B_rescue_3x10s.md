@@ -1,6 +1,6 @@
 # KMM — Option B: Rescue sequence (9 script scenes) in 3 clips x 10 s
 
-Status: drafts submitted 2026-10-01. Content not yet reviewed by the assistant (cannot view video).
+Status: all drafts COMPLETED 2026-10-01 (~08:50 UTC). Content not yet reviewed by the assistant (cannot view video).
 - Clip 1 (scenes 1-4: shadows turn, close in, hand over Mai's mouth): job `ef813431-7a0e-4c94-943f-0b3fea158a00`
 - Clip 2 (scenes 5-6: POV reaching hands, warm light dissolves them): job `937501b3-4d83-4464-9438-8d58c424192d`
 - Clip 3 (scenes 7-9: fantasy dad punches, fantasy mom frying pan, Mai's happy tears): job `9321e696-f341-47e2-afff-7c39b3e5368d`
