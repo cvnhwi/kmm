@@ -146,3 +146,48 @@ Add a [Space & Blocking] block (before [Action]) with identical text in every an
 "[Space & Blocking] Same set and positions in every shot of this scene: <map in words: landmarks and where each character stands, facing which way, distances>. Action line runs <west-east>; the camera stays on the <south> side. <Character> moves from <start mark> to <end mark>, screen left to right. Key light from <direction>. Character positions, directions, eyelines and props stay exactly as described; do not mirror or rearrange the scene."
 Then [Camera] states this angle's camera position on the map (e.g. "camera at C3, south-east, low angle, 24 mm, slow push-in toward Mai").
 Avoid line adds: mirrored layout, characters swapping sides, changed screen direction, eyeline mismatch, prop in the other hand, camera crossing the action line, rearranged background.
+
+## 8. Director pass, AUTO camera choice (user rule 2026-10-01, from the `cinematic-director` skill)
+The user's skill is installed in the repo at `.claude/skills/cinematic-director/` (SKILL.md + references/camera-decision-system.md, prompt-output.md, hook-design.md). For every KMM option B scene the assistant **chooses the camera automatically** with this pass, unless the user dictates a specific angle (user angles always win). The project hard rules and the B style rules still override the skill where they differ (cut coverage default, no slow motion, fantasy master video, fair skin, subtle expressions, no text, creatures never touch Mai).
+
+### 8.1 Workflow (before writing any prompt)
+1. **Beat & feeling:** name the dominant story beat, what the audience should feel, and (for an opening) the unanswered question.
+2. **One take or cuts:** cut coverage is the KMM default; use one shot per visual idea. A requested one-take is never cut.
+3. **Choose as one system:** shot size + angle + lens + movement + blocking + focus + transition, picked from the narrative verb (8.2), not from a favourite move.
+4. **Frames:** write a readable START frame, a motivated camera path, a decisive PEAK frame, and a stable END frame for each shot; state screen direction and subject-camera distance.
+5. **Feasibility:** physically possible path, subject stays visible, no collision, axis/180 rule kept (section 7), action readable at the duration (simplify choreography before compressing it).
+6. **Translate** into time-ordered, observable language (start -> path -> speed curve -> end condition).
+7. **Clean up:** remove decorative moves, redundant adjectives and contradictory verbs.
+
+### 8.2 Auto-pick table (narrative verb -> camera)
+| Beat / verb | Shot size | Angle | Move | Lens |
+|---|---|---|---|---|
+| Establish world, scale, isolation | EWS / WS | eye level or high | slow push-in, crane or static | 18-28 mm |
+| Threat, monster power | CU / MCU on the creature | low | creeping push-in, static hold before the strike | 50-85 mm |
+| Sudden attack / lunge | CU -> impact | eye line of the victim | static then a short motivated pull-back with the lunge | 50-85 mm |
+| Flee, pursuit | MWS / WS | three-quarter diagonal (see both hunter and hunted) | tracking follow or lead, accelerate with the run, settle at the end | 24-35 mm |
+| Reaction, realization, fear | CU | eye level | slow push-in or locked-off hold | 65-100 mm |
+| Confusion, searching, lost | MCU | eye level | static or slight drift; let the eyes/head do the work | 50-85 mm |
+| Vulnerability, being watched | WS | high | slow crane down or static | 35-50 mm |
+| Discovery of a place | WS -> MS | behind the character (OTS) | follow then rise/tilt to reveal | 24-35 mm |
+| Detail that matters (foot at the edge, phone, hand) | ECU / insert | low or top | slow glide or static | 50-100 mm |
+| Unease, altered reality | MS | slight Dutch | slow move only | 35 mm |
+| Hero entrance / rescue | WS -> MS | low | push-in or crane up | 24-35 mm |
+| Shift attention in depth | any | any | rack focus with a named trigger | 50-85 mm |
+Static is a valid, deliberate choice. Wide -> close = intimacy/urgency; close -> wide = consequence/loneliness/scale.
+
+### 8.3 Camera rules from the skill
+- At most ONE dominant move per beat; a secondary adjustment only if motivated and compatible.
+- Dolly/push is not zoom: never call a camera translation a zoom.
+- Describe observable motion: direction, path, speed curve, distance, framing change, end condition (e.g. "begins nearly still, accelerates as she runs, decelerates into a stable medium shot").
+- No vague words ("dynamic camera", "cinematic movement") without operational detail.
+- Short AI clips: stable geometry, clear silhouettes, simple single-curve paths; never stack orbit + zoom + roll + rack focus.
+- Lens as a range/character, not fake precision.
+- Reference hierarchy declared in every prompt: Video 1 = style/mood/characters (not camera); character image = identity; location image = layout/mood.
+- Negatives: keep the project hard-rule negatives, then add only failure modes relevant to this scene (no giant generic lists).
+
+### 8.4 Output to the user (Vietnamese) for every new scene
+1. **Lựa chọn đạo diễn** (director's choice): 1-3 lines on why this visual strategy.
+2. **Thiết kế camera**: shot list table (time, shot size, angle, lens, move, blocking, start/peak/end frame).
+3. **Prompt** (English) as submitted, with the prompt assembly order of `prompt-output.md` inside the B block structure: duration/shots -> references & locks -> space & blocking -> time-ordered action + camera per shot -> peak -> end frame -> acting -> character look / expression -> lighting -> style -> avoid.
+4. **Negative constraints** relevant to the scene (summarised).

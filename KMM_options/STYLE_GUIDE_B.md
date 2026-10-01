@@ -50,6 +50,7 @@ Prompt wording: "[Lighting] Motivated cinematic lighting: <key source and direct
 [Avoid] adds: flat even lighting, no rim light, sterile overly clean CG, plastic sheen, grey lifeless shadows, characters not lit by the scene's light sources.
 
 ### B camera library
+AUTO camera direction (user rule 2026-10-01): every scene goes through the director pass of `CAMERA_LIBRARY_B.md` section 8 (adapted from the user's `cinematic-director` skill, installed at `.claude/skills/cinematic-director/`): the assistant picks shot size, angle, lens, move and blocking from the story beat, writes start/peak/end frames, checks feasibility and the 180 rule, and reports "Lựa chọn đạo diễn / Thiết kế camera / Prompt / Negative". User-specified angles always win.
 User preference (2026-10-01): CUT COVERAGE is the default. Each clip is built from several shots joined by hard cuts (like V1 `e398982e…` / V1L `e08e2a51…`), each shot with its own size, angle and one motivated move. Use a single continuous take only when the user asks for it.
 For multi-angle requests (one scene, many angles) and any camera choice in B: use `CAMERA_LIBRARY_B.md` (shot sizes, angles, movements, coverage templates by scene type). Each angle = one continuous shot, same action timings, one motivated move with ease-in/out, 180-degree rule.
 
