@@ -1,7 +1,7 @@
 # KMM — Option B: Mai arrives at the digital river, breathless and lost, walks slowly along the bank (8 s)
 
 **Retry 2 (~14:25 UTC):** c60976cd FAILED. Test jobs: 820fa189 (4 s master), 06ab84db (720p master), 93ad9743 (3 stills from Fantasy.mp4 as image refs, no video ref). Content not yet reviewed.
-**Result:** 820fa189 (4 s master video) COMPLETED; 93ad9743 (3 stills) COMPLETED; 06ab84db (720p 6 s) still running. User picks one.
+**Result:** 820fa189 (4 s master video) COMPLETED; 93ad9743 (3 stills) COMPLETED; 06ab84db (720p 6 s master) COMPLETED. Three versions for the user to pick (made before the fair-skin/subtle-expression rule).
 
 **Retry 2026-10-01 ~14:12 UTC** with master video `3202ca06…` (H.264 + silent audio): job `c60976cd-0608-4c61-b7ee-1ccb4e430920` (user added: cards pulled toward the vortex centre + profile cards floating in the air around her). Status: SUBMITTED, content not yet reviewed.
 

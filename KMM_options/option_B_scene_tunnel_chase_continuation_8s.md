@@ -1,6 +1,6 @@
 # KMM — Option B: wolf chases Mai deeper in the fantasy tunnel, continuation of the fantasy master video (8 s)
 
-**Retry 3 (~14:59 UTC)** with the 4 s master video `9a25e8e9…`: job `eea72b65-071e-457f-b597-fe73363652f4`. Status: SUBMITTED, content not yet reviewed.
+**Retry 3 (~14:59 UTC)** with the 4 s master video `9a25e8e9…`: job `eea72b65-071e-457f-b597-fe73363652f4`. Status: COMPLETED ~15:05 UTC (made before the fair-skin/subtle-expression rule), content not yet reviewed.
 
 **Retry 2026-10-01 ~14:12 UTC** with master video `3202ca06…` (H.264 + silent audio): job `93d0efd6-3326-47a2-acf0-93a8e4a5d673`. Status: FAILED (master video still rejected). Waiting for the river test to pick the working reference.
 
