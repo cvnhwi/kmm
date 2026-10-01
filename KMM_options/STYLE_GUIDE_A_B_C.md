@@ -49,8 +49,8 @@ stays stable — no line boil, no shimmer, no strobe.
 
 - Differences from B: painted finish (watercolor/gouache/dry-brush, cel-shade edges, sepia-charcoal lines) instead of clean 3D materials; backgrounds flatter than the character; palette limited to black-teal / indigo / cold blue with only the red neckerchief and light-blue backpack warm; skin always clean (no hatching, marks or freckles).
 - Do NOT put "flat 2D" or "painterly is forbidden" in C's AVOID (that is A/B wording). Keep "photorealism", "anime", "pure black", "line boil/shimmer/strobe".
-- Video ref: to be decided with the user (StandardB is B's 3D look and may pull C toward B).
-- Files/jobs: see `option_C_*.md` when created.
+- Video ref: none in the first C run (StandardB is B's 3D look and could pull C toward B).
+- Files/jobs: `option_C_fantasy_chase_hand_painted.md` (job `0a5cf4c2-6ef7-4998-a156-07b33d652d26`, no video ref, Ref 1 = `01_Mai` assumed to carry the painted style).
 
 ## Quick check before any new generation
 1. Which option (A/B/C)? 2. Which video refs belong to it (table above)? 3. Which plates and are they text-free? 4. Prompt block structure matches the option. 5. Run `get_cost`, then wait for the user's "gen".
