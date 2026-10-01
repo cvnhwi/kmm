@@ -1,5 +1,7 @@
 # KMM — Option B: wolf chases Mai deeper in the fantasy tunnel, continuation of the fantasy master video (8 s)
 
+**Retry 2026-10-01 ~14:12 UTC** with master video `3202ca06…` (H.264 + silent audio): job `93d0efd6-3326-47a2-acf0-93a8e4a5d673`. Status: SUBMITTED, content not yet reviewed.
+
 User request (2026-10-01): "Sáng tạo góc và cho tôi clip 8 giây, cảnh nối tiếp video tham khảo, sói rượt bé Mai trong hầm fantasy".
 
 Status: FAILED (Fantasy.mp4 video reference rejected, no credits used). Was SUBMITTED 2026-10-01 as job `3e69917c-261b-4840-a670-c9de77f309aa` with the master video `e481d885-2d5a-4bc6-96f0-20a47ce81215` (Fantasy.mp4). Content not yet reviewed.
