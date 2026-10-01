@@ -1,6 +1,6 @@
 # KMM — Option B single scene: fantasy entrance, wolf lunge + Mai runs in (8 s), 2 camera versions
 
-Status: drafts submitted 2026-10-01 (~11:35 UTC). Content not yet reviewed by the assistant (cannot view video).
+Status: V1, V2, V1L all COMPLETED 2026-10-01 (~11:55 UTC). Content not yet reviewed by the assistant (cannot view video).
 User script: "Trời tối đen -> Lối vào fantasy. Cận cảnh mặt sói bóng đêm đang tư thế chuẩn bị và lao thẳng về phía camera. Mai chạy hốt hoảng vào sâu phía trong lối vào của thế giới fantasy."
 
 | Version | Camera work | Job |
