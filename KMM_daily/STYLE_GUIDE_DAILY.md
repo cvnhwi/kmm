@@ -12,6 +12,8 @@ Style mới, tách riêng khỏi style B fantasy (`KMM_options/`). Tạo 2026-10
 | **Video master DAILY** | `0e1937c4-209b-4fc7-b110-a0861bf2fd47` | `DAILY_720p.mp4`: H.264 High 8-bit yuv420p, 1280x720, 24 fps, AAC 44.1 kHz, 6.08 s. Convert từ gốc user `812c8476-c81b-4713-9e91-f88c85628518` (DAILY.mp4, HEVC Main 10, 1080p): KHÔNG dùng bản gốc. Gắn làm `video_references` cho MỌI cảnh đời thường. Chưa test gen. |
 | **Mai (01_Mai)** | `b42c82ad-d58e-4fb3-bcf3-4d89dac09517` | KHÔNG dùng Mai fantasy. Chờ user xác nhận có character sheet mới không. |
 
+| **Phòng Mai sunset** | `6c670ace-47b0-463f-a0eb-2846fcfdbc1b` | `B03_PhongMai1_Sunset.png` (user upload 2026-10-01). Thay bản cũ `71a09bcb-813d-4888-a25b-1bd5b602a00f`, không dùng bản cũ nữa. Nội dung chưa được trợ lý xem: mô tả là "layout, materials and sunset light of Image N" đến khi user xác nhận chi tiết. |
+
 Trợ lý không xem được video/ảnh: chưa biết nội dung video DAILY, chỉ mô tả là "look, mood and lighting of Video 1".
 
 ## 3. Thông số Higgsfield (mặc định, giống dự án)
