@@ -1,6 +1,6 @@
 # KMM DAILY — Morning at home: Mai wakes up, stretches, washes, gets dressed for school, leaves her room (20 s)
 
-Status: PROMPT READY, waiting for the user's "gen". Not generated yet.
+Status: v1 submitted 2026-10-01 (single 20 s clip). Job `4e7649d6-f937-41c6-a13b-e7322c1d6185`, waiting for result.
 Style: DAILY (`STYLE_GUIDE_DAILY.md`). Seedance 2.5, omni_reference, draft 480p, 16:9, 20 s (~60 credits), folder MV KMM `fef878e4…`.
 
 ## References
