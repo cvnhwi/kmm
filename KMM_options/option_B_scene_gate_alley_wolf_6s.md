@@ -22,3 +22,7 @@ Light: warm alley behind Mai (rim on hair/scarf), cold teal tunnel ahead (key on
 
 Refs: StandardB `c5746038…`, Mai `b42c82ad…`, wolf `f48ff106…`, entrance `b97b3e97…`, alley layout `B02_Hem1_Day` `875ca1de-fe82-40c9-aaa3-1fae77e08461` (re-lit as night). ~18 credits.
 Assumptions: the alley plate is a day plate re-lit to night in the prompt; the gate is described in text (no gate plate between the alley and the tunnel).
+
+## v2 (user 2026-10-01 ~12:30 UTC)
+Changes: sky already gloomy (low heavy overcast clouds, grey-violet glow); Mai's BODY faces north toward the cave with her HEAD turned back over her right shoulder looking at the wolf, frozen; the wolf's lunge is the trigger, only then she runs; monitors mostly dark, random on/off; every shot moves.
+Job: `26300da4-ed14-4521-850e-3ab0ab2e277b` (folder MV KMM `fef878e4…`). Status: submitted, content not yet reviewed.
