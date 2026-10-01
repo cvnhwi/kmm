@@ -20,7 +20,7 @@ Bus ref `e077bd7c-d7dd-4e99-84d8-fe676d544e86` (`MVKMM_XE BUS_v001_0928.png`): g
 - Clip 5 v2: `bda0f401-9db6-49f6-89b1-070eec08af02`
 Clip 6 not regenerated (bus only implied in background).
 
-## Driver fix v3 (user 2026-10-01 ~10:20 UTC: "nhầm chú an ninh và tài xế")
+## Driver fix v3 (user 2026-10-01 ~10:20 UTC: "nhầm chú an ninh và tài xế") — COMPLETED ~10:27 UTC, content not yet reviewed
 The bus driver is `15_TaiXe` `6f2ff8e2-08c5-47ad-9b71-25fa28d62738`, NOT the security guard (the script line "Tài xế (chú an ninh)" was wrong; the assistant followed it). Regenerated the driver cuts with bus ref + driver ref; Avoid "the security guard driving":
 - Clip 3 v3 (driver glimpsed through windscreen): `48042de4-62fd-4b4e-9094-fe6245ccefe0`
 - Clip 4 v3 (drift, driver tense, two-finger salute): `85a39cde-3057-42cb-b0d3-0dcb51b101b5`
