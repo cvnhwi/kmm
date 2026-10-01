@@ -30,3 +30,10 @@ Job: `26300da4-ed14-4521-850e-3ab0ab2e277b` (folder MV KMM `fef878e4…`). Statu
 ## v3 (user 2026-10-01 ~12:40 UTC)
 Interpretation of "Mai đang quay lưng lui nhìn về phía hẻm": Mai's BACK to the cave/camera, facing the alley, looking at the wolf; the instant the wolf lunges she spins and runs into the cave. Shot 2 now shows her back first (from inside the tunnel), then she turns toward camera and runs.
 Job: `0c421b73-8879-485f-8d14-84977816003e` (folder MV KMM). Status: COMPLETED ~12:40 UTC, in MV KMM, content not yet reviewed.
+
+## v4 (user 2026-10-01 ~15:25 UTC): fantasy Mai + fantasy master + skin/expression rules, plus a no-video test
+Same action as v3 (Mai on the threshold with her back to the cave, facing the alley; wolf CU lunge; she spins and runs deep into the tunnel; gloomy sky; monitors mostly dark, random; moving camera in all 3 shots). Refs: fantasy Mai `ef343c87-2208-435b-ad72-0ad938ae95bd`, wolf `f48ff106…`, tunnel `b97b3e97…`, alley `875ca1de…` (re-lit gloomy night). Added [Character Look] fair skin + [Expression] subtle blocks.
+- v4a WITH fantasy master video 720p `9e11bd39…`: job `a421aa65-1943-40ad-b61a-75e90b78aa0a`
+- v4b WITHOUT any video reference (user: "thử thêm 1 bản mà không đính kèm video"), style from Mai's image + text: job `84cb13f4-14c8-4263-9226-711ca72c1194`
+(First attempt timed out at 60 s; no job was created, checked in list_project_assets.)
+Status: SUBMITTED, content not yet reviewed.
