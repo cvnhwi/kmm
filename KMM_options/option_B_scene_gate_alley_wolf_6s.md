@@ -1,6 +1,6 @@
 # KMM — Option B single scene: Mai at the alley/fantasy gate, wolf lunge, Mai runs in (6 s)
 
-Status: draft submitted 2026-10-01 (~12:25 UTC). Content not yet reviewed by the assistant (cannot view video).
+Status: COMPLETED 2026-10-01 (~12:20 UTC). Content not yet reviewed by the assistant (cannot view video).
 Job: `3d84d6f7-f399-4a99-9d73-b6e3fbce9b91` · 6 s · cut coverage, every shot with a moving camera · B lighting look · real-time 24 fps · monitors mostly dark, random on/off.
 
 ## Scene map
