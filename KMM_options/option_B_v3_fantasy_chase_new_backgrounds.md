@@ -4,18 +4,18 @@ Status: DRAFT PROMPT, NOT YET GENERATED. Waiting for the user's "gen".
 Builds on `option_B_v2_fantasy_chase_3d_video_ref.md` (job `8267611b-5861-4da9-bc89-4e195ac7f1cd`).
 
 ## Difference from B v2
-- Entrance, forest and digital-river plates replaced by new uploads (below).
+- Entrance, forest, digital-river and gate plates replaced by new uploads (below). The new gate image has a blank address bar and no readable writing (per the assistant's reading of the image); old gate `607ae6ae…` is no longer used.
 - New effects: monitors flicker on/off; profile cards in the digital river stream deep into the tunnel.
 - [Visual Style] / [Avoid] adjusted because the new plates look near-photoreal: locations are re-rendered in the stylized look of Video 1, textures not copied.
 - Monitor/card faces are background detail only.
 
 ## Settings
-model `seedance_2_5`, mode `omni_reference`, draft true, 480p, 25 s, 16:9, generate_audio false, folder `fef878e4-1957-439e-8b50-00a4ee8454c6`, declined_preset_id `24bae836-2c4a-48e0-89b6-49fcc0b21612`. Cost 75 credits (get_cost accepted all media ids).
+model `seedance_2_5`, mode `omni_reference`, draft true, 480p, 25 s, 16:9, generate_audio false, folder `fef878e4-1957-439e-8b50-00a4ee8454c6`, declined_preset_id `24bae836-2c4a-48e0-89b6-49fcc0b21612`. Cost 75 credits (get_cost accepted the plate media ids; the new gate id has not been preflighted yet).
 
 ## References (order)
 Video 1 `c5746038-2de6-4154-852e-6e431e457aa5` (StandardB)
 Ref 1 Mai `b42c82ad-d58e-4fb3-bcf3-4d89dac09517` · Ref 2 wolf `f48ff106-d9d6-4233-a770-d36f768a1f64` · Ref 3 crow `6a271d30-4602-4348-8042-8728526956c5` · Ref 4 spider `cdcbdc48-05d0-4875-b2c4-eb77a56cb96b` · Ref 5 shadow person `2f07fe73-628d-4761-aeff-0b32446d8a0c`
-Ref 6 entrance (NEW) `b97b3e97-5b27-4deb-92ea-a10693bc61e9` · Ref 7 forest (NEW) `d823d7cf-984c-4298-a9ab-62cd1b809b0b` · Ref 8 digital river (NEW) `fa8a5475-6c31-41b3-91ba-9881972d4319` · Ref 9 gate `607ae6ae-2bf6-4148-852e-aae51d9de070` (text removal still unconfirmed)
+Ref 6 entrance (NEW) `b97b3e97-5b27-4deb-92ea-a10693bc61e9` · Ref 7 forest (NEW) `d823d7cf-984c-4298-a9ab-62cd1b809b0b` · Ref 8 digital river (NEW) `fa8a5475-6c31-41b3-91ba-9881972d4319` · Ref 9 gate (NEW, text-free) `5aa39a50-f435-41b1-8f99-def9153bc90f`
 
 Roles of Refs 6-8 follow the order the user gave (entrance, forest, river); file names are auto-generated and were not used.
 
@@ -63,5 +63,5 @@ Refs 6-9 are the locations: Ref 6 fantasy entrance (shots 2-5), Ref 7 fantasy fo
 
 ## Notes
 - The assistant cannot see the plates or videos. Plate roles come from the user's stated order.
-- Gate ref may still contain writing; [References] tells the model not to reproduce it.
+- New gate image is very dark with one teal glowing door; may look darker than the other plates. [References] still tells the model not to draw any readable writing or interface icons.
 - "flicker" appears twice by design: screens flicker (wanted), Mai's face/body must not (Avoid).
