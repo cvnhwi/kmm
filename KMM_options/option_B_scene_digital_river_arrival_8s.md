@@ -3,7 +3,8 @@
 User request (2026-10-01): "Một cảnh Mai chạy đến dòng sông số nhìn lui sau, nhìn hai bên kiểu hoang mang, và cũng hơi thở mệt. đi từ từ bên dòng sông (lưu ý không đi xuống dòng sông số). phía trước vòng xoáy vẫn chuyển động, và những profile ở dưới vẫn đang bị cuốn vào".
 Duration not given -> default 8 s, 4 cut shots.
 
-Status: SUBMITTED 2026-10-01. Job `72137531-0cc2-49e3-8e6d-c6d34e368303`. Content not yet reviewed.
+Retest 2026-10-01: `dfdc795a…` with Fantasy.mp4 FAILED again; `176120f8-8fd5-4675-87a7-62feeedb8e78` with StandardB instead (same prompt) submitted.
+Status: FAILED (Fantasy.mp4 video reference rejected, no credits used). Was SUBMITTED 2026-10-01. Job `72137531-0cc2-49e3-8e6d-c6d34e368303`. Content not yet reviewed.
 
 ## Settings
 Seedance 2.5, `omni_reference`, draft 480p, 8 s, 16:9, no audio, folder MV KMM `fef878e4-1957-439e-8b50-00a4ee8454c6`, declined preset `24bae836-2c4a-48e0-89b6-49fcc0b21612`. ~24 credits.

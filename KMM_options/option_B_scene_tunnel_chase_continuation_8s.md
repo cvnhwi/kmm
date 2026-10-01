@@ -2,7 +2,7 @@
 
 User request (2026-10-01): "Sáng tạo góc và cho tôi clip 8 giây, cảnh nối tiếp video tham khảo, sói rượt bé Mai trong hầm fantasy".
 
-Status: SUBMITTED 2026-10-01 as job `3e69917c-261b-4840-a670-c9de77f309aa` with the master video `e481d885-2d5a-4bc6-96f0-20a47ce81215` (Fantasy.mp4). Content not yet reviewed.
+Status: FAILED (Fantasy.mp4 video reference rejected, no credits used). Was SUBMITTED 2026-10-01 as job `3e69917c-261b-4840-a670-c9de77f309aa` with the master video `e481d885-2d5a-4bc6-96f0-20a47ce81215` (Fantasy.mp4). Content not yet reviewed.
 Earlier: BLOCKED. First submit failed: "Video input not found" for the master video `31d4ddc0-d66c-4da7-9ac1-c055cd20d7cf` (it lives in workspace xelfaistudiovn, not this account). No credits spent. Waiting for the user to upload the video into this workspace and send its media_id.
 
 ## Settings

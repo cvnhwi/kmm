@@ -3,7 +3,7 @@
 User request (2026-10-01): "Một cảnh sáng tạo camera cảnh Mai chạy ra khỏi hầm cổng fantasy. nhiều góc camera".
 Duration not given -> default 8 s, 4 cut shots.
 
-Status: SUBMITTED 2026-10-01. Job `cf372483-d793-478a-a1d2-552305c45956`. Content not yet reviewed.
+Status: FAILED (Fantasy.mp4 video reference rejected, no credits used). Was SUBMITTED 2026-10-01. Job `cf372483-d793-478a-a1d2-552305c45956`. Content not yet reviewed.
 
 ## Settings
 Seedance 2.5, `omni_reference`, draft 480p, 8 s, 16:9, no audio, folder MV KMM `fef878e4-1957-439e-8b50-00a4ee8454c6`, declined preset `24bae836-2c4a-48e0-89b6-49fcc0b21612`. ~24 credits.
