@@ -132,7 +132,7 @@ AVOID: slow motion, speed ramp, camera shake, undressing, bare body, costume mix
 ```
 
 ## v3 (user 2026-10-01 ~18:20 UTC): faster, 12 s, clock prop, 24 fps lock
-Same 7 shots as v2, retimed 0-1.8 / 1.8-3.4 / 3.4-5.0 / 5.0-6.8 / 6.8-8.0 / 8.0-9.6 / 9.6-12.0 s. Removed the two padding beats (hand stops the alarm, pause at the door). Clock = Image 3 `b73a2861…`, dial without numerals. ~36 credits. Status: PROMPT READY, waiting for "gen".
+Same 7 shots as v2, retimed 0-1.8 / 1.8-3.4 / 3.4-5.0 / 5.0-6.8 / 6.8-8.0 / 8.0-9.6 / 9.6-12.0 s. Removed the two padding beats (hand stops the alarm, pause at the door). Clock = Image 3 `b73a2861…`, dial without numerals. ~36 credits. Job `b506af2d-e1b0-46ff-8d24-790005e8957c` submitted.
 
 ```
 DAILY-LIFE MASTER REFERENCE FIRST: Video 1 is the master reference for the style, mood and characters of this whole clip. Match its render look, hand-painted finish, materials, colour palette, lighting mood, atmosphere, character design, proportions and animation feel on every frame; do not copy its exact shots, camera or story.
