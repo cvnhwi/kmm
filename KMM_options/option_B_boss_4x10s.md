@@ -6,6 +6,14 @@ Status: all 4 drafts COMPLETED 2026-10-01 (~09:30 UTC). Content not yet reviewed
 - Clip 3 (scenes 6-7): job `fb5a9746-497b-45a2-a167-b018d164cabe`
 - Clip 4 (scenes 8-10): job `29e6fc38-9798-4335-8013-7dee72658493`
 
+## v2 (user feedback 2026-10-01 ~09:40 UTC), all 4 clips regenerated
+Changes: (1) every clip now set in the BOSS arena plate `B14_Boss` `f1ae9d0a-c22c-4de8-92f0-a051fb01937c` (smoke clouds, monitor walls left/right, fog centre) instead of the round hall; plate floor has a tile grid -> prompt says matte dark floor, no grid. (2) Teacher: ONE thin golden ray from the FAR TIP of the ruler only. (3) Guard + dad: allies doing one combo on the same shadow (low baton sweep + high punch), dynamic tracking arc + push-in camera; Avoid "the two men fighting each other". Clip 3 blasts also changed to thin golden light rays to match.
+- Clip 1 v2: `a08db222-3c36-4d05-8175-8157a1d5d628`
+- Clip 2 v2: `ce715836-1244-4e89-8b7b-e316ef674e70`
+- Clip 3 v2: `5ecc472d-1f81-4b31-bf2c-9ddcff459040`
+- Clip 4 v2: `4085de33-6192-4246-ad8a-43b7dd7ad51e`
+Assumption: the arena image the user pasted is the same plate as `B14_Boss` (`f1ae9d0a…`), uploaded earlier; not verified.
+
 ## Settings
 Option B: Seedance 2.5, `omni_reference`, draft 480p, 10 s, 16:9, no audio, StandardB `c5746038-2de6-4154-852e-6e431e457aa5`, folder `fef878e4-1957-439e-8b50-00a4ee8454c6`, declined preset `24bae836-2c4a-48e0-89b6-49fcc0b21612`. ~30 credits per clip, ~120 total.
 All rules apply: B v4 rules, no text/numbers, night-shadow people never move in sync (separate individuals), monitors glitch randomly, characters integrated into the set, adults 7-7.5 heads, Mai 6-6.5 heads.
