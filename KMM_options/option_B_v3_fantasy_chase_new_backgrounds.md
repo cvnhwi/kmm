@@ -1,5 +1,7 @@
 # KMM — Option B v3: Fantasy chase (3D block look) with new backgrounds
 
+**Plate update (user, 2026-10-01):** the digital river is now `B16_SongSo.png` `d1f11795-f7e4-49bf-9964-9b6c5dcc1015`; it replaces `fa8a5475…` for all future generations.
+
 Status: generated as draft. Job `e61b91a6-feba-47c8-856b-7a8382f23596` (created 2026-10-01 ~06:58 UTC). Content not yet reviewed by the assistant (cannot view video).
 Builds on `option_B_v2_fantasy_chase_3d_video_ref.md` (job `8267611b-5861-4da9-bc89-4e195ac7f1cd`).
 
