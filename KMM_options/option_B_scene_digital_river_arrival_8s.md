@@ -33,3 +33,9 @@ River flows south -> north into the vortex. Dry bank on the east side; camera on
 | 2 | where am I? is it gone? | silence behind her | breath slowing; scanning with pauses, not mechanical | - |
 | 3 | stay safe | the edge of the river | cautious weight | - |
 | 4 | go on | the vortex ahead | slow, wary walk, hand on strap | - |
+
+## v4 (user 2026-10-01 ~15:55 UTC): new master + fantasy Mai + hologram river + layered flying cards
+User additions: if Mai touches the river it reacts as a HOLOGRAM (glowing pixels, scan lines, digital glitch), not water; the vortex keeps swirling, cards in the river are pulled toward its centre; cards fly around her and through foreground / mid-ground / background so the world feels alive.
+Refs: master video `83190f2e…`, fantasy Mai `ef343c87…`, river `d1f11795…`. Fair-skin + subtle-expression blocks included.
+Shots: 1 wide truck + stop, hands on knees · 2 MCU push-in, looks back/left/right · 3 low glide at the feet, shoe tip grazes the edge -> hologram ripple, she pulls back · 4 OTS slow follow + rise, vortex + cards at every depth.
+Job: `e4be08eb-afc7-4259-9aaf-b700fb3a14fe`. Status: SUBMITTED, content not yet reviewed.
