@@ -3,7 +3,7 @@
 User request (2026-10-01): "Cảnh góc nhìn của Sói chạy rượt theo Mai trong cổng fantasy".
 Duration not given -> default 8 s, 3 shots with hard cuts, ALL from the wolf's POV.
 
-Status: SUBMITTED 2026-10-01. Job `d85cd34c-53fc-4c6e-bee5-eec6784b7649`. Content not yet reviewed (the assistant cannot view video).
+Status: COMPLETED 2026-10-01 (~12:50 UTC), in MV KMM. Job `d85cd34c-53fc-4c6e-bee5-eec6784b7649`. Content not yet reviewed (the assistant cannot view video).
 
 ## Settings
 Seedance 2.5, `omni_reference`, draft 480p, 8 s, 16:9, no audio, folder MV KMM `fef878e4-1957-439e-8b50-00a4ee8454c6`, declined preset `24bae836-2c4a-48e0-89b6-49fcc0b21612`. ~24 credits.
