@@ -55,3 +55,12 @@ stays stable — no line boil, no shimmer, no strobe.
 
 ## Quick check before any new generation
 1. Which option (A/B/C)? 2. Which video refs belong to it (table above)? 3. Which plates and are they text-free? 4. Prompt block structure matches the option. 5. Run `get_cost`, then wait for the user's "gen".
+
+
+## Option D — handcrafted stop-motion (derived from B v5 split clips)
+- Prompt structure: B bracketed blocks + a [Motion] block; opening line "STYLE FIRST: handcrafted stop-motion look and motion".
+- Look: Mai as a handmade puppet (matte painted clay-like skin, sculpted fibre hair, miniature felt/cotton clothes with stitching), creatures in teased black wool + translucent tulle (crow: cut paper + feathers), miniature sets, practical lighting. Deliberately NOT the typical glossy 3D look.
+- Motion: characters on twos with small holds and hand-posed jitter, no motion blur; camera smooth (motion-control feel).
+- Video ref: none. Ref 1 `01_Mai` = identity only.
+- All B v4 rules still apply.
+- Files/jobs: `option_D_stop_motion_crafted.md` (test clips 1 `7b171357-e740-4a4a-bea3-bf2ff0a56e47` and 4 `784d7124-d183-4534-ac44-b88d8ab3e68f`).
