@@ -1,5 +1,7 @@
 # KMM — Option B: Screen-wall rescue + bus + team + sting (20 script scenes, 40 s) in 8 clips x 10 s
 
+**Plate update (user, 2026-10-01):** the screen-wall hall is now `B15_TuongManHinh.png` `b331cb43-0b97-40b5-a323-135c77c0082a`; it replaces `b59fa3e7…` for all future generations. Clips listed in this file were made with the old plate; regenerate only if the user asks.
+
 Status: all drafts COMPLETED 2026-10-01 (~10:16 UTC). Main set = clips 1, 2, 3v2, 4v2, 5v2, 6, 7, 8 (v1 of 3-5 kept for comparison). Content not yet reviewed by the assistant (cannot view video).
 
 | Clip | Scenes | Content | Job |

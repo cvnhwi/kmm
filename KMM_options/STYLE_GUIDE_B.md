@@ -79,6 +79,7 @@ mannequin stillness, mechanical or uniform motion speed, robotic straight-line m
 
 
 ## Shared props
+- SCREEN-WALL hall plate (Tường Màn Hình, every screen-wall scene from 2026-10-01): `B15_TuongManHinh.png` `b331cb43-0b97-40b5-a323-135c77c0082a` (user update). It replaces the old hall plates `b59fa3e7-7919-4b03-8cac-61d8e0afc0b1` and `b5785b69-f416-477c-8474-af8f9eb86d03`; never use the old ones again. Content not seen by the assistant: describe it only as "layout, mood and lighting from the screen-wall hall ref, rendered in the stylized look of Video 1, matte dark floor, no grid; monitors mostly dark, some lit, flickering randomly" until the user confirms details.
 - BOSS arena plate (every Boss scene from 2026-10-01): `B14_Boss.png` `1c507ac3-2db9-4d1e-b5e0-53fe183687e5` (user update 2026-10-01, second upload). It replaces the old plates `f1ae9d0a-c22c-4de8-92f0-a051fb01937c` and `076ec352-e524-4304-a1eb-821d9d9278d1`; never use the old ones again. Content of the new image not seen by the assistant: describe it in prompts only as "layout, mood and lighting from the BOSS arena ref, rendered in the stylized look of Video 1, matte dark floor, no grid" until the user confirms the details.
 - Bus driver = `15_TaiXe` `6f2ff8e2-08c5-47ad-9b71-25fa28d62738` (never the security guard).
 - Green bus (all bus shots): ref `e077bd7c-d7dd-4e99-84d8-fe676d544e86` (`MVKMM_XE BUS_v001_0928.png`), green two-tone minibus; destination panel blank, no text/number/plate; do not copy the sketch lines.
