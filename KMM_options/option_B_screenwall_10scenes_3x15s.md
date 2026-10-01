@@ -2,7 +2,7 @@
 
 User request (2026-10-01): "Tự phân tích và chia kịch bản này thành những đoạn 15 giây và gen video giúp tôi, sáng tạo góc camera phù hợp mood kịch bản" (10 scenes: gate slam → hall → shadow workers → corner/phone → missed call → snake → snake on phone → shadow hands → scream → heads turn).
 
-Status: SUBMITTED 2026-10-01. Content not yet reviewed (the assistant cannot view video).
+Status: COMPLETED 2026-10-01 (~18:46 UTC), all 3 jobs. Content not yet reviewed (the assistant cannot view video).
 
 ## Settings
 Seedance 2.5, `omni_reference`, draft 480p, 15 s, 16:9, no audio, folder MV KMM `fef878e4-1957-439e-8b50-00a4ee8454c6`, declined preset `24bae836-2c4a-48e0-89b6-49fcc0b21612`. ~45 credits/clip, ~135 total.
