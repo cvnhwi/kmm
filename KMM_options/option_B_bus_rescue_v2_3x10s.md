@@ -1,6 +1,6 @@
 # KMM — Option B: Bus rescue v2 (revised 11-scene script, 27 s) in 3 clips x 10 s
 
-Status: drafts submitted 2026-10-01 (~10:35 UTC). Content not yet reviewed by the assistant (cannot view video).
+Status: all 3 drafts COMPLETED 2026-10-01 (~10:45 UTC). Content not yet reviewed by the assistant (cannot view video).
 Replaces the flow of `option_B_screenwall_bus_rescue_8x10s.md` clips 3-8 with the user's tighter script (no team step-out, no Mai crying shot).
 
 | Clip | Scenes | Content | Job |
