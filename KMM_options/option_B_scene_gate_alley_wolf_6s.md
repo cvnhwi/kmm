@@ -56,3 +56,16 @@ Director's choice: threat CU -> escape diagonal -> wolf "plays" on the wall (liv
 | 4 | 6-8 s | low angle floor, 24 mm | tilt up with the arc, ease into slight arc follow | wolf leaps over Mai -> lands ahead left, playful head tilt -> Mai swerves right, runs on, wolf circling behind |
 Refs: master `83190f2e…`, fantasy Mai `ef343c87…`, wolf `f48ff106…`, tunnel `b97b3e97…`, alley `875ca1de…`. Fair-skin + subtle-expression blocks.
 Job: `03bce19b-794d-4740-9fd4-c9007c5fad5f`. Status: COMPLETED ~16:12 UTC, content not yet reviewed.
+
+## v7 (user 2026-10-01 ~16:20 UTC): 15 s, wolf waits first, then hunts slowly and toys; final low-angle leap
+Director's choice: tension by contrast. The wolf's stillness (it waits at the gate, watching) is scarier than a sprint; then the hunt is slow and playful while Mai runs fast; the clip ends on a decisive peak, the wolf springing high in a low-angle CU.
+| # | Time | Shot | Camera | Start -> Peak -> End |
+|---|---|---|---|---|
+| 1 | 0-2.5 s | wolf ECU crouched, 85 mm | very slow creep-in | eyes locked, smoke breath -> ears flatten -> small head tilt |
+| 2 | 2.5-4.5 s | MS diagonal 3/4 from inside the tunnel, 35 mm | pan + backward track | Mai looking at the alley -> sees the wolf, freezes -> spins and runs past camera |
+| 3 | 4.5-7 s | OTS behind the wolf at the gate, low, 35 mm | slow push-in | wolf stands still, not chasing -> head follows Mai -> Mai small deep in the tunnel |
+| 4 | 7-10 s | wide diagonal east side, 24 mm | truck right at Mai's speed | Mai runs fast -> wolf trots in far behind -> lazy bound west wall -> east side |
+| 5 | 10-12.5 s | high 3/4 above the wall, 28 mm | forward glide | Mai far ahead -> wolf zig-zags wall to wall in slow arcs -> monitors flicker |
+| 6 | 12.5-15 s | low-angle CU from the floor, 24 mm | tilt up with the jump | land + deep crouch -> springs high -> silhouette mid-air against the ceiling glow |
+Refs: master `83190f2e…`, fantasy Mai `ef343c87…`, wolf `f48ff106…`, tunnel `b97b3e97…`, alley `875ca1de…`. Fair-skin + subtle-expression blocks. ~45 credits.
+Job: `7dd6b0c2-57d2-4617-bbb7-f3376113319d`. Status: SUBMITTED, content not yet reviewed.
