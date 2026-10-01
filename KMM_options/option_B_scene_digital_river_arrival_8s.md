@@ -38,4 +38,4 @@ River flows south -> north into the vortex. Dry bank on the east side; camera on
 User additions: if Mai touches the river it reacts as a HOLOGRAM (glowing pixels, scan lines, digital glitch), not water; the vortex keeps swirling, cards in the river are pulled toward its centre; cards fly around her and through foreground / mid-ground / background so the world feels alive.
 Refs: master video `83190f2e…`, fantasy Mai `ef343c87…`, river `d1f11795…`. Fair-skin + subtle-expression blocks included.
 Shots: 1 wide truck + stop, hands on knees · 2 MCU push-in, looks back/left/right · 3 low glide at the feet, shoe tip grazes the edge -> hologram ripple, she pulls back · 4 OTS slow follow + rise, vortex + cards at every depth.
-Job: `e4be08eb-afc7-4259-9aaf-b700fb3a14fe`. Status: SUBMITTED, content not yet reviewed.
+Job: `e4be08eb-afc7-4259-9aaf-b700fb3a14fe`. Status: COMPLETED ~15:56 UTC, content not yet reviewed.

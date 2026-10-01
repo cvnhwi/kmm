@@ -44,4 +44,4 @@ Same story as v4. New: master video `83190f2e-aa76-490f-8b36-633ff0cfbee6` (Fant
 - Shot 2 (2-4 s) diagonal three-quarter front from inside the tunnel (NE of Mai), backward-sideways track: Mai spins and runs past camera, wolf bursts through the gate behind her.
 - Shot 3 (4-6 s) diagonal three-quarter rear, low, follow with slight arc: Mai mid-ground, wolf bounding behind, both visible, gap open; monitors random.
 Refs: fantasy Mai `ef343c87…`, wolf `f48ff106…`, tunnel `b97b3e97…`, alley `875ca1de…`. Fair-skin + subtle-expression blocks included.
-Job: `7ad9a461-bbb6-496f-9cf8-e729baf035bf`. Status: SUBMITTED, content not yet reviewed.
+Job: `7ad9a461-bbb6-496f-9cf8-e729baf035bf`. Status: COMPLETED ~15:52 UTC, content not yet reviewed.
