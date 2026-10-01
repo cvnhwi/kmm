@@ -28,6 +28,34 @@ Common rules for every option (project hard rules)
 - Files/jobs: `option_B_fantasy_chase_3d.md` (v1, `95874c0c-576e-4405-b78c-cdc0c278c17c`), `option_B_v2_fantasy_chase_3d_video_ref.md` (`8267611b-5861-4da9-bc89-4e195ac7f1cd`), `option_B_v3_fantasy_chase_new_backgrounds.md` (`e61b91a6-feba-47c8-856b-7a8382f23596`), `option_B_v4_fantasy_chase_grounded.md` (`af1740b5-6e84-41ea-8e98-063d140d9663`).
 - B v4 rules (user feedback 2026-10-01): Mai never runs on the river surface (stays on the bank); at the large gate her back faces the camera; monitors glitch/flicker nonstop; characters must be integrated into the background (matching light, contact shadows, mist in front/behind), never a pasted layer.
 
+### B acting rules (user 2026-10-01): real, believable acting, not "AI acting"; Disney principles
+The script is not copied into the prompt line by line. Before writing any B prompt, analyse each beat, then write the acting that follows from it.
+
+**Step 1: beat analysis (done by the assistant, kept in the plan file, one row per shot)**
+| Field | Question |
+|---|---|
+| Want / feel | What does the character want right now, what do they feel, what do they know or not know yet? |
+| Trigger | What makes the feeling change (a sound, a sight, a hit)? The reaction comes AFTER the trigger, never before. |
+| Energy and tempo | Panic = fast, jerky, short holds; dread = slow, held breath; exhaustion = heavy, slower than intended; relief = tension melting slowly; confidence = loose, economical. A tired child cannot sprint at full speed. |
+| Body logic | Age, size and weight (child vs adult, cleaner is elderly, bus is heavy), what they hold, where they stand. |
+| Transition | How the previous beat ends and this one starts (no emotional jumps without a visible moment of change). |
+
+**Step 2: the [Acting] block in every B prompt (between [Action] and [Integration])**
+Write specific, motivated acting per shot, using the Disney principles:
+- Thought before action: eyes and head move first, then the body (the eyes lead every turn and reach).
+- Anticipation: a small counter-move before every big action (crouch before a run, wind-up before a punch or swing, intake of breath before a scream).
+- Timing and spacing: each action has its own speed from the beat analysis; slow-in/slow-out on starts and stops; vary rhythm between actions; real holds (moving holds with breathing) on emotional peaks instead of constant motion.
+- Follow-through and overlapping action: hair, scarf, skirt, backpack, straps, sleeves and smoke keep moving and settle after the body stops.
+- Arcs: limbs, heads and props travel in arcs, not straight robotic lines.
+- Secondary action that supports the emotion: wiping tears, clutching a strap, trembling fingers, shoulders rising with breath.
+- Restrained exaggeration and appeal: clear readable poses and silhouettes, stylized but believable; no gurning or over-acting.
+- Solid weight: feet planted, weight shifts visibly, impacts have recoil and recovery.
+- Faces: emotion changes through stages (surprise -> fear -> panic), asymmetry, micro-expressions, natural blinks (more when anxious, frozen stare when terrified), breath visible in chest and shoulders; tears well up before they fall.
+- Reaction timing: listeners react a beat after the event; groups never react in sync.
+
+**Step 3: [Avoid] additions for acting**
+mannequin stillness, mechanical or uniform motion speed, robotic straight-line moves, actions with no anticipation, reacting before the trigger, emotion switching instantly with no transition, frozen symmetrical faces, dead eyes, constant open-mouth expression, over-acting or gurning, floaty weightless motion, everyone moving at the same speed.
+
 ## Option C — hybrid 3D/2D hand-painted (mix of B structure + new art style)
 - Prompt structure: same bracketed blocks as B; only the art-style block ([Visual Style]) and the style-related lines in [References] / [Avoid] change.
 - Art style text (verbatim from the user, 2026-10-01; "@Image 1" is the painted style reference image the user supplies):
