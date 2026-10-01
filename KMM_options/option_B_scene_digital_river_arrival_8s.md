@@ -3,7 +3,7 @@
 User request (2026-10-01): "Một cảnh Mai chạy đến dòng sông số nhìn lui sau, nhìn hai bên kiểu hoang mang, và cũng hơi thở mệt. đi từ từ bên dòng sông (lưu ý không đi xuống dòng sông số). phía trước vòng xoáy vẫn chuyển động, và những profile ở dưới vẫn đang bị cuốn vào".
 Duration not given -> default 8 s, 4 cut shots.
 
-Retest 2026-10-01: `dfdc795a…` with Fantasy.mp4 FAILED again; `176120f8-8fd5-4675-87a7-62feeedb8e78` with StandardB instead (same prompt) submitted.
+Retest 2026-10-01: `dfdc795a…` with Fantasy.mp4 FAILED again; `176120f8-8fd5-4675-87a7-62feeedb8e78` with StandardB instead (same prompt) COMPLETED. Then `5d54d477-0640-4454-839e-bb2c7a8f15bf` with the H.264 master `213f8d95…` submitted (the real version of this scene).
 Status: FAILED (Fantasy.mp4 video reference rejected, no credits used). Was SUBMITTED 2026-10-01. Job `72137531-0cc2-49e3-8e6d-c6d34e368303`. Content not yet reviewed.
 
 ## Settings
