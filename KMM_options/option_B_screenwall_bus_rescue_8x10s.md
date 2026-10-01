@@ -20,6 +20,13 @@ Bus ref `e077bd7c-d7dd-4e99-84d8-fe676d544e86` (`MVKMM_XE BUS_v001_0928.png`): g
 - Clip 5 v2: `bda0f401-9db6-49f6-89b1-070eec08af02`
 Clip 6 not regenerated (bus only implied in background).
 
+## Driver fix v3 (user 2026-10-01 ~10:20 UTC: "nhầm chú an ninh và tài xế")
+The bus driver is `15_TaiXe` `6f2ff8e2-08c5-47ad-9b71-25fa28d62738`, NOT the security guard (the script line "Tài xế (chú an ninh)" was wrong; the assistant followed it). Regenerated the driver cuts with bus ref + driver ref; Avoid "the security guard driving":
+- Clip 3 v3 (driver glimpsed through windscreen): `48042de4-62fd-4b4e-9094-fe6245ccefe0`
+- Clip 4 v3 (drift, driver tense, two-finger salute): `85a39cde-3057-42cb-b0d3-0dcb51b101b5`
+Clip 5 (team steps out: dad, mom, guard, police, cleaner) unchanged: the guard there is correct as a team member; driver not in that shot.
+Main set now: 1, 2, 3v3, 4v3, 5v2, 6, 7, 8.
+
 ## Settings
 Option B: Seedance 2.5, `omni_reference`, draft 480p, 10 s, 16:9, no audio (SFX in the script are for post), StandardB `c5746038-2de6-4154-852e-6e431e457aa5`, folder `fef878e4-1957-439e-8b50-00a4ee8454c6`, declined preset `24bae836-2c4a-48e0-89b6-49fcc0b21612`. ~30 credits per clip, ~240 total.
 Rules: shadows never in sync, monitors glitch randomly, no text/numbers (bus has no route number/logo/plate), integration, B v4 rules.
