@@ -57,10 +57,8 @@ stays stable — no line boil, no shimmer, no strobe.
 1. Which option (A/B/C)? 2. Which video refs belong to it (table above)? 3. Which plates and are they text-free? 4. Prompt block structure matches the option. 5. Run `get_cost`, then wait for the user's "gen".
 
 
-## Option D — handcrafted stop-motion (derived from B v5 split clips)
-- Prompt structure: B bracketed blocks + a [Motion] block; opening line "STYLE FIRST: handcrafted stop-motion look and motion".
-- Look: Mai as a handmade puppet (matte painted clay-like skin, sculpted fibre hair, miniature felt/cotton clothes with stitching), creatures in teased black wool + translucent tulle (crow: cut paper + feathers), miniature sets, practical lighting. Deliberately NOT the typical glossy 3D look.
-- Motion: characters on twos with small holds and hand-posed jitter, no motion blur; camera smooth (motion-control feel).
-- Video ref: none. Ref 1 `01_Mai` = identity only.
-- All B v4 rules still apply.
-- Files/jobs: `option_D_stop_motion_crafted.md` (test clips 1 `7b171357-e740-4a4a-bea3-bf2ff0a56e47` and 4 `784d7124-d183-4534-ac44-b88d8ab3e68f`).
+## Option D — B look, refined and less AI-looking (redefined 2026-10-01)
+- NOT stop-motion. Same as option B (StandardB video ref, B bracketed blocks, all B v4 rules) plus a "D layer": per-shot lenses and foreground depth, a [Performance] block (weight, anticipation, overlap, asymmetry, blinks), hand-finished material detail, motivated light with falloff, restrained grade, fine grain, and an "AI look" list in [Avoid].
+- Shot detail: B v5 split clips.
+- Files/jobs: `option_D_B_refined_less_AI.md` (clip 1 `7256d91f-0422-48fe-82c7-9dff7ffb149b`, clip 4 `f9f093b7-28ce-48e3-8465-9c3687f2ba81`).
+- The stop-motion experiment is D0, discarded: `option_D0_stop_motion_DISCARDED.md`.

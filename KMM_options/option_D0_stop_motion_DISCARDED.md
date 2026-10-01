@@ -1,4 +1,4 @@
-# KMM — Option D: handcrafted stop-motion look (derived from B v5 split clips)
+# KMM — Option D0 (DISCARDED 2026-10-01): stop-motion crafted look test — the user redefined D as "B, but more beautiful and less AI-looking". Kept for record only.
 
 Status: test run of clips 1 and 4 only (drafts). Content not yet reviewed by the assistant (cannot view video).
 - Clip 1 (entrance chase, scenes 1-5): job `7b171357-e740-4a4a-bea3-bf2ff0a56e47`
