@@ -23,7 +23,8 @@ Common rules for every option (project hard rules)
 - Look: "Premium stylized 3D animated feature film": soft rounded volumes, matte materials, readable blue midtones, never crushed black, faint amber glow only in creature eyes.
 - Video ref: `StandardB.mp4` (`c5746038-2de6-4154-852e-6e431e457aa5`) ONLY. Option A video refs are not used in B.
 - Locations are re-rendered in the stylized look, not copied photoreal.
-- Files/jobs: `option_B_fantasy_chase_3d.md` (v1, `95874c0c-576e-4405-b78c-cdc0c278c17c`), `option_B_v2_fantasy_chase_3d_video_ref.md` (`8267611b-5861-4da9-bc89-4e195ac7f1cd`), `option_B_v3_fantasy_chase_new_backgrounds.md` (`e61b91a6-feba-47c8-856b-7a8382f23596`).
+- Files/jobs: `option_B_fantasy_chase_3d.md` (v1, `95874c0c-576e-4405-b78c-cdc0c278c17c`), `option_B_v2_fantasy_chase_3d_video_ref.md` (`8267611b-5861-4da9-bc89-4e195ac7f1cd`), `option_B_v3_fantasy_chase_new_backgrounds.md` (`e61b91a6-feba-47c8-856b-7a8382f23596`), `option_B_v4_fantasy_chase_grounded.md` (`af1740b5-6e84-41ea-8e98-063d140d9663`).
+- B v4 rules (user feedback 2026-10-01): Mai never runs on the river surface (stays on the bank); at the large gate her back faces the camera; monitors glitch/flicker nonstop; characters must be integrated into the background (matching light, contact shadows, mist in front/behind), never a pasted layer.
 
 ## Option C — hybrid 3D/2D hand-painted (mix of B structure + new art style)
 - Prompt structure: same bracketed blocks as B; only the art-style block ([Visual Style]) and the style-related lines in [References] / [Avoid] change.
