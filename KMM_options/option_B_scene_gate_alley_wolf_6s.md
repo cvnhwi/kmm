@@ -25,8 +25,8 @@ Assumptions: the alley plate is a day plate re-lit to night in the prompt; the g
 
 ## v2 (user 2026-10-01 ~12:30 UTC)
 Changes: sky already gloomy (low heavy overcast clouds, grey-violet glow); Mai's BODY faces north toward the cave with her HEAD turned back over her right shoulder looking at the wolf, frozen; the wolf's lunge is the trigger, only then she runs; monitors mostly dark, random on/off; every shot moves.
-Job: `26300da4-ed14-4521-850e-3ab0ab2e277b` (folder MV KMM `fef878e4…`). Status: submitted, content not yet reviewed.
+Job: `26300da4-ed14-4521-850e-3ab0ab2e277b` (folder MV KMM `fef878e4…`). Status: COMPLETED ~12:35 UTC, in MV KMM, content not yet reviewed.
 
 ## v3 (user 2026-10-01 ~12:40 UTC)
 Interpretation of "Mai đang quay lưng lui nhìn về phía hẻm": Mai's BACK to the cave/camera, facing the alley, looking at the wolf; the instant the wolf lunges she spins and runs into the cave. Shot 2 now shows her back first (from inside the tunnel), then she turns toward camera and runs.
-Job: `0c421b73-8879-485f-8d14-84977816003e` (folder MV KMM). Status: submitted, content not yet reviewed.
+Job: `0c421b73-8879-485f-8d14-84977816003e` (folder MV KMM). Status: COMPLETED ~12:40 UTC, in MV KMM, content not yet reviewed.

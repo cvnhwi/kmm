@@ -3,7 +3,7 @@
 User request (2026-10-01): "cảnh Mai bị rượt trong hang tối cửa vào cổng fantasy, có sideview và sáng tạo góc camera".
 Duration: not given by the user -> default 8 s (4 cut shots).
 
-Status: SUBMITTED 2026-10-01. Job `d284bc73-ca41-4a61-8ef3-39093796b27a`. Content not yet reviewed (the assistant cannot view video).
+Status: COMPLETED 2026-10-01 (~12:44 UTC). Job `d284bc73-ca41-4a61-8ef3-39093796b27a`. Content not yet reviewed (the assistant cannot view video).
 
 ## Settings
 Seedance 2.5, `omni_reference`, draft 480p, 8 s, 16:9, no audio, folder MV KMM `fef878e4-1957-439e-8b50-00a4ee8454c6`, declined preset `24bae836-2c4a-48e0-89b6-49fcc0b21612`. ~24 credits.
