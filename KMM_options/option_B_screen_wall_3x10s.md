@@ -4,6 +4,7 @@ Status: drafts submitted 2026-10-01. Content not yet reviewed by the assistant (
 - Clip 1 (scenes 1-2: gate slams, Mai slumps against the door, startles, push-in to face): job `71749210-5e89-4a15-8e9d-c2cd6a40408d`
 - Clip 2 (scenes 3-5: shadow people working, Mai hides, phone shows missed call): job `5d372e2c-14f0-415b-b103-b49928041d63`
 - Clip 3 (scenes 6-10: snake, shadow hands, whip pan, scream, room turns): job `19e7da67-a327-4893-90cb-545debb2fa81`
+- REGEN with Mai's phone ref `66324bdf-1d17-4e3c-b10e-545427e88712` (user request "gen lại clip 2, 3 với điện thoại mới", 2026-10-01): clip 2 v2 job `869ad2e4-9db0-45bc-b7dd-6abc9a987f2e`, clip 3 v2 job `ca5f1c89-a777-4054-8c69-fcbcbb33feee`. Same prompts plus the phone description (light sky-blue case, yellow buttons, dual camera top-left, cat+dog sticker; "design only, draw ONE phone, do not copy the sheet labels"); Avoid adds "the words FRONT/BEHIND/SIDE, a different phone design". Clip 1 unchanged (no phone in it). Not yet reviewed.
 Split into 3 clips (30 s total instead of the script's 24 s) following the B v5 lesson that one long generation gives rushed acting.
 
 ## Settings
