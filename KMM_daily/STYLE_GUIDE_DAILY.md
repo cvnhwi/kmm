@@ -20,7 +20,14 @@ Trợ lý không xem được video/ảnh: chưa biết nội dung video DAILY, 
 ## 4. Dòng mở đầu prompt (đề xuất, chờ user duyệt)
 > DAILY-LIFE MASTER REFERENCE FIRST: Video 1 is the master reference for the style, mood and characters of this whole clip. Match its render look, materials, colour palette, lighting mood, atmosphere, character design, proportions and animation feel on every frame; do not copy its exact shots, camera or story.
 
-## 5. Luật style & cấu trúc prompt
-Chờ prompt mẫu của user. Khi nhận được sẽ ghi vào đây (khối prompt, ánh sáng, look, camera, acting).
+## 5. Luật style & cấu trúc prompt (từ prompt mẫu của user, 2026-10-01, cảnh xe buýt hoàng hôn)
+- **Cấu trúc prompt:** dòng DAILY-LIFE MASTER → thời lượng/số shot/real-time → SPINE (1 câu tóm cảnh) → REFERENCES (vai trò từng Video/Image) → PLATE (layout + vật liệu từ plate, ánh sáng thay mới hoàn toàn) → SPACE & BLOCKING → CHARACTERS ("Image N verbatim" + mô tả trang phục/đạo cụ + trạng thái cảm xúc) → SHOT N (thời gian, cỡ cảnh, góc, FOV độ, vị trí trong khung, foreground, First frame → hành động → Ends with…, "Hard cut.") → CAMERA LAW → ACTING → GRADE → STYLE → AUDIO → CONSTRAINTS (dạng đếm: "Count of … : zero/one") → AVOID.
+- **Look:** hand-painted finish trên stylized hybrid 3D/2D: watercolour wash, gouache dry-brush, soft cel-shade edge, line sepia-charcoal thưa, không bao giờ đen tuyền. Paper grain thấp, đều, KHÔNG trên da mặt; hatching bút chì màu chỉ trên vải, tóc, ghế, sàn, nền, KHÔNG trên da (mặt, cổ, tay); mặt sạch, đồng đều (chỉ giữ tàn nhang theo thiết kế). Nền phẳng hơn nhân vật. Line weight cố định, không line boil/shimmer/strobe.
+- **Camera:** góc máy, FOV (độ), khoảng cách foreground (5-40 cm) ghi cụ thể theo từng cảnh; chuyển động mượt, một hướng, không rung/whip/zoom snap.
+- **Grade:** theo mood từng cảnh, nêu màu chủ đạo + nốt ấm duy nhất được phép.
+- **Audio:** chỉ diegetic, không nhạc (lưu ý: mặc định `generate_audio: false`, khối AUDIO chỉ có tác dụng khi bật audio).
+- **Constraints:** viết dạng đếm (số Mai, số bạn, số shot, số cut, số lần nhìn điện thoại, số chữ đọc được = 0…).
+- Vẫn thêm luật dự án: da Mai trắng sáng như ref, biểu cảm tiết chế, đám đông không đồng bộ, real-time 24fps.
+- Plan file mẫu: `daily_scene_bus_dusk_phone_6s.md`.
 
 Luật cứng chung của dự án vẫn áp dụng trừ khi user nói khác: không chữ/số/logo; quái là khói, mắt hổ phách, không răng, không chạm trẻ; Mai không mặc hoodie; trẻ 6-6.5 đầu, người lớn 7-7.5 đầu; Sài Gòn 2026, xe chạy bên phải, đội mũ bảo hiểm; đám đông không chuyển động đồng loạt; real-time 24fps, không slow motion.
