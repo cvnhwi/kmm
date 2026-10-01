@@ -60,3 +60,10 @@ Mai (01_Mai `b42c82ad…`), Map (04_BanMap `fd700683…`), Kính (03_BanKinh `fc
 - Không làm đổi màu da gốc của nhân vật; rim chỉ nằm ở viền.
 - Prompt wording: "Strong cinematic rim light: a bright, continuous warm golden-yellow edge light outlining hair, shoulders, cheek and clothing edges, separating every character from the background, with a soft golden halation; the rim is golden amber, never pinkish-white or cold bright white."
 - AVOID thêm: "weak or missing rim light, pinkish-white rim, cold white rim, flat frontal lighting".
+
+## 9. Tuổi & khuôn mặt Mai: khoảng 13 tuổi (user rule 2026-10-01 ~18:10 UTC)
+- Mai khoảng **13 tuổi** (học sinh THCS). Khuôn mặt **không quá tròn, không baby**: mặt trái xoan thon hơn, cằm và đường hàm thanh nhẹ, má bớt phúng phính, mắt vẫn to nhưng tỉ lệ cân đối hơn, cổ dài hơn chút.
+- Tỉ lệ cơ thể: khoảng **6.5–7 đầu** (thay cho 6–6.5 đầu trẻ em ở luật chung). Vẫn trẻ trung, dễ thương, không chibi, không thành người lớn.
+- Mặc định của trợ lý: 3 bạn cùng lớp (Map, Kính, Dân Tộc) cùng tuổi ~13, cùng áp dụng tỉ lệ này; giữ nguyên đặc điểm riêng (Map vẫn mặt tròn má hồng nhưng không baby).
+- Prompt wording (khối CHARACTER): "Mai is about 13 years old, a lower-secondary student: a slimmer oval face with a gently defined chin and jawline, cheeks less round, large but well-proportioned eyes, a slightly longer neck; body about 6.5 to 7 heads tall; youthful and appealing, never baby-faced, never chibi, never adult."
+- AVOID thêm: "baby face, round chubby toddler face, oversized head, short toddler proportions, chibi".
