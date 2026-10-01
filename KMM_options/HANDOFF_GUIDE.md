@@ -1,6 +1,6 @@
 # KMM — HANDOFF GUIDE (tiếp tục ở box chat khác)
 
-Cập nhật: 2026-10-01 ~16:50 UTC. Repo `cvnhwi/kmm`, branch `claude/charming-noether-2dpz2i` (trước đây `claude/gracious-archimedes-cao5q7`), thư mục `KMM_options/`.
+Cập nhật: 2026-10-01 ~16:50 UTC. Repo `cvnhwi/kmm`, branch `claude/gracious-archimedes-cao5q7`, thư mục `KMM_options/`.
 Đọc file này trước, sau đó đọc `STYLE_GUIDE_B.md` (luật đầy đủ) và `CAMERA_LIBRARY_B.md` (camera, mục 8 = director pass). Skill camera: `.claude/skills/cinematic-director/`.
 
 ---
@@ -10,9 +10,9 @@ Cập nhật: 2026-10-01 ~16:50 UTC. Repo `cvnhwi/kmm`, branch `claude/charming-
 - **Ngôn ngữ:** trả lời user bằng **tiếng Việt**, prompt viết bằng **tiếng Anh**.
 - **Thái độ:** chỉ ra yêu cầu thiếu logic và đề xuất cách sửa. Tự chọn mặc định hợp lý khi thiếu thông tin và **nói rõ đã chọn gì**.
 - **Không xem được video/ảnh output** → luôn ghi **"chưa kiểm tra nội dung"**, đưa danh sách điểm soi để user tự kiểm.
-- **Hai style (cập nhật 2026-10-01 ~17:05 UTC):** cảnh FANTASY = Mai fantasy `ef343c87…` + video master fantasy `83190f2e…`; cảnh ĐỜI THƯỜNG = 01_Mai `b42c82ad…` + video master DAILY `0e1937c4…`, dòng đầu prompt "DAILY-LIFE MASTER REFERENCE FIRST…" (xem STYLE_GUIDE_B). User nói "Mai" thì xác định theo loại cảnh.
+- **Hiện tại chỉ gen cảnh FANTASY.** Mọi "Mai" user nói = **Mai fantasy**.
 - Mỗi cảnh mới: viết plan file `KMM_options/option_B_scene_<tên>.md` (shot table, beat, job id, status), commit + push, đặt `send_later` check ~6-9 phút, khi xong `show_generation_by_ids` + ghi COMPLETED + commit.
-- Git: `git push -u origin claude/charming-noether-2dpz2i`, không tạo PR. Commit trailer: `Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>` + `Claude-Session: https://claude.ai/code/session_01JNgc8sZwszXRU4fFGrnnMK` (session mới dùng link session mới).
+- Git: `git push -u origin claude/gracious-archimedes-cao5q7`, không tạo PR. Commit trailer: `Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>` + `Claude-Session: https://claude.ai/code/session_01AeHAmYFd3WvAQ3hbbrqBAo` (session mới dùng link session mới).
 
 ## 2. Higgsfield (thông số cố định)
 - workspace `7d16e180-91e1-4bfc-a35e-8eed97d27b03`
@@ -45,9 +45,8 @@ Cập nhật: 2026-10-01 ~16:50 UTC. Repo `cvnhwi/kmm`, branch `claude/charming-
 | Tài xế xe buýt | `6f2ff8e2-08c5-47ad-9b71-25fa28d62738` | 15_TaiXe, KHÔNG phải chú an ninh |
 | Xe buýt xanh | `e077bd7c-d7dd-4e99-84d8-fe676d544e86` | biển trống, không chữ |
 | Điện thoại Mai | `66324bdf-1d17-4e3c-b10e-545427e88712` | ốp xanh da trời, nút vàng, sticker mèo+chó |
-| **Video tham khảo ĐỜI THƯỜNG (master)** | `0e1937c4-209b-4fc7-b110-a0861bf2fd47` | `DAILY_720p.mp4` (H.264 720p, 6.08s, có audio), convert từ gốc user `812c8476…` (HEVC 10-bit, KHÔNG dùng). Chưa test gen |
-| **Mai đời thường (01_Mai)** | `b42c82ad-d58e-4fb3-bcf3-4d89dac09517` | dùng cho mọi cảnh đời thường (chờ user xác nhận có bản mới không) |
-| StandardB (video cũ) | `c5746038-2de6-4154-852e-6e431e457aa5` | đã thay bằng DAILY, không dùng nữa |
+| StandardB (video cũ, cảnh đời thực) | `c5746038-2de6-4154-852e-6e431e457aa5` | không dùng cho cảnh fantasy |
+| Mai đời thực (tạm không dùng) | `b42c82ad-d58e-4fb3-bcf3-4d89dac09517` | |
 
 ## 4. Luật cứng (mọi prompt)
 - Chỉ **style B** (premium stylized 3D). A/C/D đã xoá.
