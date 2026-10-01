@@ -1,7 +1,7 @@
 # KMM — Option B acting test (new B acting rules), 3 clips x 10 s
 
 Status: all 3 drafts COMPLETED 2026-10-01 (~11:10 UTC). Content not yet reviewed by the assistant (cannot view video).
-Purpose: test the new "B acting rules" (STYLE_GUIDE_A_B_C.md: beat analysis + [Acting] block + Disney principles). Source script: bus rescue v2 (11 scenes). Each clip gives one acting beat more room than in `option_B_bus_rescue_v2_3x10s.md`, so compare against that file's clips 1 and 2.
+Purpose: test the new "B acting rules" (STYLE_GUIDE_B.md: beat analysis + [Acting] block + Disney principles). Source script: bus rescue v2 (11 scenes). Each clip gives one acting beat more room than in `option_B_bus_rescue_v2_3x10s.md`, so compare against that file's clips 1 and 2.
 
 | Test | Script scenes | Job | Compare with |
 |---|---|---|---|

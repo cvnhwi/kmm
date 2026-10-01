@@ -2,7 +2,7 @@
 
 Status: generated as draft. Job `af1740b5-6e84-41ea-8e98-063d140d9663` (created 2026-10-01 ~07:29 UTC).
 Content not yet reviewed by the assistant (cannot view video).
-Same refs and settings as B v3 (`option_B_v3_fantasy_chase_new_backgrounds.md`); style rules in `STYLE_GUIDE_A_B_C.md` (option B).
+Same refs and settings as B v3 (`option_B_v3_fantasy_chase_new_backgrounds.md`); style rules in `STYLE_GUIDE_B.md` (option B).
 
 ## User feedback applied (2026-10-01)
 1. Mai must NOT run on the river surface -> shots 7-10 keep her on the dry bank beside the river; [Avoid] "Mai running on or over the river surface".
