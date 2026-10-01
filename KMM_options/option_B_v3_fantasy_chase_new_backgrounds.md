@@ -1,6 +1,6 @@
 # KMM — Option B v3: Fantasy chase (3D block look) with new backgrounds
 
-Status: DRAFT PROMPT, NOT YET GENERATED. Waiting for the user's "gen".
+Status: generated as draft. Job `e61b91a6-feba-47c8-856b-7a8382f23596` (created 2026-10-01 ~06:58 UTC). Content not yet reviewed by the assistant (cannot view video).
 Builds on `option_B_v2_fantasy_chase_3d_video_ref.md` (job `8267611b-5861-4da9-bc89-4e195ac7f1cd`).
 
 ## Difference from B v2
@@ -10,7 +10,7 @@ Builds on `option_B_v2_fantasy_chase_3d_video_ref.md` (job `8267611b-5861-4da9-b
 - Monitor/card faces are background detail only.
 
 ## Settings
-model `seedance_2_5`, mode `omni_reference`, draft true, 480p, 25 s, 16:9, generate_audio false, folder `fef878e4-1957-439e-8b50-00a4ee8454c6`, declined_preset_id `24bae836-2c4a-48e0-89b6-49fcc0b21612`. Cost 75 credits (get_cost accepted the plate media ids; the new gate id has not been preflighted yet).
+model `seedance_2_5`, mode `omni_reference`, draft true, 480p, 25 s, 16:9, generate_audio false, folder `fef878e4-1957-439e-8b50-00a4ee8454c6`, declined_preset_id `24bae836-2c4a-48e0-89b6-49fcc0b21612`. Cost 75 credits (get_cost accepted all media ids including the new gate).
 
 ## References (order)
 Video 1 `c5746038-2de6-4154-852e-6e431e457aa5` (StandardB)
