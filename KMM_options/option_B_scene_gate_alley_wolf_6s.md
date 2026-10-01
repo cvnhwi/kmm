@@ -37,3 +37,11 @@ Same action as v3 (Mai on the threshold with her back to the cave, facing the al
 - v4b WITHOUT any video reference (user: "thử thêm 1 bản mà không đính kèm video"), style from Mai's image + text: job `84cb13f4-14c8-4263-9226-711ca72c1194`
 (First attempt timed out at 60 s; no job was created, checked in list_project_assets.)
 Status: v4a and v4b COMPLETED ~15:40 UTC, content not yet reviewed.
+
+## v5 (user 2026-10-01 ~15:50 UTC): new fantasy master video + diagonal chase angles
+Same story as v4. New: master video `83190f2e-aa76-490f-8b36-633ff0cfbee6` (Fantasy_v2_720p); shots 2-3 use DIAGONAL three-quarter angles (30-45 degrees off the running line, east side) so Mai and the wolf chasing behind her are both in frame (user: "góc camera không thẳng hàng mà hơi hướng chéo để vừa thấy sói chạy ở sau đuổi theo Mai").
+- Shot 1 (0-2 s) wolf ECU crouch + lunge at lens, push-in then pull-back.
+- Shot 2 (2-4 s) diagonal three-quarter front from inside the tunnel (NE of Mai), backward-sideways track: Mai spins and runs past camera, wolf bursts through the gate behind her.
+- Shot 3 (4-6 s) diagonal three-quarter rear, low, follow with slight arc: Mai mid-ground, wolf bounding behind, both visible, gap open; monitors random.
+Refs: fantasy Mai `ef343c87…`, wolf `f48ff106…`, tunnel `b97b3e97…`, alley `875ca1de…`. Fair-skin + subtle-expression blocks included.
+Job: `7ad9a461-bbb6-496f-9cf8-e729baf035bf`. Status: SUBMITTED, content not yet reviewed.
