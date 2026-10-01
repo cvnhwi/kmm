@@ -12,7 +12,7 @@ Changes: (1) every clip now set in the BOSS arena plate `B14_Boss` `f1ae9d0a-c22
 - Clip 2 v2: `ce715836-1244-4e89-8b7b-e316ef674e70`
 - Clip 3 v2: `5ecc472d-1f81-4b31-bf2c-9ddcff459040`
 - Clip 4 v2: `4085de33-6192-4246-ad8a-43b7dd7ad51e`
-**Plate update (user, 2026-10-01 ~12:55 UTC):** new `B14_Boss.png` `076ec352-e524-4304-a1eb-821d9d9278d1` replaces `f1ae9d0a…` for all future Boss generations. The v1/v2 clips above were made with the old plate; regenerate them only if the user asks (~120 credits for 4 x 10 s).
+**Plate update (user, 2026-10-01 ~12:55 UTC):** new `B14_Boss.png` `1c507ac3-2db9-4d1e-b5e0-53fe183687e5` replaces `f1ae9d0a…` and the interim upload `076ec352…` for all future Boss generations. The v1/v2 clips above were made with the old plate; regenerate them only if the user asks (~120 credits for 4 x 10 s).
 Assumption (old plate): the arena image the user pasted is the same plate as `B14_Boss` (`f1ae9d0a…`), uploaded earlier; not verified.
 
 ## Settings
