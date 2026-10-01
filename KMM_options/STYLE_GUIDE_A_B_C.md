@@ -62,3 +62,6 @@ stays stable — no line boil, no shimmer, no strobe.
 - Shot detail: B v5 split clips.
 - Files/jobs: `option_D_B_refined_less_AI.md` (clip 1 `7256d91f-0422-48fe-82c7-9dff7ffb149b`, clip 4 `f9f093b7-28ce-48e3-8465-9c3687f2ba81`).
 - The stop-motion experiment is D0, discarded: `option_D0_stop_motion_DISCARDED.md`.
+
+## Shared props
+- Mai's phone (all options, every shot with her phone): ref `66324bdf-1d17-4e3c-b10e-545427e88712` (`KMM_PHONE_0930_v001.png`). Light sky-blue rounded case, black bezel, yellow side buttons, dual camera top-left on the back, cat + dog sticker on the back, plain black front screen. The sheet has the labels FRONT / BEHIND / SIDE: prompt must say "design only, draw ONE phone, do not copy the labels or the sheet layout". On-screen content still follows the no-text rule (icons/photos only).
