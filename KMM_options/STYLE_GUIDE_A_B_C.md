@@ -66,4 +66,5 @@ stays stable — no line boil, no shimmer, no strobe.
 - The stop-motion experiment is D0, discarded: `option_D0_stop_motion_DISCARDED.md`.
 
 ## Shared props
+- Green bus (all bus shots): ref `e077bd7c-d7dd-4e99-84d8-fe676d544e86` (`MVKMM_XE BUS_v001_0928.png`), green two-tone minibus; destination panel blank, no text/number/plate; do not copy the sketch lines.
 - Mai's phone (all options, every shot with her phone): ref `66324bdf-1d17-4e3c-b10e-545427e88712` (`KMM_PHONE_0930_v001.png`). Light sky-blue rounded case, black bezel, yellow side buttons, dual camera top-left on the back, cat + dog sticker on the back, plain black front screen. The sheet has the labels FRONT / BEHIND / SIDE: prompt must say "design only, draw ONE phone, do not copy the labels or the sheet layout". On-screen content still follows the no-text rule (icons/photos only).

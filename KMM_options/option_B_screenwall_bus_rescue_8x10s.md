@@ -13,6 +13,13 @@ Status: drafts submitted 2026-10-01 (~10:00 UTC). Content not yet reviewed by th
 | 7 | 17-18 | Mai cries and laughs, parents running in, then the wall dies screen by screen with sparks | `b9d068e8-f88c-4c05-8c79-421e724ff06c` |
 | 8 | 19-20 | cables suck silhouettes from screens toward the blue brain in black clouds; dark hall, purple-black sphere opens one eye, fade to black | `f1090528-407e-4ae5-a356-a3d655f2e520` |
 
+## Bus ref v2 (user supplied bus 2026-10-01 ~10:20 UTC)
+Bus ref `e077bd7c-d7dd-4e99-84d8-fe676d544e86` (`MVKMM_XE BUS_v001_0928.png`): green two-tone minibus, light-green lower stripe, folding two-panel door, round headlights, black grille, roof AC unit, black destination panel kept BLANK; pencil sketch lines not copied. Clips with the bus regenerated:
+- Clip 3 v2: `9ff9301f-c18f-49ac-8617-836c3a6dabcf`
+- Clip 4 v2: `d31ee17c-c27f-46ab-aa3a-96be1d22a5e8`
+- Clip 5 v2: `bda0f401-9db6-49f6-89b1-070eec08af02`
+Clip 6 not regenerated (bus only implied in background).
+
 ## Settings
 Option B: Seedance 2.5, `omni_reference`, draft 480p, 10 s, 16:9, no audio (SFX in the script are for post), StandardB `c5746038-2de6-4154-852e-6e431e457aa5`, folder `fef878e4-1957-439e-8b50-00a4ee8454c6`, declined preset `24bae836-2c4a-48e0-89b6-49fcc0b21612`. ~30 credits per clip, ~240 total.
 Rules: shadows never in sync, monitors glitch randomly, no text/numbers (bus has no route number/logo/plate), integration, B v4 rules.
