@@ -1,6 +1,6 @@
 # KMM — Option B: Boss sequence (10 script scenes, 32 s) in 4 clips x 10 s
 
-Status: drafts submitted 2026-10-01 (~09:25 UTC). Content not yet reviewed by the assistant (cannot view video).
+Status: all 4 drafts COMPLETED 2026-10-01 (~09:30 UTC). Content not yet reviewed by the assistant (cannot view video).
 - Clip 1 (scenes 1-3): job `dafbfef7-8409-4aa5-9fbe-3bcf8989924c`
 - Clip 2 (scenes 4-5): job `0f368445-e42b-4018-9739-037e77ea8b6c`
 - Clip 3 (scenes 6-7): job `fb5a9746-497b-45a2-a167-b018d164cabe`
