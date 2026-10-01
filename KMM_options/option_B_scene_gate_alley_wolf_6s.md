@@ -45,3 +45,14 @@ Same story as v4. New: master video `83190f2e-aa76-490f-8b36-633ff0cfbee6` (Fant
 - Shot 3 (4-6 s) diagonal three-quarter rear, low, follow with slight arc: Mai mid-ground, wolf bounding behind, both visible, gap open; monitors random.
 Refs: fantasy Mai `ef343c87…`, wolf `f48ff106…`, tunnel `b97b3e97…`, alley `875ca1de…`. Fair-skin + subtle-expression blocks included.
 Job: `7ad9a461-bbb6-496f-9cf8-e729baf035bf`. Status: COMPLETED ~15:52 UTC, content not yet reviewed.
+
+## v6 (user 2026-10-01 ~16:05 UTC): 8 s, wolf TOYS with Mai (weaves, wall-run, leaps over her), director pass
+Director's choice: threat CU -> escape diagonal -> wolf "plays" on the wall (lively, cat-and-mouse) -> peak = leap over Mai and cut-off, she swerves and keeps running; end on a stable frame with the gap open.
+| # | Time | Shot | Camera | Start -> Peak -> End |
+|---|---|---|---|---|
+| 1 | 0-1.8 s | wolf ECU, slightly low, 85 mm | creeping push-in, snap-back on lunge | crouch -> lunge at lens -> smoke over lens |
+| 2 | 1.8-3.8 s | diagonal 3/4 front inside tunnel, 35 mm | backward-sideways track | Mai frozen on threshold -> spins, runs past -> wolf weaving through the gate behind |
+| 3 | 3.8-6 s | wide diagonal east side, 24 mm | truck right, foreground pillars | Mai mid-ground -> wolf runs along the far west wall over flickering monitors -> overtakes |
+| 4 | 6-8 s | low angle floor, 24 mm | tilt up with the arc, ease into slight arc follow | wolf leaps over Mai -> lands ahead left, playful head tilt -> Mai swerves right, runs on, wolf circling behind |
+Refs: master `83190f2e…`, fantasy Mai `ef343c87…`, wolf `f48ff106…`, tunnel `b97b3e97…`, alley `875ca1de…`. Fair-skin + subtle-expression blocks.
+Job: `03bce19b-794d-4740-9fd4-c9007c5fad5f`. Status: SUBMITTED, content not yet reviewed.
