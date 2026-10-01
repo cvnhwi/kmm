@@ -36,4 +36,4 @@ Same action as v3 (Mai on the threshold with her back to the cave, facing the al
 - v4a WITH fantasy master video 720p `9e11bd39…`: job `a421aa65-1943-40ad-b61a-75e90b78aa0a`
 - v4b WITHOUT any video reference (user: "thử thêm 1 bản mà không đính kèm video"), style from Mai's image + text: job `84cb13f4-14c8-4263-9226-711ca72c1194`
 (First attempt timed out at 60 s; no job was created, checked in list_project_assets.)
-Status: SUBMITTED, content not yet reviewed.
+Status: v4a and v4b COMPLETED ~15:40 UTC, content not yet reviewed.
