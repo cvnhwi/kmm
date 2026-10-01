@@ -99,3 +99,49 @@ Format: **name** | what it does | emotion / when | animation note | Seedance pro
 3. Each angle prompt: same [References], same [Action] timings, same [Acting], only [Camera] (and the opening composition) changes. One continuous 8 s shot, no cuts inside.
 4. [Camera] wording: "Single continuous 8-second shot, no cuts. [size], [angle], [lens]. [movement with ease-in/ease-out, motivated by ...]. Stay on the same side of the action line: [character] moves screen left to right."
 5. Avoid line adds: cuts, jump cuts, shaky handheld, unmotivated camera drift, camera crossing the action line, stacked camera moves.
+
+## 7. Space, blocking and continuity (raccord), mandatory for every multi-angle set (user rule 2026-10-01)
+Goal: every angle of the same scene shows the SAME space, the SAME character positions and the SAME action, so any angle cuts to any other without a continuity error, even when the camera moves.
+
+### 7.1 Scene map (written by the assistant before any prompt, kept in the plan file)
+A simple top-down map of the set with fixed landmarks and marks, for example:
+```
+            [MONITOR WALL - north]
+   pillar A                      bus (diagonal, nose NE)
+        M1 Mai (sits, back to wall)      D1 driver window
+   ---------------- action line (west <-> east) ----------------
+        G1 guard (1 m east of Mai)    P1 police (4 m east)
+            [OPEN HALL + fog - south]
+   Cameras: C1 SW wide · C2 S medium · C3 SE low · C4 OTS from G1 ...
+```
+- Landmarks: walls, pillars, monitor wall, bus, doorway, light sources (which side the light comes from).
+- Marks: each character's START mark and END mark, facing direction, distance between characters.
+- Action line: the axis between the main characters / direction of travel. All cameras stay on ONE side.
+- Light direction is fixed for the scene (e.g. warm bus light from the east, cyan monitors from the north).
+
+### 7.2 Continuity checklist (identical in every angle)
+| Item | Rule |
+|---|---|
+| Position | each character starts and ends on the same marks in every angle |
+| Screen direction | a character moving west->east moves left->right on screen in every angle on our side of the line |
+| Eyelines | if A looks at B screen-right in one angle, A looks screen-right in every angle; B looks back screen-left |
+| Action timing | the same beat timings (e.g. punch lands at 3.5 s) in every angle |
+| Hands and props | same hand holds the same prop (mom: pan in RIGHT hand; guard: baton in RIGHT hand; cleaner: mop both hands) |
+| State | tears, dust, broken screens, smoke, damage are the same at the same second |
+| Wardrobe and hair | from the ref sheets, no changes between angles |
+| Light | same key light direction and colour in every angle |
+| Background | the landmark seen behind a character must match the map (if Mai's back is to the monitor wall, a reverse angle shows the open hall behind the guard) |
+
+### 7.3 Moving camera and continuity
+- A moving camera may change our view, never the characters' positions or directions in the world.
+- Orbit or arc: limited so the camera stays on our side of the line (max ~150 deg); if it must cross, the move itself carries the audience across on screen (continuous move, never a cut across).
+- Tracking follow / lead: camera keeps the same side of the subject's path as the master angle.
+- Pull-back or crane reveals must end on a composition that matches the map (the right landmarks in the right places).
+- POV angles: the POV is from the character's mark and height (Mai's POV = child eye height, from M1 looking toward the threat's mark).
+- Inserts: hand/prop orientation matches the wide angle (same hand, same direction).
+
+### 7.4 Prompt block for each angle
+Add a [Space & Blocking] block (before [Action]) with identical text in every angle of the set:
+"[Space & Blocking] Same set and positions in every shot of this scene: <map in words: landmarks and where each character stands, facing which way, distances>. Action line runs <west-east>; the camera stays on the <south> side. <Character> moves from <start mark> to <end mark>, screen left to right. Key light from <direction>. Character positions, directions, eyelines and props stay exactly as described; do not mirror or rearrange the scene."
+Then [Camera] states this angle's camera position on the map (e.g. "camera at C3, south-east, low angle, 24 mm, slow push-in toward Mai").
+Avoid line adds: mirrored layout, characters swapping sides, changed screen direction, eyeline mismatch, prop in the other hand, camera crossing the action line, rearranged background.
