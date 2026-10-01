@@ -8,6 +8,8 @@ User script: "Trời tối đen -> Lối vào fantasy. Cận cảnh mặt sói b
 | V1 cut coverage | 0-1 black fade-up + amber eyes · 1-3.5 ECU head-on wolf, locked-off 85 mm, crouch then lunge into the lens · 3.5-8 low wide tracking follow behind Mai from the east side, 24 mm, ease in to fast | `e398982e-73c6-4685-84da-67b42e628e39` |
 | V2 one-take | single continuous shot: black fade-up -> CU wolf 50 mm -> wolf lunges past camera-left -> motivated smooth 90 deg swing right following the smoke trail (not a whip pan) -> reveals Mai sprinting -> low accelerating tracking follow, wolf foreground left | `d295c725-00b9-4b70-bd35-54b92029ac4e` |
 
+| V1L V1 + new B lighting look ([Lighting] block: far-glow key/backlight, rim on hair/scarf/wolf edges, amber spill, haze shafts, halation, teal-indigo shadows, grain) | same camera as V1 | `e08e2a51-c9d9-475c-9124-e5fcf6fbb2a7` |
+
 ## Scene map (same in both)
 ```
                  NORTH: deep end, faint cold glow
