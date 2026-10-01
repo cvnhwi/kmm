@@ -28,6 +28,18 @@ Common rules for every option (project hard rules)
 - Files/jobs: `option_B_fantasy_chase_3d.md` (v1, `95874c0c-576e-4405-b78c-cdc0c278c17c`), `option_B_v2_fantasy_chase_3d_video_ref.md` (`8267611b-5861-4da9-bc89-4e195ac7f1cd`), `option_B_v3_fantasy_chase_new_backgrounds.md` (`e61b91a6-feba-47c8-856b-7a8382f23596`), `option_B_v4_fantasy_chase_grounded.md` (`af1740b5-6e84-41ea-8e98-063d140d9663`).
 - B v4 rules (user feedback 2026-10-01): Mai never runs on the river surface (stays on the bank); at the large gate her back faces the camera; monitors glitch/flicker nonstop; characters must be integrated into the background (matching light, contact shadows, mist in front/behind), never a pasted layer.
 
+### B lighting look (user 2026-10-01): cinematic, not too clean
+Every B prompt gets a [Lighting] block (after [Integration]) and these words in [Visual Style]. Light is always motivated by a source in the scene (monitors, amber eyes, bus headlights, golden magic, far glow, doorway).
+- Rim light / edge light: a thin bright edge on hair, shoulders, scarf and silhouettes from a back source (screens behind, far glow, headlights) to separate characters from the dark background.
+- Key + fill with contrast: one clear key direction per scene (from the scene map), soft low fill; faces readable, never flat or evenly lit.
+- Bounce and colour spill: coloured light reflected onto skin and clothes from nearby sources (cyan screen spill on cheeks, warm gold from magic or headlights, amber glint from creature eyes); light wraps around rounded forms.
+- Eye light: a small catchlight in the eyes so they stay alive.
+- Practical glows and atmosphere: volumetric haze and light shafts through mist and smoke, soft glow/halation around bright sources, dust specks catching light.
+- Not too clean: subtle surface texture and wear, gentle contact shadows and ambient occlusion in folds and corners, soft vignetting, fine even film grain, slight lens bloom on highlights; no sterile plastic CG.
+- Shadows stay readable (never crushed black), with coloured shadow tones (deep teal/indigo), not grey.
+Prompt wording: "[Lighting] Motivated cinematic lighting: <key source and direction>; strong rim light from <back source> outlining hair, shoulders and scarf; coloured bounce and spill from <sources> onto skin and clothes; small catchlights in the eyes; volumetric haze and light shafts through the mist; soft halation around bright sources; dust catching the light; rich but readable shadows with teal-indigo tones."
+[Avoid] adds: flat even lighting, no rim light, sterile overly clean CG, plastic sheen, grey lifeless shadows, characters not lit by the scene's light sources.
+
 ### B camera library
 For multi-angle requests (one scene, many angles) and any camera choice in B: use `CAMERA_LIBRARY_B.md` (shot sizes, angles, movements, coverage templates by scene type). Each angle = one continuous shot, same action timings, one motivated move with ease-in/out, 180-degree rule.
 
