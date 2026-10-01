@@ -18,6 +18,7 @@ Common rules for every option (project hard rules)
 - Monitors flicker and glitch RANDOMLY and nonstop (user rule 2026-10-01): each screen on its own irregular rhythm, never all at once and never on a regular beat; mix of short flickers, static bursts, brief blackouts, rolling bars and image jumps of different lengths. Avoid: "all screens flashing together, regular rhythmic blinking, uniform strobe, static screens".
 - Character reference sheets are design only: draw ONE figure, not the sheet layout.
 - Vietnam traffic drives on the right; every motorbike rider and passenger wears a helmet.
+- ALL generations go into the Higgsfield project/folder "MV KMM" (user rule 2026-10-01): pass `folder_id: fef878e4-1957-439e-8b50-00a4ee8454c6` on EVERY generate call (video, image, finalize to 1080p), and verify with `list_project_assets` after submitting. Never omit folder_id, never use another "MV KMM"-like project (e.g. `e46399a5…` in another workspace, `MV_KMM_S26-31`, `VANH_MV KMM`).
 - Defaults unless the user says otherwise: Seedance 2.5, mode `omni_reference`, draft 480p, 16:9, no audio, folder `fef878e4-1957-439e-8b50-00a4ee8454c6`, declined preset `24bae836-2c4a-48e0-89b6-49fcc0b21612`.
 - The assistant cannot see images or videos: look/identity claims must be confirmed by the user.
 
