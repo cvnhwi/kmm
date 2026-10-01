@@ -101,10 +101,10 @@ Each clip: Video 1 DAILY + Image 1-4 (Mai, Map, Kính, Dân Tộc) + Image 5 = t
 
 | Clip | Location | Job | Status |
 |---|---|---|---|
-| A | school gate `03fbb6cc…` | `e7ec1737-3df8-4abd-b345-5afb9ea4b22e` | submitted |
-| B | sidewalk `fd1ba4f2…` | `3f9f1f1b-a09c-4a8c-80fd-aa35b1e23bb3` | submitted |
-| C | bus `8ee01cf4…` | `a04b8d06-dc4d-417b-86ec-db685c70ca06` | submitted |
-| D | alley `875ca1de…` | `6927b1c2-917f-4256-8843-e43696b783b1` | submitted |
+| A | school gate `03fbb6cc…` | `e7ec1737-3df8-4abd-b345-5afb9ea4b22e` | COMPLETED ~17:30 UTC, in MV KMM, content not yet reviewed |
+| B | sidewalk `fd1ba4f2…` | `3f9f1f1b-a09c-4a8c-80fd-aa35b1e23bb3` | COMPLETED ~17:30 UTC, in MV KMM, content not yet reviewed |
+| C | bus `8ee01cf4…` | `a04b8d06-dc4d-417b-86ec-db685c70ca06` | COMPLETED ~17:30 UTC, in MV KMM, content not yet reviewed |
+| D | alley `875ca1de…` | `6927b1c2-917f-4256-8843-e43696b783b1` | COMPLETED ~17:30 UTC, in MV KMM, content not yet reviewed |
 
 ### Prompt clip A
 ```
