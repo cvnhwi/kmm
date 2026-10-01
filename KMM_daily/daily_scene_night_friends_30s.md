@@ -245,3 +245,39 @@ CONSTRAINTS: Exactly four children: Mai, Map, Kinh, Dan Toc, each matching their
 
 AVOID: slow motion, speed ramp, camera shake, synchronized walking, identical gestures, frozen background people, mirrored screen direction, characters swapping sides, daylight, sunset, crushed black shadows, dark or muddy skin, exaggerated or open-mouth expressions, grain or hatching on faces, line boil, readable text, chibi proportions.
 ```
+
+## v3 Clip A DAYTIME variant (user 2026-10-01): school gate by day, not generated yet
+Same shots/refs as clip A (Video 1 DAILY, Mai, Map, Kính, Dân Tộc, school `03fbb6cc…`); plate daylight kept; grade = sunny afternoon. ~24 credits.
+```
+DAILY-LIFE MASTER REFERENCE FIRST: Video 1 is the master reference for the style, mood and characters of this whole clip. Match its render look, hand-painted finish, materials, colour palette, lighting mood, atmosphere, character design, proportions and animation feel on every frame; do not copy its exact shots, camera or story.
+
+8-second clip, 16:9, three shots joined by two hard cuts, real-time speed, natural 24 fps animation timing, no slow motion, no speed ramp.
+
+SPINE: After class in the afternoon, Mai and her three friends step out of the school gate together into the bright day, chatting and laughing.
+
+SPACE & BLOCKING: The school gate (Image 5) is behind them; they walk out and toward screen right. Parents wait on motorbikes along the kerb in the background. Camera stays on the same side throughout.
+
+Shot 1 (0.0-3.0 s): Medium shot at the children's eye level, three-quarter front, 40° field of view, camera tracking backward ahead of them and easing. The four step out through the gate into soft afternoon sunlight, chatting, walking toward screen right, each with their own stride. Behind them parents wait on motorbikes with helmets on, each doing something different: one checks a phone, one waves, one buckles her own helmet strap. Hard cut.
+Shot 2 (3.0-5.5 s): Close-up of Mai, slightly low, 25° field of view, locked-off. She glances toward Map off-frame right, then laughs softly, mouth only slightly open, eyes crinkling, a strand of her bob settling. Hard cut.
+Shot 3 (5.5-8.0 s): Medium two-shot of Kinh and Dan Toc walking toward screen right, 40°, slow truck right with them. Kinh pushes her glasses up her nose; a beat later Dan Toc flicks a braid over her shoulder; they giggle. Ends on a stable frame of the two still walking.
+
+REFERENCES: Video 1 = style, mood and animation feel only. Image 1 = Mai. Image 2 = the boy (Map). Image 3 = the girl with glasses (Kinh). Image 4 = the girl with braids (Dan Toc). Image 5 = LOCATION: layout, materials and daylight of the school gate, rendered in the style of Video 1. Character images are design only: draw ONE figure of each, never the sheet layout.
+
+CHARACTERS (identical in every shot, all four in school uniform, backpacks worn on their backs):
+Mai is Image 1 verbatim: fair skin, rosy cheeks, large dark brown eyes, short dark brown bob with bangs, small yellow oval clip on the right; white short-sleeved shirt with navy sailor collar and cuffs, red scarf knotted at the centre, navy pleated skirt, white socks and sneakers, light-blue backpack with a small yellow star charm.
+Map is Image 2 verbatim: round face, rosy cheeks, short-cropped black hair, white shirt with blue trim, red neckerchief, dark blue shorts, white sneakers, dark blue backpack with a golden-brown drumstick keychain.
+Kinh is Image 3 verbatim: fair skin, dark brown low ponytail, large round black-rimmed glasses, white shirt with navy collar, red neckerchief, navy pleated skirt, light pink backpack with a small yellow teddy-bear keychain.
+Dan Toc is Image 4 verbatim: tan skin, large brown eyes, two thick black braids, light freckles, white shirt with navy collar, red neckerchief, navy pleated skirt, black Mary Jane shoes, blue denim backpack with a star charm.
+
+CAMERA LAW: This clip has at least one medium shot and one close-up. One smooth single-direction move per shot or a locked-off frame; no shake, no whip, no zoom snap, no wide-angle distortion. Foreground elements close to the lens for depth. The camera stays on one side of the action; screen direction never flips between shots.
+
+ACTING: Eyes lead, then head, then body; anticipation before each gesture; hair, braids, scarves and backpack charms follow through and settle. Subtle, natural expressions at a third to half intensity, mouths mostly closed or only slightly open. Each child has their own timing, rhythm and gesture; nobody moves in sync; reactions come a beat apart.
+
+GRADE: Sunny afternoon in Saigon, 2026, fresh and cheerful: warm low sun from screen left, dappled light through the school trees, soft sky-blue fill, gentle warm shadows, never harsh or blown out; sunlit rim on hair and shoulders; small catchlights in the eyes. Mai's skin stays fair and light as in Image 1, coloured light only tints it softly, a gentle fill on every face.
+
+STYLE: Hand-painted finish over a stylized hybrid 3D/2D animation look: watercolour washes, gouache dry-brush, soft cel-shade edges, sparse sepia-charcoal line work, never pure black. Paper grain low and even but never on facial skin; coloured-pencil hatching only on cloth, hair, props and background, never on skin; faces clean, Dan Toc keeps only her freckles. Backgrounds flatter than the characters. Constant line weight, no line boil, no shimmer.
+
+CONSTRAINTS: Exactly four children: Mai, Map, Kinh, Dan Toc, each matching their reference, no doubling, no costume change. Three shots, two cuts. No legible text, letters, numbers, logos or licence plates anywhere; all signs blank. Every motorbike rider wears a helmet; traffic drives on the right. Mai never wears a hoodie. Children 6 to 6.5 heads tall, adults 7 to 7.5 heads, not chibi.
+
+AVOID: slow motion, speed ramp, camera shake, synchronized walking, identical gestures, frozen background people, mirrored screen direction, characters swapping sides, night, darkness, sunset, overexposed highlights, harsh midday shadows, crushed black shadows, dark or muddy skin, exaggerated or open-mouth expressions, grain or hatching on faces, line boil, readable text, chibi proportions.
+```
