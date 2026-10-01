@@ -246,7 +246,7 @@ CONSTRAINTS: Exactly four children: Mai, Map, Kinh, Dan Toc, each matching their
 AVOID: slow motion, speed ramp, camera shake, synchronized walking, identical gestures, frozen background people, mirrored screen direction, characters swapping sides, daylight, sunset, crushed black shadows, dark or muddy skin, exaggerated or open-mouth expressions, grain or hatching on faces, line boil, readable text, chibi proportions.
 ```
 
-## v3 Clip A DAYTIME variant (user 2026-10-01): school gate by day, not generated yet
+## v3 Clip A DAYTIME variant (user 2026-10-01): school gate by day. Job `479550f6-2d77-486d-a211-6c26e5b4d44d` submitted
 Same shots/refs as clip A (Video 1 DAILY, Mai, Map, Kính, Dân Tộc, school `03fbb6cc…`); plate daylight kept; grade = sunny afternoon. ~24 credits.
 ```
 DAILY-LIFE MASTER REFERENCE FIRST: Video 1 is the master reference for the style, mood and characters of this whole clip. Match its render look, hand-painted finish, materials, colour palette, lighting mood, atmosphere, character design, proportions and animation feel on every frame; do not copy its exact shots, camera or story.
