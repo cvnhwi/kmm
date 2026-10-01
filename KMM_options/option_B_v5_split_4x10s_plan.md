@@ -1,4 +1,6 @@
-# KMM — Option B v5: fantasy chase split into 4 clips x 10 s (PLAN, not generated yet)
+# KMM — Option B v5: fantasy chase split into 4 clips x 10 s (generated as drafts)
+
+Jobs (submitted 2026-10-01, batch): clip 1 `cb4d361d-6fbc-4858-a78b-4488d034431f`, clip 2 `5efcef94-d78a-4e66-891e-2c017e7bf6ea`, clip 3 `5375cddd-c053-4e1e-8e00-ac4f1f875d18`, clip 4 `de6e3b65-4a5f-4594-944a-eab1fe12b94b`. Content not yet reviewed by the assistant.
 
 Why: one 25 s generation with 13 shots gave rushed acting. Split by location so each clip has fewer shots, longer beats, creative angles and small insert shots. Total 40 s (was 25 s).
 Style: option B rules (see `STYLE_GUIDE_A_B_C.md`), including B v4 feedback: Mai stays on the river bank, back to camera at the gate, monitors glitch nonstop, Mai integrated into the background, no creature ever touches Mai.
