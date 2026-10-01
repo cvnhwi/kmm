@@ -2,11 +2,12 @@
 
 User request (2026-10-01): "Sáng tạo góc và cho tôi clip 8 giây, cảnh nối tiếp video tham khảo, sói rượt bé Mai trong hầm fantasy".
 
-Status: BLOCKED. First submit failed: "Video input not found" for the master video `31d4ddc0-d66c-4da7-9ac1-c055cd20d7cf` (it lives in workspace xelfaistudiovn, not this account). No credits spent. Waiting for the user to upload the video into this workspace and send its media_id.
+Status: SUBMITTED 2026-10-01 as job `3e69917c-261b-4840-a670-c9de77f309aa` with the master video `e481d885-2d5a-4bc6-96f0-20a47ce81215` (Fantasy.mp4). Content not yet reviewed.
+Earlier: BLOCKED. First submit failed: "Video input not found" for the master video `31d4ddc0-d66c-4da7-9ac1-c055cd20d7cf` (it lives in workspace xelfaistudiovn, not this account). No credits spent. Waiting for the user to upload the video into this workspace and send its media_id.
 
 ## Settings
 Seedance 2.5, `omni_reference`, draft 480p, 8 s, 16:9, no audio, folder MV KMM `fef878e4-1957-439e-8b50-00a4ee8454c6`, declined preset `24bae836-2c4a-48e0-89b6-49fcc0b21612`. ~24 credits.
-Refs: Video 1 = fantasy master video (media_id PENDING; replaces StandardB per the fantasy rule) · Mai `b42c82ad-d58e-4fb3-bcf3-4d89dac09517` · wolf `f48ff106-d9d6-4233-a770-d36f768a1f64` · tunnel `b97b3e97-5b27-4deb-92ea-a10693bc61e9`.
+Refs: Video 1 = fantasy master video `e481d885-2d5a-4bc6-96f0-20a47ce81215` ( replaces StandardB per the fantasy rule) · Mai `b42c82ad-d58e-4fb3-bcf3-4d89dac09517` · wolf `f48ff106-d9d6-4233-a770-d36f768a1f64` · tunnel `b97b3e97-5b27-4deb-92ea-a10693bc61e9`.
 Prompt opens with the FANTASY MASTER line (STYLE_GUIDE_B.md).
 
 ## Space
