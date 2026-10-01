@@ -1,6 +1,6 @@
 # KMM — Option B single scene: wolf lunge + Mai runs into the fantasy entrance (6 s)
 
-Status: draft submitted 2026-10-01 (~12:10 UTC). Content not yet reviewed by the assistant (cannot view video).
+Status: COMPLETED 2026-10-01 (~12:10 UTC). `speedramp: "off"` was ignored (job params still show "auto"; not an exposed Seedance 2.5 parameter). Content not yet reviewed by the assistant (cannot view video).
 Job: `6940d6d5-b4bb-42f3-b473-356fdeace065` · 6 s · cut coverage (user default) · new lighting look · real-time 24 fps rule · `speedramp: "off"` requested (check job params after completion).
 
 | Time | Shot | Size / angle / lens / camera | Action |
