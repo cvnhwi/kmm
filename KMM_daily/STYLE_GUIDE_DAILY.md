@@ -13,6 +13,7 @@ Style mới, tách riêng khỏi style B fantasy (`KMM_options/`). Tạo 2026-10
 | **Mai (01_Mai)** | `b42c82ad-d58e-4fb3-bcf3-4d89dac09517` | KHÔNG dùng Mai fantasy. Chờ user xác nhận có character sheet mới không. |
 
 | **Phòng Mai sunset** | `6c670ace-47b0-463f-a0eb-2846fcfdbc1b` | `B03_PhongMai1_Sunset.png` (user upload 2026-10-01). Thay bản cũ `71a09bcb-813d-4888-a25b-1bd5b602a00f`, không dùng bản cũ nữa. Nội dung chưa được trợ lý xem: mô tả là "layout, materials and sunset light of Image N" đến khi user xác nhận chi tiết. |
+| **Prop đồng hồ báo thức** | `b73a2861-966f-4c8d-9b36-e1d8da8a64c4` | Sheet 6 góc (user 2026-10-01): đồng hồ 2 chuông inox bạc bóng, quai cong, búa gõ giữa 2 chuông, 2 chân xoè, mặt đen vạch + số màu kem, kim bạc chỉ 6 giờ, mặt sau 2 núm + công tắc + nắp pin. Trong prompt: "design only, ONE clock", mặt đồng hồ CHỈ vạch chia, KHÔNG số (luật không chữ/số) trừ khi user cho phép. |
 | **Nội thất xe buýt** | `8ee01cf4-4770-4ff1-b5de-39434d458e93` | `B05_Bus1_Day.png` (user upload 2026-10-01). Thay bản cũ `7b04666b-2fe0-41d7-b72d-5d39d89e9a4c`. Ánh sáng ban ngày trong plate được thay theo từng cảnh (vd. hoàng hôn). |
 
 Trợ lý không xem được video/ảnh: chưa biết nội dung video DAILY, chỉ mô tả là "look, mood and lighting of Video 1".
@@ -67,3 +68,7 @@ Mai (01_Mai `b42c82ad…`), Map (04_BanMap `fd700683…`), Kính (03_BanKinh `fc
 - Mặc định của trợ lý: 3 bạn cùng lớp (Map, Kính, Dân Tộc) cùng tuổi ~13, cùng áp dụng tỉ lệ này; giữ nguyên đặc điểm riêng (Map vẫn mặt tròn má hồng nhưng không baby).
 - Prompt wording (khối CHARACTER): "Mai is about 13 years old, a lower-secondary student: a slimmer oval face with a gently defined chin and jawline, cheeks less round, large but well-proportioned eyes, a slightly longer neck; body about 6.5 to 7 heads tall; youthful and appealing, never baby-faced, never chibi, never adult."
 - AVOID thêm: "baby face, round chubby toddler face, oversized head, short toddler proportions, chibi".
+
+## 10. Khóa 24 fps (user rule 2026-10-01 ~18:20 UTC)
+- Mọi video DAILY luôn **24 fps**. Prompt ghi: "locked at 24 fps … natural 24 fps animation timing, no frame interpolation"; AVOID: "frame interpolation, choppy or variable frame rate".
+- Seedance không có tham số fps → sau khi gen, kiểm tra file bằng ffprobe (sandbox Higgsfield); nếu khác 24 fps thì báo user (có thể conform bằng ffmpeg nếu user muốn).
