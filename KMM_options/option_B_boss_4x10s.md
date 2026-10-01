@@ -1,6 +1,10 @@
 # KMM — Option B: Boss sequence (10 script scenes, 32 s) in 4 clips x 10 s
 
-Status: PLAN + prompts ready, boss image uploaded; waiting for the user's "gen" (2026-10-01).
+Status: drafts submitted 2026-10-01 (~09:25 UTC). Content not yet reviewed by the assistant (cannot view video).
+- Clip 1 (scenes 1-3): job `dafbfef7-8409-4aa5-9fbe-3bcf8989924c`
+- Clip 2 (scenes 4-5): job `0f368445-e42b-4018-9739-037e77ea8b6c`
+- Clip 3 (scenes 6-7): job `fb5a9746-497b-45a2-a167-b018d164cabe`
+- Clip 4 (scenes 8-10): job `29e6fc38-9798-4335-8013-7dee72658493`
 
 ## Settings
 Option B: Seedance 2.5, `omni_reference`, draft 480p, 10 s, 16:9, no audio, StandardB `c5746038-2de6-4154-852e-6e431e457aa5`, folder `fef878e4-1957-439e-8b50-00a4ee8454c6`, declined preset `24bae836-2c4a-48e0-89b6-49fcc0b21612`. ~30 credits per clip, ~120 total.
