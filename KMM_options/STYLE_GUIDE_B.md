@@ -41,6 +41,7 @@ Prompt wording: "[Lighting] Motivated cinematic lighting: <key source and direct
 [Avoid] adds: flat even lighting, no rim light, sterile overly clean CG, plastic sheen, grey lifeless shadows, characters not lit by the scene's light sources.
 
 ### B camera library
+User preference (2026-10-01): CUT COVERAGE is the default. Each clip is built from several shots joined by hard cuts (like V1 `e398982e…` / V1L `e08e2a51…`), each shot with its own size, angle and one motivated move. Use a single continuous take only when the user asks for it.
 For multi-angle requests (one scene, many angles) and any camera choice in B: use `CAMERA_LIBRARY_B.md` (shot sizes, angles, movements, coverage templates by scene type). Each angle = one continuous shot, same action timings, one motivated move with ease-in/out, 180-degree rule.
 
 ### B acting rules (user 2026-10-01): real, believable acting, not "AI acting"; Disney principles

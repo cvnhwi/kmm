@@ -94,6 +94,7 @@ Format: **name** | what it does | emotion / when | animation note | Seedance pro
 | Comedy beat (frying pan "boong") | A MS locked-off (timing) · B crash zoom on the face after the hit · C two-shot static for the reaction look |
 
 ## 6. How a multi-angle request is written
+Default (user preference 2026-10-01): cut coverage, several shots with hard cuts inside each clip; one-take only on request.
 1. Beat analysis of the 8 s scene (see "B acting rules" in `STYLE_GUIDE_B.md`), with fixed beat timings (e.g. 0-2 s ..., 2-3.5 s ..., impact at 3.5 s ...).
 2. Choose 4-6 angles from section 5, each with shot size + angle + ONE movement from section 4 + lens.
 3. Each angle prompt: same [References], same [Action] timings, same [Acting], only [Camera] (and the opening composition) changes. One continuous 8 s shot, no cuts inside.
