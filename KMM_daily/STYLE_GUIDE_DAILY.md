@@ -13,6 +13,7 @@ Style mới, tách riêng khỏi style B fantasy (`KMM_options/`). Tạo 2026-10
 | **Mai (01_Mai)** | `b42c82ad-d58e-4fb3-bcf3-4d89dac09517` | KHÔNG dùng Mai fantasy. Chờ user xác nhận có character sheet mới không. |
 
 | **Phòng Mai sunset** | `6c670ace-47b0-463f-a0eb-2846fcfdbc1b` | `B03_PhongMai1_Sunset.png` (user upload 2026-10-01). Thay bản cũ `71a09bcb-813d-4888-a25b-1bd5b602a00f`, không dùng bản cũ nữa. Nội dung chưa được trợ lý xem: mô tả là "layout, materials and sunset light of Image N" đến khi user xác nhận chi tiết. |
+| **Nội thất xe buýt** | `8ee01cf4-4770-4ff1-b5de-39434d458e93` | `B05_Bus1_Day.png` (user upload 2026-10-01). Thay bản cũ `7b04666b-2fe0-41d7-b72d-5d39d89e9a4c`. Ánh sáng ban ngày trong plate được thay theo từng cảnh (vd. hoàng hôn). |
 
 Trợ lý không xem được video/ảnh: chưa biết nội dung video DAILY, chỉ mô tả là "look, mood and lighting of Video 1".
 

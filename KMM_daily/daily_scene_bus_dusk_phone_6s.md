@@ -8,7 +8,7 @@ Style: DAILY (`STYLE_GUIDE_DAILY.md`). Seedance 2.5, omni_reference, draft 480p,
 |---|---|---|
 | Video 1 | DAILY master (style, mood, character feel; NOT camera/story) | `0e1937c4-209b-4fc7-b110-a0861bf2fd47` |
 | Image 1 | Mai (01_Mai) | `b42c82ad-d58e-4fb3-bcf3-4d89dac09517` |
-| Image 2 | Bus interior plate (B05_Bus1_Day, assumed interior, re-lit dusk) | `7b04666b-2fe0-41d7-b72d-5d39d89e9a4c` |
+| Image 2 | Bus interior plate (B05_Bus1_Day.png, user update 2026-10-01, re-lit dusk) | `8ee01cf4-4770-4ff1-b5de-39434d458e93` |
 | Image 3 | Mai's phone | `66324bdf-1d17-4e3c-b10e-545427e88712` |
 | Image 4 | Boy (04_BanMap) | `fd700683-cd2f-4766-8cee-59abc9b5dedb` |
 | Image 5 | Girl with glasses (03_BanKinh) | `fc1b53f9-386c-4326-aa1b-30089996aa18` |
@@ -83,4 +83,4 @@ CONSTRAINTS: Exactly one Mai in frame, no doubling, no costume change. Exactly t
 AVOID: slow motion, speed ramp, camera shake, whip pan, zoom, wide-angle distortion, high angle, eye-level camera, full-cabin establishing view, mirrored seating, characters swapping sides, classmates moving in sync, identical gestures, Mai looking down at the phone, smiling, open mouth, exaggerated crying, dark or muddy skin, pencil hatching or grain on faces, line boil, readable screen content, direct sunlight, warm sunset light, hoodie, backpack on her lap.
 ```
 
-Medias: `video_references` = `0e1937c4…`; `image_references` = Mai `b42c82ad…`, bus `7b04666b…`, phone `66324bdf…`, boy `fd700683…`, glasses girl `fc1b53f9…`, braids girl `2755d89a…`.
+Medias: `video_references` = `0e1937c4…`; `image_references` = Mai `b42c82ad…`, bus `8ee01cf4…`, phone `66324bdf…`, boy `fd700683…`, glasses girl `fc1b53f9…`, braids girl `2755d89a…`.
