@@ -1,6 +1,6 @@
 # KMM — Option B: Mai runs out of the fantasy gate tunnel into the fantasy forest (8 s, multi-angle)
 
-**Retry 2026-10-01 ~14:12 UTC** with master video `3202ca06…` (H.264 + silent audio): job `13149284-b410-4f74-b3fe-4da96cb0a7b7`. Status: SUBMITTED, content not yet reviewed.
+**Retry 2026-10-01 ~14:12 UTC** with master video `3202ca06…` (H.264 + silent audio): job `13149284-b410-4f74-b3fe-4da96cb0a7b7`. Status: FAILED (master video still rejected). Waiting for the river test to pick the working reference.
 
 User request (2026-10-01): "Một cảnh sáng tạo camera cảnh Mai chạy ra khỏi hầm cổng fantasy. nhiều góc camera".
 Duration not given -> default 8 s, 4 cut shots.

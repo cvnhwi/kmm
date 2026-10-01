@@ -1,5 +1,7 @@
 # KMM — Option B: Mai arrives at the digital river, breathless and lost, walks slowly along the bank (8 s)
 
+**Retry 2 (~14:25 UTC):** c60976cd FAILED. Test jobs: 820fa189 (4 s master), 06ab84db (720p master), 93ad9743 (3 stills from Fantasy.mp4 as image refs, no video ref). Content not yet reviewed.
+
 **Retry 2026-10-01 ~14:12 UTC** with master video `3202ca06…` (H.264 + silent audio): job `c60976cd-0608-4c61-b7ee-1ccb4e430920` (user added: cards pulled toward the vortex centre + profile cards floating in the air around her). Status: SUBMITTED, content not yet reviewed.
 
 User request (2026-10-01): "Một cảnh Mai chạy đến dòng sông số nhìn lui sau, nhìn hai bên kiểu hoang mang, và cũng hơi thở mệt. đi từ từ bên dòng sông (lưu ý không đi xuống dòng sông số). phía trước vòng xoáy vẫn chuyển động, và những profile ở dưới vẫn đang bị cuốn vào".
