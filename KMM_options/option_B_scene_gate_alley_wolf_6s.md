@@ -68,7 +68,7 @@ Director's choice: tension by contrast. The wolf's stillness (it waits at the ga
 | 5 | 10-12.5 s | high 3/4 above the wall, 28 mm | forward glide | Mai far ahead -> wolf zig-zags wall to wall in slow arcs -> monitors flicker |
 | 6 | 12.5-15 s | low-angle CU from the floor, 24 mm | tilt up with the jump | land + deep crouch -> springs high -> silhouette mid-air against the ceiling glow |
 Refs: master `83190f2e…`, fantasy Mai `ef343c87…`, wolf `f48ff106…`, tunnel `b97b3e97…`, alley `875ca1de…`. Fair-skin + subtle-expression blocks. ~45 credits.
-Job: `7dd6b0c2-57d2-4617-bbb7-f3376113319d`. Status: SUBMITTED, content not yet reviewed.
+Job: `7dd6b0c2-57d2-4617-bbb7-f3376113319d`. Status: COMPLETED ~16:35 UTC, content not yet reviewed.
 
 ## v8 (user 2026-10-01 ~16:30 UTC): v7 fixed blocking + longer final leap
 User corrections: the wolf is OUT IN THE ALLEY (about ten metres outside the gate), Mai is ALREADY at the mouth of the fantasy gate; the final low-angle leap lasts longer.
@@ -80,4 +80,4 @@ User corrections: the wolf is OUT IN THE ALLEY (about ten metres outside the gat
 | 4 | 6.5-9 s | wolf trots in through the gate, lazy bound wall to wall |
 | 5 | 9-11.5 s | zig-zag wall to wall, slow arcs |
 | 6 | 11.5-15 s | 3.5 s leap: held crouch -> powerful tall arc, camera tilts up and rises -> held silhouette against the ceiling glow |
-Job: `e0583447-0dae-465e-ba61-885c31a27856`. Status: SUBMITTED, content not yet reviewed. (v7 `7dd6b0c2` still in the folder for comparison.)
+Job: `e0583447-0dae-465e-ba61-885c31a27856`. Status: COMPLETED ~16:45 UTC, content not yet reviewed. (v7 `7dd6b0c2` still in the folder for comparison.)
