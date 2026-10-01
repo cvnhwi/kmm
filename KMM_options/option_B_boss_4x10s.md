@@ -6,7 +6,7 @@ Status: all 4 drafts COMPLETED 2026-10-01 (~09:30 UTC). Content not yet reviewed
 - Clip 3 (scenes 6-7): job `fb5a9746-497b-45a2-a167-b018d164cabe`
 - Clip 4 (scenes 8-10): job `29e6fc38-9798-4335-8013-7dee72658493`
 
-## v2 (user feedback 2026-10-01 ~09:40 UTC), all 4 clips regenerated
+## v2 (user feedback 2026-10-01 ~09:40 UTC), all 4 clips regenerated: COMPLETED ~09:45 UTC, content not yet reviewed
 Changes: (1) every clip now set in the BOSS arena plate `B14_Boss` `f1ae9d0a-c22c-4de8-92f0-a051fb01937c` (smoke clouds, monitor walls left/right, fog centre) instead of the round hall; plate floor has a tile grid -> prompt says matte dark floor, no grid. (2) Teacher: ONE thin golden ray from the FAR TIP of the ruler only. (3) Guard + dad: allies doing one combo on the same shadow (low baton sweep + high punch), dynamic tracking arc + push-in camera; Avoid "the two men fighting each other". Clip 3 blasts also changed to thin golden light rays to match.
 - Clip 1 v2: `a08db222-3c36-4d05-8175-8157a1d5d628`
 - Clip 2 v2: `ce715836-1244-4e89-8b7b-e316ef674e70`
