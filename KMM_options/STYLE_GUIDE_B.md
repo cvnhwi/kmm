@@ -19,6 +19,11 @@ Common rules for every option (project hard rules)
 - Character reference sheets are design only: draw ONE figure, not the sheet layout.
 - Vietnam traffic drives on the right; every motorbike rider and passenger wears a helmet.
 - ALL generations go into the Higgsfield project/folder "MV KMM" (user rule 2026-10-01): pass `folder_id: fef878e4-1957-439e-8b50-00a4ee8454c6` on EVERY generate call (video, image, finalize to 1080p), and verify with `list_project_assets` after submitting. Never omit folder_id, never use another "MV KMM"-like project (e.g. `e46399a5…` in another workspace, `MV_KMM_S26-31`, `VANH_MV KMM`).
+- FANTASY STYLE MASTER VIDEO (user rule 2026-10-01): every FANTASY scene (fantasy gate/cave entrance, screen-wall hall, BOSS arena, chase inside the fantasy world, hero fight) ALWAYS attaches the fantasy master video as a video reference, and the prompt ALWAYS opens with this line (first line, before everything else):
+  "FANTASY MASTER REFERENCE FIRST: Video 1 is the master reference for the style, mood and characters of this whole clip. Match its render look, materials, colour palette, lighting mood, atmosphere, character design, proportions and animation feel on every frame; do not copy its exact shots, camera or story."
+  - Source: user's Higgsfield link `.../@xelfaistudiovn/mv-kmm/folders/84e36f63-59b2-4680-918d-51c7809e79d2?preview=31d4ddc0-d66c-4da7-9ac1-c055cd20d7cf` (workspace xelfaistudiovn, not accessible from this account: 403). Media ID in this workspace: PENDING, the user must upload the video so it gets an ID here.
+  - It replaces StandardB `c5746038…` as Video 1 in fantasy scenes. Non-fantasy scenes (alley, street, school, bus outside) keep StandardB unless the user says otherwise.
+  - Character sheets stay attached for identity and costume details; the master video wins on look, mood and proportions.
 - Defaults unless the user says otherwise: Seedance 2.5, mode `omni_reference`, draft 480p, 16:9, no audio, folder `fef878e4-1957-439e-8b50-00a4ee8454c6`, declined preset `24bae836-2c4a-48e0-89b6-49fcc0b21612`.
 - The assistant cannot see images or videos: look/identity claims must be confirmed by the user.
 
