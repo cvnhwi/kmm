@@ -1,6 +1,6 @@
 # KMM — Option B: Boss sequence (10 script scenes, 32 s) in 4 clips x 10 s
 
-**Plate update (user, 2026-10-01):** the screen-wall hall is now `B15_TuongManHinh.png` `b331cb43-0b97-40b5-a323-135c77c0082a`; it replaces `b59fa3e7…` for all future generations. Clips listed in this file were made with the old plate; regenerate only if the user asks.
+**Plate update (user, 2026-10-01):** the screen-wall hall is now `B15_TuongManHinh.png` `54a5db90-fc99-4c03-85bf-d492baad4e2c`; it replaces `b59fa3e7…` and the interim `b331cb43…` for all future generations. Clips listed in this file were made with the old plate; regenerate only if the user asks.
 
 Status: all 4 drafts COMPLETED 2026-10-01 (~09:30 UTC). Content not yet reviewed by the assistant (cannot view video).
 - Clip 1 (scenes 1-3): job `dafbfef7-8409-4aa5-9fbe-3bcf8989924c`

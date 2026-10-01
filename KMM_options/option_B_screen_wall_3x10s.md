@@ -1,6 +1,6 @@
 # KMM — Option B: Screen-wall sequence (10 script scenes) split into 3 clips x 10 s
 
-**Plate update (user, 2026-10-01):** the screen-wall hall is now `B15_TuongManHinh.png` `b331cb43-0b97-40b5-a323-135c77c0082a`; it replaces `b59fa3e7…` for all future generations. Clips listed in this file were made with the old plate; regenerate only if the user asks.
+**Plate update (user, 2026-10-01):** the screen-wall hall is now `B15_TuongManHinh.png` `54a5db90-fc99-4c03-85bf-d492baad4e2c`; it replaces `b59fa3e7…` and the interim `b331cb43…` for all future generations. Clips listed in this file were made with the old plate; regenerate only if the user asks.
 
 Status: all drafts COMPLETED 2026-10-01 (~08:50 UTC). Content not yet reviewed by the assistant (cannot view video).
 - Clip 1 (scenes 1-2: gate slams, Mai slumps against the door, startles, push-in to face): job `71749210-5e89-4a15-8e9d-c2cd6a40408d`

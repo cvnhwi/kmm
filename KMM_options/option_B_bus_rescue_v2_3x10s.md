@@ -1,6 +1,6 @@
 # KMM — Option B: Bus rescue v2 (revised 11-scene script, 27 s) in 3 clips x 10 s
 
-**Plate update (user, 2026-10-01):** the screen-wall hall is now `B15_TuongManHinh.png` `b331cb43-0b97-40b5-a323-135c77c0082a`; it replaces `b59fa3e7…` for all future generations. Clips listed in this file were made with the old plate; regenerate only if the user asks.
+**Plate update (user, 2026-10-01):** the screen-wall hall is now `B15_TuongManHinh.png` `54a5db90-fc99-4c03-85bf-d492baad4e2c`; it replaces `b59fa3e7…` and the interim `b331cb43…` for all future generations. Clips listed in this file were made with the old plate; regenerate only if the user asks.
 
 Status: all 3 drafts COMPLETED 2026-10-01 (~10:45 UTC). Content not yet reviewed by the assistant (cannot view video).
 Replaces the flow of `option_B_screenwall_bus_rescue_8x10s.md` clips 3-8 with the user's tighter script (no team step-out, no Mai crying shot).

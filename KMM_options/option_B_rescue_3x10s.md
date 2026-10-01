@@ -1,6 +1,6 @@
 # KMM — Option B: Rescue sequence (9 script scenes) in 3 clips x 10 s
 
-**Plate update (user, 2026-10-01):** the screen-wall hall is now `B15_TuongManHinh.png` `b331cb43-0b97-40b5-a323-135c77c0082a`; it replaces `b59fa3e7…` for all future generations. Clips listed in this file were made with the old plate; regenerate only if the user asks.
+**Plate update (user, 2026-10-01):** the screen-wall hall is now `B15_TuongManHinh.png` `54a5db90-fc99-4c03-85bf-d492baad4e2c`; it replaces `b59fa3e7…` and the interim `b331cb43…` for all future generations. Clips listed in this file were made with the old plate; regenerate only if the user asks.
 
 Status: all drafts COMPLETED 2026-10-01 (~08:50 UTC). Content not yet reviewed by the assistant (cannot view video).
 - Clip 1 (scenes 1-4: shadows turn, close in, hand over Mai's mouth): job `ef813431-7a0e-4c94-943f-0b3fea158a00`
