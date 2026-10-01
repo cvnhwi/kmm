@@ -28,6 +28,9 @@ Common rules for every option (project hard rules)
 - Files/jobs: `option_B_fantasy_chase_3d.md` (v1, `95874c0c-576e-4405-b78c-cdc0c278c17c`), `option_B_v2_fantasy_chase_3d_video_ref.md` (`8267611b-5861-4da9-bc89-4e195ac7f1cd`), `option_B_v3_fantasy_chase_new_backgrounds.md` (`e61b91a6-feba-47c8-856b-7a8382f23596`), `option_B_v4_fantasy_chase_grounded.md` (`af1740b5-6e84-41ea-8e98-063d140d9663`).
 - B v4 rules (user feedback 2026-10-01): Mai never runs on the river surface (stays on the bank); at the large gate her back faces the camera; monitors glitch/flicker nonstop; characters must be integrated into the background (matching light, contact shadows, mist in front/behind), never a pasted layer.
 
+### B camera library
+For multi-angle requests (one scene, many angles) and any camera choice in B: use `CAMERA_LIBRARY_B.md` (shot sizes, angles, movements, coverage templates by scene type). Each angle = one continuous shot, same action timings, one motivated move with ease-in/out, 180-degree rule.
+
 ### B acting rules (user 2026-10-01): real, believable acting, not "AI acting"; Disney principles
 The script is not copied into the prompt line by line. Before writing any B prompt, analyse each beat, then write the acting that follows from it.
 
