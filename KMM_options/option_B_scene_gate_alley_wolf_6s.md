@@ -55,4 +55,4 @@ Director's choice: threat CU -> escape diagonal -> wolf "plays" on the wall (liv
 | 3 | 3.8-6 s | wide diagonal east side, 24 mm | truck right, foreground pillars | Mai mid-ground -> wolf runs along the far west wall over flickering monitors -> overtakes |
 | 4 | 6-8 s | low angle floor, 24 mm | tilt up with the arc, ease into slight arc follow | wolf leaps over Mai -> lands ahead left, playful head tilt -> Mai swerves right, runs on, wolf circling behind |
 Refs: master `83190f2e…`, fantasy Mai `ef343c87…`, wolf `f48ff106…`, tunnel `b97b3e97…`, alley `875ca1de…`. Fair-skin + subtle-expression blocks.
-Job: `03bce19b-794d-4740-9fd4-c9007c5fad5f`. Status: SUBMITTED, content not yet reviewed.
+Job: `03bce19b-794d-4740-9fd4-c9007c5fad5f`. Status: COMPLETED ~16:12 UTC, content not yet reviewed.
