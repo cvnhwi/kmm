@@ -72,13 +72,21 @@ Write specific, motivated acting per shot, using the Disney principles:
 - Follow-through and overlapping action: hair, scarf, skirt, backpack, straps, sleeves and smoke keep moving and settle after the body stops.
 - Arcs: limbs, heads and props travel in arcs, not straight robotic lines.
 - Secondary action that supports the emotion: wiping tears, clutching a strap, trembling fingers, shoulders rising with breath.
-- Restrained exaggeration and appeal: clear readable poses and silhouettes, stylized but believable; no gurning or over-acting.
+- Restrained exaggeration and appeal: clear readable poses and silhouettes, stylized but believable; no gurning or over-acting. Faces stay subtle (see "B skin tone & subtle expressions").
 - Solid weight: feet planted, weight shifts visibly, impacts have recoil and recovery.
 - Faces: emotion changes through stages (surprise -> fear -> panic), asymmetry, micro-expressions, natural blinks (more when anxious, frozen stare when terrified), breath visible in chest and shoulders; tears well up before they fall.
 - Reaction timing: listeners react a beat after the event; groups never react in sync.
 
 **Step 3: [Avoid] additions for acting**
 mannequin stillness, mechanical or uniform motion speed, robotic straight-line moves, actions with no anticipation, reacting before the trigger, emotion switching instantly with no transition, frozen symmetrical faces, dead eyes, constant open-mouth expression, over-acting or gurning, floaty weightless motion, everyone moving at the same speed.
+
+
+### B skin tone & subtle expressions (user rule 2026-10-01, every B prompt with characters)
+User feedback: skin came out too dark and expressions over-react. Add BOTH blocks to every prompt.
+- [Character Look] wording: "Skin tone exactly as in the character reference: fair, light, warm-ivory skin with a soft healthy blush on the cheeks. Coloured scene light (cyan, teal, amber) only tints the skin softly on the lit side and in the rim; it never darkens, greys or browns the overall skin tone. Faces stay bright and readable, with a gentle fill on the face even in dark scenes."
+- [Expression] wording: "Subtle, restrained, natural expressions at about a third to half of full intensity, like a premium feature film, not a cartoon or meme face: small changes in the brows, eyelids and the corners of the mouth carry the emotion; mouth mostly closed or only slightly parted, opening wider only for a single breath or gasp and closing again; eyes widen only slightly; no gurning, no exaggerated eyebrows, no wide-open screaming mouth, no bulging eyes, no rubbery stretching face."
+- [Avoid] adds: "dark skin, tanned skin, grey or muddy skin, skin darker than the reference, over-acting, exaggerated facial expressions, constantly open mouth, wide screaming mouth, bulging eyes, rubber face, gurning, cartoonish grimace".
+- Lighting conflict to watch: dark scenes with strong coloured light tend to darken skin; keep a soft frontal fill or bounce on faces so the fair skin reads.
 
 ## Quick check before any new generation
 1. Option B. 2. Video ref StandardB only. 3. Which plates and are they text-free? 4. Prompt block structure matches the option. 5. Run `get_cost`, then wait for the user's "gen".
