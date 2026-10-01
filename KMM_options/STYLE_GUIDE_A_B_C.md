@@ -6,6 +6,8 @@ Common rules for every option (project hard rules)
 - No text, letters, numbers, logos or readable interface anywhere (signs, screens, cards, gates).
 - Shadow creatures are dark smoke forms and never touch Mai. Wolf: no teeth, small amber eyes, semi-transparent.
 - Mai never wears a hoodie; children 6-6.5 heads tall, adults 7-7.5 heads; not chibi.
+- Night-shadow people are separate individuals (user rule 2026-10-01): NEVER move in sync. Each one has its own timing, speed, posture and action (one types, one tilts its head, one pauses, one turns late); turns and steps are staggered with uneven gaps; slight differences in height and hunch. Prompt wording: "each night-shadow person is a separate individual with its own timing, rhythm and gesture; no two move at the same moment or in the same way". Avoid: "synchronized movement, identical gestures, copy-pasted figures, marching in step, turning at the same time".
+- Monitors flicker and glitch RANDOMLY and nonstop (user rule 2026-10-01): each screen on its own irregular rhythm, never all at once and never on a regular beat; mix of short flickers, static bursts, brief blackouts, rolling bars and image jumps of different lengths. Avoid: "all screens flashing together, regular rhythmic blinking, uniform strobe, static screens".
 - Character reference sheets are design only: draw ONE figure, not the sheet layout.
 - Vietnam traffic drives on the right; every motorbike rider and passenger wears a helmet.
 - Defaults unless the user says otherwise: Seedance 2.5, mode `omni_reference`, draft 480p, 16:9, no audio, folder `fef878e4-1957-439e-8b50-00a4ee8454c6`, declined preset `24bae836-2c4a-48e0-89b6-49fcc0b21612`.
