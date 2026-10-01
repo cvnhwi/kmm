@@ -1,6 +1,6 @@
 # KMM DAILY — Morning at home: Mai wakes up, stretches, washes, gets dressed for school, leaves her room (20 s)
 
-Status: v1 submitted 2026-10-01 (single 20 s clip). Job `4e7649d6-f937-41c6-a13b-e7322c1d6185`, waiting for result.
+Status: v1 job `4e7649d6-f937-41c6-a13b-e7322c1d6185` COMPLETED (content not reviewed). v2 job `82667046-df8b-47c6-9895-3690bfa7f34a` submitted.
 Style: DAILY (`STYLE_GUIDE_DAILY.md`). Seedance 2.5, omni_reference, draft 480p, 16:9, 20 s (~60 credits), folder MV KMM `fef878e4…`.
 
 ## References
@@ -77,7 +77,7 @@ AVOID: slow motion, speed ramp, camera shake, undressing, bare body, costume mix
 Medias: `video_references` = `0e1937c4…`; `image_references` = Mai `b42c82ad…`, bedroom `6c670ace…`.
 
 ## v2 (user script 2026-10-01 ~18:15 UTC): alarm clock, eye rub, mirror smile, uniform from wardrobe, walk out — stretched from 11 s to 20 s
-New rules applied: Mai ~13 years old (slimmer face, 6.5-7 heads), strong golden rim light, detailed costume/backpack (brown diamond patch, yellow star keychain right side, white low-cut socks, white sneakers with grey laces). Refs: Video 1 DAILY `0e1937c4…`, Mai `b42c82ad…`, bedroom `6c670ace…`. ~60 credits. Status: PROMPT READY, waiting for "gen".
+New rules applied: Mai ~13 years old (slimmer face, 6.5-7 heads), strong golden rim light, detailed costume/backpack (brown diamond patch, yellow star keychain right side, white low-cut socks, white sneakers with grey laces). Refs: Video 1 DAILY `0e1937c4…`, Mai `b42c82ad…`, bedroom `6c670ace…`. ~60 credits. Job `82667046-df8b-47c6-9895-3690bfa7f34a` submitted.
 
 | # | Time | Script time | Size / angle | FOV | Move | Added to fill 20 s |
 |---|---|---|---|---|---|---|
