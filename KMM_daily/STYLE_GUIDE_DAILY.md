@@ -34,3 +34,29 @@ Trợ lý không xem được video/ảnh: chưa biết nội dung video DAILY, 
 - Plan file mẫu: `daily_scene_bus_dusk_phone_6s.md`.
 
 Luật cứng chung của dự án vẫn áp dụng trừ khi user nói khác: không chữ/số/logo; quái là khói, mắt hổ phách, không răng, không chạm trẻ; Mai không mặc hoodie; trẻ 6-6.5 đầu, người lớn 7-7.5 đầu; Sài Gòn 2026, xe chạy bên phải, đội mũ bảo hiểm; đám đông không chuyển động đồng loạt; real-time 24fps, không slow motion.
+
+## 6. Phân tích ref nhân vật chi tiết (user rule 2026-10-01 ~18:00 UTC)
+Trước khi viết prompt có nhân vật, phải lập **Character Lock** cho từng nhân vật từ ảnh ref, rồi dùng lại nguyên văn trong khối CHARACTERS của mọi prompt. Không mô tả chung chung ("backpack with a keychain"), phải ghi rõ:
+| Hạng mục | Phải ghi |
+|---|---|
+| Tóc | màu, độ dài, kiểu (mái, buộc, tết), phụ kiện tóc: hình dạng, màu, chất liệu, bên nào |
+| Mặt | màu da, màu mắt, hình mắt, đặc điểm (tàn nhang, má hồng, kính: hình gọng, màu gọng) |
+| Áo | màu chính, màu viền/cổ/tay, kiểu cổ, khăn quàng (màu, cách thắt) |
+| Quần/váy | màu, kiểu (xếp ly, short), độ dài |
+| Tất, giày | màu, kiểu, chi tiết (dây, quai) |
+| Cặp/ba lô | màu chính + màu phụ, chất liệu (vải, denim, da), quai, túi trước, khóa kéo |
+| Móc khóa/charm | hình dạng chính xác, màu, chất liệu, kích thước so với cặp, gắn ở đâu (khóa kéo, quai, bên trái/phải) |
+| Đạo cụ khác | điện thoại, bình nước, đồng hồ…: màu, hình in |
+- Nguồn: chỉ từ ảnh ref trợ lý đã thực sự xem được, hoặc user xác nhận. Chi tiết chưa chắc ghi "(chưa xác nhận)" và hỏi user, không bịa.
+- Trợ lý không tải được ảnh từ Higgsfield (proxy chặn CloudFront 403). Để trợ lý xem ảnh: user đính kèm ảnh ref trực tiếp vào chat.
+- Character Lock lưu ở mục 7 của file này, cập nhật khi có ref mới.
+
+## 7. Character Lock (chờ phân tích từ ảnh ref)
+Mai (01_Mai `b42c82ad…`), Map (04_BanMap `fd700683…`), Kính (03_BanKinh `fc1b53f9…`), Dân Tộc (02_BanDanToc `2755d89a…`): chưa phân tích từ ảnh. Mô tả đang dùng trong prompt lấy từ prompt mẫu của user (cảnh xe buýt hoàng hôn), chưa đối chiếu ảnh.
+
+## 8. Rim light cinematic, tone vàng (user rule 2026-10-01 ~18:00 UTC)
+- Rim light được **tăng mạnh** như phim điện ảnh: viền sáng rõ, liên tục trên tóc, vai, mép mặt và mép quần áo, tách nhân vật khỏi nền; có halation nhẹ quanh viền.
+- **Màu rim light: vàng ấm (golden / amber-yellow)**, KHÔNG trắng hồng, KHÔNG trắng sáng lạnh. Áp dụng cả cảnh ngày (nắng vàng xiên) lẫn đêm (đèn natri, đèn bóng vàng). Nguồn sáng phải có lý do (mặt trời, đèn đường, đèn xe, đèn trong nhà).
+- Không làm đổi màu da gốc của nhân vật; rim chỉ nằm ở viền.
+- Prompt wording: "Strong cinematic rim light: a bright, continuous warm golden-yellow edge light outlining hair, shoulders, cheek and clothing edges, separating every character from the background, with a soft golden halation; the rim is golden amber, never pinkish-white or cold bright white."
+- AVOID thêm: "weak or missing rim light, pinkish-white rim, cold white rim, flat frontal lighting".
