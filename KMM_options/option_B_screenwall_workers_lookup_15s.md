@@ -2,7 +2,7 @@
 
 User request (2026-10-02): "cảnh Mai nhìn lên sẽ thấy những bóng đen làm việc ở màn hình như hình tham khảo, tham khảo góc ở hình tham khảo (ảnh 4 panel). Các nhân vật bóng đen này sẽ làm việc, thao tác trên các màn hình, và có trò chuyện với nhau."
 
-Status: SUBMITTED 2026-10-02. Job `d3fcf181-a2ab-41bb-b4bb-dd28c66f1bd4`. Content not yet reviewed.
+Status: COMPLETED 2026-10-02. Job `d3fcf181-a2ab-41bb-b4bb-dd28c66f1bd4`. Content not yet reviewed.
 Settings: Seedance 2.5 omni_reference, draft 480p, 15 s, 16:9, no audio, folder MV KMM, declined preset. ~45 credits.
 Refs: master video `83190f2e`, Mai `ef343c87`, NEW screen-wall plate `ebb49e7c`, shadow person `2f07fe73`.
 
@@ -24,7 +24,7 @@ The ref image could NOT be attached: upload to upload.higgsfield.ai is blocked b
 | 11.5-15 s | very high wide (P4) | 24 mm slow crane | ~10 workers conferring; nearest one's beam swings toward Mai's hiding spot |
 
 ## v2 (2026-10-02) — user: "giữ nguyên prompt và góc máy; dùng nhân vật đúng như nhân vật người xấu; số lượng đông hơn; hành động khác nhau"
-Status: SUBMITTED. Job `ddd495d1-355d-46d8-824d-f16453f7364e`. Content not yet reviewed.
+Status: COMPLETED 2026-10-02. Job `ddd495d1-355d-46d8-824d-f16453f7364e`. Content not yet reviewed.
 Same 5 shots / angles as v1. Changes:
 - Removed the invented worker look from the 4-panel (single eye-lamp beam, trailing cables). Every worker = EXACTLY the night-shadow person design `2f07fe73` (Image 3), no added lamps/cables/helmets; eyes glow as in the design.
 - New [Crowd] block: ~40-60 workers in uneven rows and clusters receding into the haze.

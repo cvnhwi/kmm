@@ -2,7 +2,7 @@
 
 User request (2026-10-02): "cảnh boss xuất hiện siêu lớn (70%) khung hình từ trong những làn khói ở đại cảnh background boss. TO và lơ lửng ở trên trời. 10 giây. sáng tạo góc camera".
 
-Status: SUBMITTED 2026-10-02. Job `66535135-7656-444c-860c-20f053da07ae`. Content not yet reviewed.
+Status: COMPLETED 2026-10-02. Job `66535135-7656-444c-860c-20f053da07ae`. Content not yet reviewed.
 Settings: Seedance 2.5 omni_reference, draft 480p, 10 s, 16:9, no audio, folder MV KMM, declined preset. ~30 credits.
 Refs: master video `83190f2e`, NEW BOSS `46c623a4` (25_BOss.png), BOSS arena `1c507ac3`. No other characters.
 
