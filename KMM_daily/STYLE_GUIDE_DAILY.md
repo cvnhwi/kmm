@@ -82,3 +82,7 @@ Mai (01_Mai `b42c82ad…`), Map (04_BanMap `fd700683…`), Kính (03_BanKinh `fc
 - Chỉ dùng cảnh toàn khi user yêu cầu rõ ràng.
 - Prompt wording (CAMERA LAW): "No wide, extreme wide or establishing shots: every shot is medium, medium close-up, close-up or insert; backgrounds stay close and softly out of focus; never reveal deep distant background."
 - AVOID thêm: "wide shot, extreme wide shot, establishing shot, full-room or full-street view, aerial view, deep distant background, horizon".
+
+## 12. Ban đêm = tối hẳn (user rule 2026-10-02)
+- "Buổi tối / ban đêm" mặc định là **trời tối hẳn**, không phải hoàng hôn tím: cửa sổ/khoảng trời là xanh navy rất tối gần đen, chỉ ánh sáng từ đèn thực (đèn trần, đèn bàn, đèn tường, đèn đường) đổ thành vũng sáng. Bóng vẫn đọc được (navy tối), không đen kịt.
+- AVOID thêm: "dusk, purple or violet sky, blue-hour sky, sunset glow". Chỉ dùng hoàng hôn khi user nói rõ.
