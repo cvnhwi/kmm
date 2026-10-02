@@ -17,4 +17,4 @@ Refs: master video `24430dd0`, Mai `0d56fcb2`, B15 screen wall `e2fab0e1`, all 5
 - Villain look: neutral black, no purple.
 - Monitors: mostly dark, random flicker, no text.
 
-Status: SUBMITTED 2026-10-02. Job `30ebb415-cdb6-4922-9d06-73a7642f436f`. Content not yet reviewed.
+Status: COMPLETED 2026-10-02 (rendered 16:33 UTC). Job `30ebb415-cdb6-4922-9d06-73a7642f436f`. Content not yet reviewed.
