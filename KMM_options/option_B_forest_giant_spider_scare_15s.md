@@ -29,11 +29,11 @@ Status: COMPLETED 2026-10-02 (~14:12 UTC). Job `69157871-c6a7-4201-a399-c19c479a
 Same shots as v1. Added forest plate `B20_RungFantasy` `b88078fa` as Image 2 (keep its trees/path/light), spider re-upload `a01d6370` as Image 3; [Lighting & Integration] now matches Image 2 exactly (Mai ref = design only).
 
 ## v3 (2026-10-02) — user: "nhện là nhện màu đen kiểu bóng tối (cùng vibe với người xấu). Góc camera lúc này là over shoulder của Mai, sau đó nhện hạ xuống"
-Status: SUBMITTED 2026-10-02 ~14:20 UTC. Job `141c9d42-ec34-4108-bc6a-c9592b2e2496`. Content not yet reviewed.
+Status: COMPLETED 2026-10-02 (~14:20 UTC). Job `141c9d42-ec34-4108-bc6a-c9592b2e2496`. Content not yet reviewed.
 - Spider = pure darkness like the villain shadow people: flat pitch-black cut-out silhouette, faint indigo tint, NO volume/shading/hair/texture, thin faint rim, black smoke wisps from the legs, flat glowing eyes without pupils, no fangs. Spider image used only for silhouette/leg shape.
 - New shot 3 (5-9 s): OTS behind Mai's right shoulder at eye height, moving with her; spider lowers slowly on a smoke thread, legs unfolding, hangs at her eye level, final sudden drop + bounce; she stops dead.
 - Shot 4 (9-10.5 s): low CU reverse with blurred black legs in the foreground edges; then whip pan escape and chase-cam as before.
 
 ## v4 (2026-10-02) — user mid-turn: "không khí xung quanh hơi u tối"
-Status: SUBMITTED 2026-10-02 ~14:21 UTC. Job `dbb6db19-7751-4560-88d5-32b096820abd`. Content not yet reviewed.
+Status: COMPLETED 2026-10-02 (~14:20 UTC). Job `dbb6db19-7751-4560-88d5-32b096820abd`. Content not yet reviewed.
 Same as v3 + [Atmosphere] block: forest plate re-lit darker/gloomier (keeps design and light direction): overcast storm-dark sky through the canopy, no sun/warm light, cold blue-grey teal-indigo, thick low mist, dark particles, desaturated; Mai still readable with a soft face fill. Avoid adds bright/sunny/warm light, blue sky, image too dark to read Mai.
