@@ -28,3 +28,15 @@ Fixes:
 - [Space & Blocking] rewritten: wide raised dry stone bank on the EAST side with a clear edge; Mai always 2-3 m from the edge; river always BESIDE her (on her LEFT walking north, screen-left when running toward camera), never under her feet; camera always on the bank (same layout as `option_B_scene_digital_river_arrival_8s.md`).
 - Wolf path moved from WEST (across the river, likely why v1 put her on the river) to EAST, on the land side.
 - Avoid: Mai on/over/in the river, river or cards under her feet, wolf path crossing the river, river switching sides.
+
+## v3 option (2026-10-02) — user: "Cho tôi lại 1 option nữa, lưu ý đúng vị trí Mai ở trên bờ bên cạnh bờ sông"
+Status: SUBMITTED. Job `3850f999-d309-45c3-bbc1-14dfb9ec3031`. Content not yet reviewed.
+Different camera plan that makes the geography readable in every shot:
+| Time | Shot | Camera | Action |
+|---|---|---|---|
+| 0-3 s | wide side view from the land side, looking west across Mai to the river | 35 mm truck alongside | Mai walks L→R on the stone path (lower half of frame), river BEYOND the rocky edge in the background |
+| 3-5.5 s | MCU same side | 50 mm push-in | she stops, eyes then head turn toward the land side |
+| 5.5-8 s | reverse OTS looking EAST into the misty rocks | 85 mm slow push | smoke creeps over stones, two amber eyes |
+| 8-11 s | low front on the path | camera rushing backward | sprints south, river along screen-left edge behind the rocky lip |
+| 11-15 s | high wide crane over the land side | slow rise + tilt | whole layout: river channel, bank path, forest; tiny Mai runs into the trees, eyes watching |
+Note: tried to add the earlier bank clip `e4be08eb` as a 2nd video ref — not used (generated 480p clip without audio track is the format that failed before; a transcode would be needed).
