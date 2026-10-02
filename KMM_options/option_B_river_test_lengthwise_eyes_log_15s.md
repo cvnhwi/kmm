@@ -23,7 +23,7 @@ Refs: master `24430dd0`, Mai fantasy `0d56fcb2`, TEST river plate `B16_SongSo2` 
 | 13.5-15 s | ground level behind the log, facing her | whip around | hand-plant hop over the log, lands, runs on into the distance |
 
 ## v2 (2026-10-02) — user: same request + "Lưu ý thấy cây gỗ bắt ngang"
-Status: SUBMITTED 2026-10-02 ~14:06 UTC. Job `4774b391-0fb8-430a-aae7-2c0c9c7b6c66`. Content not yet reviewed.
+Status: COMPLETED 2026-10-02 (~14:10 UTC). Job `4774b391-0fb8-430a-aae7-2c0c9c7b6c66`. Content not yet reviewed.
 Changes vs v1:
 - New [The fallen log] block: ONE huge trunk lying PERPENDICULAR across the whole bank path (forest edge → river edge), waist height, moss, peeling bark, root ball at the forest end, cyan rim light from the river so it reads against the dark.
 - Log shown from shot 1 (far ahead), again behind her in shot 6, in the drone shot 7 and filling the foreground left-to-right in shot 8 (vault over the log).
