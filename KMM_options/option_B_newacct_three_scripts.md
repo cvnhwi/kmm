@@ -71,10 +71,18 @@ Status: COMPLETED 2026-10-02 (~14:32 UTC). Job `ebfb027a-b73f-4381-9978-c5dd0d37
 - Uses the NEW [Villain Look] (plain neutral black, no purple/indigo glow, aura or coloured rim; plain black smoke on hits) and ALL 5 villain designs, shuffled.
 
 ## BOSS scene 1 — single cable, fast (2026-10-02) — user: "Cho tôi lại cảnh Mai bị kéo lên (tốc độ nhanh) bằng một sợi dây điện"
-Status: SUBMITTED 2026-10-02 ~14:36 UTC. Job `fc4298e4-2f71-4837-b784-a6839c275ff7`. 5 s (scene 1 was 3 s; 4 s minimum, so a 2 s wide was added). Content not yet reviewed.
+Status: COMPLETED 2026-10-02 (~14:39 UTC). Job `fc4298e4-2f71-4837-b784-a6839c275ff7`. 5 s (scene 1 was 3 s; 4 s minimum, so a 2 s wide was added). Content not yet reviewed.
 Refs: master, Mai, Dad, Mom, arena `c8394b3d`, BOSS `3db1be87`.
 | Time | Shot | Action |
 |---|---|---|
 | 0-1.5 s | MS slightly low, Mai between parents | ONE sparking electric cable whips down like lightning, snaps twice around her waist |
 | 1.5-3.5 s | whip-tilt up with her, motion blur | yanked straight up at high speed; parents' hands miss by centimetres |
 | 3.5-5 s | extreme wide low from the floor | tiny Mai reeled fast along the single cable toward the brain BOSS; parents small below |
+
+## BOSS scene 1 — single cable v2 (2026-10-02) — user: "tốc độ kéo lên vẫn nhanh; giây 1 quấn; giây 2 kéo lên cực nhanh"
+Status: SUBMITTED 2026-10-02 ~14:40 UTC. Job `dce666de-6d54-45f0-a43b-fdf9fdf9c3c5`. 4 s (model minimum). Content not yet reviewed.
+| Time | Shot | Action |
+|---|---|---|
+| 0-1 s | MS slightly low, Mai between parents | ONE sparking cable whips down and coils twice around her waist in one snap |
+| 1-2 s | same framing → violent whip-tilt + shake | yanked out of the top of the frame in under 0.5 s, motion-blur streak; parents grab empty air |
+| 2-4 s | low-angle MS on the parents | shocked, reaching up; sparks falling; tiny Mai far above near the BOSS |

@@ -2,7 +2,7 @@
 
 User request (2026-10-02): "Cho tôi cảnh 8 giây Boss xuất hiện lơ lửng trên cao (nhiều khói), sáng tạo góc camera. Ở dưới là những bóng đen đang đi lại và có đánh nhau với các nhân vật Bố Fantasy, Mẹ fantasy".
 
-Status: SUBMITTED 2026-10-02 ~14:38 UTC. Job `51291643-c382-4e34-b555-7ddc835f22d0`. Content not yet reviewed.
+Status: COMPLETED 2026-10-02 (~14:40 UTC). Job `51291643-c382-4e34-b555-7ddc835f22d0`. Content not yet reviewed.
 Settings: Seedance 2.5 omni_reference, draft 480p, 8 s, 16:9, no audio, folder MV KMM root, declined preset. ~24 credits.
 Refs: master `24430dd0`, arena `c8394b3d` (attached twice by mistake as Images 1-2; harmless), BOSS `3db1be87`, Dad `8eeb2595`, Mom `a6286ab4`, all 5 villain designs shuffled.
 

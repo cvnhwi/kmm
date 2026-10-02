@@ -2,7 +2,7 @@
 
 User request (2026-10-02): "Cho tôi 1 shot dài 8 giây đoạn Mai chạy ra từ rừng và thấy Cổng Tối, sáng tạo góc cam".
 
-Status: SUBMITTED 2026-10-02 ~14:35 UTC. Job `3315374f-f77b-491c-9da5-3c3b7cff3ff5`. Content not yet reviewed.
+Status: COMPLETED 2026-10-02 (~14:38 UTC). Job `3315374f-f77b-491c-9da5-3c3b7cff3ff5`. Content not yet reviewed.
 Settings: Seedance 2.5 omni_reference, draft 480p, 8 s, 16:9, no audio, folder MV KMM root `11749213…`, declined preset. ~24 credits.
 Refs: master `24430dd0`, Mai fantasy `0d56fcb2`, forest `B20_RungFantasy` `b88078fa`, Dark Gate `B18_CongToi` `7c1e33a4`.
 
