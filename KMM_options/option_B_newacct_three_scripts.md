@@ -65,7 +65,7 @@ Refs C1: Dad, Mom, arena `c8394b3d`, BOSS `3db1be87`, villains ×3. C2: guard `6
 Clips that attached fewer than all 5 villain designs: A2 `0c8d8de9` (3), B2 `2975f6c8` (2), C1 `0d0a63c6` (3), C2 `4cd3acf9` (3). A1, A3, B1 used all 5. Rule tightened in all guides: always attach all 5, shuffled. Regen of the 4 clips offered to the user (not done yet).
 
 ## C1 v2 (2026-10-02) — user: "Cho lại cảnh Mai bị boss kéo lên bằng xúc tu dây điện, chứ không phải là móc"
-Status: SUBMITTED 2026-10-02 ~14:33 UTC. Job `ebfb027a-b73f-4381-9978-c5dd0d37ab3d`. 14 s. Content not yet reviewed.
+Status: COMPLETED 2026-10-02 (~14:32 UTC). Job `ebfb027a-b73f-4381-9978-c5dd0d37ab3d`. 14 s. Content not yet reviewed.
 - New [Tentacles] block: living ELECTRIC CABLES (bundled black power cables, sparks and light pulses running along them), no hooks/claws/grabbers; they coil around Mai's waist and under her arms over her clothes and lift her; no pain/injury. (Touch rule overridden here by the user's explicit request.)
 - Shot 3: Mai wrapped in the cables, reeled up toward the BOSS.
 - Uses the NEW [Villain Look] (plain neutral black, no purple/indigo glow, aura or coloured rim; plain black smoke on hits) and ALL 5 villain designs, shuffled.
