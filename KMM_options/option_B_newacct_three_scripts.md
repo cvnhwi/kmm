@@ -176,6 +176,12 @@ Conflict flagged: same message also says "chỉ là khói xung quanh" → smoke 
 - Avoid adds: smoke above her / smoke ceiling.
 
 ## v15 (2026-10-02) — user: v14 + "Mai đứng ở trước cửa phòng Tường màn hình; xung quanh không có các hình profile"
-Status: SUBMITTED 2026-10-02 ~15:24 UTC. Job `e77b93cb-0efd-4aac-9436-e3f2ab9b7647`. 10 s. Content not yet reviewed.
+Status: COMPLETED 2026-10-02 (~15:28 UTC). Job `e77b93cb-0efd-4aac-9436-e3f2ab9b7647`. 10 s. Content not yet reviewed.
 - Location: the entrance end of the hall, in front of the huge closed dark double doors (plain, no symbols), near the corner of the door wall; no screens/monitors/profiles/frames around her; screen wall behind the camera. Plate used only for materials/palette/floor/light (Dark Gate exterior plate not attached, to avoid an exterior look).
 - No smoke above (clear darkness, ceiling lost in shadow); floor/waist smoke only; tentacle descends from the dark heights; moderate 2 s lift up the face of the doors into the darkness.
+
+## v16 (2026-10-02) — user: v15 + "phía sau là cánh cổng"
+Status: SUBMITTED 2026-10-02 ~15:28 UTC. Job `3fe65114-0a15-47e1-85ed-9eea03f241e2`. 10 s. Content not yet reviewed.
+- Mai stands with her BACK to the huge closed gate, facing into the hall toward the off-screen fight (camera-left). Interior shot.
+- Added Dark Gate `B18_CongToi` `7c1e33a4` as Image 3, used only for the door design of the INSIDE face of the closed gate; Avoid adds outdoor exterior, sky, forest, the gate open.
+- Otherwise as v15: no profiles/screens around her, no smoke above, floor/waist smoke, plastic pointed tentacle from the dark heights, moderate 2 s lift up the face of the gate.
