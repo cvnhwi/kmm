@@ -181,7 +181,12 @@ Status: COMPLETED 2026-10-02 (~15:28 UTC). Job `e77b93cb-0efd-4aac-9436-e3f2ab9b
 - No smoke above (clear darkness, ceiling lost in shadow); floor/waist smoke only; tentacle descends from the dark heights; moderate 2 s lift up the face of the doors into the darkness.
 
 ## v16 (2026-10-02) — user: v15 + "phía sau là cánh cổng"
-Status: SUBMITTED 2026-10-02 ~15:28 UTC. Job `3fe65114-0a15-47e1-85ed-9eea03f241e2`. 10 s. Content not yet reviewed.
+Status: COMPLETED 2026-10-02 (~15:31 UTC). Job `3fe65114-0a15-47e1-85ed-9eea03f241e2`. 10 s. Content not yet reviewed.
 - Mai stands with her BACK to the huge closed gate, facing into the hall toward the off-screen fight (camera-left). Interior shot.
 - Added Dark Gate `B18_CongToi` `7c1e33a4` as Image 3, used only for the door design of the INSIDE face of the closed gate; Avoid adds outdoor exterior, sky, forest, the gate open.
 - Otherwise as v15: no profiles/screens around her, no smoke above, floor/waist smoke, plastic pointed tentacle from the dark heights, moderate 2 s lift up the face of the gate.
+
+## v17 (2026-10-02) — user: v16 but "phía sau là tường"
+Status: SUBMITTED 2026-10-02 ~15:32 UTC. Job `4caac577-e107-48c5-b257-b2d498073c86`. 10 s. Content not yet reviewed.
+- Behind Mai: a plain bare dark WALL (subtle panel seams), meeting a side wall in a corner, near the entrance; the doors are off to the side / out of frame. Dark Gate ref removed. Avoid adds a gate or doors behind her.
+- Otherwise as v16: interior, facing into the hall toward the off-screen fight, no profiles/screens, no smoke above, floor smoke, plastic pointed tentacle, moderate 2 s lift up the wall into darkness.
