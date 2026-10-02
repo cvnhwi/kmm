@@ -19,3 +19,12 @@ Forest corridor W → E. Mai runs EAST (screen L → R); camera always on the SO
 | 7.5-10 s | low front | backing up → sharp jolt | spider drops into frame upside down; Mai skids to a stop |
 | 10-12 s | CU, slightly low | 85 mm slow push-in | amber eyes reflected in hers, glance behind, step back |
 | 12-15 s | wide side, same axis | fast whip pan | she spins and runs back R → L; spider swings on its thread |
+
+## v2 gloomy sky (2026-10-02) — user: "Cho tôi cảnh rượt đuổi với nhện nhưng bầu trời phải âm u nhé"
+Status: SUBMITTED. Job `1455294c-dff4-48e2-8551-7d41d794a8b8`. Content not yet reviewed.
+Changes vs v1:
+- Forest plate used for layout/trees/materials only and RE-LIT (v1 said "match Image 2 lighting exactly", which conflicts if the plate is bright).
+- New [Sky] block: low heavy slate-grey / bruised-violet storm clouds, churning; no sun, blue sky, stars or bright moon; cold wind, drifting mist, dead leaves.
+- Shot 1 opens looking up through a canopy gap at the clouds, fast tilt down to the side tracking run; clouds also visible behind her in shot 4 and the canopy stirring in shot 6.
+- [Sky & Lighting]: dim cold grey-violet overcast skylight, no warm sun shafts, desaturated; spider eyes the only warm accent; Mai lit by the same skylight with a soft fill.
+- Avoid adds: blue/sunny sky, sunlight, golden shafts, bright cheerful forest.
