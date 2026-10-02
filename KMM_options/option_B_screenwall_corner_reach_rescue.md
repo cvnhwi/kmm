@@ -51,7 +51,7 @@ Everything is dark low-key with a dark B15 wall section right behind her and no 
 | 4-9 s | CU 85 mm slow push | the shadows fade one by one; warm light rises gradually; relief; eyes open |
 
 Refs: B15 `e2fab0e1`, Mai `0d56fcb2`, 5 villains shuffled, master.
-Status: SUBMITTED 2026-10-02. Job `d5e96422-ad8d-42e5-95f7-9af4887830d8`. Content not yet reviewed.
+Status: COMPLETED 2026-10-02 (rendered 17:02 UTC). Job `d5e96422-ad8d-42e5-95f7-9af4887830d8`. Content not yet reviewed.
 
 ### Scene 5 standalone (2 s): hand SHADOWS only, 2 options
 User: "| 2 giây | góc Tường màn hình | POV Mai) Nhiều cái bóng, người bóng tối giơ bàn tay về Mai (phía camera), chỉ hiện bóng ở trên mặt Mai (không hiện tay)"
