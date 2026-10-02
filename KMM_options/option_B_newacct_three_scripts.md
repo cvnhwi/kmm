@@ -187,6 +187,10 @@ Status: COMPLETED 2026-10-02 (~15:31 UTC). Job `3fe65114-0a15-47e1-85ed-9eea03f2
 - Otherwise as v15: no profiles/screens around her, no smoke above, floor/waist smoke, plastic pointed tentacle from the dark heights, moderate 2 s lift up the face of the gate.
 
 ## v17 (2026-10-02) — user: v16 but "phía sau là tường"
-Status: SUBMITTED 2026-10-02 ~15:32 UTC. Job `4caac577-e107-48c5-b257-b2d498073c86`. 10 s. Content not yet reviewed.
+Status: COMPLETED 2026-10-02 (~15:35 UTC). Job `4caac577-e107-48c5-b257-b2d498073c86`. 10 s. Content not yet reviewed.
 - Behind Mai: a plain bare dark WALL (subtle panel seams), meeting a side wall in a corner, near the entrance; the doors are off to the side / out of frame. Dark Gate ref removed. Avoid adds a gate or doors behind her.
 - Otherwise as v16: interior, facing into the hall toward the off-screen fight, no profiles/screens, no smoke above, floor smoke, plastic pointed tentacle, moderate 2 s lift up the wall into darkness.
+
+## v18 (2026-10-02) — user: "tạo lại cảnh trên nhưng không gian phía sau rộng và sâu"
+Status: SUBMITTED 2026-10-02 ~15:36 UTC. Job `708f91e2-5e7b-456c-afd4-b183eb6e0551`. 10 s. Content not yet reviewed.
+Interpretation (flagged, conflicts with v17's wall): the plain wall is removed; behind Mai the hall opens WIDE and DEEP (rows of tall dark pillars/arches receding layer after layer into haze, far end lost in darkness). Still no screens/profiles, no smoke above (floor smoke spreads into the depth), plastic pointed tentacle, moderate 2 s lift. Shot 1 is now an extreme wide; shot 2 uses a long lens with the deep hall soft behind her. Avoid adds a wall right behind her / shallow background.
