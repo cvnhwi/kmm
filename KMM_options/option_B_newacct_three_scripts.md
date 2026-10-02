@@ -97,7 +97,7 @@ Refs: master, Mai, arena `c8394b3d`, BOSS `3db1be87` (only as a vague glow insid
 | 2-4 s | tilted up into the smoke | hole swirls closed, sparks drift down, brain silhouette pulses; ground empty |
 
 ## BOSS scene 1 — single cable v4 (2026-10-02) — user: same as v3 + "Góc camera thấy phần dưới của boss"
-Status: SUBMITTED 2026-10-02 ~14:49 UTC. Job `18285c79-c3e1-4b47-bda8-f4df44c7d75b`. 4 s. Content not yet reviewed.
+Status: COMPLETED 2026-10-02 (~14:54 UTC). Job `18285c79-c3e1-4b47-bda8-f4df44c7d75b`. 4 s. Content not yet reviewed.
 Same timing as v3 (wrap 0-1 s, extreme yank 1-2 s), Mai alone, cyan smoke. New [Framing]: low worm's-eye from near the floor, Mai in the lower frame, the BOSS's UNDERSIDE (lower surface + dangling cable tentacles) filling the upper half through smoke layers; the cable comes down from the underside; ends looking straight up at the underside with tiny Mai dangling just below it. Avoid adds: losing the BOSS from frame.
 
 ## BOSS scene 1 — single cable v5, 12 s tense oner (2026-10-02) — user: v4 + "tạo mood căng thẳng; đi qua khói là mất; kiểu 3D; shot 12 giây"
@@ -110,3 +110,15 @@ Interpretation (flagged): "giây 1 quấn / giây 2 kéo" = the wrap lasts 1 s a
 | 8-9 s | whip-tilt up + hard shake | FAST YANK into the smoke; once through the smoke she is gone |
 | 9-12 s | hold looking up | smoke hole swirls closed, sparks drift down, BOSS pulses dimly; floor empty |
 Avoid adds: any cut, Mai visible after the smoke, flat 2D look.
+
+## BOSS scene 1 — single cable v6, 12 s, NO BOSS visible (2026-10-02) — user: v5 but "không thấy boss, chỉ là khói xung quanh; sáng tạo góc camera"
+Status: SUBMITTED 2026-10-02 ~14:57 UTC. Job `4b5a38fa-6676-4d09-a2f0-3da2ab72473e`. 12 s, 6 hard-cut shots. Content not yet reviewed.
+Refs: master, Mai, arena `c8394b3d` (no BOSS ref attached). Same interpretation: wrap lasts 1 s, yank lasts 1 s.
+| Time | Shot | Action |
+|---|---|---|
+| 0-3 s | wide low dolly through foreground smoke | Mai alone, smoke walls all around, turns slowly |
+| 3-5 s | ECU eyes, shallow focus | eyes dart up/left/up, cyan pulse across her face, holds breath |
+| 5-7.5 s | top-down from INSIDE the smoke ceiling (watcher POV), sinking | sparking cable tip slides in above her, unseen by her |
+| 7.5-8.5 s | CU waist, handheld | WRAP: cable snaps down, coils twice; hands fly to it |
+| 8.5-9.5 s | low wide from the floor looking up | FAST YANK into the smoke ceiling, gone |
+| 9.5-12 s | floor-level, slow push-in → tilt up | empty spot, smoke rolls back, sparks die; hole in the ceiling swirls closed |
