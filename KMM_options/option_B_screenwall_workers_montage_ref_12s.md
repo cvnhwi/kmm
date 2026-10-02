@@ -19,4 +19,4 @@ Notes:
 | 8-10 s | extra: ECU finger on a panel, panels flicker on/off | 85 mm |
 | 10-12 s | P4 very high wide, 10-12 workers | 18 mm crane rise |
 
-Status: SUBMITTED 2026-10-02. Job `c410cf9e-bdb6-4416-b7cc-ee0c255ece74`. Content not yet reviewed.
+Status: COMPLETED 2026-10-02 (rendered 16:54 UTC). Job `c410cf9e-bdb6-4416-b7cc-ee0c255ece74`. Content not yet reviewed.

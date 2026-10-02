@@ -12,7 +12,7 @@ Rules: about 30-40 workers, each with a different task. The turn ripples nearest
 | 0-4 s | high crane down 24 mm to eye level behind the last row | busy crowd |
 | 4-6 s | MCU behind one worker 50 mm | it freezes; its head turns over the shoulder to the lens |
 | 6-10 s | wide eye level 35 mm, slow push | the turn ripples out to the far rows; everyone stares; hold |
-Status: SUBMITTED 2026-10-02. Job `937495d3-b910-4ea5-94be-9146e60edcf5`. Content not yet reviewed.
+Status: COMPLETED 2026-10-02 (rendered 16:53 UTC). Job `937495d3-b910-4ea5-94be-9146e60edcf5`. Content not yet reviewed.
 
 ## Option B — low Dutch + rack focus + top-down + frontal
 | Time | Shot | Action |
@@ -21,4 +21,4 @@ Status: SUBMITTED 2026-10-02. Job `937495d3-b910-4ea5-94be-9146e60edcf5`. Conten
 | 3-5.5 s | 85 mm rack focus | tablet hand stops; focus pulls to workers turning |
 | 5.5-8 s | top-down overhead 24 mm | shapes rotate one by one toward the back |
 | 8-10 s | frontal wide 35 mm, short push to the nearest worker | dozens of flat eyes stare at the lens; hold |
-Status: SUBMITTED 2026-10-02. Job `f4af2f5a-3f7b-4c70-868a-a7c04cb7d9dd`. Content not yet reviewed.
+Status: COMPLETED 2026-10-02 (rendered 16:53 UTC). Job `f4af2f5a-3f7b-4c70-868a-a7c04cb7d9dd`. Content not yet reviewed.
