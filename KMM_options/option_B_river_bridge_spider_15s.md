@@ -2,7 +2,7 @@
 
 User request (2026-10-02): "1 cảnh ở background tạm này với cảnh Mai sẽ chạy qua cây cầu, không có sói. Ở đây Mai sẽ gặp một con nhện đu dây từ trên xuống".
 
-Status: SUBMITTED 2026-10-02. Job `31ee52eb-73b9-431a-8817-76d217067efb`. Content not yet reviewed.
+Status: COMPLETED 2026-10-02. Job `31ee52eb-73b9-431a-8817-76d217067efb`. Content not yet reviewed.
 Settings: Seedance 2.5 omni_reference, draft 480p, 15 s, 16:9, no audio, folder MV KMM, declined preset. ~45 credits.
 Refs: master video `83190f2e`, Mai `ef343c87`, TEMPORARY river plate `B16_SongSo2.jpg` `4693fc18` (test only, not in guides), spider `cdcbdc48`.
 

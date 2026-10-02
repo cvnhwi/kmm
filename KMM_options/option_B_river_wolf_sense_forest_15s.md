@@ -50,6 +50,6 @@ Same geography + shots as v3. Lighting changes:
 - Avoid: pasted/composited look, studio key light, Mai brighter or more saturated than the scene, mismatched colour temperature.
 
 ## v5 TEST with a temporary river background (2026-10-02) — user: "background dòng sông số khác… background tạm (chưa cần lưu vào bộ nhớ)"
-Status: SUBMITTED. Job `68589847-e757-4965-b919-5d8af9f39b36`. Content not yet reviewed.
+Status: COMPLETED 2026-10-02. Job `68589847-e757-4965-b919-5d8af9f39b36`. Content not yet reviewed.
 TEMPORARY plate `B16_SongSo2.jpg` `4693fc18-4d1c-43c6-8c58-659dd466b341` — test only, NOT added to the style guide / handoff / skill (main river plate stays `d1f11795`).
 Prompt = v4 (geography-first camera, Mai on the bank, lighting matched to plates) + wolf now follows the dark-silhouette rule (flat shadow, no volume/fur, flat glowing eyes without pupils).

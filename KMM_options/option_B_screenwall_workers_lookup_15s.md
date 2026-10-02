@@ -37,5 +37,5 @@ Same 5 shots / angles. Data: NEW screen-wall plate `f8cfd99c`; villain pool of 5
 Crowd: moderate, ~15-25 in loose groups at different depths. Actions split ~1/3 with tablets, ~1/3 no tablet (wall work, studying, climbing a step, pointing), ~1/3 just walking through at different paces/directions; a few silent-talk pairs that separate again. Avoid: everyone with a tablet, everyone still, packed crowd.
 
 ## v4 (2026-10-02) — user: "Cho tôi lại cảnh bé Mai ngước lên nhìn thấy các nhân vật bóng đen đang làm việc"
-Status: SUBMITTED. Job `a3c329cc-b565-435f-8368-cc42c0616757`. Content not yet reviewed.
+Status: COMPLETED 2026-10-02. Job `a3c329cc-b565-435f-8368-cc42c0616757`. Content not yet reviewed.
 = v3 (same shots, moderate crowd, 1/3 tablet · 1/3 no tablet · 1/3 walking) + NEW original villain `aad31f63` (replaces `2f07fe73` in the 5-design pool) + [Villain Look] block (flat dark shadow silhouettes, no volume, no surface detail, thin rim only, flat glowing eyes without pupils); lighting text changed so tablets never reveal volume on the bodies; Avoid adds 3D-shaded villains, pupils, irises.
