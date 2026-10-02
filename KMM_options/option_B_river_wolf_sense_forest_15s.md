@@ -21,3 +21,10 @@ Vortex NORTH · Mai on the east dry bank · dark path from the WEST · forest SO
 | 5.5-8 s | over-the-shoulder | 85 mm slow push into the dark | creeping smoke, two amber eyes open in the mist |
 | 8-11 s | low front | camera rushing backward | she spins and sprints toward camera, one glance back |
 | 11-15 s | wide low at forest edge | static → follow pan | she runs into the forest; pan back: eyes watching from the bank |
+
+## v2 (2026-10-02) — user: "vị trí của Mai không phải đứng trên dòng sông mà đứng bên bờ như cảnh bờ sông trước đó"
+Status: SUBMITTED. Job `d6d5c700-5cdd-40a1-9592-40c5e483aede`. Content not yet reviewed.
+Fixes:
+- [Space & Blocking] rewritten: wide raised dry stone bank on the EAST side with a clear edge; Mai always 2-3 m from the edge; river always BESIDE her (on her LEFT walking north, screen-left when running toward camera), never under her feet; camera always on the bank (same layout as `option_B_scene_digital_river_arrival_8s.md`).
+- Wolf path moved from WEST (across the river, likely why v1 put her on the river) to EAST, on the land side.
+- Avoid: Mai on/over/in the river, river or cards under her feet, wolf path crossing the river, river switching sides.
