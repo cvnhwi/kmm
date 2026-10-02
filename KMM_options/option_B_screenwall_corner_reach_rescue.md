@@ -59,4 +59,12 @@ User: "| 2 giây | góc Tường màn hình | POV Mai) Nhiều cái bóng, ngư�
 - "POV Mai" conflicts with "bóng trên mặt Mai" (a POV cannot show her face), so there are 2 options.
 - **Option A** `fa56ef8f-f8df-44f6-b320-f3f980396423`: frontal CU 85 mm from where the unseen figures stand. Hand shadows slide over her face and the wall at uneven moments until most of her face is shadowed. No hands or figures in frame. Refs: B15, Mai, master.
 - **Option B** `0ad90022-82d2-487a-937b-17f592775c29`: true Mai POV, 24 mm handheld. 4-5 silhouettes loom; the backlight throws their raised-hand shadows across the floor and over the lens until the frame darkens. The hands themselves are never shown. Refs: B15, 5 villains shuffled, master.
-Status: both SUBMITTED 2026-10-02. Content not yet reviewed.
+Status: both COMPLETED 2026-10-02 (rendered 17:05 UTC). Content not yet reviewed.
+
+### Clip D v3 (scenes 4-6), 9 s: user adds "Người bịt miệng đứng sau lưng Mai"
+Same as v2. Changes:
+- Shot 1 is a frontal MS. The figure stands directly BEHIND Mai: its head and shoulders loom above hers and its body is hidden behind her. Its hand comes over her mouth from behind.
+- Mai is crying, with tears running down.
+- Avoid adds the figure being beside or in front of her.
+- Scene 5 keeps the Option-A approach (frontal CU, hand shadows only).
+Status: SUBMITTED 2026-10-02. Job `96e8e67c-f14a-422d-a383-e87d6a29d55d`. Content not yet reviewed.
