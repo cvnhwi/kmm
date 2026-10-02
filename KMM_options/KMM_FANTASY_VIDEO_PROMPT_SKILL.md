@@ -171,6 +171,7 @@ Shot N (...-15 s), ...: ...
 2. **No text anywhere:** no letters, numbers, logos, names or readable UI on screens, phones, signs, uniforms, gates or profile cards.
 3. **Creatures never touch Mai.** Creatures are dark smoke forms with small glowing amber eyes and no teeth. The wolf is semi-transparent.
 4. **Proportions:** children 6-6.5 heads tall, adults 7-7.5, never chibi. Mai never wears a hoodie.
+5a. **Villains / night-shadow people use SEVERAL random design images.** Whenever a scene has "người xấu" or "người bóng đen", attach several villain design images from the villain pool (a random mix) and write: "Images N-M are the villain designs: every night-shadow person is drawn as one of these designs, mixed randomly across the crowd; copy each design exactly, do not invent new designs or add parts." Villain pool: `2f07fe73-628d-4761-aeff-0b32446d8a0c` + new images added by the user.
 5. **Crowds are never in sync.** Every person or shadow has their own action, speed and rhythm; reactions ripple nearest-first with uneven gaps.
 6. **Monitors:** mostly dark, only a few lit, flickering at random; never all lit, never on a beat.
 7. **Real-time 24 fps:** no slow motion, speed ramps, freeze frames or fast-forward.
