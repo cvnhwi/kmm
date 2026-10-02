@@ -68,3 +68,10 @@ Same as v2. Changes:
 - Avoid adds the figure being beside or in front of her.
 - Scene 5 keeps the Option-A approach (frontal CU, hand shadows only).
 Status: SUBMITTED 2026-10-02. Job `96e8e67c-f14a-422d-a383-e87d6a29d55d`. Content not yet reviewed.
+
+### Scene 5 standalone v2: hand shadows ON her face, stricter (user re-sent the request, "chỉ hiện bóng của bàn tay ở trên mặt Mai")
+Two stricter variants, both 4 s (trim to 2 s):
+- **C** `867f59db-af7f-4697-95e1-de91e38c9378`: locked-off tight CU 100 mm. Her face fills the frame edge to edge, leaving no room for hands. One front light; hand-shaped shadow-puppet silhouettes are projected onto her forehead, cheek, chin and eye until only one teary eye is lit.
+- **D** `1523e703-7119-4e73-8f6a-b264f89fc5f0`: head-and-shoulders CU 85 mm, slow push to the face, back to the dark wall. Unseen hands block the flickering wall light in front of her; the shadows creep onto the wall beside her head first, then onto her face.
+Avoid in both: any real hands, arms or figures in frame.
+Status: both SUBMITTED 2026-10-02. Content not yet reviewed.
