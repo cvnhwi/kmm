@@ -72,7 +72,7 @@ If the user says they are not attaching the video (or it is unavailable), warn t
 | Plate: alley (relit as gloomy night) | `B02_Hem1_Day` | `875ca1de-fe82-40c9-aaa3-1fae77e08461` |
 | Plate: fantasy forest | forest | `d823d7cf-984c-4298-a9ab-62cd1b809b0b` |
 | Plate: digital river | `B16_SongSo.png` | `d1f11795-f7e4-49bf-9964-9b6c5dcc1015` |
-| Plate: screen-wall hall | `B15_TuongManHinh.png` (updated 2026-10-02; never use old `54a5db90…`) | `ebb49e7c-0834-4999-83f0-1c06fcbcc878` |
+| Plate: screen-wall hall | `B15_TuongManHinh.png` (updated 2026-10-02, 4th; never use old `ebb49e7c…` / `54a5db90…`) | `f8cfd99c-ffe6-4596-834b-748b7304c7ef` |
 | Plate: BOSS arena | `B14_Boss.png` | `1c507ac3-2db9-4d1e-b5e0-53fe183687e5` |
 
 **Asset rules:**
