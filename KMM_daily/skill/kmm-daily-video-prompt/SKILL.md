@@ -64,7 +64,9 @@ Rules for the video reference:
 | Sidewalk 1/2/3 | `fd1ba4f2-bdab-485e-9ae1-1837984e0b82` / `dd262c5c-9dfc-4cbb-9173-6c50d0280131` / `fc8f164d-8fb4-495e-8054-dc9e88e152f1` | |
 | Crossroads 1/2 | `ae680526-07ce-498d-9b3d-33e21298afc6` / `375c3734-fe5a-4165-ac7c-81b1f6b605f5` | |
 | School gate | `03fbb6cc-dd7b-4c53-9f20-dfc7a17fcfdc` | |
-| Classroom / Kitchen | `3b2fcd92-040d-4efe-9654-525dda7dec90` / `a1f35aa7-b708-4696-99fb-85d025faebf8` | |
+| Classroom (B12_Class, new) | `b7451b85-b8fd-469b-bf7b-030a52763921` | replaces old `3b2fcd92…` |
+| School corridor (B17_Hanhlang) | `b4786353-3cce-4744-952b-06b2fb992c67` | |
+| Kitchen | `a1f35aa7-b708-4696-99fb-85d025faebf8` | |
 
 Number references in the prompt in attach order: **Video 1** = DAILY, then **Image 1, Image 2…** in the exact order the user attaches them. Attach only the plate(s) of the location in that clip. If no plate exists (e.g. bathroom), describe the place in text and tell the user.
 

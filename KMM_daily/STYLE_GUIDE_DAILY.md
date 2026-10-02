@@ -14,6 +14,8 @@ Style mới, tách riêng khỏi style B fantasy (`KMM_options/`). Tạo 2026-10
 
 | **Phòng Mai sunset** | `6c670ace-47b0-463f-a0eb-2846fcfdbc1b` | `B03_PhongMai1_Sunset.png` (user upload 2026-10-01). Thay bản cũ `71a09bcb-813d-4888-a25b-1bd5b602a00f`, không dùng bản cũ nữa. Nội dung chưa được trợ lý xem: mô tả là "layout, materials and sunset light of Image N" đến khi user xác nhận chi tiết. |
 | **Prop đồng hồ báo thức** | `b73a2861-966f-4c8d-9b36-e1d8da8a64c4` | Sheet 6 góc (user 2026-10-01): đồng hồ 2 chuông inox bạc bóng, quai cong, búa gõ giữa 2 chuông, 2 chân xoè, mặt đen vạch + số màu kem, kim bạc chỉ 6 giờ, mặt sau 2 núm + công tắc + nắp pin. Trong prompt: "design only, ONE clock", mặt đồng hồ CHỈ vạch chia, KHÔNG số (luật không chữ/số) trừ khi user cho phép. |
+| **Lớp học** | `b7451b85-b8fd-469b-bf7b-030a52763921` | `B12_Class.png` (user upload 2026-10-02), thay bản cũ `3b2fcd92-040d-4efe-9654-525dda7dec90`. Nội dung chưa được trợ lý xem. |
+| **Hành lang trường** | `b4786353-3cce-4744-952b-06b2fb992c67` | `B17_Hanhlang.png` (user upload 2026-10-02), plate hành lang đầu tiên. Nội dung chưa được trợ lý xem. |
 | **Nội thất xe buýt** | `8ee01cf4-4770-4ff1-b5de-39434d458e93` | `B05_Bus1_Day.png` (user upload 2026-10-01). Thay bản cũ `7b04666b-2fe0-41d7-b72d-5d39d89e9a4c`. Ánh sáng ban ngày trong plate được thay theo từng cảnh (vd. hoàng hôn). |
 
 Trợ lý không xem được video/ảnh: chưa biết nội dung video DAILY, chỉ mô tả là "look, mood and lighting of Video 1".
