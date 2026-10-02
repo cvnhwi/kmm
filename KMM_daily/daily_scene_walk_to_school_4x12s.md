@@ -1,6 +1,6 @@
 # KMM DAILY — Morning walk to school: alley -> alley mouth -> sidewalk shops -> crossroads (4 x 12 s)
 
-Status: SUBMITTED 2026-10-02. Jobs: 1 Alley `7ad87d1e-a937-4916-85e0-299de221a1a8`, 2 Alley mouth `a2cb9da2-764c-44a0-93f9-d0ae0f760628`, 3 Sidewalk `20f8a8ef-6570-4227-981c-76e7b4545c20`, 4 Crossroads `503a45ed-0bd4-4a04-8d1d-57abda960453`. ~36 credits per clip, ~144 total.
+Status: ALL 4 COMPLETED 2026-10-02 ~02:35 UTC; ffprobe each: 24/1 fps, 289 frames, 12.04 s. Content not reviewed. Jobs: 1 Alley `7ad87d1e-a937-4916-85e0-299de221a1a8`, 2 Alley mouth `a2cb9da2-764c-44a0-93f9-d0ae0f760628`, 3 Sidewalk `20f8a8ef-6570-4227-981c-76e7b4545c20`, 4 Crossroads `503a45ed-0bd4-4a04-8d1d-57abda960453`. ~36 credits per clip, ~144 total.
 Style: DAILY (`STYLE_GUIDE_DAILY.md`): Mai ~13, friends ~13, golden rim light, 24 fps lock, NO wide/establishing shots, detailed costume lock.
 
 ## Raccord (identical in all 4 parts)
