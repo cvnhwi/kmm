@@ -34,7 +34,7 @@ Cập nhật: 2026-10-01 ~16:50 UTC. Repo `cvnhwi/kmm`, branch `claude/gracious-
 | Hẻm (relit đêm âm u) | `875ca1de-fe82-40c9-aaa3-1fae77e08461` | B02_Hem1_Day, luôn re-lit gloomy night |
 | Rừng fantasy | `d823d7cf-984c-4298-a9ab-62cd1b809b0b` | |
 | **Dòng sông số** | `d1f11795-f7e4-49bf-9964-9b6c5dcc1015` | `B16_SongSo.png` (thay `fa8a5475…`) |
-| **Tường màn hình** | `54a5db90-fc99-4c03-85bf-d492baad4e2c` | `B15_TuongManHinh.png` (thay `b59fa3e7…`, `b5785b69…`, `b331cb43…`) |
+| **Tường màn hình** | `ebb49e7c-0834-4999-83f0-1c06fcbcc878` | `B15_TuongManHinh.png` (cập nhật 2026-10-02; thay `54a5db90…`, `b59fa3e7…`, `b5785b69…`, `b331cb43…`) |
 | **Phòng Boss** | `1c507ac3-2db9-4d1e-b5e0-53fe183687e5` | `B14_Boss.png` (thay `f1ae9d0a…`, `076ec352…`) |
 | Não Boss | `9e4e6ae8-eeb8-46be-9151-6ad1a25056e9` | mắt trắng-xanh (giữ theo thiết kế user) |
 | Cổng lớn | `5aa39a50-f435-41b1-8f99-def9153bc90f` | |
