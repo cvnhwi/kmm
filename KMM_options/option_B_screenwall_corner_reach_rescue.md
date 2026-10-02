@@ -90,4 +90,4 @@ Same as v3 (corner area, not against the wall, frontal CU 85 mm, slow push). Cha
 - The hands exist ONLY as flat, solid, neutral-black, soft-edged 2D shadow shapes lying on her skin, like stencils or cast shadows.
 - No 3D hand, volume, thickness, knuckles or nails; nothing floating in front of her face.
 - Avoid adds 3D or modelled hands and hands floating in front of her face.
-Status: SUBMITTED 2026-10-02. Job `b417b330-4752-4a3b-8ba3-a5f4d3330ff2`. 4 s → trim to 2 s. Content not yet reviewed.
+Status: COMPLETED 2026-10-02 (rendered 17:17 UTC). Job `b417b330-4752-4a3b-8ba3-a5f4d3330ff2`. 4 s → trim to 2 s. Content not yet reviewed.
