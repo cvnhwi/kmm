@@ -86,3 +86,19 @@ Status update 2026-10-02: the account DID change (new workspace above, ultra pla
 | B12_Class.png | `e23144fd-d16f-4c4c-aaa8-306b835a1843` |
 | B13_HangQuan.png | `1d4b7ca0-82ba-4772-a43b-395438bac493` |
 | B13_HangQuan2.png | `41afc209-2130-4cde-bd45-bf337d211332` |
+
+### BG round 2 — remaining plates incl. fantasy (10)
+| File | New ID | Note |
+|---|---|---|
+| B13_HangQuan2.png | `555a718f-836d-41c3-8724-cd945d8f2a1f` | duplicate upload of round 1 `41afc209`; either works |
+| B13_HangQuan3.png | `789a5e96-6c50-4d81-82c5-bb153183dc94` | |
+| B14_Boss.png | `c8394b3d-556c-4229-a4a4-73daafabcfd9` | BOSS arena (old `1c507ac3`) |
+| B14_Boss_Sheet.png | `d42f15fa-c890-462f-9d54-0d55063bcc1b` | BOSS arena sheet |
+| B15_TuongManHinh.png | `e2fab0e1-0afa-4726-ab31-3bfa83179a9e` | screen wall (old `f8cfd99c`) |
+| B16_SongSo.png | `0cc5cb01-897c-4b90-a706-cef1ba043c92` | digital river MAIN (old `d1f11795`) |
+| B16_SongSo2.png | `880c4d73-e265-4a88-be8a-66d6fd353f88` | digital river DRAFT/temporary (old `4693fc18`) |
+| B17_Hanhlang.png | `409ef811-4f88-4a99-a0ea-bd14a5eab41b` | corridor; possibly the entrance tunnel (old `b97b3e97`), to confirm |
+| B18_CongToi.jpg | `7c1e33a4-10da-431a-aec4-b396f2103c77` | dark gate (old `c578fe23`) |
+| B19_BOSS.JPG | `65ec906c-0eac-449c-a7fd-78e71f3eb94c` | BOSS plate, new name; role to confirm |
+
+Not yet seen in BG uploads: fantasy forest (old `d823d7cf`), fantasy gate outside (old `5aa39a50`).
