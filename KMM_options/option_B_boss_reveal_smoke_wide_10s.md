@@ -2,7 +2,7 @@
 
 User request (2026-10-02): "Cho tôi cảnh boss xuất hiện sau những đám khói ở đại cảnh, sáng tạo góc camera".
 
-Status: SUBMITTED 2026-10-02 ~15:37 UTC. Job `bb5b380b-1c72-4416-80ea-e40360d1abdc`. Content not yet reviewed.
+Status: COMPLETED 2026-10-02 (~15:39 UTC). Job `bb5b380b-1c72-4416-80ea-e40360d1abdc`. Content not yet reviewed.
 Settings: Seedance 2.5 omni_reference, draft 480p, 10 s (default, like earlier BOSS reveals), 16:9, no audio, folder MV KMM root, declined preset. ~30 credits.
 Refs: master `24430dd0`, arena `c8394b3d`, BOSS `3db1be87`. No characters (none requested).
 Smoke: colossal CYAN walls/towers in many layers (never purple).
