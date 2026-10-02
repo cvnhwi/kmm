@@ -74,4 +74,13 @@ Request: same as v7, but "Sáng tạo lens camera".
 - 5.5-6.5 s: dolly zoom (vertigo) on her face; the alley stretches and the wolf looms
 - 6.5-8 s: 14 mm ultra-wide at ground level behind the wolf's paws; small Mai far ahead; hold, no lunge
 Refs: master 24430dd0, Mai 0d56fcb2, alley c0accc1d, wolf d07c926b.
-Status: SUBMITTED 2026-10-02. Job `68e6afa2-dfcf-41db-aace-248f581a7cc8`. 8 s. Content not yet reviewed.
+Status: FLAGGED "nsfw" by moderation. Job `68e6afa2-dfcf-41db-aace-248f581a7cc8`. Likely triggers: macro ECU of a child's eye (lashes, reflection) and "wolf right behind her shoulder".
+
+## v8b — creative lens, softened retry
+Changes from v8:
+- Shot 2: macro single eye → tight wide-screen CU across both eyes; no lash or reflection detail.
+- Shot 3: wolf kept "far down the alley" (no "behind her shoulder").
+- Shot 4: dolly zoom without "the wolf looms".
+- Shot 5: no "huge/stretched".
+- Labelled as "suspenseful family-friendly animation".
+Status: SUBMITTED 2026-10-02. Passed moderation at submit; rendering. Job `07c6b701-711b-4952-9a70-acccde17fef4`. 8 s. Content not yet reviewed.
