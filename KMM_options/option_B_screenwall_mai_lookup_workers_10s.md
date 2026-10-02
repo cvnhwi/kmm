@@ -41,3 +41,24 @@ Same shots and the same exact-B15 rule. Changes:
 - Removed "crouches", "shakes its head", "breath".
 - Shorter Character/Expression blocks.
 Status: COMPLETED 2026-10-02 (rendered 16:41 UTC). Job `9c784030-c5c5-4be3-a2cb-6a6f1c791010`. Content not yet reviewed.
+
+## v3 — user re-sent the 4-panel angle ref: "tham khảo các góc camera này để tạo cảnh nhìn lên thấy các nhân vật người xấu làm việc"
+The ref was seen by the assistant in chat.
+- P1: high angle down, wall diagonal at upper right, 5-6 workers.
+- P2: low three-quarter at the wall; a tall worker touches a frame, a second one holds a tablet.
+- P3: OTS CU of a tablet showing a child's portrait, finger pointing.
+- P4: very high wide, about 10 workers.
+
+The ref is NOT attached because uploads from the container are blocked. The angles are described in text. The worker look comes from the 5 villain designs, not from the ref (no head lamp, eye beam or cables). The tablet portrait is kept vague and blurred, with no text.
+Duration 15 s (user gave none; 1 face-only CU + 4 ref angles).
+
+| Time | Shot |
+|---|---|
+| 0-2.5 s | CU Mai, face only, looks up |
+| 2.5-5.5 s | P1 high angle 24 mm |
+| 5.5-8.5 s | P2 low three-quarter 28 mm |
+| 8.5-11.5 s | P3 OTS tablet 50 mm |
+| 11.5-15 s | P4 very high wide 18 mm, crane rise |
+
+Refs: B15 `e2fab0e1`, Mai `0d56fcb2`, 5 villains shuffled (`f448b33f`, `7a051c5e`, `9ee934cf`, `4b93a54a`, `075000e7`), master `24430dd0`.
+Status: SUBMITTED 2026-10-02. Job `af7633f7-970b-46a4-bdb6-2de04c25e418`. 15 s. Content not yet reviewed.
