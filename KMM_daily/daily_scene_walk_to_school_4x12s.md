@@ -1,6 +1,6 @@
 # KMM DAILY — Morning walk to school: alley -> alley mouth -> sidewalk shops -> crossroads (4 x 12 s)
 
-Status: PROMPTS READY, waiting for the user's "gen". Not generated yet. ~36 credits per clip, ~144 total.
+Status: SUBMITTED 2026-10-02. Jobs: 1 Alley `7ad87d1e-a937-4916-85e0-299de221a1a8`, 2 Alley mouth `a2cb9da2-764c-44a0-93f9-d0ae0f760628`, 3 Sidewalk `20f8a8ef-6570-4227-981c-76e7b4545c20`, 4 Crossroads `503a45ed-0bd4-4a04-8d1d-57abda960453`. ~36 credits per clip, ~144 total.
 Style: DAILY (`STYLE_GUIDE_DAILY.md`): Mai ~13, friends ~13, golden rim light, 24 fps lock, NO wide/establishing shots, detailed costume lock.
 
 ## Raccord (identical in all 4 parts)
@@ -42,7 +42,7 @@ DAILY-LIFE MASTER REFERENCE FIRST: Video 1 is the master reference for the style
 
 SPINE: Early morning in her alley: Mai, ready for school, walks toward the mouth of the alley and greets the neighbours one by one.
 
-REFERENCES: Video 1 = style, mood and animation feel only. Image 1 = Mai.Image 2 = the alley: layout and materials only, its daylight re-lit as a fresh early morning. Character images are design only: draw ONE figure of each, never the sheet layout.
+REFERENCES: Video 1 = style, mood and animation feel only. Image 1 = Mai. Image 2 = the alley: layout and materials only, its daylight re-lit as a fresh early morning. Character images are design only: draw ONE figure of each, never the sheet layout.
 
 CHARACTERS:
 Mai is Image 1, about 13 years old, a lower-secondary student: a slimmer oval face with a gently defined chin and jawline, cheeks less round, large dark brown well-proportioned eyes, fair skin with a soft rosy blush; body about 6.5 to 7 heads tall; never baby-faced, never chibi. Short dark brown bob with straight bangs, a small yellow oval hair clip on the right side. School uniform: white short-sleeved sailor shirt with navy blue sailor collar and navy cuffs, red scarf knotted at the centre, high-waisted navy pleated skirt, white low-cut socks, white sneakers with grey laces. Light-blue backpack worn on both shoulders, with a brown diamond-shaped patch on the front and a small yellow star keychain hanging on the right side. Never a hoodie.
@@ -67,7 +67,8 @@ STYLE: Hand-painted finish over a stylized hybrid 3D/2D animation look: watercol
 
 CONSTRAINTS: Exactly one Mai; the only other people are two neighbours (an elderly woman and a middle-aged man), each appearing once. No legible text, letters, numbers, logos or licence plates anywhere: shop signs, product packaging and street signs are blank or show only simple pictures. Every motorbike rider wears a helmet; traffic drives on the right. Children 6.5 to 7 heads tall, adults 7 to 7.5 heads, not chibi.
 
-AVOID: wide shot, extreme wide shot, establishing shot, full-street view, aerial view, deep distant background, horizon, slow motion, speed ramp, frame interpolation, camera shake, mirrored screen direction, characters swapping places, costume change, synchronized crowd, identical gestures, frozen background people, readable text, baby face, chibi, weak or missing rim light, pinkish-white rim, cold white rim, flat lighting, night, dark or muddy skin, exaggerated expressions, wide open mouth, grain or hatching on faces, line boil, floaty weightless motion.```
+AVOID: wide shot, extreme wide shot, establishing shot, full-street view, aerial view, deep distant background, horizon, slow motion, speed ramp, frame interpolation, camera shake, mirrored screen direction, characters swapping places, costume change, synchronized crowd, identical gestures, frozen background people, readable text, baby face, chibi, weak or missing rim light, pinkish-white rim, cold white rim, flat lighting, night, dark or muddy skin, exaggerated expressions, wide open mouth, grain or hatching on faces, line boil, floaty weightless motion.
+```
 
 ## Prompt clip 2
 ```
@@ -109,7 +110,8 @@ STYLE: Hand-painted finish over a stylized hybrid 3D/2D animation look: watercol
 
 CONSTRAINTS: Exactly one Mai, one street cleaner, and the three classmates (Map, Kinh, Dan Toc), each matching their reference, no doubling. No legible text, letters, numbers, logos or licence plates anywhere: shop signs, product packaging and street signs are blank or show only simple pictures. Every motorbike rider wears a helmet; traffic drives on the right. Children 6.5 to 7 heads tall, adults 7 to 7.5 heads, not chibi.
 
-AVOID: wide shot, extreme wide shot, establishing shot, full-street view, aerial view, deep distant background, horizon, slow motion, speed ramp, frame interpolation, camera shake, mirrored screen direction, characters swapping places, costume change, synchronized crowd, identical gestures, frozen background people, readable text, baby face, chibi, weak or missing rim light, pinkish-white rim, cold white rim, flat lighting, night, dark or muddy skin, exaggerated expressions, wide open mouth, grain or hatching on faces, line boil, floaty weightless motion.```
+AVOID: wide shot, extreme wide shot, establishing shot, full-street view, aerial view, deep distant background, horizon, slow motion, speed ramp, frame interpolation, camera shake, mirrored screen direction, characters swapping places, costume change, synchronized crowd, identical gestures, frozen background people, readable text, baby face, chibi, weak or missing rim light, pinkish-white rim, cold white rim, flat lighting, night, dark or muddy skin, exaggerated expressions, wide open mouth, grain or hatching on faces, line boil, floaty weightless motion.
+```
 
 ## Prompt clip 3
 ```
@@ -150,7 +152,8 @@ STYLE: Hand-painted finish over a stylized hybrid 3D/2D animation look: watercol
 
 CONSTRAINTS: Exactly one Mai and the three classmates, each matching their reference, no doubling; one shop owner; a few passing helmeted motorbike riders in soft background. No legible text, letters, numbers, logos or licence plates anywhere: shop signs, product packaging and street signs are blank or show only simple pictures. Every motorbike rider wears a helmet; traffic drives on the right. Children 6.5 to 7 heads tall, adults 7 to 7.5 heads, not chibi.
 
-AVOID: wide shot, extreme wide shot, establishing shot, full-street view, aerial view, deep distant background, horizon, slow motion, speed ramp, frame interpolation, camera shake, mirrored screen direction, characters swapping places, costume change, synchronized crowd, identical gestures, frozen background people, readable text, baby face, chibi, weak or missing rim light, pinkish-white rim, cold white rim, flat lighting, night, dark or muddy skin, exaggerated expressions, wide open mouth, grain or hatching on faces, line boil, floaty weightless motion.```
+AVOID: wide shot, extreme wide shot, establishing shot, full-street view, aerial view, deep distant background, horizon, slow motion, speed ramp, frame interpolation, camera shake, mirrored screen direction, characters swapping places, costume change, synchronized crowd, identical gestures, frozen background people, readable text, baby face, chibi, weak or missing rim light, pinkish-white rim, cold white rim, flat lighting, night, dark or muddy skin, exaggerated expressions, wide open mouth, grain or hatching on faces, line boil, floaty weightless motion.
+```
 
 ## Prompt clip 4
 ```
@@ -192,4 +195,6 @@ STYLE: Hand-painted finish over a stylized hybrid 3D/2D animation look: watercol
 
 CONSTRAINTS: Exactly one Mai, one security guard and the three classmates, each matching their reference, no doubling; a few helmeted motorbike riders who stop. No legible text, letters, numbers, logos or licence plates anywhere: shop signs, product packaging and street signs are blank or show only simple pictures. Every motorbike rider wears a helmet; traffic drives on the right. Children 6.5 to 7 heads tall, adults 7 to 7.5 heads, not chibi.
 
-AVOID: wide shot, extreme wide shot, establishing shot, full-street view, aerial view, deep distant background, horizon, slow motion, speed ramp, frame interpolation, camera shake, mirrored screen direction, characters swapping places, costume change, synchronized crowd, identical gestures, frozen background people, readable text, baby face, chibi, weak or missing rim light, pinkish-white rim, cold white rim, flat lighting, night, dark or muddy skin, exaggerated expressions, wide open mouth, grain or hatching on faces, line boil, floaty weightless motion.```
+AVOID: wide shot, extreme wide shot, establishing shot, full-street view, aerial view, deep distant background, horizon, slow motion, speed ramp, frame interpolation, camera shake, mirrored screen direction, characters swapping places, costume change, synchronized crowd, identical gestures, frozen background people, readable text, baby face, chibi, weak or missing rim light, pinkish-white rim, cold white rim, flat lighting, night, dark or muddy skin, exaggerated expressions, wide open mouth, grain or hatching on faces, line boil, floaty weightless motion.
+```
+
