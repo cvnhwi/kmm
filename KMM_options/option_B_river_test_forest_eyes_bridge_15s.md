@@ -3,7 +3,7 @@
 User request (2026-10-02): "Tạo cảnh Mai đi giữa dòng sông số nhưng bản test, Mai vừa chạy vào thở mệt, sau đó nhìn xung quanh thì thấy những ánh mắt ở xung quanh khu rừng nhìn, sau đó sợ hãi chạy tiếp. sau đó chạy thẳng qua cầu. Sáng tạo góc camera, con sông có các profile chạy thẳng về xa, xung quanh camera có di chuyển".
 Variant of `option_B_river_test_spider_scare_bridge_15s.md` (spider replaced by watching eyes).
 
-Status: SUBMITTED 2026-10-02 ~13:52 UTC. Job `736d3eba-1931-4fe6-a4e9-be3850e66fc3`. Content not yet reviewed.
+Status: COMPLETED 2026-10-02 (~13:55 UTC). Job `736d3eba-1931-4fe6-a4e9-be3850e66fc3`. Content not yet reviewed.
 Settings: Seedance 2.5 omni_reference, draft 480p, 15 s, 16:9, no audio, folder MV KMM `11749213…` (new account), declined preset. ~45 credits.
 Refs: master `24430dd0`, Mai fantasy `0d56fcb2`, TEST river plate `B16_SongSo2` `880c4d73`. Forest plate not attached (not yet re-uploaded on the new account).
 

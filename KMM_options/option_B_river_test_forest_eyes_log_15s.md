@@ -3,7 +3,7 @@
 User request (2026-10-02): same as the forest-eyes bridge clip, but ending "chạy thẳng qua cây gỗ bắt ngang giữa đường".
 Variant of `option_B_river_test_forest_eyes_bridge_15s.md` (bridge replaced by a fallen log).
 
-Status: SUBMITTED 2026-10-02 ~13:55 UTC. Job `8cd9b048-a791-49d5-8ad1-13917364fbdf`. Content not yet reviewed.
+Status: COMPLETED 2026-10-02 (~13:57 UTC). Job `8cd9b048-a791-49d5-8ad1-13917364fbdf`. Content not yet reviewed.
 Settings: Seedance 2.5 omni_reference, draft 480p, 15 s, 16:9, no audio, folder MV KMM root `11749213…`, declined preset. ~45 credits.
 Refs: master `24430dd0`, Mai fantasy `0d56fcb2`, TEST river plate `B16_SongSo2` `880c4d73`.
 
