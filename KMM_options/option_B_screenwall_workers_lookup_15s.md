@@ -22,3 +22,11 @@ The ref image could NOT be attached: upload to upload.higgsfield.ai is blocked b
 | 5.5-8.5 s | low three-quarter at the wall (P2) | 35 mm push-in | one taps a frame, second shows its tablet; silent talk |
 | 8.5-11.5 s | OTS CU tablet (P3) | 50 mm shallow | girl's portrait glitches under a finger; another leans in |
 | 11.5-15 s | very high wide (P4) | 24 mm slow crane | ~10 workers conferring; nearest one's beam swings toward Mai's hiding spot |
+
+## v2 (2026-10-02) — user: "giữ nguyên prompt và góc máy; dùng nhân vật đúng như nhân vật người xấu; số lượng đông hơn; hành động khác nhau"
+Status: SUBMITTED. Job `ddd495d1-355d-46d8-824d-f16453f7364e`. Content not yet reviewed.
+Same 5 shots / angles as v1. Changes:
+- Removed the invented worker look from the 4-panel (single eye-lamp beam, trailing cables). Every worker = EXACTLY the night-shadow person design `2f07fe73` (Image 3), no added lamps/cables/helmets; eyes glow as in the design.
+- New [Crowd] block: ~40-60 workers in uneven rows and clusters receding into the haze.
+- New [Different actions] block: 15+ distinct actions spread across the crowd (tap a frame, swipe, drag a portrait to the tablet, type, compare tablet with wall, pairs pointing, pass a tablet, explain/nod, carry a stack, study a frame, shake head, climb a step, huddles of three, beckon, heads-down work), staggered timing.
+- Shot 5 end: the nearest worker turns its HEAD (no eye beam) toward Mai's hiding spot.
