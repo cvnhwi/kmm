@@ -63,6 +63,7 @@ If the user says they are not attaching the video (or it is unavailable), warn t
 | Mai's phone | phone sheet (sky-blue case, yellow buttons, cat+dog sticker) | `66324bdf-1d17-4e3c-b10e-545427e88712` |
 | Mom's photo (only as a round photo on the phone) | mom photo | `d318bcb9-4768-43e3-95f0-14463b434891` |
 | Plate: fantasy gate (outside) | gate | `5aa39a50-f435-41b1-8f99-def9153bc90f` |
+| Plate: dark gate (Cổng tối) | `B18_CongToi.jpg` (added 2026-10-02) | `c578fe23-9b72-4e39-8dd0-baf8672fd9df` |
 | Plate: fantasy entrance tunnel / cave | tunnel with old monitors | `b97b3e97-5b27-4deb-92ea-a10693bc61e9` |
 | Plate: alley (relit as gloomy night) | `B02_Hem1_Day` | `875ca1de-fe82-40c9-aaa3-1fae77e08461` |
 | Plate: fantasy forest | forest | `d823d7cf-984c-4298-a9ab-62cd1b809b0b` |

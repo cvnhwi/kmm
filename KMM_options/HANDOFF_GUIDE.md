@@ -38,6 +38,7 @@ Cập nhật: 2026-10-01 ~16:50 UTC. Repo `cvnhwi/kmm`, branch `claude/gracious-
 | **Phòng Boss** | `1c507ac3-2db9-4d1e-b5e0-53fe183687e5` | `B14_Boss.png` (thay `f1ae9d0a…`, `076ec352…`) |
 | Não Boss | `9e4e6ae8-eeb8-46be-9151-6ad1a25056e9` | mắt trắng-xanh (giữ theo thiết kế user) |
 | Cổng lớn | `5aa39a50-f435-41b1-8f99-def9153bc90f` | |
+| **Cổng tối** (mới) | `c578fe23-9b72-4e39-8dd0-baf8672fd9df` | `B18_CongToi.jpg` (thêm 2026-10-02, không thay cổng lớn) |
 | Người bóng đêm | `2f07fe73-628d-4761-aeff-0b32446d8a0c` | |
 | Quạ / Nhện | `6a271d30-4602-4348-8042-8728526956c5` / `cdcbdc48-05d0-…` | |
 | Bố fantasy / Mẹ fantasy | `f9500265-b7a9-485e-8720-ef2f16f0503c` / `0d42f68e-37cb-44c1-8930-29d212572dbc` | |
