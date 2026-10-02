@@ -56,7 +56,7 @@ Status: COMPLETED 2026-10-02 (rendered 16:14 UTC). Job `6a68d8b0-b0df-4a03-af27-
 Same 4 shots as v5; the gate light is now only a gentle low-intensity cyan wash with a very slight shimmer and small catchlights (no golden sparkles); shot 4 gate glow softened too. Avoid adds strong/bright/flashy light on her face, sparkles, lens flares.
 
 ## v7 (2026-10-02) — user: eyes-only version WITHOUT the gate light, "sáng tạo góc camera"
-Status: SUBMITTED 2026-10-02 ~16:19 UTC. Job `ab5afede-0a58-45a9-95ed-f6a7750b8864`. 8 s, 5 shots. Content not yet reviewed.
+Status: COMPLETED 2026-10-02 (rendered 16:15 UTC). Job `ab5afede-0a58-45a9-95ed-f6a7750b8864`. 8 s, 5 shots. Content not yet reviewed.
 | Time | Shot | Action |
 |---|---|---|
 | 0-2.5 s | frontal full-screen CU, creeping push-in | frozen, stuttering lamp light on her face |
