@@ -26,11 +26,11 @@ Changes vs v1 (clearer geometry): camera LOCKED OFF frontal, no arc; the alley a
 | 4-6 s | rack focus to the wolf crouched down the alley behind her, ready to lunge; hold |
 
 ## v3 (2026-10-02) — user: same + "đèn đường chập chờn (trời hơi tối)"
-Status: SUBMITTED 2026-10-02 ~16:03 UTC. Job `fc070633-a7bd-4ec1-8e78-20c7da45e3e2`. 6 s. Content not yet reviewed.
+Status: COMPLETED 2026-10-02 (~16:06 UTC). Job `fc070633-a7bd-4ec1-8e78-20c7da45e3e2`. 6 s. Content not yet reviewed.
 Same locked frontal CU → head turn → rack focus as v2. Changes: darker night (dim heavy overcast, little ambient light); old street lamps FLICKER at irregular random times, each on its own timing, so the light on her face stutters; at the reveal the lamp cuts out for a beat (only the wolf's flat eyes visible) then sputters back. Soft face fill kept so she stays readable. Avoid adds lamps flickering in sync/on a beat, long full-black frames.
 
 ## v4 (2026-10-02) — user: v3 + "sáng tạo góc camera"
-Status: SUBMITTED 2026-10-02 ~16:05 UTC. Job `b5f4fe24-8406-4720-a467-f3aa749e1863`. 8 s (extended from 6 s to fit 5 shots), hard cuts. Content not yet reviewed.
+Status: COMPLETED 2026-10-02 (~16:07 UTC). Job `b5f4fe24-8406-4720-a467-f3aa749e1863`. 8 s (extended from 6 s to fit 5 shots), hard cuts. Content not yet reviewed.
 | Time | Shot | Camera | Action |
 |---|---|---|---|
 | 0-2.5 s | frontal full-screen CU | dead straight, creeping push-in | stuttering lamp light on her face, listening |
