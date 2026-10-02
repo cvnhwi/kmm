@@ -161,6 +161,16 @@ Status: COMPLETED 2026-10-02 (~15:13 UTC). Job `a7c05d89-3df5-451e-92b6-ddcf41d4
 | 8-10 s | floor level → tilt up | empty corner, fight light still flickering, smoke hole closes |
 
 ## v12 (2026-10-02) — user: v11 but "giây 2 kéo lên cao tốc độ vừa phải"
-Status: SUBMITTED 2026-10-02 ~15:15 UTC. Job `ebc23a66-811c-4569-8a4f-f181b4e3fd58`. 10 s, 6 shots. Content not yet reviewed.
+Status: COMPLETED 2026-10-02 (~15:16 UTC). Job `ebc23a66-811c-4569-8a4f-f181b4e3fd58`. 10 s, 6 shots. Content not yet reviewed.
 Conflict flagged: the request still opens with "tốc độ nhanh", but the beat line says moderate → followed the specific beat line.
 Changes vs v11: lift = MODERATE, steady, 2 s (7-9 s), camera tilting up with her, she stays visible rising (legs dangling, gripping the tentacle, looking down) until the smoke swallows her legs last; aftermath shortened to 9-10 s. Avoid swaps "easing during the yank" for "a violent instant yank".
+
+## v13 (2026-10-02) — user: v12 + "ở tường trống, không có các hình ảnh profile vì đây là góc đối diện"
+Status: SUBMITTED 2026-10-02 ~15:19 UTC. Job `27fb8d41-1773-4a3f-95dd-40940c90f7d0`. 10 s. Content not yet reviewed.
+- Opposite corner of the screen-wall hall: two plain BLANK dark walls (subtle panel seams only); no screens/monitors/profile pictures/frames; the screen wall is behind the camera and never in frame. Plate used only for materials, palette, floor and light. [Monitors] block removed. Smoke ceiling kept; moderate 2 s lift (7-9 s).
+
+## v14 (2026-10-02) — user (mid-turn): v12 but "Phía trên không có khói"
+Status: SUBMITTED 2026-10-02 ~15:20 UTC. Job `01376012-12c5-4fd8-817f-030a857fe841`. 10 s. Content not yet reviewed.
+Conflict flagged: same message also says "chỉ là khói xung quanh" → smoke kept only around her (floor/waist level, frame sides); NOTHING above: the hall rises into clear deep darkness. Message did not repeat the blank-wall note → screen-wall corner as in v12 (screens beside her, [Monitors] block).
+- Tentacle descends from the dark heights; shot 3 = very high top-down from the dark heights; she is lifted at moderate speed until she fades into the darkness above (no smoke to swallow her); floor smoke closes over her spot.
+- Avoid adds: smoke above her / smoke ceiling.
