@@ -2,7 +2,7 @@
 
 The user switched to a new Higgsfield account. Media IDs are per account, so **every ID in `HANDOFF_GUIDE.md`, `STYLE_GUIDE_B.md` and the skill file belongs to the OLD account** and will not work on the new one. Re-upload the files below. The assistant then replaces each old ID with the new one in all guides and in the skill.
 
-Status: WAITING FOR UPLOADS. Nothing has been re-uploaded yet.
+Status: NOT NEEDED (checked 2026-10-02). After reconnecting, Higgsfield shows the SAME private workspace `7d16e180-91e1-4bfc-a35e-8eed97d27b03`: folder MV KMM `fef878e4…` still exists with today's jobs (e.g. `31ee52eb`, `68589847`), so all existing media IDs remain valid. Keep this checklist only for a real account change (different workspace ID).
 
 ## Steps
 1. Reconnect Higgsfield (new account) at https://claude.ai/customize/connectors, then start a new Claude session. Connectors only load at session start.
