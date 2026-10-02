@@ -209,6 +209,6 @@ Status: COMPLETED 2026-10-02 (~15:48 UTC). Job `c203ef58-6c22-45e6-9f66-7b3d31cb
 Interpretation (flagged): the location is now the B15 plate's own wall/layout kept exactly (no longer an invented plain wall), with several metres of empty floor between Mai and the wall; any screens on that wall stay dark / faint static, never profile pictures or faces. Same side-on gap shots, moderate lift, plastic pointed tentacle, no smoke above. Avoid adds profile pictures/faces/photos on screens, changing the hall layout.
 
 ## v22 (2026-10-02) — user: v21 + "góc tường (không có profile, chỉ là tường trong cùng bối cảnh)"
-Status: SUBMITTED 2026-10-02 ~15:49 UTC. Job `69504489-6923-4669-9304-ed15ca1649a7`. 10 s. Content not yet reviewed.
+Status: COMPLETED 2026-10-02 (~15:52 UTC). Job `69504489-6923-4669-9304-ed15ca1649a7`. 10 s. Content not yet reviewed.
 - The wall is a bare SECTION of the same hall: built exactly like the B15 hall walls (same material, structural lines, panels, columns, colour) but with no screens/profiles/faces/frames; it meets a side wall in a corner. Several metres of empty floor between Mai and the wall.
 - Otherwise as v21: side-on gap shots, no smoke above, floor smoke, plastic pointed tentacle, moderate 2 s lift, watching the off-screen fight. Avoid adds a wall that looks like a different place.
