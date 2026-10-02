@@ -194,6 +194,7 @@ Shot N (...-15 s), ...: ...
   - Light: cold cyan-teal backlight.
 - **Digital river:**
   - The river is a HOLOGRAM, not water. Anything that touches it makes glowing pixels, scan lines and a glitch ripple, never splashes.
+- DIGITAL RIVER crossing (user 2026-10-02, with a frame ref): Mai crosses the river on a FALLEN TREE LOG lying horizontally across the whole river, bank to bank, slightly above the cards; she runs along its top in side profile, screen L → R, arms slightly out, cyan rim. Hero frame: low wide side view from the near bank at water level, log spanning the full frame, glowing cards in the foreground below it, dark gnarled trees with roots/vines framing both sides (one with red veins), cyan light beam behind, storm clouds. No built bridge. Note: the ref frame shows realistic eyes WITH irises/pupils in the trees; the no-pupil rule still applies unless the user overrides it.
   - Mai stays on the dry bank and never walks on the river.
   - Profile cards fly in layers (foreground, middle, background) and swirl toward the vortex centre.
 - **BOSS arena:**

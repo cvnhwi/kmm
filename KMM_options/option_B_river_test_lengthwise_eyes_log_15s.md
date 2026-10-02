@@ -29,3 +29,9 @@ Changes vs v1:
 - Log shown from shot 1 (far ahead), again behind her in shot 6, in the drone shot 7 and filling the foreground left-to-right in shot 8 (vault over the log).
 - Timing: drone 11.5-13 s, vault 13-15 s (vault shot +0.5 s).
 - Avoid adds: log missing / hidden in darkness / lying along the path / turned into a bridge.
+
+## v3 (2026-10-02) — user sent a frame ref: "cảnh dòng sông phải để nhân vật chạy trên cây gỗ bắt ngang như hình ref này"
+Ref frame (from an earlier clip): low wide side view, a fallen log spanning the river horizontally, Mai in side profile running L → R on it, cards in the foreground river, dark gnarled trees with vines/red veins, eyes in the trees, cyan beam behind.
+Status: SUBMITTED 2026-10-02 ~14:18 UTC. Job `de8de148-2698-4cf8-9e07-84f52a109378`. Content not yet reviewed.
+Changes vs v2: the log now lies ACROSS THE RIVER (bank to bank) again, not across the bank path. Mai runs in lengthwise along the bank (shots 1-6 as v2), then turns onto the log; shot 7 (11-15 s) is a 4 s hero shot recreating the ref frame (low side view at water level, slow truck right, she crosses L → R and jumps onto the far bank).
+Rule conflict flagged: the ref frame's eyes have irises/pupils; prompt keeps "no pupils" (house rule) until the user says otherwise.
