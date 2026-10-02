@@ -41,7 +41,7 @@ Status: COMPLETED 2026-10-02 (~16:07 UTC). Job `b5f4fe24-8406-4720-a467-f3aa749e
 Note: the Avoid list contains a stray self-correction fragment ("Mai's pupils visible? keep Mai's eyes normal as in Image 1"); intent: Mai's eyes stay normal, only the wolf has no pupils.
 
 ## v5 (2026-10-02) — user: "đánh mắt (eyes only) … Trước mặt Mai là cổng fantasy nên sẽ có light effect lên da mặt; sáng tạo góc camera"
-Status: SUBMITTED 2026-10-02 ~16:12 UTC. Job `1ac47d72-de03-4b84-9fc0-e16390fa5ea4`. 8 s, 4 shots. Content not yet reviewed.
+Status: COMPLETED 2026-10-02 (~16:16 UTC). Job `1ac47d72-de03-4b84-9fc0-e16390fa5ea4`. 8 s, 4 shots. Content not yet reviewed.
 - The fantasy gate is in front of Mai, behind the camera (off-screen; the outside fantasy-gate plate is not on the new account, so it is only light): rippling cyan-turquoise glow with tiny golden sparkles on her face + catchlights; flickering street lamps behind her give a stuttering rim.
 - Eyes only (no head turn) in shots 2-3.
 | Time | Shot | Action |
@@ -50,3 +50,7 @@ Status: SUBMITTED 2026-10-02 ~16:12 UTC. Job `1ac47d72-de03-4b84-9fc0-e16390fa5e
 | 2.5-3.5 s | ECU eyes with the gate reflected | eyes shift sideways/back, head still |
 | 3.5-6 s | frontal CU offset, rack focus face → alley behind | wolf crouched under a flickering lamp; lamp cuts, only eyes, sputters back |
 | 6-8 s | reverse wide from low behind the wolf | wolf silhouette huge in the foreground; small Mai beyond, outlined by the cyan blaze of the gate at the alley's end; hold |
+
+## v6 (2026-10-02) — user: v5 but "hơi có light effect lên da mặt" (subtle)
+Status: SUBMITTED 2026-10-02 ~16:17 UTC. Job `6a68d8b0-b0df-4a03-af27-e4101f601f99`. 8 s. Content not yet reviewed.
+Same 4 shots as v5; the gate light is now only a gentle low-intensity cyan wash with a very slight shimmer and small catchlights (no golden sparkles); shot 4 gate glow softened too. Avoid adds strong/bright/flashy light on her face, sparkles, lens flares.
