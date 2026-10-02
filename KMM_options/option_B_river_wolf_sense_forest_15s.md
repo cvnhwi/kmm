@@ -40,3 +40,11 @@ Different camera plan that makes the geography readable in every shot:
 | 8-11 s | low front on the path | camera rushing backward | sprints south, river along screen-left edge behind the rocky lip |
 | 11-15 s | high wide crane over the land side | slow rise + tilt | whole layout: river channel, bank path, forest; tiny Mai runs into the trees, eyes watching |
 Note: tried to add the earlier bank clip `e4be08eb` as a 2nd video ref — not used (generated 480p clip without audio track is the format that failed before; a transcode would be needed).
+
+## v4 option (2026-10-02) — user: "Tạo lại một option như trên nữa, để ý phần lighting khớp với background"
+Status: SUBMITTED. Job `3cbdd6fa-2ef9-470e-9e92-c7cd29091e43`. Content not yet reviewed.
+Same geography + shots as v3. Lighting changes:
+- Removed invented colour specifics (cyan-violet key, moonlight shafts) because the plates were never seen by the assistant; lighting now says "match Image 2 (river) / Image 3 (forest) exactly": same key direction, colour temperature, brightness, contrast, black level, fog.
+- Mai's character sheet used for design only, NOT its lighting.
+- New [Lighting & Integration] block: light only from visible sources; river-side bounce, land side in the rocks' shadow tone, rim from river/vortex; forest light takes over gradually; Mai's exposure/saturation/sharpness equal to the background; contact shadows, AO, mist in front and behind, depth haze.
+- Avoid: pasted/composited look, studio key light, Mai brighter or more saturated than the scene, mismatched colour temperature.
