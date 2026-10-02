@@ -32,6 +32,6 @@ Same 5 shots / angles as v1. Changes:
 - Shot 5 end: the nearest worker turns its HEAD (no eye beam) toward Mai's hiding spot.
 
 ## v3 (2026-10-02) — user: "Tạo lại scene bé Mai nhìn lên những người xấu với data mới… đông vừa phải… có người cầm tablet, có người không, có người di chuyển bình thường, hành động tách biệt"
-Status: SUBMITTED. Job `e8a481c1-7223-41fe-b59c-91d61bd34dcf`. Content not yet reviewed.
+Status: COMPLETED 2026-10-02. Job `e8a481c1-7223-41fe-b59c-91d61bd34dcf`. Content not yet reviewed.
 Same 5 shots / angles. Data: NEW screen-wall plate `f8cfd99c`; villain pool of 5 designs as Images 3-7 (`2f07fe73`, `6fecf90d`, `9b267259`, `23145048`, `7c314fff`), mixed randomly, each copied exactly, no hybrids.
 Crowd: moderate, ~15-25 in loose groups at different depths. Actions split ~1/3 with tablets, ~1/3 no tablet (wall work, studying, climbing a step, pointing), ~1/3 just walking through at different paces/directions; a few silent-talk pairs that separate again. Avoid: everyone with a tablet, everyone still, packed crowd.
