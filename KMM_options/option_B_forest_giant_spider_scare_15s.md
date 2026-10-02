@@ -2,7 +2,7 @@
 
 User request (2026-10-02): "Chạy giữa rừng fantasy, sáng tạo góc camera. Đang giữa chừng thì gặp nhện khổng lồ hù từ trên xuống. Mai giật mình quay lưng chạy hướng khác".
 
-Status: SUBMITTED 2026-10-02 ~14:03 UTC. Job `7233e1ec-97fe-4894-95a5-a4ec5a58d5d3`. Content not yet reviewed.
+Status: COMPLETED 2026-10-02 (~14:08 UTC). Job `7233e1ec-97fe-4894-95a5-a4ec5a58d5d3`. Content not yet reviewed.
 Settings: Seedance 2.5 omni_reference, draft 480p, 15 s, 16:9, no audio, folder MV KMM root `11749213…`, declined preset. ~45 credits.
 Refs: master `24430dd0`, Mai fantasy `0d56fcb2`, spider `00ac4f6b`.
 ⚠️ NO forest plate attached: the fantasy forest plate (old `d823d7cf`) is not on the new account yet → forest described in text + Video 1 look. Regen with the plate once uploaded.
