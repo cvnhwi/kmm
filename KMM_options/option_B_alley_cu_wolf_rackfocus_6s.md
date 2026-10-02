@@ -54,3 +54,14 @@ Status: COMPLETED 2026-10-02 (~16:16 UTC). Job `1ac47d72-de03-4b84-9fc0-e16390fa
 ## v6 (2026-10-02) — user: v5 but "hơi có light effect lên da mặt" (subtle)
 Status: SUBMITTED 2026-10-02 ~16:17 UTC. Job `6a68d8b0-b0df-4a03-af27-e4101f601f99`. 8 s. Content not yet reviewed.
 Same 4 shots as v5; the gate light is now only a gentle low-intensity cyan wash with a very slight shimmer and small catchlights (no golden sparkles); shot 4 gate glow softened too. Avoid adds strong/bright/flashy light on her face, sparkles, lens flares.
+
+## v7 (2026-10-02) — user: eyes-only version WITHOUT the gate light, "sáng tạo góc camera"
+Status: SUBMITTED 2026-10-02 ~16:19 UTC. Job `ab5afede-0a58-45a9-95ed-f6a7750b8864`. 8 s, 5 shots. Content not yet reviewed.
+| Time | Shot | Action |
+|---|---|---|
+| 0-2.5 s | frontal full-screen CU, creeping push-in | frozen, stuttering lamp light on her face |
+| 2.5-3.5 s | ECU eyes | eyes slide sideways and back, head still |
+| 3.5-5.5 s | frontal CU offset, rack focus face → alley | wolf crouched under a flickering lamp; lamp cuts, only eyes, back on |
+| 5.5-6.5 s | straight top-down high above the alley | Mai in a flickering pool of light, wolf crouched metres behind on the same line |
+| 6.5-8 s | ground level behind the wolf's paws, wide lens | wolf silhouette large in the foreground, small frozen Mai ahead; hold, no lunge |
+Avoid adds magical/cyan light on her face (gate removed).
