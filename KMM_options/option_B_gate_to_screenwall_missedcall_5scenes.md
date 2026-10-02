@@ -23,7 +23,7 @@ Settings: Seedance 2.5 omni_reference, draft 480p, 16:9, no audio, folder MV KMM
 | 4-10 s | MS 50 mm inside | Mai leans on the closed doors, slides down to sit, catches her breath; startled jolt; fast smooth push-in to a CU of her alarmed face |
 
 Refs: Mai `0d56fcb2`, B18 `7c1e33a4`, B15 `e2fab0e1`, master `24430dd0`.
-Status: SUBMITTED. Job `6b29a328-e3ab-49cc-bf62-bdb11bcc174a`. Content not yet reviewed.
+Status: COMPLETED 2026-10-02 (rendered 16:43 UTC). Job `6b29a328-e3ab-49cc-bf62-bdb11bcc174a`. Content not yet reviewed.
 
 ## Clip B (scenes 3-5), 10 s
 | Time | Shot | Action |
@@ -33,4 +33,18 @@ Status: SUBMITTED. Job `6b29a328-e3ab-49cc-bf62-bdb11bcc174a`. Content not yet r
 | 7.5-10 s | POV phone | Mom's avatar, red missed-call icon and badge, blank name bar; slight hand tremble |
 
 Refs: B15 `e2fab0e1`, Mai `0d56fcb2`, phone `b7eeb576`, Mom fantasy `a6286ab4`, 5 villains shuffled, master `24430dd0`.
-Status: SUBMITTED. Job `83590c37-681e-42af-88c2-d7cf5c7064bb`. Content not yet reviewed.
+Status: COMPLETED 2026-10-02 (rendered 16:43 UTC). Job `83590c37-681e-42af-88c2-d7cf5c7064bb`. Content not yet reviewed.
+
+## Clip C — scenes 2-5 in ONE 15 s clip (user resent scenes 2-5 without scene 1)
+Interpretation (flagged): the user wants scenes 2-5 as one continuous clip inside the building, without the gate exterior. Everything is in B15. The doors are on the back wall and the workers face the far monitor wall with their backs to the doors. Mai hides in the corner beside the doors.
+
+| Time | Scene | Shot | Action |
+|---|---|---|---|
+| 0-3 s | 2 | MS 50 mm static | leans on the closed doors, slides down to sit, catches her breath |
+| 3-5 s | 2 | same angle → push-in | off-screen sound, she jolts; smooth fast push-in to a CU of her alarmed face |
+| 5-8.5 s | 3 | wide 24 mm from behind the workers | 20-30 backs, each with a different task; nobody turns |
+| 8.5-12 s | 4 | MS 35 mm | scrambles up, hurries along the back wall into the corner, takes out the phone and holds it vertically |
+| 12-15 s | 5 | POV phone | Mom's avatar, red missed-call icon and badge, blank name bar (add "Mẹ" in post) |
+
+Refs: B15 `e2fab0e1`, Mai `0d56fcb2`, phone `b7eeb576`, Mom fantasy `a6286ab4`, 5 villains shuffled, master `24430dd0`.
+Status: SUBMITTED 2026-10-02. Job `b8f392ff-4fe0-4116-80b0-1eae02808ae4`. 15 s. Content not yet reviewed.
