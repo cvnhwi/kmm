@@ -124,8 +124,15 @@ Refs: master, Mai, arena `c8394b3d` (no BOSS ref attached). Same interpretation:
 | 9.5-12 s | floor-level, slow push-in → tilt up | empty spot, smoke rolls back, sparks die; hole in the ceiling swirls closed |
 
 ## BOSS scene 1 — single cable v7, 12 s, wall corner, no sparks on contact (2026-10-02) — user: v6 + "Mai ở phía góc tường; không có effect tia lửa khi chạm vào Mai"
-Status: SUBMITTED 2026-10-02 ~15:00 UTC. Job `305ef2ac-0dd6-4beb-a231-13bec31c5d45`. 12 s, 6 shots. Content not yet reviewed.
+Status: COMPLETED 2026-10-02 (~15:00 UTC). Job `305ef2ac-0dd6-4beb-a231-13bec31c5d45`. 12 s, 6 shots. Content not yet reviewed.
 - Mai pressed into a tall corner where two walls meet at the outer edge of the BOSS arena (assumed location; the arena plate has no defined corner).
 - Cable: only faint cold light pulses along it; NO sparks / flashes / glow on contact (clean silent wrap). Avoid adds sparks, electric flashes, lightning, glow on contact.
 - Shots: wide creep toward the corner → side CU, palms on the walls, eyes up → top-down from inside the smoke ceiling, cable tip hangs above her → WRAP 7.5-8.5 s (waist CU) → YANK 8.5-9.5 s up along the corner into the smoke, gone → empty corner, tilt up the walls, hole closes.
 - Note: shot 6 text contains a stray self-correction ("one small strand of her hair ribbon? no, nothing left"); intent is an empty corner.
+
+## BOSS scene 1 — v8, 12 s, PLASTIC pointed tentacle, Mai SITTING in the corner (2026-10-02) — user: v7 + "đổi thành xúc tu nhựa, nhọn; Mai đang ngồi trong góc tường"
+Status: SUBMITTED 2026-10-02 ~15:03 UTC. Job `3b3ccdcc-e2b1-4a4e-ae8f-908e19353a3c`. 12 s, 6 shots. Content not yet reviewed.
+- Tentacle: ONE smooth glossy dark plastic segmented tube tapering to a sharp pointed tip; no electricity/sparks/glow; the tip never touches or pokes her, only the body coils twice around her waist.
+- Mai sits huddled in the corner, knees to chest; yanked up from sitting.
+- Same 6-shot structure and timing as v7 (wrap 7.5-8.5 s, yank 8.5-9.5 s); clean prompt (v7's stray shot-6 text removed).
+- Avoid adds: electric cables/wires, tip piercing her, Mai standing at the start, blood.
