@@ -59,7 +59,7 @@ If the user says they are not attaching the video (or it is unavailable), warn t
 | Smoke wolf (Sói bóng đêm) | wolf sheet | `f48ff106-d9d6-4233-a770-d36f768a1f64` |
 | Smoke crow (Quạ) | crow sheet | `6a271d30-4602-4348-8042-8728526956c5` |
 | Smoke spider (Nhện) | spider sheet | `cdcbdc48-05d0-4875-b2c4-eb77a56cb96b` |
-| BOSS brain with cable tentacles | boss brain image | `9e4e6ae8-eeb8-46be-9151-6ad1a25056e9` |
+| BOSS: giant brain with cable tentacles | `25_BOss.png` (updated 2026-10-02; never use old `9e4e6ae8…`) | `46c623a4-deab-4a16-a049-98c6cbd558d5` |
 | Mai's phone | phone sheet (sky-blue case, yellow buttons, cat+dog sticker) | `66324bdf-1d17-4e3c-b10e-545427e88712` |
 | Mom's photo (only as a round photo on the phone) | mom photo | `d318bcb9-4768-43e3-95f0-14463b434891` |
 | Plate: fantasy gate (outside) | gate | `5aa39a50-f435-41b1-8f99-def9153bc90f` |

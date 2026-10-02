@@ -36,7 +36,7 @@ Cập nhật: 2026-10-01 ~16:50 UTC. Repo `cvnhwi/kmm`, branch `claude/gracious-
 | **Dòng sông số** | `d1f11795-f7e4-49bf-9964-9b6c5dcc1015` | `B16_SongSo.png` (thay `fa8a5475…`) |
 | **Tường màn hình** | `ebb49e7c-0834-4999-83f0-1c06fcbcc878` | `B15_TuongManHinh.png` (cập nhật 2026-10-02; thay `54a5db90…`, `b59fa3e7…`, `b5785b69…`, `b331cb43…`) |
 | **Phòng Boss** | `1c507ac3-2db9-4d1e-b5e0-53fe183687e5` | `B14_Boss.png` (thay `f1ae9d0a…`, `076ec352…`) |
-| Não Boss | `9e4e6ae8-eeb8-46be-9151-6ad1a25056e9` | mắt trắng-xanh (giữ theo thiết kế user) |
+| **Não Boss** | `46c623a4-deab-4a16-a049-98c6cbd558d5` | `25_BOss.png` (cập nhật 2026-10-02; thay `9e4e6ae8…`, không dùng lại). Giữ đúng thiết kế trong ảnh |
 | Cổng lớn | `5aa39a50-f435-41b1-8f99-def9153bc90f` | |
 | **Cổng tối** (mới) | `c578fe23-9b72-4e39-8dd0-baf8672fd9df` | `B18_CongToi.jpg` (thêm 2026-10-02, không thay cổng lớn) |
 | Người bóng đêm | `2f07fe73-628d-4761-aeff-0b32446d8a0c` | |
