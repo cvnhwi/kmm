@@ -88,10 +88,14 @@ Status: COMPLETED 2026-10-02 (~14:44 UTC). Job `dce666de-6d54-45f0-a43b-fdf9fdf9
 | 2-4 s | low-angle MS on the parents | shocked, reaching up; sparks falling; tiny Mai far above near the BOSS |
 
 ## BOSS scene 1 — single cable v3 (2026-10-02) — user: same timing + "không có bố và mẹ fantasy; phía trên có khói"
-Status: SUBMITTED 2026-10-02 ~14:45 UTC. Job `e6340cc3-6219-40e1-b4a8-a46fed9a03b6`. 4 s. Content not yet reviewed.
+Status: COMPLETED 2026-10-02 (~14:48 UTC). Job `e6340cc3-6219-40e1-b4a8-a46fed9a03b6`. 4 s. Content not yet reviewed.
 Refs: master, Mai, arena `c8394b3d`, BOSS `3db1be87` (only as a vague glow inside the smoke). No parent refs; Avoid: any other character.
 | Time | Shot | Action |
 |---|---|---|
 | 0-1 s | MW low angle, Mai alone, low ceiling of heavy CYAN smoke above | ONE sparking cable shoots out of the smoke, coils twice around her waist |
 | 1-2 s | violent whip-tilt + shake | yanked up into the smoke in under 0.5 s, smoke bursts open |
 | 2-4 s | tilted up into the smoke | hole swirls closed, sparks drift down, brain silhouette pulses; ground empty |
+
+## BOSS scene 1 — single cable v4 (2026-10-02) — user: same as v3 + "Góc camera thấy phần dưới của boss"
+Status: SUBMITTED 2026-10-02 ~14:49 UTC. Job `18285c79-c3e1-4b47-bda8-f4df44c7d75b`. 4 s. Content not yet reviewed.
+Same timing as v3 (wrap 0-1 s, extreme yank 1-2 s), Mai alone, cyan smoke. New [Framing]: low worm's-eye from near the floor, Mai in the lower frame, the BOSS's UNDERSIDE (lower surface + dangling cable tentacles) filling the upper half through smoke layers; the cable comes down from the underside; ends looking straight up at the underside with tiny Mai dangling just below it. Avoid adds: losing the BOSS from frame.
