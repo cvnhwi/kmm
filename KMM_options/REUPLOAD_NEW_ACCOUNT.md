@@ -102,3 +102,29 @@ Status update 2026-10-02: the account DID change (new workspace above, ultra pla
 | B19_BOSS.JPG | `65ec906c-0eac-449c-a7fd-78e71f3eb94c` | BOSS plate, new name; role to confirm |
 
 Not yet seen in BG uploads: fantasy forest (old `d823d7cf`), fantasy gate outside (old `5aa39a50`).
+
+### CH round 1 (20)
+| File | New ID | Note |
+|---|---|---|
+| 01_Mai.png | `fae9baae-3a83-4f65-bfe8-ee32fcc94a78` | real-life Mai (old `b42c82ad`) |
+| 01_Mai_FAntasy.png | `0d56fcb2-47cc-4271-b785-c73f4ab9a17b` | **Mai fantasy** (old `ef343c87`) |
+| 02_BanDanToc.png | `656bfc6b-74a1-44b9-823d-21b0754c2b1c` | friend |
+| 03_BanKinh.png | `7d2e2e14-3460-4f0d-aa90-a3d76888d5f5` | friend |
+| 04_BanMap.png | `eb705dd1-e849-4460-9aa1-4561fe91241f` | friend |
+| 05_Bo.png | `6c05a666-c64f-4aaa-acec-6056b3ed3b5e` | dad (real) |
+| 06_Me.png | `00da7806-ed3f-4a59-8502-756e495480b5` | mom (real) |
+| 07_CoGiao.png | `89b32a5e-bfbc-44af-96e9-a274bb04cf51` | teacher (old `082374dd`) |
+| 08_CoLaoCong.png | `2f4bb001-827c-4409-8887-3cd734d1b89b` | cleaner (old `651ece17`) |
+| 09_AnNinh.png | `682c6b6d-e255-473f-983c-56cc65aab6d3` | security guard (old `ecde1ad6`) |
+| 10_CongAn.png | `6afba98a-2c36-4e0d-a373-be24ce4bdc75` | police (old `81cdd17a`) |
+| 14_Cho.png | `380caa13-1788-4fe9-b953-c0818719eebc` | dog |
+| 15_TaiXe.png | `aed8c835-e2eb-477f-a4c5-583726b87181` | bus driver (old `6f2ff8e2`) |
+| 16_Bo_Fantasy.png | `8eeb2595-7127-4d3f-9dc6-9c124caa1c99` | fantasy dad (old `f9500265`) |
+| 17_Soi.png | `d07c926b-5d27-45cf-a1fb-9103dfbaa764` | smoke wolf (old `f48ff106`) |
+| 18_Qua.png | `252cd267-8a39-4bf1-8b69-cefa1ddd56a6` | crow (old `6a271d30`) |
+| 19_Nhen.png | `00ac4f6b-39f0-49f3-8a9d-6f56ca30c55c` | spider (old `cdcbdc48`) |
+| 20_NguoiXau.png | `ffe68c08-d6b4-469a-9c75-63f7b7b08258` | villain 1 (old `aad31f63`) |
+| 21_Me_Fantasy.png | `a6286ab4-eaba-40ed-988f-3452354fe6ce` | fantasy mom (old `0d42f68e`) |
+| 22_NguoiXau2.png | `271c1e53-ec7a-4ea9-8573-7003abc37f52` | villain 2 (old `6fecf90d`) |
+
+Still to upload: 23_NguoiXau3, 24_NguoiXau4, 25_BOss, 26_NguoiXau5, bus, phone, mom photo, Fantasy.mp4 master video, fantasy forest, fantasy gate.
