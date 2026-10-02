@@ -145,7 +145,7 @@ Villain pool (5): `9ee934cf` · `075000e7` · `7a051c5e` · `f448b33f` · `4b93a
 ### Props + master (4)
 | File | New ID | Note |
 |---|---|---|
-| Fantasy.mp4 | `24430dd0-a7ec-4d5c-a555-46abfb7600a1` | master video; format test job `6a9c8607-5a5c-4bc3-beff-1ce21b2b6e00` (4 s) |
+| Fantasy.mp4 | `24430dd0-a7ec-4d5c-a555-46abfb7600a1` | master video; format test job `6a9c8607-5a5c-4bc3-beff-1ce21b2b6e00` (4 s) COMPLETED → works as video_references |
 | KMM_PHONE_0930_v001.png | `b7eeb576-8bcf-4a98-b695-48a4e029fda1` | Mai's phone |
 | MVKMM_XE BUS_v001_0928.png | `1a436a85-6ed7-4897-96bd-2ba2cdc4b77a` | green bus |
 | c02e795c-….png | `5e1895bb-3788-4ee5-ac05-f24f9fd2c228` | unnamed; probably mom photo, to confirm |

@@ -29,7 +29,7 @@ Cập nhật: 2026-10-01 ~16:50 UTC. Repo `cvnhwi/kmm`, branch `claude/gracious-
 
 | Vai trò | ID | Ghi chú |
 |---|---|---|
-| **Video tham khảo FANTASY (master)** | `24430dd0-a7ec-4d5c-a555-46abfb7600a1` (Fantasy.mp4, account mới; đang test định dạng, job `6a9c8607`) | `Fantasy_v2_720p.mp4` (H.264 720p, 6s, audio im lặng), đã test chạy OK. Gốc user `9fb61ba4…` (HEVC, KHÔNG dùng) |
+| **Video tham khảo FANTASY (master)** | `24430dd0-a7ec-4d5c-a555-46abfb7600a1` (Fantasy.mp4, account mới; test job `6a9c8607` COMPLETED 2026-10-02 → dùng được) | `Fantasy_v2_720p.mp4` (H.264 720p, 6s, audio im lặng), đã test chạy OK. Gốc user `9fb61ba4…` (HEVC, KHÔNG dùng) |
 | **Mai fantasy** | `0d56fcb2-47cc-4271-b785-c73f4ab9a17b` | `01_Mai_FAntasy.png` |
 | Sói bóng đêm | `d07c926b-5d27-45cf-a1fb-9103dfbaa764` | khói, mắt hổ phách nhỏ, KHÔNG răng |
 | Hầm/lối vào fantasy | `b97b3e97-5b27-4deb-92ea-a10693bc61e9` ⚠️(ID account CŨ, chưa upload lại) | vách hang nhiều màn hình cũ |
