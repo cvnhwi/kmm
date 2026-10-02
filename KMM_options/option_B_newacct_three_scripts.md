@@ -148,7 +148,7 @@ Status: COMPLETED 2026-10-02 (~15:10 UTC). Job `393bb9de-ebdf-41c9-ac69-55e3f155
 Same as v9 (screen-wall hall corner `e2fab0e1`, calm expression, pointed plastic tentacle, no sparks, smoke ceiling, no BOSS, same timing) except Mai STANDS in the corner, back lightly against the wall, arms relaxed; the yank lifts her off her feet. Avoid adds: Mai sitting.
 
 ## v11 (2026-10-02) — user: v10 + "biểu cảm đang quan sát mọi người chiến đấu (cảnh chiến đấu không trong scene); shot 10 giây"
-Status: SUBMITTED 2026-10-02 ~15:12 UTC. Job `a7c05d89-3df5-451e-92b6-ddcf41d4dba3`. 10 s, 6 shots. Content not yet reviewed.
+Status: COMPLETED 2026-10-02 (~15:13 UTC). Job `a7c05d89-3df5-451e-92b6-ddcf41d4dba3`. 10 s, 6 shots. Content not yet reviewed.
 - Mai stands in the screen-wall corner watching a fight OFF-SCREEN (camera-left); only its moving light/shadow flickers and dust reach her; no fighters/villains/parents in frame.
 - Expression: attentive, worried watching (eyes tracking fast motion, small flinches at unseen hits, hands clenched at her chest), brief surprise at the wrap.
 | Time | Shot | Action |
@@ -159,3 +159,8 @@ Status: SUBMITTED 2026-10-02 ~15:12 UTC. Job `a7c05d89-3df5-451e-92b6-ddcf41d4db
 | 6-7 s | MCU waist, handheld | WRAP (clean, no sparks) |
 | 7-8 s | low wide up the corner | FAST YANK into the smoke, gone |
 | 8-10 s | floor level → tilt up | empty corner, fight light still flickering, smoke hole closes |
+
+## v12 (2026-10-02) — user: v11 but "giây 2 kéo lên cao tốc độ vừa phải"
+Status: SUBMITTED 2026-10-02 ~15:15 UTC. Job `ebc23a66-811c-4569-8a4f-f181b4e3fd58`. 10 s, 6 shots. Content not yet reviewed.
+Conflict flagged: the request still opens with "tốc độ nhanh", but the beat line says moderate → followed the specific beat line.
+Changes vs v11: lift = MODERATE, steady, 2 s (7-9 s), camera tilting up with her, she stays visible rising (legs dangling, gripping the tentacle, looking down) until the smoke swallows her legs last; aftermath shortened to 9-10 s. Avoid swaps "easing during the yank" for "a violent instant yank".
