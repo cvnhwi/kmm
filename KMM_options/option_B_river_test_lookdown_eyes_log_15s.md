@@ -3,7 +3,7 @@
 User request (2026-10-02): log version + new beat "tò mò nhìn xuống dưới dòng sông có những profile di chuyển" + "Những ánh mắt random, không tắt mở cùng lúc".
 Variant of `option_B_river_test_forest_eyes_log_15s.md`.
 
-Status: SUBMITTED 2026-10-02 ~13:58 UTC. Job `de168d6c-94af-4701-a4c5-de51f2abede6`. Content not yet reviewed.
+Status: COMPLETED 2026-10-02 (~14:00 UTC). Job `de168d6c-94af-4701-a4c5-de51f2abede6`. Content not yet reviewed.
 Settings: Seedance 2.5 omni_reference, draft 480p, 15 s, 16:9, no audio, folder MV KMM root `11749213…`, declined preset. ~45 credits.
 Refs: master `24430dd0`, Mai fantasy `0d56fcb2`, TEST river plate `B16_SongSo2` `880c4d73`.
 
