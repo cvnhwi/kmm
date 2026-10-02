@@ -13,5 +13,5 @@ Refs: master video `83190f2e`, NEW BOSS `46c623a4` (25_BOss.png), BOSS arena `1c
 | 5-10 s | extreme wide, extremely low | 18 mm slow tilt up + push in | smoke tears apart; the brain pushes out and floats high, filling ~70% of frame; eyes open; last second held |
 
 ## v2 (2026-10-02) — user: "tạo lại scene boss xuất hiện với data update mới, khói không được để màu tím mà là màu xanh cyan"
-Status: SUBMITTED. Job `80272c91-806f-46c6-8635-c0ca71840011`. Content not yet reviewed.
+Status: COMPLETED 2026-10-02. Job `80272c91-806f-46c6-8635-c0ca71840011`. Content not yet reviewed.
 Same 3 shots. New [Smoke colour] block: ALL smoke/clouds cyan (dark cyan-teal → luminous cyan), no purple/violet/magenta/pink; lighting palette changed from teal-indigo/violet to cold cyan + deep teal/navy; Avoid adds purple/violet/magenta/pink. BOSS `46c623a4` keeps its own colours. Arena plate still `1c507ac3` (no new arena image uploaded).
