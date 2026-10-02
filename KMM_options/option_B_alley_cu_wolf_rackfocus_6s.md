@@ -24,3 +24,7 @@ Changes vs v1 (clearer geometry): camera LOCKED OFF frontal, no arc; the alley a
 | 0-2.5 s | frontal full-screen CU, sharp on her face, alley blurred behind; sound → eyes slide aside |
 | 2.5-4 s | clear head turn back over her shoulder, away from camera |
 | 4-6 s | rack focus to the wolf crouched down the alley behind her, ready to lunge; hold |
+
+## v3 (2026-10-02) — user: same + "đèn đường chập chờn (trời hơi tối)"
+Status: SUBMITTED 2026-10-02 ~16:03 UTC. Job `fc070633-a7bd-4ec1-8e78-20c7da45e3e2`. 6 s. Content not yet reviewed.
+Same locked frontal CU → head turn → rack focus as v2. Changes: darker night (dim heavy overcast, little ambient light); old street lamps FLICKER at irregular random times, each on its own timing, so the light on her face stutters; at the reveal the lamp cuts out for a beat (only the wolf's flat eyes visible) then sputters back. Soft face fill kept so she stays readable. Avoid adds lamps flickering in sync/on a beat, long full-black frames.
