@@ -65,3 +65,13 @@ Status: COMPLETED 2026-10-02 (rendered 16:15 UTC). Job `ab5afede-0a58-45a9-95ed-
 | 5.5-6.5 s | straight top-down high above the alley | Mai in a flickering pool of light, wolf crouched metres behind on the same line |
 | 6.5-8 s | ground level behind the wolf's paws, wide lens | wolf silhouette large in the foreground, small frozen Mai ahead; hold, no lunge |
 Avoid adds magical/cyan light on her face (gate removed).
+
+## v8 — creative LENS (no gate light), 8 s, 5 shots
+Request: same as v7, but "Sáng tạo lens camera".
+- 0-2.5 s: anamorphic 85 mm frontal full-screen CU, oval bokeh on the flickering lamps, a small streak flare
+- 2.5-3.5 s: macro ECU of one eye sliding sideways; a tiny reflection of the alley and the wolf's eyes in her eye
+- 3.5-5.5 s: 200 mm telephoto frontal CU, compression; rack focus to the crouched wolf, which looks right behind her shoulder; the lamp cuts out so only the eyes remain
+- 5.5-6.5 s: dolly zoom (vertigo) on her face; the alley stretches and the wolf looms
+- 6.5-8 s: 14 mm ultra-wide at ground level behind the wolf's paws; small Mai far ahead; hold, no lunge
+Refs: master 24430dd0, Mai 0d56fcb2, alley c0accc1d, wolf d07c926b.
+Status: SUBMITTED 2026-10-02. Job `68e6afa2-dfcf-41db-aace-248f581a7cc8`. 8 s. Content not yet reviewed.
