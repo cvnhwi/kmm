@@ -26,5 +26,5 @@ Axis forest (near) → gate (far); Mai always runs into depth toward the gate.
 | 12-15 s | low behind her → rising | rush, then rise as the door grows | sprints in through the open door, swallowed by darkness |
 
 ## v2 with the real forest plate (2026-10-02) — user: "cho tôi lại video có rừng fantasy"
-Status: SUBMITTED 2026-10-02 ~14:15 UTC. Job `c15c595c-c731-4c90-8c3d-41b7aa75ad4e`. Content not yet reviewed.
+Status: COMPLETED 2026-10-02 (~14:12 UTC). Job `c15c595c-c731-4c90-8c3d-41b7aa75ad4e`. Content not yet reviewed.
 Same shots as v1. Added forest plate `B20_RungFantasy` `b88078fa` as Image 4 (forest shots + tree line behind Mai); lighting per plate: gate-facing shots match Image 2, forest shots match Image 4.

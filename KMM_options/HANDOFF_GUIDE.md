@@ -71,6 +71,7 @@ Cập nhật: 2026-10-01 ~16:50 UTC. Repo `cvnhwi/kmm`, branch `claude/gracious-
 - **Biểu cảm tiết chế** (khối `[Expression]`): 1/3-1/2 cường độ, miệng chủ yếu khép/hé, mắt chỉ mở to nhẹ, không gurning/há miệng hét/trợn mắt.
 - **Dòng sông số là HOLOGRAM**, không phải nước: chạm vào → gợn pixel, scan line, glitch; Mai không đi xuống sông. Profile card bay nhiều lớp tiền/trung/hậu cảnh, xoáy về tâm vòng xoáy.
 - **Cảnh sông số: Mai qua sông bằng CÂY GỖ ĐỔ bắc ngang sông** (user 2026-10-02, có ảnh ref): một thân cây cổ thụ đổ nằm ngang vắt qua cả dòng sông từ bờ này sang bờ kia, hơi cao hơn lớp profile; Mai chạy trên mặt thân gỗ, nhìn ngang (side profile) trái → phải, hai tay hơi dang giữ thăng bằng, viền cyan. Hero frame tham khảo: góc thấp ngang từ bờ gần sát mặt sông, thân gỗ trải ngang hết khung, profile trôi ở tiền cảnh dưới gỗ, cây cổ thụ đen nhiều rễ/dây leo hai bên (một cây có gân đỏ), cột sáng cyan phía sau, mây giông. Không dùng cầu xây.
+- **Nhện = bóng tối cùng vibe người xấu** (user 2026-10-02): đen thẫm phẳng như bóng cắt, không khối, không lông/texture, khói đen mảnh ở chân, mắt phẳng không con ngươi, không răng nanh. Cảnh nhện hù: ưu tiên góc over-shoulder của Mai khi nhện hạ xuống. Rừng: không khí u tối (trời âm u, sương, lạnh).
 - Cảnh hẻm: trời **đã âm u sẵn** (mây xám tím, đèn natri/trắng, đường ướt).
 
 ## 5. Cấu trúc prompt cảnh FANTASY
