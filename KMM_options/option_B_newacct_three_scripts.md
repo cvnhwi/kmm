@@ -60,3 +60,6 @@ Refs B1: villains ×5. B2: Dad `8eeb2595`, Mom `a6286ab4`, villains ×2.
 | | | 11-14 | 9 | MS circling, guard + Dad fight the crowd |
 | | | 14-18 | 10 | top-down high wide, five heroes surrounded |
 Refs C1: Dad, Mom, arena `c8394b3d`, BOSS `3db1be87`, villains ×3. C2: guard `682c6b6d`, cleaner `2f4bb001`, teacher `89b32a5e`, Dad, Mom, arena, wolf `d07c926b`, crow `252cd267`, spider `a01d6370`, villains ×3.
+
+## Villain-ref audit (user reminder 2026-10-02: "người xấu sẽ dùng nhiều data input và random")
+Clips that attached fewer than all 5 villain designs: A2 `0c8d8de9` (3), B2 `2975f6c8` (2), C1 `0d0a63c6` (3), C2 `4cd3acf9` (3). A1, A3, B1 used all 5. Rule tightened in all guides: always attach all 5, shuffled. Regen of the 4 clips offered to the user (not done yet).
