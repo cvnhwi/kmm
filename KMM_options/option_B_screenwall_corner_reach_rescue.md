@@ -52,3 +52,11 @@ Everything is dark low-key with a dark B15 wall section right behind her and no 
 
 Refs: B15 `e2fab0e1`, Mai `0d56fcb2`, 5 villains shuffled, master.
 Status: SUBMITTED 2026-10-02. Job `d5e96422-ad8d-42e5-95f7-9af4887830d8`. Content not yet reviewed.
+
+### Scene 5 standalone (2 s): hand SHADOWS only, 2 options
+User: "| 2 giây | góc Tường màn hình | POV Mai) Nhiều cái bóng, người bóng tối giơ bàn tay về Mai (phía camera), chỉ hiện bóng ở trên mặt Mai (không hiện tay)"
+- The minimum duration is 4 s, so each option is generated at 4 s; trim to 2 s in edit.
+- "POV Mai" conflicts with "bóng trên mặt Mai" (a POV cannot show her face), so there are 2 options.
+- **Option A** `fa56ef8f-f8df-44f6-b320-f3f980396423`: frontal CU 85 mm from where the unseen figures stand. Hand shadows slide over her face and the wall at uneven moments until most of her face is shadowed. No hands or figures in frame. Refs: B15, Mai, master.
+- **Option B** `0ad90022-82d2-487a-937b-17f592775c29`: true Mai POV, 24 mm handheld. 4-5 silhouettes loom; the backlight throws their raised-hand shadows across the floor and over the lens until the frame darkens. The hands themselves are never shown. Refs: B15, 5 villains shuffled, master.
+Status: both SUBMITTED 2026-10-02. Content not yet reviewed.
