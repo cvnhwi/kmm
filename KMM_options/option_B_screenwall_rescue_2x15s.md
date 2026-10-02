@@ -2,7 +2,7 @@
 
 User request (2026-10-02): "Tiếp theo tự phân tích và chia kịch bản này thành những đoạn 15 giây và gen video…" (shadows turn → approach → silence Mai ×2 → POV hands → CU face among arms + light → Dad punch → Mom frying pan → Mai happy tears).
 
-Status: SUBMITTED 2026-10-02. Content not yet reviewed (the assistant cannot view video).
+Status: COMPLETED 2026-10-02 (~02:36 UTC), all jobs. Content not yet reviewed (the assistant cannot view video).
 Settings: Seedance 2.5 omni_reference, draft 480p, 15 s, 16:9, no audio, folder MV KMM, declined preset. ~45 credits/clip, ~90 total. FANTASY MASTER line + video `83190f2e`.
 
 ## Split

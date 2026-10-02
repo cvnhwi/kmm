@@ -47,7 +47,7 @@ Refs: master, Mai, screen wall, shadow person, phone.
 any text/numbers incl. "Mẹ", snake or hands touching Mai, grotesque scream, synchronized workers/heads, all monitors lit, regular blinking, dark skin, over-acting, slow motion.
 
 ## v2 regen (2026-10-02) — user: "Tạo lại tất cả, điện thoại Mai cầm dọc; cảnh ngước lên nhìn đáng sợ hơn"
-Status: SUBMITTED. Content not yet reviewed.
+Status: COMPLETED 2026-10-02 (~02:36 UTC), all 3 jobs. Content not yet reviewed.
 - Clip 1 v2 `b5179c82-332b-4244-8ffe-197e29f67e9f` (same prompt as v1).
 - Clip 2 v2 `c8201f56-a01b-4727-9379-166a256f2453`: added [Phone Handling] block — phone ALWAYS vertical/portrait, both hands, screen facing her; POV shows tall portrait screen; avoid landscape/sideways.
 - Clip 3 v2 `70f5dfed-6922-44ca-a09d-9481353b5f6b`: vertical phone; look-up rebuilt as 5 shots: 0-3 snake on phone · 3-6 hands stop a hair away, phone light dims, she slowly looks up (eyes then head) · 6-8.5 Mai POV extreme low angle 18 mm + subtle Dutch tilt, huge shadow bends down toward lens, amber eyes ignite one then the other, monitors behind blink out leaving a cyan-rimmed silhouette, smoke drips toward lens, silent held beat (replaces the whip pan) · 8.5-10.5 scream, high angle from creature POV · 10.5-15 crowd turns.
