@@ -28,3 +28,14 @@ Changes vs v1 (clearer geometry): camera LOCKED OFF frontal, no arc; the alley a
 ## v3 (2026-10-02) — user: same + "đèn đường chập chờn (trời hơi tối)"
 Status: SUBMITTED 2026-10-02 ~16:03 UTC. Job `fc070633-a7bd-4ec1-8e78-20c7da45e3e2`. 6 s. Content not yet reviewed.
 Same locked frontal CU → head turn → rack focus as v2. Changes: darker night (dim heavy overcast, little ambient light); old street lamps FLICKER at irregular random times, each on its own timing, so the light on her face stutters; at the reveal the lamp cuts out for a beat (only the wolf's flat eyes visible) then sputters back. Soft face fill kept so she stays readable. Avoid adds lamps flickering in sync/on a beat, long full-black frames.
+
+## v4 (2026-10-02) — user: v3 + "sáng tạo góc camera"
+Status: SUBMITTED 2026-10-02 ~16:05 UTC. Job `b5f4fe24-8406-4720-a467-f3aa749e1863`. 8 s (extended from 6 s to fit 5 shots), hard cuts. Content not yet reviewed.
+| Time | Shot | Camera | Action |
+|---|---|---|---|
+| 0-2.5 s | frontal full-screen CU | dead straight, creeping push-in | stuttering lamp light on her face, listening |
+| 2.5-3.5 s | ECU eyes only | static | eyes slide toward the sound, lamp blinks across them |
+| 3.5-5 s | low angle behind her shoulder, hip height | static | she turns her head to look back; alley out of focus beyond |
+| 5-6.5 s | her POV down the alley | DOLLY-ZOOM (vertigo) | wolf crouched under a flickering lamp; lamp cuts, only eyes, sputters back |
+| 6.5-8 s | ground level just in front of the wolf's paws, wide lens | static hold | wolf silhouette huge in the foreground, tiny Mai frozen far behind, shoulders tense, not lunging |
+Note: the Avoid list contains a stray self-correction fragment ("Mai's pupils visible? keep Mai's eyes normal as in Image 1"); intent: Mai's eyes stay normal, only the wolf has no pupils.
