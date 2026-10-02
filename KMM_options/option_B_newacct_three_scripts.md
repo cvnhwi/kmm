@@ -99,3 +99,14 @@ Refs: master, Mai, arena `c8394b3d`, BOSS `3db1be87` (only as a vague glow insid
 ## BOSS scene 1 — single cable v4 (2026-10-02) — user: same as v3 + "Góc camera thấy phần dưới của boss"
 Status: SUBMITTED 2026-10-02 ~14:49 UTC. Job `18285c79-c3e1-4b47-bda8-f4df44c7d75b`. 4 s. Content not yet reviewed.
 Same timing as v3 (wrap 0-1 s, extreme yank 1-2 s), Mai alone, cyan smoke. New [Framing]: low worm's-eye from near the floor, Mai in the lower frame, the BOSS's UNDERSIDE (lower surface + dangling cable tentacles) filling the upper half through smoke layers; the cable comes down from the underside; ends looking straight up at the underside with tiny Mai dangling just below it. Avoid adds: losing the BOSS from frame.
+
+## BOSS scene 1 — single cable v5, 12 s tense oner (2026-10-02) — user: v4 + "tạo mood căng thẳng; đi qua khói là mất; kiểu 3D; shot 12 giây"
+Status: SUBMITTED 2026-10-02 ~14:53 UTC. Job `19b62ece-1ec5-4405-97d3-f6cf63eb660c`. 12 s, ONE continuous shot. Content not yet reviewed.
+Interpretation (flagged): "giây 1 quấn / giây 2 kéo" = the wrap lasts 1 s and the yank lasts 1 s; the extra 12 s length is used for a tension build before and an empty aftermath after.
+| Time | Camera | Action |
+|---|---|---|
+| 0-7 s | slow low circle around Mai, creeping closer, tilting up | tension: silence, fast breathing, BOSS underside pulsing through cyan smoke, one cable slowly lowers and hovers above her, sparks fall, she backs one step |
+| 7-8 s | same move | WRAP: cable snaps down, coils twice around her waist |
+| 8-9 s | whip-tilt up + hard shake | FAST YANK into the smoke; once through the smoke she is gone |
+| 9-12 s | hold looking up | smoke hole swirls closed, sparks drift down, BOSS pulses dimly; floor empty |
+Avoid adds: any cut, Mai visible after the smoke, flat 2D look.
