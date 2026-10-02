@@ -72,3 +72,11 @@ Mai (01_Mai `b42c82ad…`), Map (04_BanMap `fd700683…`), Kính (03_BanKinh `fc
 ## 10. Khóa 24 fps (user rule 2026-10-01 ~18:20 UTC)
 - Mọi video DAILY luôn **24 fps**. Prompt ghi: "locked at 24 fps … natural 24 fps animation timing, no frame interpolation"; AVOID: "frame interpolation, choppy or variable frame rate".
 - Seedance không có tham số fps → sau khi gen, kiểm tra file bằng ffprobe (sandbox Higgsfield); nếu khác 24 fps thì báo user (có thể conform bằng ffmpeg nếu user muốn).
+
+## 11. KHÔNG dùng cảnh toàn / đại cảnh (user rule 2026-10-02)
+- Mặc định **không dùng** wide shot (WS), extreme wide (EWS), establishing / toàn cảnh, aerial, cảnh lộ sâu hậu cảnh xa. Lý do: góc xa và hậu cảnh xa dễ lộ lỗi, dễ bị nhận ra là AI.
+- Cỡ cảnh được phép: **MS (ngang hông), MCU, CU, ECU, insert**; MWS (ngang gối) chỉ khi cần thấy hành động thân dưới (bước đi, ngồi dậy), giữ hậu cảnh gần và mềm (shallow depth of field, có tiền cảnh che).
+- Hậu cảnh luôn gần (vài mét), có foreground 5-40 cm che bớt, depth of field nông; không có đường chân trời xa, không đám đông xa, không dãy nhà kéo dài.
+- Chỉ dùng cảnh toàn khi user yêu cầu rõ ràng.
+- Prompt wording (CAMERA LAW): "No wide, extreme wide or establishing shots: every shot is medium, medium close-up, close-up or insert; backgrounds stay close and softly out of focus; never reveal deep distant background."
+- AVOID thêm: "wide shot, extreme wide shot, establishing shot, full-room or full-street view, aerial view, deep distant background, horizon".
