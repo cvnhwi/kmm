@@ -52,7 +52,7 @@ Status: COMPLETED 2026-10-02 (~16:16 UTC). Job `1ac47d72-de03-4b84-9fc0-e16390fa
 | 6-8 s | reverse wide from low behind the wolf | wolf silhouette huge in the foreground; small Mai beyond, outlined by the cyan blaze of the gate at the alley's end; hold |
 
 ## v6 (2026-10-02) — user: v5 but "hơi có light effect lên da mặt" (subtle)
-Status: SUBMITTED 2026-10-02 ~16:17 UTC. Job `6a68d8b0-b0df-4a03-af27-e4101f601f99`. 8 s. Content not yet reviewed.
+Status: COMPLETED 2026-10-02 (rendered 16:14 UTC). Job `6a68d8b0-b0df-4a03-af27-e4101f601f99`. 8 s. Content not yet reviewed.
 Same 4 shots as v5; the gate light is now only a gentle low-intensity cyan wash with a very slight shimmer and small catchlights (no golden sparkles); shot 4 gate glow softened too. Avoid adds strong/bright/flashy light on her face, sparkles, lens flares.
 
 ## v7 (2026-10-02) — user: eyes-only version WITHOUT the gate light, "sáng tạo góc camera"
