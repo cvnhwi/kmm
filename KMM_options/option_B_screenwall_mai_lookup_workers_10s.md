@@ -61,4 +61,4 @@ Duration 15 s (user gave none; 1 face-only CU + 4 ref angles).
 | 11.5-15 s | P4 very high wide 18 mm, crane rise |
 
 Refs: B15 `e2fab0e1`, Mai `0d56fcb2`, 5 villains shuffled (`f448b33f`, `7a051c5e`, `9ee934cf`, `4b93a54a`, `075000e7`), master `24430dd0`.
-Status: SUBMITTED 2026-10-02. Job `af7633f7-970b-46a4-bdb6-2de04c25e418`. 15 s. Content not yet reviewed.
+Status: COMPLETED 2026-10-02 (rendered 16:51 UTC). Job `af7633f7-970b-46a4-bdb6-2de04c25e418`. 15 s. Content not yet reviewed.
