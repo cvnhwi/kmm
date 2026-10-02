@@ -149,3 +149,11 @@ Villain pool (5): `9ee934cf` · `075000e7` · `7a051c5e` · `f448b33f` · `4b93a
 | KMM_PHONE_0930_v001.png | `b7eeb576-8bcf-4a98-b695-48a4e029fda1` | Mai's phone |
 | MVKMM_XE BUS_v001_0928.png | `1a436a85-6ed7-4897-96bd-2ba2cdc4b77a` | green bus |
 | c02e795c-….png | `5e1895bb-3788-4ee5-ac05-f24f9fd2c228` | unnamed; probably mom photo, to confirm |
+
+### Forest + spider (2)
+| File | New ID | Note |
+|---|---|---|
+| B20_RungFantasy.png | `b88078fa-b641-4f83-a557-b8b9937da715` | fantasy forest (old `d823d7cf`) |
+| 19_Nhen.png | `a01d6370-58c5-4f57-9e49-99938dd25f1a` | spider re-upload; guides now use this (earlier `00ac4f6b` also valid) |
+
+Still missing: fantasy gate (outside, old `5aa39a50`), StandardB (real-world only). Unconfirmed roles: B17_Hanhlang, B19_BOSS, `5e1895bb` (mom photo?).

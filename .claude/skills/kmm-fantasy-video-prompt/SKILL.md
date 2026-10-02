@@ -62,7 +62,7 @@ If the user says they are not attaching the video (or it is unavailable), warn t
 | Villain 5 (Người xấu 5) | `26_NguoiXau5.png` | `4b93a54a-f21a-45f5-8275-7251118e0386` |
 | Smoke wolf (Sói bóng đêm) | wolf sheet | `d07c926b-5d27-45cf-a1fb-9103dfbaa764` |
 | Smoke crow (Quạ) | crow sheet | `252cd267-8a39-4bf1-8b69-cefa1ddd56a6` |
-| Smoke spider (Nhện) | spider sheet | `00ac4f6b-39f0-49f3-8a9d-6f56ca30c55c` |
+| Smoke spider (Nhện) | spider sheet | `a01d6370-58c5-4f57-9e49-99938dd25f1a` |
 | BOSS: giant brain with cable tentacles | `25_BOss.png` (updated 2026-10-02; never use old `9e4e6ae8…`) | `3db1be87-7da5-4169-b892-e002f1cf2637` |
 | Mai's phone | phone sheet (sky-blue case, yellow buttons, cat+dog sticker) | `b7eeb576-8bcf-4a98-b695-48a4e029fda1` |
 | Mom's photo (only as a round photo on the phone) | mom photo | `d318bcb9-4768-43e3-95f0-14463b434891` ⚠️(ID account CŨ, chưa upload lại) |
@@ -70,7 +70,7 @@ If the user says they are not attaching the video (or it is unavailable), warn t
 | Plate: dark gate (Cổng tối) | `B18_CongToi.jpg` (added 2026-10-02) | `7c1e33a4-10da-431a-aec4-b396f2103c77` |
 | Plate: fantasy entrance tunnel / cave | tunnel with old monitors | `b97b3e97-5b27-4deb-92ea-a10693bc61e9` ⚠️(ID account CŨ, chưa upload lại) |
 | Plate: alley (relit as gloomy night) | `B02_Hem1_Day` | `c0accc1d-53eb-4d6b-a777-acbac2133117` |
-| Plate: fantasy forest | forest | `d823d7cf-984c-4298-a9ab-62cd1b809b0b` ⚠️(ID account CŨ, chưa upload lại) |
+| Plate: fantasy forest | forest | `b88078fa-b641-4f83-a557-b8b9937da715` (B20_RungFantasy.png) |
 | Plate: digital river | `B16_SongSo.png` | `0cc5cb01-897c-4b90-a706-cef1ba043c92` |
 | Plate: screen-wall hall | `B15_TuongManHinh.png` (updated 2026-10-02, 4th; never use old `ebb49e7c…` / `54a5db90…`) | `e2fab0e1-0afa-4726-ab31-3bfa83179a9e` |
 | Plate: BOSS arena | `B14_Boss.png` | `c8394b3d-556c-4229-a4a4-73daafabcfd9` |

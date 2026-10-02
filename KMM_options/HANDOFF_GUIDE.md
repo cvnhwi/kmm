@@ -34,7 +34,7 @@ Cập nhật: 2026-10-01 ~16:50 UTC. Repo `cvnhwi/kmm`, branch `claude/gracious-
 | Sói bóng đêm | `d07c926b-5d27-45cf-a1fb-9103dfbaa764` | khói, mắt hổ phách nhỏ, KHÔNG răng |
 | Hầm/lối vào fantasy | `b97b3e97-5b27-4deb-92ea-a10693bc61e9` ⚠️(ID account CŨ, chưa upload lại) | vách hang nhiều màn hình cũ |
 | Hẻm (relit đêm âm u) | `c0accc1d-53eb-4d6b-a777-acbac2133117` | B02_Hem1_Day, luôn re-lit gloomy night |
-| Rừng fantasy | `d823d7cf-984c-4298-a9ab-62cd1b809b0b` ⚠️(ID account CŨ, chưa upload lại) | |
+| Rừng fantasy | `b88078fa-b641-4f83-a557-b8b9937da715` (B20_RungFantasy.png) | |
 | **Dòng sông số** | `0cc5cb01-897c-4b90-a706-cef1ba043c92` | `B16_SongSo.png` (thay `fa8a5475…`) |
 | **Tường màn hình** | `e2fab0e1-0afa-4726-ab31-3bfa83179a9e` | `B15_TuongManHinh.png` (cập nhật lần 4, 2026-10-02; thay `ebb49e7c…`, `54a5db90…`, `b59fa3e7…`, `b5785b69…`, `b331cb43…`) |
 | **Phòng Boss** | `c8394b3d-556c-4229-a4a4-73daafabcfd9` | `B14_Boss.png` (thay `f1ae9d0a…`, `076ec352…`) |
@@ -43,7 +43,7 @@ Cập nhật: 2026-10-01 ~16:50 UTC. Repo `cvnhwi/kmm`, branch `claude/gracious-
 | **Cổng tối** (mới) | `7c1e33a4-10da-431a-aec4-b396f2103c77` | `B18_CongToi.jpg` (thêm 2026-10-02, không thay cổng lớn) |
 | **Người xấu gốc / người bóng đêm** | `9ee934cf-d4a2-4591-a178-9b3805294450` | `20_NguoiXau.png` (cập nhật 2026-10-02; thay `2f07fe73…`, không dùng lại) |
 | Người xấu 2 / 3 / 4 / 5 | `075000e7-3a8c-454f-b95e-7ba7db0c2cb4` / `7a051c5e-3012-4307-ac81-103174f0a038` / `f448b33f-6e5a-4bd6-b906-bff62ba2bfae` / `4b93a54a-f21a-45f5-8275-7251118e0386` | `22_NguoiXau2.png` / `23_NguoiXau3.png` / `24_NguoiXau4.png` / `26_NguoiXau5.png` (kho người xấu, dùng random) |
-| Quạ / Nhện | `252cd267-8a39-4bf1-8b69-cefa1ddd56a6` / `00ac4f6b-39f0-49f3-8a9d-6f56ca30c55c` | |
+| Quạ / Nhện | `252cd267-8a39-4bf1-8b69-cefa1ddd56a6` / `a01d6370-58c5-4f57-9e49-99938dd25f1a` | |
 | Bố fantasy / Mẹ fantasy | `8eeb2595-7127-4d3f-9dc6-9c124caa1c99` / `a6286ab4-eaba-40ed-988f-3452354fe6ce` | |
 | Chú an ninh / Cô giáo / Cô lao công / Công an | `682c6b6d-e255-473f-983c-56cc65aab6d3` / `89b32a5e-bfbc-44af-96e9-a274bb04cf51` / `2f4bb001-827c-4409-8887-3cd734d1b89b` / `6afba98a-2c36-4e0d-a373-be24ce4bdc75` | |
 | Tài xế xe buýt | `aed8c835-e2eb-477f-a4c5-583726b87181` | 15_TaiXe, KHÔNG phải chú an ninh |
