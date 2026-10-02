@@ -2,7 +2,7 @@
 
 User request (2026-10-02): "Tạo cảnh Mai đi giữa dòng sông số nhưng bản test, Mai vừa chạy vào thở mệt, sau đó nhìn xung quanh, đang nhìn thì bị một con nhện hù. sau đó chạy thẳng qua cầu. Sáng tạo góc camera, con sông có các profile chạy thẳng về xa, xung quanh camera có di chuyển".
 
-Status: SUBMITTED 2026-10-02 ~13:45 UTC. Job `a4ee6bd4-1b5a-41fb-8065-9370102c7c0a`. Content not yet reviewed.
+Status: COMPLETED 2026-10-02 (~13:50 UTC). Job `a4ee6bd4-1b5a-41fb-8065-9370102c7c0a`. Content not yet reviewed.
 First job on the NEW account (workspace `ad401adb…`, folder MV KMM `11749213-086c-4a29-a963-b5a064eb4af7`).
 Settings: Seedance 2.5 omni_reference, draft 480p, 15 s, 16:9, no audio, declined preset. ~45 credits.
 Refs: master `Fantasy.mp4` `24430dd0` (format test `6a9c8607` completed), Mai fantasy `0d56fcb2`, TEST river plate `B16_SongSo2` `880c4d73`, spider `00ac4f6b`.
