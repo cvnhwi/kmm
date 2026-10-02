@@ -131,7 +131,7 @@ Status: COMPLETED 2026-10-02 (~15:00 UTC). Job `305ef2ac-0dd6-4beb-a231-13bec31c
 - Note: shot 6 text contains a stray self-correction ("one small strand of her hair ribbon? no, nothing left"); intent is an empty corner.
 
 ## BOSS scene 1 — v8, 12 s, PLASTIC pointed tentacle, Mai SITTING in the corner (2026-10-02) — user: v7 + "đổi thành xúc tu nhựa, nhọn; Mai đang ngồi trong góc tường"
-Status: SUBMITTED 2026-10-02 ~15:03 UTC. Job `3b3ccdcc-e2b1-4a4e-ae8f-908e19353a3c`. 12 s, 6 shots. Content not yet reviewed.
+Status: COMPLETED 2026-10-02 (~15:03 UTC). Job `3b3ccdcc-e2b1-4a4e-ae8f-908e19353a3c`. 12 s, 6 shots. Content not yet reviewed.
 - Tentacle: ONE smooth glossy dark plastic segmented tube tapering to a sharp pointed tip; no electricity/sparks/glow; the tip never touches or pokes her, only the body coils twice around her waist.
 - Mai sits huddled in the corner, knees to chest; yanked up from sitting.
 - Same 6-shot structure and timing as v7 (wrap 7.5-8.5 s, yank 8.5-9.5 s); clean prompt (v7's stray shot-6 text removed).
