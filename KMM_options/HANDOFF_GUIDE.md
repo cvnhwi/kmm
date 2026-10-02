@@ -16,7 +16,7 @@ Cập nhật: 2026-10-01 ~16:50 UTC. Repo `cvnhwi/kmm`, branch `claude/gracious-
 
 ## 2. Higgsfield (thông số cố định)
 - workspace `ad401adb-c6e7-47e9-824e-4f7d645dc170`
-- **TẤT CẢ generation vào folder "MV KMM": `11749213-086c-4a29-a963-b5a064eb4af7`** (truyền `folder_id` mọi lần, kiểm bằng `list_project_assets`). Đây là project MV KMM của account MỚI (dùng chung với team, có sẵn các thư mục con ENVIRONMENT/CHARACTER/VIDEO/ART STYLE; gen fantasy của mình để ở folder gốc trừ khi user chỉ định).
+- **TẤT CẢ generation vào folder "MV KMM": `11749213-086c-4a29-a963-b5a064eb4af7`** (truyền `folder_id` mọi lần, kiểm bằng `list_project_assets`). Đây là project MV KMM của account MỚI (dùng chung với team, có sẵn các thư mục con ENVIRONMENT/CHARACTER/VIDEO/ART STYLE). **Luật (user 2026-10-02): MỌI generation đều vào folder gốc "MV KMM" `11749213-086c-4a29-a963-b5a064eb4af7`, không đưa vào thư mục con, không tạo project/folder mới.**
 - Model `seedance_2_5`, `mode: omni_reference`, `draft: true`, `resolution: 480p`, `aspect_ratio: 16:9`, `generate_audio: false`, `declined_preset_id: 24bae836-2c4a-48e0-89b6-49fcc0b21612`.
 - Media roles: `video_references`, `image_references`. Giá ~3 credit/giây (6s≈18, 8s≈24, 15s≈45). Duration 4-30s.
 - Dùng `generate_video_batch` (ổn định hơn `generate_video`, hay timeout 60s; nếu timeout → kiểm `list_project_assets` trước khi gửi lại, tránh gen trùng) → `jobs_wait` → `show_generation_by_ids`.

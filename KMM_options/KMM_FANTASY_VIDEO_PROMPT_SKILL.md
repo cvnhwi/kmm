@@ -37,7 +37,7 @@ If the user says they are not attaching the video (or it is unavailable), warn t
 | Quality | draft 480p for review; finalize to 1080p only after the user picks a take |
 | Audio | off (`generate_audio: false`) |
 | Frame rate / speed | real-time, 24 fps, no slow motion |
-| Higgsfield folder | MV KMM `11749213-086c-4a29-a963-b5a064eb4af7` (always) |
+| Higgsfield folder | MV KMM `11749213-086c-4a29-a963-b5a064eb4af7` (ALWAYS, every generation; root folder, not a subfolder; never create a new project/folder) |
 | Declined preset | `24bae836-2c4a-48e0-89b6-49fcc0b21612` |
 | Media roles | `video_references` for the master video, `image_references` for images |
 | Cost | about 3 credits/s, so 15 s ≈ 45 credits. State the total before the user generates. |
