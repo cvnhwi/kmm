@@ -153,7 +153,7 @@ Villain pool (5): `9ee934cf` · `075000e7` · `7a051c5e` · `f448b33f` · `4b93a
 ### Forest + spider (2)
 | File | New ID | Note |
 |---|---|---|
-| B20_RungFantasy.png | `b88078fa-b641-4f83-a557-b8b9937da715` | fantasy forest (old `d823d7cf`) |
+| B20_RungFantasy.png | `1bac4a73-28ce-4557-a3b3-148077284b0a` | fantasy forest, updated image 2026-10-02 (replaces `b88078fa`; older `d823d7cf`) |
 | 19_Nhen.png | `a01d6370-58c5-4f57-9e49-99938dd25f1a` | spider re-upload; guides now use this (earlier `00ac4f6b` also valid) |
 
 Still missing: fantasy gate (outside, old `5aa39a50`), StandardB (real-world only). Unconfirmed roles: B17_Hanhlang, B19_BOSS, `5e1895bb` (mom photo?).

@@ -34,7 +34,7 @@ Cập nhật: 2026-10-01 ~16:50 UTC. Repo `cvnhwi/kmm`, branch `claude/gracious-
 | Sói bóng đêm | `d07c926b-5d27-45cf-a1fb-9103dfbaa764` | khói, mắt hổ phách nhỏ, KHÔNG răng |
 | Hầm/lối vào fantasy | `b97b3e97-5b27-4deb-92ea-a10693bc61e9` ⚠️(ID account CŨ, chưa upload lại) | vách hang nhiều màn hình cũ |
 | Hẻm (relit đêm âm u) | `c0accc1d-53eb-4d6b-a777-acbac2133117` | B02_Hem1_Day, luôn re-lit gloomy night |
-| Rừng fantasy | `b88078fa-b641-4f83-a557-b8b9937da715` (B20_RungFantasy.png) | |
+| Rừng fantasy | `1bac4a73-28ce-4557-a3b3-148077284b0a` (B20_RungFantasy.png) | Cập nhật 2026-10-02, thay `b88078fa` |
 | **Dòng sông số** | `0cc5cb01-897c-4b90-a706-cef1ba043c92` | `B16_SongSo.png` (thay `fa8a5475…`) |
 | **Tường màn hình** | `e2fab0e1-0afa-4726-ab31-3bfa83179a9e` | `B15_TuongManHinh.png` (cập nhật lần 4, 2026-10-02; thay `ebb49e7c…`, `54a5db90…`, `b59fa3e7…`, `b5785b69…`, `b331cb43…`) |
 | **Phòng Boss** | `c8394b3d-556c-4229-a4a4-73daafabcfd9` | `B14_Boss.png` (thay `f1ae9d0a…`, `076ec352…`) |

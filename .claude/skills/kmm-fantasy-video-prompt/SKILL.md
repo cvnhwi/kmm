@@ -70,7 +70,7 @@ If the user says they are not attaching the video (or it is unavailable), warn t
 | Plate: dark gate (Cổng tối) | `B18_CongToi.jpg` (added 2026-10-02) | `7c1e33a4-10da-431a-aec4-b396f2103c77` |
 | Plate: fantasy entrance tunnel / cave | tunnel with old monitors | `b97b3e97-5b27-4deb-92ea-a10693bc61e9` ⚠️(ID account CŨ, chưa upload lại) |
 | Plate: alley (relit as gloomy night) | `B02_Hem1_Day` | `c0accc1d-53eb-4d6b-a777-acbac2133117` |
-| Plate: fantasy forest | forest | `b88078fa-b641-4f83-a557-b8b9937da715` (B20_RungFantasy.png) |
+| Plate: fantasy forest | forest | `1bac4a73-28ce-4557-a3b3-148077284b0a` (B20_RungFantasy.png, updated 2026-10-02; old `b88078fa`) |
 | Plate: digital river | `B16_SongSo.png` | `0cc5cb01-897c-4b90-a706-cef1ba043c92` |
 | Plate: screen-wall hall | `B15_TuongManHinh.png` (updated 2026-10-02, 4th; never use old `ebb49e7c…` / `54a5db90…`) | `e2fab0e1-0afa-4726-ab31-3bfa83179a9e` |
 | Plate: BOSS arena | `B14_Boss.png` | `c8394b3d-556c-4229-a4a4-73daafabcfd9` |
