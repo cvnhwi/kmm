@@ -47,4 +47,4 @@ Interpretation (flagged): the user wants scenes 2-5 as one continuous clip insid
 | 12-15 s | 5 | POV phone | Mom's avatar, red missed-call icon and badge, blank name bar (add "Mẹ" in post) |
 
 Refs: B15 `e2fab0e1`, Mai `0d56fcb2`, phone `b7eeb576`, Mom fantasy `a6286ab4`, 5 villains shuffled, master `24430dd0`.
-Status: SUBMITTED 2026-10-02. Job `b8f392ff-4fe0-4116-80b0-1eae02808ae4`. 15 s. Content not yet reviewed.
+Status: COMPLETED 2026-10-02 (rendered 16:49 UTC). Job `b8f392ff-4fe0-4116-80b0-1eae02808ae4`. 15 s. Content not yet reviewed.
