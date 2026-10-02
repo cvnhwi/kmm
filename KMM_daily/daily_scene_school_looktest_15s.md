@@ -1,6 +1,6 @@
 # KMM DAILY — Look test: classroom (morning -> evening) + school corridor (evening), 15 s
 
-Status: PROMPT READY, waiting for the user's "gen". ~45 credits.
+Status: SUBMITTED 2026-10-02, job `bcc468bf-af27-453b-8f34-3bd33fdd793e` (~45 credits). Submitted prompt = below with CONSTRAINTS/AVOID adapted to the classroom (blank board/books, no extra students, no time-lapse).
 Refs (order): Video 1 DAILY `0e1937c4…`; Image 1 Mai `b42c82ad…`; Image 2 teacher 07_CoGiao `082374dd-e37b-4a81-b351-9ee0584847f1`; Image 3 classroom B12_Class `b7451b85-b8fd-469b-bf7b-030a52763921`; Image 4 corridor B17_Hanhlang `b4786353-3cce-4744-952b-06b2fb992c67`.
 
 ## Map
