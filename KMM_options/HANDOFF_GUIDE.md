@@ -25,6 +25,8 @@ Cập nhật: 2026-10-01 ~16:50 UTC. Repo `cvnhwi/kmm`, branch `claude/gracious-
 - **Video reference phải là H.264 8-bit yuv420p, có audio track, 720p** (HEVC 10-bit / 854x480 6s từng làm job FAILED không báo lỗi). Kiểm tra/convert bằng `sandbox_exec` (ffprobe/ffmpeg) + `media_upload` (PUT cần header `If-None-Match: *`) + `media_confirm`.
 
 ## 3. ID tham chiếu ĐANG DÙNG
+> ⚠️ **2026-10-02: user đã đổi sang account Higgsfield MỚI.** Các ID dưới đây thuộc account CŨ, không dùng được trên account mới. Upload lại theo `REUPLOAD_NEW_ACCOUNT.md`, rồi thay ID mới vào bảng này, `STYLE_GUIDE_B.md` và file skill. Folder MV KMM cũng phải tạo lại.
+
 | Vai trò | ID | Ghi chú |
 |---|---|---|
 | **Video tham khảo FANTASY (master)** | `83190f2e-aa76-490f-8b36-633ff0cfbee6` | `Fantasy_v2_720p.mp4` (H.264 720p, 6s, audio im lặng), đã test chạy OK. Gốc user `9fb61ba4…` (HEVC, KHÔNG dùng) |
