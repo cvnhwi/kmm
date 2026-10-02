@@ -2,7 +2,7 @@
 
 The user switched to a new Higgsfield account. Media IDs are per account, so **every ID in `HANDOFF_GUIDE.md`, `STYLE_GUIDE_B.md` and the skill file belongs to the OLD account** and will not work on the new one. Re-upload the files below. The assistant then replaces each old ID with the new one in all guides and in the skill.
 
-Status: NOT NEEDED (checked 2026-10-02). After reconnecting, Higgsfield shows the SAME private workspace `7d16e180-91e1-4bfc-a35e-8eed97d27b03`: folder MV KMM `fef878e4…` still exists with today's jobs (e.g. `31ee52eb`, `68589847`), so all existing media IDs remain valid. Keep this checklist only for a real account change (different workspace ID).
+Status: IN PROGRESS. The account DID change on 2026-10-02 (new workspace `ad401adb-c6e7-47e9-824e-4f7d645dc170`). BG + CH uploaded; guides remapped. Still missing: Fantasy.mp4 master video (needs 720p H.264 + silent AAC), fantasy forest, fantasy gate (outside), bus, phone, mom photo, StandardB.
 
 ## Steps
 1. Reconnect Higgsfield (new account) at https://claude.ai/customize/connectors, then start a new Claude session. Connectors only load at session start.
@@ -128,3 +128,16 @@ Not yet seen in BG uploads: fantasy forest (old `d823d7cf`), fantasy gate outsid
 | 22_NguoiXau2.png | `271c1e53-ec7a-4ea9-8573-7003abc37f52` | villain 2 (old `6fecf90d`) |
 
 Still to upload: 23_NguoiXau3, 24_NguoiXau4, 25_BOss, 26_NguoiXau5, bus, phone, mom photo, Fantasy.mp4 master video, fantasy forest, fantasy gate.
+
+### CH round 2 (7)
+| File | New ID | Note |
+|---|---|---|
+| 20_NguoiXau.png | `9ee934cf-d4a2-4591-a178-9b3805294450` | **used in guides** (round 1 `ffe68c08` also valid) |
+| 21_Me_Fantasy.png | `6a337699-bd92-49da-aad9-0c16b6b0c557` | duplicate (guides use round 1 `a6286ab4`) |
+| 22_NguoiXau2.png | `075000e7-3a8c-454f-b95e-7ba7db0c2cb4` | **used in guides** (round 1 `271c1e53` also valid) |
+| 23_NguoiXau3.png | `7a051c5e-3012-4307-ac81-103174f0a038` | villain 3 |
+| 24_NguoiXau4.png | `f448b33f-6e5a-4bd6-b906-bff62ba2bfae` | villain 4 |
+| 25_BOss.png | `3db1be87-7da5-4169-b892-e002f1cf2637` | BOSS brain |
+| 26_NguoiXau5.png | `4b93a54a-f21a-45f5-8275-7251118e0386` | villain 5 |
+
+Villain pool (5): `9ee934cf` · `075000e7` · `7a051c5e` · `f448b33f` · `4b93a54a`.

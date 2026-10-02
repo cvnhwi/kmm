@@ -15,8 +15,8 @@ Cập nhật: 2026-10-01 ~16:50 UTC. Repo `cvnhwi/kmm`, branch `claude/gracious-
 - Git: `git push -u origin claude/gracious-archimedes-cao5q7`, không tạo PR. Commit trailer: `Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>` + `Claude-Session: https://claude.ai/code/session_01AeHAmYFd3WvAQ3hbbrqBAo` (session mới dùng link session mới).
 
 ## 2. Higgsfield (thông số cố định)
-- workspace `7d16e180-91e1-4bfc-a35e-8eed97d27b03`
-- **TẤT CẢ generation vào folder "MV KMM": `fef878e4-1957-439e-8b50-00a4ee8454c6`** (truyền `folder_id` mọi lần, kiểm bằng `list_project_assets`). Không dùng project MV KMM khác (`e46399a5…`, `MV_KMM_S26-31`, `VANH_MV KMM`).
+- workspace `ad401adb-c6e7-47e9-824e-4f7d645dc170`
+- **TẤT CẢ generation vào folder "MV KMM": `11749213-086c-4a29-a963-b5a064eb4af7`** (truyền `folder_id` mọi lần, kiểm bằng `list_project_assets`). Đây là project MV KMM của account MỚI (dùng chung với team, có sẵn các thư mục con ENVIRONMENT/CHARACTER/VIDEO/ART STYLE; gen fantasy của mình để ở folder gốc trừ khi user chỉ định).
 - Model `seedance_2_5`, `mode: omni_reference`, `draft: true`, `resolution: 480p`, `aspect_ratio: 16:9`, `generate_audio: false`, `declined_preset_id: 24bae836-2c4a-48e0-89b6-49fcc0b21612`.
 - Media roles: `video_references`, `image_references`. Giá ~3 credit/giây (6s≈18, 8s≈24, 15s≈45). Duration 4-30s.
 - Dùng `generate_video_batch` (ổn định hơn `generate_video`, hay timeout 60s; nếu timeout → kiểm `list_project_assets` trước khi gửi lại, tránh gen trùng) → `jobs_wait` → `show_generation_by_ids`.
@@ -25,32 +25,32 @@ Cập nhật: 2026-10-01 ~16:50 UTC. Repo `cvnhwi/kmm`, branch `claude/gracious-
 - **Video reference phải là H.264 8-bit yuv420p, có audio track, 720p** (HEVC 10-bit / 854x480 6s từng làm job FAILED không báo lỗi). Kiểm tra/convert bằng `sandbox_exec` (ffprobe/ffmpeg) + `media_upload` (PUT cần header `If-None-Match: *`) + `media_confirm`.
 
 ## 3. ID tham chiếu ĐANG DÙNG
-> ✅ 2026-10-02: đã kết nối lại Higgsfield. Kiểm tra cho thấy vẫn là CÙNG workspace `7d16e180…` (folder MV KMM `fef878e4…` và các job hôm nay vẫn còn) → các ID dưới đây VẪN DÙNG ĐƯỢC, không cần upload lại.
+> ⚠️ 2026-10-02: ĐÃ ĐỔI sang account Higgsfield MỚI (workspace `ad401adb-c6e7-47e9-824e-4f7d645dc170`, gói ultra; project MV KMM `11749213-086c-4a29-a963-b5a064eb4af7`). Các ID dưới đây đã được thay bằng ID mới (log đầy đủ trong `REUPLOAD_NEW_ACCOUNT.md`). Dòng có ⚠️ = vẫn là ID account cũ, KHÔNG dùng được cho tới khi upload lại. Ảnh mới chưa phân vai: `B17_Hanhlang.png` `409ef811-4f88-4a99-a0ea-bd14a5eab41b` (có thể là hầm lối vào), `B19_BOSS.JPG` `65ec906c-0eac-449c-a7fd-78e71f3eb94c`, `B14_Boss_Sheet.png` `d42f15fa-c890-462f-9d54-0d55063bcc1b`, Bố/Mẹ đời thực `6c05a666-c64f-4aaa-acec-6056b3ed3b5e` / `00da7806-ed3f-4a59-8502-756e495480b5`.
 
 | Vai trò | ID | Ghi chú |
 |---|---|---|
-| **Video tham khảo FANTASY (master)** | `83190f2e-aa76-490f-8b36-633ff0cfbee6` | `Fantasy_v2_720p.mp4` (H.264 720p, 6s, audio im lặng), đã test chạy OK. Gốc user `9fb61ba4…` (HEVC, KHÔNG dùng) |
-| **Mai fantasy** | `ef343c87-2208-435b-ad72-0ad938ae95bd` | `01_Mai_FAntasy.png` |
-| Sói bóng đêm | `f48ff106-d9d6-4233-a770-d36f768a1f64` | khói, mắt hổ phách nhỏ, KHÔNG răng |
-| Hầm/lối vào fantasy | `b97b3e97-5b27-4deb-92ea-a10693bc61e9` | vách hang nhiều màn hình cũ |
-| Hẻm (relit đêm âm u) | `875ca1de-fe82-40c9-aaa3-1fae77e08461` | B02_Hem1_Day, luôn re-lit gloomy night |
-| Rừng fantasy | `d823d7cf-984c-4298-a9ab-62cd1b809b0b` | |
-| **Dòng sông số** | `d1f11795-f7e4-49bf-9964-9b6c5dcc1015` | `B16_SongSo.png` (thay `fa8a5475…`) |
-| **Tường màn hình** | `f8cfd99c-ffe6-4596-834b-748b7304c7ef` | `B15_TuongManHinh.png` (cập nhật lần 4, 2026-10-02; thay `ebb49e7c…`, `54a5db90…`, `b59fa3e7…`, `b5785b69…`, `b331cb43…`) |
-| **Phòng Boss** | `1c507ac3-2db9-4d1e-b5e0-53fe183687e5` | `B14_Boss.png` (thay `f1ae9d0a…`, `076ec352…`) |
-| **Não Boss** | `46c623a4-deab-4a16-a049-98c6cbd558d5` | `25_BOss.png` (cập nhật 2026-10-02; thay `9e4e6ae8…`, không dùng lại). Giữ đúng thiết kế trong ảnh |
-| Cổng lớn | `5aa39a50-f435-41b1-8f99-def9153bc90f` | |
-| **Cổng tối** (mới) | `c578fe23-9b72-4e39-8dd0-baf8672fd9df` | `B18_CongToi.jpg` (thêm 2026-10-02, không thay cổng lớn) |
-| **Người xấu gốc / người bóng đêm** | `aad31f63-0447-4ba3-b8f2-6848faede65c` | `20_NguoiXau.png` (cập nhật 2026-10-02; thay `2f07fe73…`, không dùng lại) |
-| Người xấu 2 / 3 / 4 / 5 | `6fecf90d-fe55-4ea6-9c82-d6e5cf418849` / `9b267259-bba3-433f-8af3-1cce21256268` / `23145048-7051-485c-bbac-4d13f240f4d1` / `7c314fff-ebf8-4f30-b1f7-db7b61292d94` | `22_NguoiXau2.png` / `23_NguoiXau3.png` / `24_NguoiXau4.png` / `26_NguoiXau5.png` (kho người xấu, dùng random) |
-| Quạ / Nhện | `6a271d30-4602-4348-8042-8728526956c5` / `cdcbdc48-05d0-…` | |
-| Bố fantasy / Mẹ fantasy | `f9500265-b7a9-485e-8720-ef2f16f0503c` / `0d42f68e-37cb-44c1-8930-29d212572dbc` | |
-| Chú an ninh / Cô giáo / Cô lao công / Công an | `ecde1ad6-151a-42ec-8100-c4cc04573044` / `082374dd-e37b-4a81-b351-9ee0584847f1` / `651ece17-dea7-4131-aa81-5642f5a0121a` / `81cdd17a…` | |
-| Tài xế xe buýt | `6f2ff8e2-08c5-47ad-9b71-25fa28d62738` | 15_TaiXe, KHÔNG phải chú an ninh |
-| Xe buýt xanh | `e077bd7c-d7dd-4e99-84d8-fe676d544e86` | biển trống, không chữ |
-| Điện thoại Mai | `66324bdf-1d17-4e3c-b10e-545427e88712` | ốp xanh da trời, nút vàng, sticker mèo+chó |
-| StandardB (video cũ, cảnh đời thực) | `c5746038-2de6-4154-852e-6e431e457aa5` | không dùng cho cảnh fantasy |
-| Mai đời thực (tạm không dùng) | `b42c82ad-d58e-4fb3-bcf3-4d89dac09517` | |
+| **Video tham khảo FANTASY (master)** | `83190f2e-aa76-490f-8b36-633ff0cfbee6` ⚠️(ID account CŨ, chưa upload lại) | `Fantasy_v2_720p.mp4` (H.264 720p, 6s, audio im lặng), đã test chạy OK. Gốc user `9fb61ba4…` (HEVC, KHÔNG dùng) |
+| **Mai fantasy** | `0d56fcb2-47cc-4271-b785-c73f4ab9a17b` | `01_Mai_FAntasy.png` |
+| Sói bóng đêm | `d07c926b-5d27-45cf-a1fb-9103dfbaa764` | khói, mắt hổ phách nhỏ, KHÔNG răng |
+| Hầm/lối vào fantasy | `b97b3e97-5b27-4deb-92ea-a10693bc61e9` ⚠️(ID account CŨ, chưa upload lại) | vách hang nhiều màn hình cũ |
+| Hẻm (relit đêm âm u) | `c0accc1d-53eb-4d6b-a777-acbac2133117` | B02_Hem1_Day, luôn re-lit gloomy night |
+| Rừng fantasy | `d823d7cf-984c-4298-a9ab-62cd1b809b0b` ⚠️(ID account CŨ, chưa upload lại) | |
+| **Dòng sông số** | `0cc5cb01-897c-4b90-a706-cef1ba043c92` | `B16_SongSo.png` (thay `fa8a5475…`) |
+| **Tường màn hình** | `e2fab0e1-0afa-4726-ab31-3bfa83179a9e` | `B15_TuongManHinh.png` (cập nhật lần 4, 2026-10-02; thay `ebb49e7c…`, `54a5db90…`, `b59fa3e7…`, `b5785b69…`, `b331cb43…`) |
+| **Phòng Boss** | `c8394b3d-556c-4229-a4a4-73daafabcfd9` | `B14_Boss.png` (thay `f1ae9d0a…`, `076ec352…`) |
+| **Não Boss** | `3db1be87-7da5-4169-b892-e002f1cf2637` | `25_BOss.png` (cập nhật 2026-10-02; thay `9e4e6ae8…`, không dùng lại). Giữ đúng thiết kế trong ảnh |
+| Cổng lớn | `5aa39a50-f435-41b1-8f99-def9153bc90f` ⚠️(ID account CŨ, chưa upload lại) | |
+| **Cổng tối** (mới) | `7c1e33a4-10da-431a-aec4-b396f2103c77` | `B18_CongToi.jpg` (thêm 2026-10-02, không thay cổng lớn) |
+| **Người xấu gốc / người bóng đêm** | `9ee934cf-d4a2-4591-a178-9b3805294450` | `20_NguoiXau.png` (cập nhật 2026-10-02; thay `2f07fe73…`, không dùng lại) |
+| Người xấu 2 / 3 / 4 / 5 | `075000e7-3a8c-454f-b95e-7ba7db0c2cb4` / `7a051c5e-3012-4307-ac81-103174f0a038` / `f448b33f-6e5a-4bd6-b906-bff62ba2bfae` / `4b93a54a-f21a-45f5-8275-7251118e0386` | `22_NguoiXau2.png` / `23_NguoiXau3.png` / `24_NguoiXau4.png` / `26_NguoiXau5.png` (kho người xấu, dùng random) |
+| Quạ / Nhện | `252cd267-8a39-4bf1-8b69-cefa1ddd56a6` / `00ac4f6b-39f0-49f3-8a9d-6f56ca30c55c` | |
+| Bố fantasy / Mẹ fantasy | `8eeb2595-7127-4d3f-9dc6-9c124caa1c99` / `a6286ab4-eaba-40ed-988f-3452354fe6ce` | |
+| Chú an ninh / Cô giáo / Cô lao công / Công an | `682c6b6d-e255-473f-983c-56cc65aab6d3` / `89b32a5e-bfbc-44af-96e9-a274bb04cf51` / `2f4bb001-827c-4409-8887-3cd734d1b89b` / `6afba98a-2c36-4e0d-a373-be24ce4bdc75` | |
+| Tài xế xe buýt | `aed8c835-e2eb-477f-a4c5-583726b87181` | 15_TaiXe, KHÔNG phải chú an ninh |
+| Xe buýt xanh | `e077bd7c-d7dd-4e99-84d8-fe676d544e86` ⚠️(ID account CŨ, chưa upload lại) | biển trống, không chữ |
+| Điện thoại Mai | `66324bdf-1d17-4e3c-b10e-545427e88712` ⚠️(ID account CŨ, chưa upload lại) | ốp xanh da trời, nút vàng, sticker mèo+chó |
+| StandardB (video cũ, cảnh đời thực) | `c5746038-2de6-4154-852e-6e431e457aa5` ⚠️(ID account CŨ, chưa upload lại) | không dùng cho cảnh fantasy |
+| Mai đời thực (tạm không dùng) | `fae9baae-3a83-4f65-bfe8-ee32fcc94a78` | |
 
 ## 4. Luật cứng (mọi prompt)
 - Chỉ **style B** (premium stylized 3D). A/C/D đã xoá.
@@ -59,7 +59,7 @@ Cập nhật: 2026-10-01 ~16:50 UTC. Repo `cvnhwi/kmm`, branch `claude/gracious-
 - Mai không mặc hoodie; trẻ em 6-6.5 đầu, người lớn 7-7.5 đầu; không chibi.
 - Sàn mờ, không kẻ ô caro. Sài Gòn 2026, xe máy đội mũ bảo hiểm, chạy bên phải.
 - **Người xấu / bóng đen phải TỐI** (user 2026-10-02): bóng đen phẳng như bóng đổ, đen thẫm hơi ánh chàm, KHÔNG có khối (không đổ bóng thể tích, không chi tiết bề mặt), chỉ viền sáng mảnh ở mép; mắt (nếu có) là hình phát sáng phẳng, KHÔNG con ngươi.
-- **Người xấu / người bóng đen = nhiều ảnh input random** (user 2026-10-02): mỗi khi cảnh có người xấu hoặc người bóng đen, đính kèm NHIỀU ảnh thiết kế người xấu (trộn ngẫu nhiên trong kho ảnh) để đám đông đa dạng; mỗi người bóng vẽ đúng một trong các thiết kế, không tự chế thêm. Kho ảnh (5): `aad31f63…` (20_NguoiXau, gốc mới) · `6fecf90d…` (22_NguoiXau2) · `9b267259…` (23_NguoiXau3) · `23145048…` (24_NguoiXau4) · `7c314fff…` (26_NguoiXau5). Cảnh đám đông: đính kèm cả 5 (hoặc 3-5 ngẫu nhiên); cận 1 người xấu: chọn ngẫu nhiên 1.
+- **Người xấu / người bóng đen = nhiều ảnh input random** (user 2026-10-02): mỗi khi cảnh có người xấu hoặc người bóng đen, đính kèm NHIỀU ảnh thiết kế người xấu (trộn ngẫu nhiên trong kho ảnh) để đám đông đa dạng; mỗi người bóng vẽ đúng một trong các thiết kế, không tự chế thêm. Kho ảnh (5): `9ee934cf-d4a2-4591-a178-9b3805294450` (20_NguoiXau, gốc mới) · `075000e7-3a8c-454f-b95e-7ba7db0c2cb4` (22_NguoiXau2) · `7a051c5e-3012-4307-ac81-103174f0a038` (23_NguoiXau3) · `f448b33f-6e5a-4bd6-b906-bff62ba2bfae` (24_NguoiXau4) · `4b93a54a-f21a-45f5-8275-7251118e0386` (26_NguoiXau5). Cảnh đám đông: đính kèm cả 5 (hoặc 3-5 ngẫu nhiên); cận 1 người xấu: chọn ngẫu nhiên 1.
 - **Đám đông / người bóng tối không bao giờ chuyển động đồng loạt**, mỗi người một hành động, phản ứng lan dần.
 - **Màn hình chớp giật ngẫu nhiên; phần lớn TỐI, chỉ vài cái sáng**, không sáng hết, không theo nhịp.
 - **Real-time 24fps, KHÔNG slow motion, không speed ramp.**
@@ -104,5 +104,5 @@ Lịch sử đầy đủ trong các file `option_B_*.md`.
 
 ## 9. Prompt mở đầu cho box chat mới (copy dán)
 ```
-Tiếp tục dự án MV KMM. Đọc KMM_options/HANDOFF_GUIDE.md, rồi STYLE_GUIDE_B.md và CAMERA_LIBRARY_B.md (mục 8) trong repo cvnhwi/kmm, branch claude/gracious-archimedes-cao5q7. Dùng skill .claude/skills/cinematic-director. Trả lời tiếng Việt, prompt tiếng Anh, mọi video gen vào folder MV KMM fef878e4-1957-439e-8b50-00a4ee8454c6, cảnh fantasy luôn đính kèm video master 83190f2e-aa76-490f-8b36-633ff0cfbee6 và Mai fantasy ef343c87-2208-435b-ad72-0ad938ae95bd.
+Tiếp tục dự án MV KMM. Đọc KMM_options/HANDOFF_GUIDE.md, rồi STYLE_GUIDE_B.md và CAMERA_LIBRARY_B.md (mục 8) trong repo cvnhwi/kmm, branch claude/gracious-archimedes-cao5q7. Dùng skill .claude/skills/cinematic-director. Trả lời tiếng Việt, prompt tiếng Anh, mọi video gen vào folder MV KMM 11749213-086c-4a29-a963-b5a064eb4af7, cảnh fantasy luôn đính kèm video master 83190f2e-aa76-490f-8b36-633ff0cfbee6 và Mai fantasy 0d56fcb2-47cc-4271-b785-c73f4ab9a17b.
 ```
