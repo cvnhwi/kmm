@@ -60,3 +60,29 @@ Master video: upload the original. The assistant must transcode it again to **H.
 | 31 | `StandardB.mp4` (real-world scenes only, optional) | `c5746038…` | |
 
 Old generated clips (job IDs in the plan files) stay on the old account; they cannot be used as references from the new account.
+
+## NEW account upload log (workspace `ad401adb-c6e7-47e9-824e-4f7d645dc170`, project MV KMM `11749213-086c-4a29-a963-b5a064eb4af7`)
+Status update 2026-10-02: the account DID change (new workspace above, ultra plan). The "NOT NEEDED" note above is outdated; re-upload is in progress.
+
+### BG round 1 — real-world plates (19)
+| File | New ID |
+|---|---|
+| B02_Hem1_Day.png | `c0accc1d-53eb-4d6b-a777-acbac2133117` |
+| B02_Hem2_Day.png | `9f47f7d7-7398-40dd-be3b-19a6f3856efe` |
+| B02_Hem3_Day.png | `9c8dcde7-b6b5-4148-884b-a3bee58f41ee` |
+| B03_PhongMai1_Sunset.png | `e390535f-d97e-4aa4-b4de-a912accabdda` |
+| B04_NgaTu1_Day.png | `8b0669a4-c547-4d7d-a776-cb3aa6316de1` |
+| B04_NgaTu2_Day.png | `ca849b95-68b8-4727-ad73-1f57f52e97ae` |
+| B06_ViaHe1_Day.png | `2dbfcd8a-a452-4b03-bbc0-0e11f3a82f6e` |
+| B06_ViaHe2_Day.png | `17d3d211-766e-46c2-9a1f-2e4abe2d2154` |
+| B06_ViaHe3_Day.png | `6deba2bf-49ec-46aa-b232-1f048d2da848` |
+| B07_Station1_Noon.png | `56d0f801-5d06-40db-ba85-0c485bb5e770` |
+| B07_Station2_Noon.png | `32e58526-5e86-4cad-902a-21a20a57875f` |
+| B07_Station3_Noon.png | `13f5b48b-4075-4f13-88e8-426ac4913b50` |
+| B09_Truong1_Day.png | `b099f6f3-6647-462b-b422-5a78c1e1589e` |
+| B10_PhongMai1_Night.png | `55d354f8-c4d2-44f4-9ab2-bda9ad4b8714` |
+| B10_PhongMai1_Night2.png | `449270ea-0b5f-4e19-bde7-03b95d29113f` |
+| B11_Bep.png | `42e149bb-55ec-4244-b5ec-a7061984b432` |
+| B12_Class.png | `e23144fd-d16f-4c4c-aaa8-306b835a1843` |
+| B13_HangQuan.png | `1d4b7ca0-82ba-4772-a43b-395438bac493` |
+| B13_HangQuan2.png | `41afc209-2130-4cde-bd45-bf337d211332` |
