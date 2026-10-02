@@ -2,7 +2,7 @@
 
 User request (2026-10-02): "cảnh mai chạy băng ra từ khu rừng thì trước mặt hiện Cong Toi. mai nhìn lên sau đó quay lưng lui và thấy bóng của sói lấp ló, sau đó mai chạy thẳng vào trong cửa đang mở ở cong toi này. Sáng tạo góc cam".
 
-Status: SUBMITTED 2026-10-02 ~14:10 UTC. Job `5346d1a5-7e45-42c2-9cea-644f771e0bcd`. Content not yet reviewed.
+Status: COMPLETED 2026-10-02 (~14:12 UTC). Job `5346d1a5-7e45-42c2-9cea-644f771e0bcd`. Content not yet reviewed.
 Settings: Seedance 2.5 omni_reference, draft 480p, 15 s (default), 16:9, no audio, folder MV KMM root `11749213…`, declined preset. ~45 credits.
 Refs: master `24430dd0`, Mai fantasy `0d56fcb2`, Dark Gate `B18_CongToi` `7c1e33a4`, smoke wolf `d07c926b`.
 ⚠️ No forest plate (not on the new account yet) → forest shots described in text + Video 1 look.
@@ -24,3 +24,7 @@ Axis forest (near) → gate (far); Mai always runs into depth toward the gate.
 | 9-11 s | OTS toward the forest edge | rack focus shoulder → trees | wolf shadow slips between trunks, amber eyes once |
 | 11-12 s | CU | snap in | eyes trees → gate; decision |
 | 12-15 s | low behind her → rising | rush, then rise as the door grows | sprints in through the open door, swallowed by darkness |
+
+## v2 with the real forest plate (2026-10-02) — user: "cho tôi lại video có rừng fantasy"
+Status: SUBMITTED 2026-10-02 ~14:15 UTC. Job `c15c595c-c731-4c90-8c3d-41b7aa75ad4e`. Content not yet reviewed.
+Same shots as v1. Added forest plate `B20_RungFantasy` `b88078fa` as Image 4 (forest shots + tree line behind Mai); lighting per plate: gate-facing shots match Image 2, forest shots match Image 4.

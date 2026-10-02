@@ -23,3 +23,7 @@ Path L → R (east), camera on the south side.
 | 8.5-10.5 s | high angle over the spider's leg → CU from below | static → push | she stares up frozen, glances to the trees |
 | 10.5-12.5 s | whip pan | follow | scrambles up, spins, bolts off the path toward camera-left, ducks a branch past the lens |
 | 12.5-15 s | handheld chase-cam behind her | weaving between trunks | runs into the dark forest; spider silhouette swaying far behind |
+
+## v2 with the real forest plate (2026-10-02) — user: "cho tôi lại video có rừng fantasy"
+Status: SUBMITTED 2026-10-02 ~14:15 UTC. Job `69157871-c6a7-4201-a399-c19c479a55d9`. Content not yet reviewed.
+Same shots as v1. Added forest plate `B20_RungFantasy` `b88078fa` as Image 2 (keep its trees/path/light), spider re-upload `a01d6370` as Image 3; [Lighting & Integration] now matches Image 2 exactly (Mai ref = design only).
