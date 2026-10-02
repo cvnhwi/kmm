@@ -136,3 +136,9 @@ Status: SUBMITTED 2026-10-02 ~15:03 UTC. Job `3b3ccdcc-e2b1-4a4e-ae8f-908e19353a
 - Mai sits huddled in the corner, knees to chest; yanked up from sitting.
 - Same 6-shot structure and timing as v7 (wrap 7.5-8.5 s, yank 8.5-9.5 s); clean prompt (v7's stray shot-6 text removed).
 - Avoid adds: electric cables/wires, tip piercing her, Mai standing at the start, blood.
+
+## v9 (2026-10-02) — user: v8 + "Mai đang ngồi trong góc tường của phòng Tường màn hình, biểu cảm bình thường"
+Status: SUBMITTED 2026-10-02 ~15:06 UTC. Job `551e0ab8-bfeb-4407-996a-83802fb49e2b`. 12 s, 6 shots. Content not yet reviewed.
+- Location moved to a corner of the SCREEN-WALL hall: plate `e2fab0e1` (arena plate dropped); part of the screen wall visible beside her; [Monitors] block (mostly dark, random flicker, no text); no villains in frame.
+- Expression: ordinary, neutral, calm and unaware for most of the clip (idly glancing at a flickering screen); only a brief flicker of surprise at the wrap. Tension comes from camera, smoke and silence.
+- Same pointed plastic tentacle (no sparks/electricity, tip never touches her), same timing (wrap 7.5-8.5 s, yank 8.5-9.5 s), smoke ceiling, gone after the smoke.
