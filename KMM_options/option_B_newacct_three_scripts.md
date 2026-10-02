@@ -201,5 +201,9 @@ Status: COMPLETED 2026-10-02 (~15:43 UTC). Job `b57921c7-b7a9-4e04-add4-6036a78e
 - Otherwise as v17/v18: no screens/profiles, no smoke above, floor smoke, plastic pointed tentacle, moderate 2 s lift, watching the off-screen fight. Avoid adds Mai touching/leaning on the wall, the wall right behind her.
 
 ## v20 (2026-10-02) — user: v19 reworded "phía sau là mặt tường, Mai cách xa tường 1 khoảng trống"
-Status: SUBMITTED 2026-10-02 ~15:44 UTC. Job `c89a580c-6aee-49c9-988e-7e0aa71fdcef`. 10 s. Content not yet reviewed.
+Status: COMPLETED 2026-10-02 (~15:46 UTC). Job `c89a580c-6aee-49c9-988e-7e0aa71fdcef`. 10 s. Content not yet reviewed.
 Same as v19, but the gap is made unmistakable by the camera: shot 1 and shot 6 are SIDE-ON floor-level shots perpendicular to the wall (wall on one side, Mai far out on the floor, empty smoky gap between); shot 3 top-down shows her alone mid-floor with the wall far off at the frame edge; lift goes straight up away from the wall. Avoid adds standing close to the wall / no gap.
+
+## v21 (2026-10-02) — user: "Mai đứng ở phía trước tường trong bg Tường màn hình, cách xa tường 1 khoảng trống; xung quanh không có các hình profile"
+Status: SUBMITTED 2026-10-02 ~15:47 UTC. Job `c203ef58-6c22-45e6-9f66-7b3d31cbed6a`. 10 s. Content not yet reviewed.
+Interpretation (flagged): the location is now the B15 plate's own wall/layout kept exactly (no longer an invented plain wall), with several metres of empty floor between Mai and the wall; any screens on that wall stay dark / faint static, never profile pictures or faces. Same side-on gap shots, moderate lift, plastic pointed tentacle, no smoke above. Avoid adds profile pictures/faces/photos on screens, changing the hall layout.
