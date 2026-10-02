@@ -2,7 +2,7 @@
 
 User request (2026-10-02): "Tương tự cho tôi 1 option rượt đuổi tương tự giữa Mai và Sói ở bên trong cổng fantasy, sáng tạo góc camera" (same structure as `option_B_forest_spider_reverse_15s.md`).
 
-Status: SUBMITTED 2026-10-02. Job `da67c507-796a-4e01-a4c3-c9e62433d8fe`. Content not yet reviewed.
+Status: COMPLETED 2026-10-02. Job `da67c507-796a-4e01-a4c3-c9e62433d8fe`. Content not yet reviewed.
 Settings: Seedance 2.5 omni_reference, draft 480p, 15 s, 16:9, no audio, folder MV KMM, declined preset. ~45 credits.
 Refs: master video `83190f2e`, Mai `ef343c87`, tunnel `b97b3e97`, wolf `f48ff106`. [Monitors] + [Lighting & Integration] blocks.
 
