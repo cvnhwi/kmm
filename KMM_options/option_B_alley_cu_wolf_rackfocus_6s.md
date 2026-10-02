@@ -39,3 +39,14 @@ Status: COMPLETED 2026-10-02 (~16:07 UTC). Job `b5f4fe24-8406-4720-a467-f3aa749e
 | 5-6.5 s | her POV down the alley | DOLLY-ZOOM (vertigo) | wolf crouched under a flickering lamp; lamp cuts, only eyes, sputters back |
 | 6.5-8 s | ground level just in front of the wolf's paws, wide lens | static hold | wolf silhouette huge in the foreground, tiny Mai frozen far behind, shoulders tense, not lunging |
 Note: the Avoid list contains a stray self-correction fragment ("Mai's pupils visible? keep Mai's eyes normal as in Image 1"); intent: Mai's eyes stay normal, only the wolf has no pupils.
+
+## v5 (2026-10-02) — user: "đánh mắt (eyes only) … Trước mặt Mai là cổng fantasy nên sẽ có light effect lên da mặt; sáng tạo góc camera"
+Status: SUBMITTED 2026-10-02 ~16:12 UTC. Job `1ac47d72-de03-4b84-9fc0-e16390fa5ea4`. 8 s, 4 shots. Content not yet reviewed.
+- The fantasy gate is in front of Mai, behind the camera (off-screen; the outside fantasy-gate plate is not on the new account, so it is only light): rippling cyan-turquoise glow with tiny golden sparkles on her face + catchlights; flickering street lamps behind her give a stuttering rim.
+- Eyes only (no head turn) in shots 2-3.
+| Time | Shot | Action |
+|---|---|---|
+| 0-2.5 s | frontal full-screen CU, slow push-in | gate light ripples on her face, she stares ahead, awed |
+| 2.5-3.5 s | ECU eyes with the gate reflected | eyes shift sideways/back, head still |
+| 3.5-6 s | frontal CU offset, rack focus face → alley behind | wolf crouched under a flickering lamp; lamp cuts, only eyes, sputters back |
+| 6-8 s | reverse wide from low behind the wolf | wolf silhouette huge in the foreground; small Mai beyond, outlined by the cyan blaze of the gate at the alley's end; hold |
