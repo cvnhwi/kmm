@@ -17,7 +17,7 @@ Refs: master `24430dd0`, Mai fantasy `0d56fcb2`, alley `B02_Hem1_Day` `c0accc1d`
 | 4-6 s | rack focus foreground shoulder → alley | wolf crouched low down the wet alley, coiled to lunge, eyes fixed on her; hold |
 
 ## v2 (2026-10-02) — user: same request, "quay đầu nhìn lui sau lưng"
-Status: SUBMITTED 2026-10-02 ~15:53 UTC. Job `610cc561-d9cd-4b17-9fcf-c51ce08766b0`. 6 s. Content not yet reviewed.
+Status: COMPLETED 2026-10-02 (~15:55 UTC). Job `610cc561-d9cd-4b17-9fcf-c51ce08766b0`. 6 s. Content not yet reviewed.
 Changes vs v1 (clearer geometry): camera LOCKED OFF frontal, no arc; the alley and the wolf are in the background directly BEHIND her; she turns her HEAD fully around (profile → cheek, ear, back of head in soft foreground); rack focus from her head to the crouched wolf beyond her. Avoid adds the camera cutting/swinging around her, the wolf beside the camera, eyes-only turn.
 | Time | Action |
 |---|---|

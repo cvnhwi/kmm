@@ -212,3 +212,8 @@ Interpretation (flagged): the location is now the B15 plate's own wall/layout ke
 Status: COMPLETED 2026-10-02 (~15:52 UTC). Job `69504489-6923-4669-9304-ed15ca1649a7`. 10 s. Content not yet reviewed.
 - The wall is a bare SECTION of the same hall: built exactly like the B15 hall walls (same material, structural lines, panels, columns, colour) but with no screens/profiles/faces/frames; it meets a side wall in a corner. Several metres of empty floor between Mai and the wall.
 - Otherwise as v21: side-on gap shots, no smoke above, floor smoke, plastic pointed tentacle, moderate 2 s lift, watching the off-screen fight. Avoid adds a wall that looks like a different place.
+
+## v23 (2026-10-02) — user sent a new background ("Hãy để Mai đứng ở bối cảnh này cho prompt trên"), uploaded as `Mai_tuong.png` `46c56ac0-d211-43a9-8660-9de33a4b8a78`
+Plate (seen by the assistant): dark worn tiled stone floor with cracked seams to the horizon, cyan-teal rolling smoke clouds all around and overhead, empty endless space, no walls.
+Status: SUBMITTED 2026-10-02 ~15:56 UTC. Job `2f734519-5e22-47b8-9bb4-e9b44aff450c`. 10 s. Content not yet reviewed.
+Defaults (flagged): "prompt trên" taken as the tentacle-lift scene (not the alley wolf); smoke overhead kept as in the plate (overrides "phía trên không có khói"), she disappears up into it. Walls/gap/corner notes dropped (no walls in the plate). Same tentacle, timing, expression; lighting matches the new plate.
