@@ -83,4 +83,4 @@ User: "góc Tường màn hình, không sát tường… chỉ hiện bóng ở 
 - Hand shadows fall ONLY on her face (the wall is too far to receive them) until one teary eye remains lit.
 - Avoid: Mai on or near the wall; real hands, arms or figures in frame.
 Refs: Mai, B15, master. 4 s → trim to 2 s.
-Status: SUBMITTED 2026-10-02. Job `ba20b810-4d1b-4f78-a001-c98b875fa492`. Content not yet reviewed.
+Status: COMPLETED 2026-10-02 (rendered 17:11 UTC). Job `ba20b810-4d1b-4f78-a001-c98b875fa492`. Content not yet reviewed.
