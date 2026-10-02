@@ -2,7 +2,7 @@
 
 User request (2026-10-02): "Cho tôi cận cảnh camera thẳng mặt (toàn màn hình), sau đó nhìn lui sau lưng focus vào chó sói bóng đêm (không con ngươi) đang đứng ở tư thế chuẩn bị lao tới. Bối cảnh hẻm buổi đêm".
 
-Status: SUBMITTED 2026-10-02 ~15:49 UTC. Job `51166672-fd6f-4122-9b75-ce644232bcf6`. Content not yet reviewed.
+Status: COMPLETED 2026-10-02 (~15:51 UTC). Job `51166672-fd6f-4122-9b75-ce644232bcf6`. Content not yet reviewed.
 Settings: Seedance 2.5 omni_reference, draft 480p, 6 s (default, no duration given), 16:9, no audio, folder MV KMM root, declined preset. ~18 credits.
 Refs: master `24430dd0`, Mai fantasy `0d56fcb2`, alley `B02_Hem1_Day` `c0accc1d` (re-lit gloomy night per alley rule), wolf `d07c926b`.
 
