@@ -56,6 +56,7 @@ Cập nhật: 2026-10-01 ~16:50 UTC. Repo `cvnhwi/kmm`, branch `claude/gracious-
 - Quái vật = khói, mắt hổ phách nhỏ, **không răng**, **KHÔNG BAO GIỜ chạm Mai**.
 - Mai không mặc hoodie; trẻ em 6-6.5 đầu, người lớn 7-7.5 đầu; không chibi.
 - Sàn mờ, không kẻ ô caro. Sài Gòn 2026, xe máy đội mũ bảo hiểm, chạy bên phải.
+- **Người xấu / bóng đen phải TỐI** (user 2026-10-02): bóng đen phẳng như bóng đổ, đen thẫm hơi ánh chàm, KHÔNG có khối (không đổ bóng thể tích, không chi tiết bề mặt), chỉ viền sáng mảnh ở mép; mắt (nếu có) là hình phát sáng phẳng, KHÔNG con ngươi.
 - **Người xấu / người bóng đen = nhiều ảnh input random** (user 2026-10-02): mỗi khi cảnh có người xấu hoặc người bóng đen, đính kèm NHIỀU ảnh thiết kế người xấu (trộn ngẫu nhiên trong kho ảnh) để đám đông đa dạng; mỗi người bóng vẽ đúng một trong các thiết kế, không tự chế thêm. Kho ảnh (5): `2f07fe73…` · `6fecf90d…` (22_NguoiXau2) · `9b267259…` (23_NguoiXau3) · `23145048…` (24_NguoiXau4) · `7c314fff…` (26_NguoiXau5). Cảnh đám đông: đính kèm cả 5 (hoặc 3-5 ngẫu nhiên); cận 1 người xấu: chọn ngẫu nhiên 1.
 - **Đám đông / người bóng tối không bao giờ chuyển động đồng loạt**, mỗi người một hành động, phản ứng lan dần.
 - **Màn hình chớp giật ngẫu nhiên; phần lớn TỐI, chỉ vài cái sáng**, không sáng hết, không theo nhịp.
