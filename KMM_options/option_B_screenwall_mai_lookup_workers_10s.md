@@ -40,4 +40,4 @@ Same shots and the same exact-B15 rule. Changes:
 - CU changed to eye level, with no "lips part".
 - Removed "crouches", "shakes its head", "breath".
 - Shorter Character/Expression blocks.
-Status: SUBMITTED 2026-10-02. Job `9c784030-c5c5-4be3-a2cb-6a6f1c791010`. Content not yet reviewed.
+Status: COMPLETED 2026-10-02 (rendered 16:41 UTC). Job `9c784030-c5c5-4be3-a2cb-6a6f1c791010`. Content not yet reviewed.
