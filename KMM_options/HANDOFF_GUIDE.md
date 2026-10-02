@@ -40,6 +40,7 @@ Cập nhật: 2026-10-01 ~16:50 UTC. Repo `cvnhwi/kmm`, branch `claude/gracious-
 | Cổng lớn | `5aa39a50-f435-41b1-8f99-def9153bc90f` | |
 | **Cổng tối** (mới) | `c578fe23-9b72-4e39-8dd0-baf8672fd9df` | `B18_CongToi.jpg` (thêm 2026-10-02, không thay cổng lớn) |
 | Người bóng đêm | `2f07fe73-628d-4761-aeff-0b32446d8a0c` | |
+| Người xấu 2 / 3 / 4 / 5 | `6fecf90d-fe55-4ea6-9c82-d6e5cf418849` / `9b267259-bba3-433f-8af3-1cce21256268` / `23145048-7051-485c-bbac-4d13f240f4d1` / `7c314fff-ebf8-4f30-b1f7-db7b61292d94` | `22_NguoiXau2.png` / `23_NguoiXau3.png` / `24_NguoiXau4.png` / `26_NguoiXau5.png` (kho người xấu, dùng random) |
 | Quạ / Nhện | `6a271d30-4602-4348-8042-8728526956c5` / `cdcbdc48-05d0-…` | |
 | Bố fantasy / Mẹ fantasy | `f9500265-b7a9-485e-8720-ef2f16f0503c` / `0d42f68e-37cb-44c1-8930-29d212572dbc` | |
 | Chú an ninh / Cô giáo / Cô lao công / Công an | `ecde1ad6-151a-42ec-8100-c4cc04573044` / `082374dd-e37b-4a81-b351-9ee0584847f1` / `651ece17-dea7-4131-aa81-5642f5a0121a` / `81cdd17a…` | |
@@ -55,7 +56,7 @@ Cập nhật: 2026-10-01 ~16:50 UTC. Repo `cvnhwi/kmm`, branch `claude/gracious-
 - Quái vật = khói, mắt hổ phách nhỏ, **không răng**, **KHÔNG BAO GIỜ chạm Mai**.
 - Mai không mặc hoodie; trẻ em 6-6.5 đầu, người lớn 7-7.5 đầu; không chibi.
 - Sàn mờ, không kẻ ô caro. Sài Gòn 2026, xe máy đội mũ bảo hiểm, chạy bên phải.
-- **Người xấu / người bóng đen = nhiều ảnh input random** (user 2026-10-02): mỗi khi cảnh có người xấu hoặc người bóng đen, đính kèm NHIỀU ảnh thiết kế người xấu (trộn ngẫu nhiên trong kho ảnh) để đám đông đa dạng; mỗi người bóng vẽ đúng một trong các thiết kế, không tự chế thêm. Kho ảnh: `2f07fe73…` + ảnh mới user sắp gửi.
+- **Người xấu / người bóng đen = nhiều ảnh input random** (user 2026-10-02): mỗi khi cảnh có người xấu hoặc người bóng đen, đính kèm NHIỀU ảnh thiết kế người xấu (trộn ngẫu nhiên trong kho ảnh) để đám đông đa dạng; mỗi người bóng vẽ đúng một trong các thiết kế, không tự chế thêm. Kho ảnh (5): `2f07fe73…` · `6fecf90d…` (22_NguoiXau2) · `9b267259…` (23_NguoiXau3) · `23145048…` (24_NguoiXau4) · `7c314fff…` (26_NguoiXau5). Cảnh đám đông: đính kèm cả 5 (hoặc 3-5 ngẫu nhiên); cận 1 người xấu: chọn ngẫu nhiên 1.
 - **Đám đông / người bóng tối không bao giờ chuyển động đồng loạt**, mỗi người một hành động, phản ứng lan dần.
 - **Màn hình chớp giật ngẫu nhiên; phần lớn TỐI, chỉ vài cái sáng**, không sáng hết, không theo nhịp.
 - **Real-time 24fps, KHÔNG slow motion, không speed ramp.**

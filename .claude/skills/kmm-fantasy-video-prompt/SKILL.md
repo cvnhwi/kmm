@@ -56,6 +56,10 @@ If the user says they are not attaching the video (or it is unavailable), warn t
 | Teacher (Cô giáo), pink áo dài, wooden ruler | `07_CoGiao` | `082374dd-e37b-4a81-b351-9ee0584847f1` |
 | Cleaner (Cô lao công), orange uniform, nón lá, bamboo broom | `08_CoLaoCong` | `651ece17-dea7-4131-aa81-5642f5a0121a` |
 | Night-shadow person (Người bóng đêm) | shadow person sheet | `2f07fe73-628d-4761-aeff-0b32446d8a0c` |
+| Villain 2 (Người xấu 2) | `22_NguoiXau2.png` | `6fecf90d-fe55-4ea6-9c82-d6e5cf418849` |
+| Villain 3 (Người xấu 3) | `23_NguoiXau3.png` | `9b267259-bba3-433f-8af3-1cce21256268` |
+| Villain 4 (Người xấu 4) | `24_NguoiXau4.png` | `23145048-7051-485c-bbac-4d13f240f4d1` |
+| Villain 5 (Người xấu 5) | `26_NguoiXau5.png` | `7c314fff-ebf8-4f30-b1f7-db7b61292d94` |
 | Smoke wolf (Sói bóng đêm) | wolf sheet | `f48ff106-d9d6-4233-a770-d36f768a1f64` |
 | Smoke crow (Quạ) | crow sheet | `6a271d30-4602-4348-8042-8728526956c5` |
 | Smoke spider (Nhện) | spider sheet | `cdcbdc48-05d0-4875-b2c4-eb77a56cb96b` |
@@ -171,7 +175,7 @@ Shot N (...-15 s), ...: ...
 2. **No text anywhere:** no letters, numbers, logos, names or readable UI on screens, phones, signs, uniforms, gates or profile cards.
 3. **Creatures never touch Mai.** Creatures are dark smoke forms with small glowing amber eyes and no teeth. The wolf is semi-transparent.
 4. **Proportions:** children 6-6.5 heads tall, adults 7-7.5, never chibi. Mai never wears a hoodie.
-5a. **Villains / night-shadow people use SEVERAL random design images.** Whenever a scene has "người xấu" or "người bóng đen", attach several villain design images from the villain pool (a random mix) and write: "Images N-M are the villain designs: every night-shadow person is drawn as one of these designs, mixed randomly across the crowd; copy each design exactly, do not invent new designs or add parts." Villain pool: `2f07fe73-628d-4761-aeff-0b32446d8a0c` + new images added by the user.
+5a. **Villains / night-shadow people use SEVERAL random design images.** Whenever a scene has "người xấu" or "người bóng đen", attach several villain design images from the villain pool (a random mix) and write: "Images N-M are the villain designs: every night-shadow person is drawn as one of these designs, mixed randomly across the crowd; copy each design exactly, do not invent new designs or add parts." Villain pool (5 designs): `2f07fe73-628d-4761-aeff-0b32446d8a0c` (night-shadow person, NguoiXau1) · `6fecf90d-fe55-4ea6-9c82-d6e5cf418849` (22_NguoiXau2.png) · `9b267259-bba3-433f-8af3-1cce21256268` (23_NguoiXau3.png) · `23145048-7051-485c-bbac-4d13f240f4d1` (24_NguoiXau4.png) · `7c314fff-ebf8-4f30-b1f7-db7b61292d94` (26_NguoiXau5.png). Crowd scenes: attach all 5 (or a random 3-5); a single close-up villain: pick one at random.
 5. **Crowds are never in sync.** Every person or shadow has their own action, speed and rhythm; reactions ripple nearest-first with uneven gaps.
 6. **Monitors:** mostly dark, only a few lit, flickering at random; never all lit, never on a beat.
 7. **Real-time 24 fps:** no slow motion, speed ramps, freeze frames or fast-forward.
