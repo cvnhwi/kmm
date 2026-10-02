@@ -32,4 +32,12 @@ Interpretation:
 | 6.5-10 s | lateral track 35 mm along the foot of the wall | individual workers, each with a different action |
 
 Refs: B15 `e2fab0e1` (Image 1), Mai `0d56fcb2`, 5 villains shuffled (`075000e7`, `f448b33f`, `4b93a54a`, `7a051c5e`, `9ee934cf`), master `24430dd0`.
-Status: SUBMITTED 2026-10-02. Job `651f7a8a-c16a-4c01-836d-3d40e2d65dd1`. Content not yet reviewed.
+Status: FLAGGED "nsfw". Job `651f7a8a-c16a-4c01-836d-3d40e2d65dd1`. Possible triggers: "her lips part", "face fills the frame", "crouches".
+
+## v2b — softened retry of v2
+Same shots and the same exact-B15 rule. Changes:
+- Labelled "suspenseful family-friendly animation"; villains called "shadow office workers".
+- CU changed to eye level, with no "lips part".
+- Removed "crouches", "shakes its head", "breath".
+- Shorter Character/Expression blocks.
+Status: SUBMITTED 2026-10-02. Job `9c784030-c5c5-4be3-a2cb-6a6f1c791010`. Content not yet reviewed.

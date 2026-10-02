@@ -25,4 +25,4 @@ Refs: master `24430dd0`, Mai `0d56fcb2`, B15 `e2fab0e1`, phone `b7eeb576`, Mom f
 | 6-8.5 s | ground level 24 mm | shadow snake glides out, loose loop around her shoes |
 | 8.5-12 s | MS from behind and to the side 35 mm | snake climbs the backpack onto her shoulder, head by her cheek; she freezes; hold |
 
-Status: SUBMITTED 2026-10-02. Job `244203af-f831-420f-bd2f-e369314c0124`. Content not yet reviewed.
+Status: COMPLETED 2026-10-02 (rendered 16:35 UTC). Job `244203af-f831-420f-bd2f-e369314c0124`. Content not yet reviewed.
