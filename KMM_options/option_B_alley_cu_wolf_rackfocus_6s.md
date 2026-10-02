@@ -83,4 +83,4 @@ Changes from v8:
 - Shot 4: dolly zoom without "the wolf looms".
 - Shot 5: no "huge/stretched".
 - Labelled as "suspenseful family-friendly animation".
-Status: SUBMITTED 2026-10-02. Passed moderation at submit; rendering. Job `07c6b701-711b-4952-9a70-acccde17fef4`. 8 s. Content not yet reviewed.
+Status: COMPLETED 2026-10-02 (rendered 16:24 UTC). Job `07c6b701-711b-4952-9a70-acccde17fef4`. 8 s. Content not yet reviewed.
