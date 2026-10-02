@@ -196,6 +196,10 @@ Status: COMPLETED 2026-10-02 (~15:39 UTC). Job `708f91e2-5e7b-456c-afd4-b183eb6e
 Interpretation (flagged, conflicts with v17's wall): the plain wall is removed; behind Mai the hall opens WIDE and DEEP (rows of tall dark pillars/arches receding layer after layer into haze, far end lost in darkness). Still no screens/profiles, no smoke above (floor smoke spreads into the depth), plastic pointed tentacle, moderate 2 s lift. Shot 1 is now an extreme wide; shot 2 uses a long lens with the deep hall soft behind her. Avoid adds a wall right behind her / shallow background.
 
 ## v19 (2026-10-02) — user: v17 + "phía sau là tường, cách 1 khoảng 5m"
-Status: SUBMITTED 2026-10-02 ~15:41 UTC. Job `b57921c7-b7a9-4e04-add4-6036a78e5487`. 10 s. Content not yet reviewed.
+Status: COMPLETED 2026-10-02 (~15:43 UTC). Job `b57921c7-b7a9-4e04-add4-6036a78e5487`. 10 s. Content not yet reviewed.
 - Mai stands on open floor about 5 m in front of a tall plain dark wall (corner area near the entrance), smoky empty floor between her and the wall; she never touches the wall. Lift goes straight up through open air.
 - Otherwise as v17/v18: no screens/profiles, no smoke above, floor smoke, plastic pointed tentacle, moderate 2 s lift, watching the off-screen fight. Avoid adds Mai touching/leaning on the wall, the wall right behind her.
+
+## v20 (2026-10-02) — user: v19 reworded "phía sau là mặt tường, Mai cách xa tường 1 khoảng trống"
+Status: SUBMITTED 2026-10-02 ~15:44 UTC. Job `c89a580c-6aee-49c9-988e-7e0aa71fdcef`. 10 s. Content not yet reviewed.
+Same as v19, but the gap is made unmistakable by the camera: shot 1 and shot 6 are SIDE-ON floor-level shots perpendicular to the wall (wall on one side, Mai far out on the floor, empty smoky gap between); shot 3 top-down shows her alone mid-floor with the wall far off at the frame edge; lift goes straight up away from the wall. Avoid adds standing close to the wall / no gap.

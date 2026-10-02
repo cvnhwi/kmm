@@ -14,7 +14,7 @@ Smoke: colossal CYAN walls/towers in many layers (never purple).
 | 6.5-10 s | ultra-wide worm's-eye from the floor | slow push-in + tilt up, hold | BOSS fully emerges, hovers high, ~70% of frame, god rays through cyan smoke |
 
 ## v2 (2026-10-02) — user: same + "sáng tạo góc camera tạo cảm giác áp chế, quyền lực"
-Status: SUBMITTED 2026-10-02 ~15:39 UTC. Job `23355c2b-661e-4659-b837-abef624c328b`. 10 s. Content not yet reviewed.
+Status: COMPLETED 2026-10-02 (~15:41 UTC). Job `23355c2b-661e-4659-b837-abef624c328b`. 10 s. Content not yet reviewed.
 | Time | Shot | Camera | Action |
 |---|---|---|---|
 | 0-2.5 s | extreme low at floor level, slight Dutch tilt | static | smoke wall towers like a cliff, floor vibrates, cyan pulse thumps inside the smoke |
