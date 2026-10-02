@@ -166,11 +166,16 @@ Conflict flagged: the request still opens with "tốc độ nhanh", but the beat
 Changes vs v11: lift = MODERATE, steady, 2 s (7-9 s), camera tilting up with her, she stays visible rising (legs dangling, gripping the tentacle, looking down) until the smoke swallows her legs last; aftermath shortened to 9-10 s. Avoid swaps "easing during the yank" for "a violent instant yank".
 
 ## v13 (2026-10-02) — user: v12 + "ở tường trống, không có các hình ảnh profile vì đây là góc đối diện"
-Status: SUBMITTED 2026-10-02 ~15:19 UTC. Job `27fb8d41-1773-4a3f-95dd-40940c90f7d0`. 10 s. Content not yet reviewed.
+Status: COMPLETED 2026-10-02 (~15:22 UTC). Job `27fb8d41-1773-4a3f-95dd-40940c90f7d0`. 10 s. Content not yet reviewed.
 - Opposite corner of the screen-wall hall: two plain BLANK dark walls (subtle panel seams only); no screens/monitors/profile pictures/frames; the screen wall is behind the camera and never in frame. Plate used only for materials, palette, floor and light. [Monitors] block removed. Smoke ceiling kept; moderate 2 s lift (7-9 s).
 
 ## v14 (2026-10-02) — user (mid-turn): v12 but "Phía trên không có khói"
-Status: SUBMITTED 2026-10-02 ~15:20 UTC. Job `01376012-12c5-4fd8-817f-030a857fe841`. 10 s. Content not yet reviewed.
+Status: COMPLETED 2026-10-02 (~15:23 UTC). Job `01376012-12c5-4fd8-817f-030a857fe841`. 10 s. Content not yet reviewed.
 Conflict flagged: same message also says "chỉ là khói xung quanh" → smoke kept only around her (floor/waist level, frame sides); NOTHING above: the hall rises into clear deep darkness. Message did not repeat the blank-wall note → screen-wall corner as in v12 (screens beside her, [Monitors] block).
 - Tentacle descends from the dark heights; shot 3 = very high top-down from the dark heights; she is lifted at moderate speed until she fades into the darkness above (no smoke to swallow her); floor smoke closes over her spot.
 - Avoid adds: smoke above her / smoke ceiling.
+
+## v15 (2026-10-02) — user: v14 + "Mai đứng ở trước cửa phòng Tường màn hình; xung quanh không có các hình profile"
+Status: SUBMITTED 2026-10-02 ~15:24 UTC. Job `e77b93cb-0efd-4aac-9436-e3f2ab9b7647`. 10 s. Content not yet reviewed.
+- Location: the entrance end of the hall, in front of the huge closed dark double doors (plain, no symbols), near the corner of the door wall; no screens/monitors/profiles/frames around her; screen wall behind the camera. Plate used only for materials/palette/floor/light (Dark Gate exterior plate not attached, to avoid an exterior look).
+- No smoke above (clear darkness, ceiling lost in shadow); floor/waist smoke only; tentacle descends from the dark heights; moderate 2 s lift up the face of the doors into the darkness.
