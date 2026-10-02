@@ -29,7 +29,7 @@ Cập nhật: 2026-10-01 ~16:50 UTC. Repo `cvnhwi/kmm`, branch `claude/gracious-
 
 | Vai trò | ID | Ghi chú |
 |---|---|---|
-| **Video tham khảo FANTASY (master)** | `83190f2e-aa76-490f-8b36-633ff0cfbee6` ⚠️(ID account CŨ, chưa upload lại) | `Fantasy_v2_720p.mp4` (H.264 720p, 6s, audio im lặng), đã test chạy OK. Gốc user `9fb61ba4…` (HEVC, KHÔNG dùng) |
+| **Video tham khảo FANTASY (master)** | `24430dd0-a7ec-4d5c-a555-46abfb7600a1` (Fantasy.mp4, account mới; đang test định dạng, job `6a9c8607`) | `Fantasy_v2_720p.mp4` (H.264 720p, 6s, audio im lặng), đã test chạy OK. Gốc user `9fb61ba4…` (HEVC, KHÔNG dùng) |
 | **Mai fantasy** | `0d56fcb2-47cc-4271-b785-c73f4ab9a17b` | `01_Mai_FAntasy.png` |
 | Sói bóng đêm | `d07c926b-5d27-45cf-a1fb-9103dfbaa764` | khói, mắt hổ phách nhỏ, KHÔNG răng |
 | Hầm/lối vào fantasy | `b97b3e97-5b27-4deb-92ea-a10693bc61e9` ⚠️(ID account CŨ, chưa upload lại) | vách hang nhiều màn hình cũ |
@@ -47,8 +47,8 @@ Cập nhật: 2026-10-01 ~16:50 UTC. Repo `cvnhwi/kmm`, branch `claude/gracious-
 | Bố fantasy / Mẹ fantasy | `8eeb2595-7127-4d3f-9dc6-9c124caa1c99` / `a6286ab4-eaba-40ed-988f-3452354fe6ce` | |
 | Chú an ninh / Cô giáo / Cô lao công / Công an | `682c6b6d-e255-473f-983c-56cc65aab6d3` / `89b32a5e-bfbc-44af-96e9-a274bb04cf51` / `2f4bb001-827c-4409-8887-3cd734d1b89b` / `6afba98a-2c36-4e0d-a373-be24ce4bdc75` | |
 | Tài xế xe buýt | `aed8c835-e2eb-477f-a4c5-583726b87181` | 15_TaiXe, KHÔNG phải chú an ninh |
-| Xe buýt xanh | `e077bd7c-d7dd-4e99-84d8-fe676d544e86` ⚠️(ID account CŨ, chưa upload lại) | biển trống, không chữ |
-| Điện thoại Mai | `66324bdf-1d17-4e3c-b10e-545427e88712` ⚠️(ID account CŨ, chưa upload lại) | ốp xanh da trời, nút vàng, sticker mèo+chó |
+| Xe buýt xanh | `1a436a85-6ed7-4897-96bd-2ba2cdc4b77a` | biển trống, không chữ |
+| Điện thoại Mai | `b7eeb576-8bcf-4a98-b695-48a4e029fda1` | ốp xanh da trời, nút vàng, sticker mèo+chó |
 | StandardB (video cũ, cảnh đời thực) | `c5746038-2de6-4154-852e-6e431e457aa5` ⚠️(ID account CŨ, chưa upload lại) | không dùng cho cảnh fantasy |
 | Mai đời thực (tạm không dùng) | `fae9baae-3a83-4f65-bfe8-ee32fcc94a78` | |
 
@@ -77,7 +77,7 @@ Dòng đầu luôn là:
 > FANTASY MASTER REFERENCE FIRST: Video 1 is the master reference for the style, mood and characters of this whole clip. Match its render look, materials, colour palette, lighting mood, atmosphere, character design, proportions and animation feel on every frame; do not copy its exact shots, camera or story.
 
 Sau đó các khối: `[Generation Goal]` → `[References]` (Video 1 = style/mood/nhân vật, KHÔNG camera; Image = Mai/sói/bối cảnh, "design only, ONE figure") → `[Space & Blocking]` → `[Action & Camera, time-ordered]` (Shot N (t-t s): START → PEAK → END, "Cut.") → `[Acting]` → `[Character Look]` → `[Expression]` → `[Monitors]` → `[Lighting]` (Match Video 1…) → `[Visual Style]` → `[Avoid]` (luật cứng + lỗi riêng cảnh).
-Medias: `video_references` = `83190f2e…` + `image_references` = Mai fantasy + các ref cảnh.
+Medias: `video_references` = `24430dd0…` + `image_references` = Mai fantasy + các ref cảnh.
 
 ## 6. Director pass (camera tự động, từ skill cinematic-director)
 Mỗi cảnh: (1) beat + cảm xúc, (2) chia shot, (3) chọn cỡ cảnh/góc/lens/move/blocking theo động từ kể chuyện, (4) START/PEAK/END mỗi shot, (5) kiểm khả thi + trục, (6) mô tả chuyển động cụ thể (hướng, tốc độ, kết), (7) bỏ move trang trí. Một chuyển động chính mỗi beat. Góc user chỉ định luôn thắng.
@@ -104,5 +104,5 @@ Lịch sử đầy đủ trong các file `option_B_*.md`.
 
 ## 9. Prompt mở đầu cho box chat mới (copy dán)
 ```
-Tiếp tục dự án MV KMM. Đọc KMM_options/HANDOFF_GUIDE.md, rồi STYLE_GUIDE_B.md và CAMERA_LIBRARY_B.md (mục 8) trong repo cvnhwi/kmm, branch claude/gracious-archimedes-cao5q7. Dùng skill .claude/skills/cinematic-director. Trả lời tiếng Việt, prompt tiếng Anh, mọi video gen vào folder MV KMM 11749213-086c-4a29-a963-b5a064eb4af7, cảnh fantasy luôn đính kèm video master 83190f2e-aa76-490f-8b36-633ff0cfbee6 và Mai fantasy 0d56fcb2-47cc-4271-b785-c73f4ab9a17b.
+Tiếp tục dự án MV KMM. Đọc KMM_options/HANDOFF_GUIDE.md, rồi STYLE_GUIDE_B.md và CAMERA_LIBRARY_B.md (mục 8) trong repo cvnhwi/kmm, branch claude/gracious-archimedes-cao5q7. Dùng skill .claude/skills/cinematic-director. Trả lời tiếng Việt, prompt tiếng Anh, mọi video gen vào folder MV KMM 11749213-086c-4a29-a963-b5a064eb4af7, cảnh fantasy luôn đính kèm video master 24430dd0-a7ec-4d5c-a555-46abfb7600a1 và Mai fantasy 0d56fcb2-47cc-4271-b785-c73f4ab9a17b.
 ```
