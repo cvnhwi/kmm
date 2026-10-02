@@ -101,7 +101,7 @@ Status: COMPLETED 2026-10-02 (~14:54 UTC). Job `18285c79-c3e1-4b47-bda8-f4df44c7
 Same timing as v3 (wrap 0-1 s, extreme yank 1-2 s), Mai alone, cyan smoke. New [Framing]: low worm's-eye from near the floor, Mai in the lower frame, the BOSS's UNDERSIDE (lower surface + dangling cable tentacles) filling the upper half through smoke layers; the cable comes down from the underside; ends looking straight up at the underside with tiny Mai dangling just below it. Avoid adds: losing the BOSS from frame.
 
 ## BOSS scene 1 — single cable v5, 12 s tense oner (2026-10-02) — user: v4 + "tạo mood căng thẳng; đi qua khói là mất; kiểu 3D; shot 12 giây"
-Status: SUBMITTED 2026-10-02 ~14:53 UTC. Job `19b62ece-1ec5-4405-97d3-f6cf63eb660c`. 12 s, ONE continuous shot. Content not yet reviewed.
+Status: COMPLETED 2026-10-02 (~14:57 UTC). Job `19b62ece-1ec5-4405-97d3-f6cf63eb660c`. 12 s, ONE continuous shot. Content not yet reviewed.
 Interpretation (flagged): "giây 1 quấn / giây 2 kéo" = the wrap lasts 1 s and the yank lasts 1 s; the extra 12 s length is used for a tension build before and an empty aftermath after.
 | Time | Camera | Action |
 |---|---|---|
@@ -112,7 +112,7 @@ Interpretation (flagged): "giây 1 quấn / giây 2 kéo" = the wrap lasts 1 s a
 Avoid adds: any cut, Mai visible after the smoke, flat 2D look.
 
 ## BOSS scene 1 — single cable v6, 12 s, NO BOSS visible (2026-10-02) — user: v5 but "không thấy boss, chỉ là khói xung quanh; sáng tạo góc camera"
-Status: SUBMITTED 2026-10-02 ~14:57 UTC. Job `4b5a38fa-6676-4d09-a2f0-3da2ab72473e`. 12 s, 6 hard-cut shots. Content not yet reviewed.
+Status: COMPLETED 2026-10-02 (~14:58 UTC). Job `4b5a38fa-6676-4d09-a2f0-3da2ab72473e`. 12 s, 6 hard-cut shots. Content not yet reviewed.
 Refs: master, Mai, arena `c8394b3d` (no BOSS ref attached). Same interpretation: wrap lasts 1 s, yank lasts 1 s.
 | Time | Shot | Action |
 |---|---|---|
@@ -122,3 +122,10 @@ Refs: master, Mai, arena `c8394b3d` (no BOSS ref attached). Same interpretation:
 | 7.5-8.5 s | CU waist, handheld | WRAP: cable snaps down, coils twice; hands fly to it |
 | 8.5-9.5 s | low wide from the floor looking up | FAST YANK into the smoke ceiling, gone |
 | 9.5-12 s | floor-level, slow push-in → tilt up | empty spot, smoke rolls back, sparks die; hole in the ceiling swirls closed |
+
+## BOSS scene 1 — single cable v7, 12 s, wall corner, no sparks on contact (2026-10-02) — user: v6 + "Mai ở phía góc tường; không có effect tia lửa khi chạm vào Mai"
+Status: SUBMITTED 2026-10-02 ~15:00 UTC. Job `305ef2ac-0dd6-4beb-a231-13bec31c5d45`. 12 s, 6 shots. Content not yet reviewed.
+- Mai pressed into a tall corner where two walls meet at the outer edge of the BOSS arena (assumed location; the arena plate has no defined corner).
+- Cable: only faint cold light pulses along it; NO sparks / flashes / glow on contact (clean silent wrap). Avoid adds sparks, electric flashes, lightning, glow on contact.
+- Shots: wide creep toward the corner → side CU, palms on the walls, eyes up → top-down from inside the smoke ceiling, cable tip hangs above her → WRAP 7.5-8.5 s (waist CU) → YANK 8.5-9.5 s up along the corner into the smoke, gone → empty corner, tilt up the walls, hole closes.
+- Note: shot 6 text contains a stray self-correction ("one small strand of her hair ribbon? no, nothing left"); intent is an empty corner.
