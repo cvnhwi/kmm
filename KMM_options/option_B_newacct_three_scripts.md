@@ -144,5 +144,18 @@ Status: COMPLETED 2026-10-02 (~15:06 UTC). Job `551e0ab8-bfeb-4407-996a-83802fb4
 - Same pointed plastic tentacle (no sparks/electricity, tip never touches her), same timing (wrap 7.5-8.5 s, yank 8.5-9.5 s), smoke ceiling, gone after the smoke.
 
 ## v10 (2026-10-02) — user: v9 but "Mai đứng ở góc tường của phòng Tường màn hình, biểu cảm bình thường"
-Status: SUBMITTED 2026-10-02 ~15:09 UTC. Job `393bb9de-ebdf-41c9-ac69-55e3f155d76a`. 12 s, 6 shots. Content not yet reviewed.
+Status: COMPLETED 2026-10-02 (~15:10 UTC). Job `393bb9de-ebdf-41c9-ac69-55e3f155d76a`. 12 s, 6 shots. Content not yet reviewed.
 Same as v9 (screen-wall hall corner `e2fab0e1`, calm expression, pointed plastic tentacle, no sparks, smoke ceiling, no BOSS, same timing) except Mai STANDS in the corner, back lightly against the wall, arms relaxed; the yank lifts her off her feet. Avoid adds: Mai sitting.
+
+## v11 (2026-10-02) — user: v10 + "biểu cảm đang quan sát mọi người chiến đấu (cảnh chiến đấu không trong scene); shot 10 giây"
+Status: SUBMITTED 2026-10-02 ~15:12 UTC. Job `a7c05d89-3df5-451e-92b6-ddcf41d4dba3`. 10 s, 6 shots. Content not yet reviewed.
+- Mai stands in the screen-wall corner watching a fight OFF-SCREEN (camera-left); only its moving light/shadow flickers and dust reach her; no fighters/villains/parents in frame.
+- Expression: attentive, worried watching (eyes tracking fast motion, small flinches at unseen hits, hands clenched at her chest), brief surprise at the wrap.
+| Time | Shot | Action |
+|---|---|---|
+| 0-2.5 s | wide low creep through smoke | Mai in the corner, attention off-screen left, fight light flickering |
+| 2.5-4.5 s | MCU three-quarter, push-in | watching intently, eyes tracking, flinches |
+| 4.5-6 s | top-down from inside the smoke ceiling | tentacle tip hangs above her, unnoticed |
+| 6-7 s | MCU waist, handheld | WRAP (clean, no sparks) |
+| 7-8 s | low wide up the corner | FAST YANK into the smoke, gone |
+| 8-10 s | floor level → tilt up | empty corner, fight light still flickering, smoke hole closes |
