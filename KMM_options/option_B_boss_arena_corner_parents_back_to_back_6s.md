@@ -19,3 +19,13 @@ Change: the shot now ends with the shadow figures leaping and flying in at the t
 Timeline: 0-3 s orbit, tense; 3-5.5 s worried glances, figures crouch; 5.5-6.5 s front mid shot, a hush; 6.5-8 s the figures spring.
 
 Status: COMPLETED — job `57e7f734-448b-4fb3-b234-c616065f3b84`
+
+## v3: about TEN villains, all moving differently (user request 2026-10-03), 8 s, one shot
+Same pose, location and ending as v2 (Dad no weapon with raised fists, Mom ordinary kitchen pan, worried faces, corner of the BOSS arena, villains leap in at the end, shot ends before contact).
+Changes:
+- About 10 shadow figures in an uneven two-row ring at varied distances; the five designs, each used twice, never the same design side by side; avoid "fewer than 8 or more than 12".
+- New [Movement: NEVER the same] block: ten distinct standoff behaviours (creeping, stalking sideways, head tilt, flexing fingers, heavy sway, hunch-shuffle, a long still beat then a sudden step, pacing, jerky lurches, crouch) at different timings.
+- The final spring is also all different: high arc leap, low floor dive, sprint-and-vault, straight lunge with arms out, jump off a wall corner; from left, right and behind; a couple hesitate a beat longer. No sync, no mirroring.
+- Note: the model may not render exactly ten; the user can say if the count looks off.
+
+Status: SUBMITTED — job `085240aa-4144-46a1-a5f3-d33300d23938`
