@@ -1,6 +1,6 @@
 # Cảnh chuyển STYLE A → STYLE B: Mai đi giữa hẻm, cúi bấm điện thoại, trời âm u (8s × 3 option)
 
-Ngày: 2026-10-03. Status: **SUBMITTED** (chưa kiểm tra nội dung)
+Ngày: 2026-10-03. Status: **COMPLETED** 2026-10-03 (chưa kiểm tra nội dung)
 
 ## Thông số chung
 seedance_2_5, omni_reference, draft 480p, 16:9, 8s, generate_audio true (SFX only, NO music), folder MV KMM `11749213-086c-4a29-a963-b5a064eb4af7`, declined_preset_id `24bae836…`.
@@ -45,7 +45,7 @@ Khối chung trong prompt: header A+B master, SPINE, REFERENCES, CHARACTERS, SPA
 
 ---
 
-# v2 (2026-10-03): Mai KHÔNG bấm điện thoại, hai tay thả xuôi, điện thoại lỏng ở tay PHẢI cạnh đùi (màn hình tối), mặt hơi chán nản; style A cũng là ĐÊM. Status: **SUBMITTED** (chưa kiểm tra nội dung)
+# v2 (2026-10-03): Mai KHÔNG bấm điện thoại, hai tay thả xuôi, điện thoại lỏng ở tay PHẢI cạnh đùi (màn hình tối), mặt hơi chán nản; style A cũng là ĐÊM. Status: **COMPLETED** 2026-10-03 (chưa kiểm tra nội dung)
 Cùng media/thông số như v1. Diễn xuất: vai hơi chùng, đầu hơi cúi, bước chậm nhỏ, một tiếng thở dài; tiết chế 1/3-1/2.
 Ánh sáng A: đêm, đèn đường + vài cửa sổ ấm, rim vàng-hổ phách, haze mỏng. B: đêm fantasy u ám cyan-teal.
 
@@ -56,3 +56,5 @@ Cùng media/thông số như v1. Diễn xuất: vai hơi chùng, đầu hơi cú
 | 3 Đường gạt | Đêm không có bóng mây → đổi thành **đèn đường tắt lần lượt** từ đầu hẻm về máy; mép bóng tối = đường gạt A/B | `3af0d101-734b-4f1f-b6fc-076dd8aa42c2` |
 
 Checklist thêm: Mai không nhấc/nhìn/bấm điện thoại; hai tay thả xuôi; mặt chán nản nhẹ (không khóc); phần A là đêm (không trời chiều); Op3 đèn tắt theo hướng từ xa về máy, không khung đen kịt.
+
+DAILY.mp4 `2535cacf…` dùng làm video reference chạy OK (6/6 job COMPLETED).
