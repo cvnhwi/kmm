@@ -32,3 +32,10 @@ Changes:
 - Same arena, oblique angles, 3 different targets, all 5 designs attached, no pupils, no purple, SFX only.
 
 Status: COMPLETED — job `bbe498f6-edd2-406d-b452-1305494f460f`
+
+## v4: v3 with BLUE-WHITE bolts (user request 2026-10-03), 7 s, 4 shots
+Identical to v3 (short gunshot-style bolts, 3 villains then the Teacher, oblique camera, Teacher with NO glasses carried over, no pupils, SFX only) except:
+- Bolt colour: bright white core with an electric sky-blue glow (was white-gold); the impact flash is blue-white too.
+- Avoid adds "gold or yellow bolts"; still no purple or violet (blue must not drift to violet).
+
+Status: SUBMITTED — job `6ff1433d-2b8c-4d9f-a9dd-6d28c2dd38db`
