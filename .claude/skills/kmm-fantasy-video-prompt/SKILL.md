@@ -73,6 +73,8 @@ If the user says they are not attaching the video (or it is unavailable), warn t
 | Plate: fantasy forest | forest | `1bac4a73-28ce-4557-a3b3-148077284b0a` (B20_RungFantasy.png, updated 2026-10-02; old `b88078fa`) |
 | Plate: digital river | `B16_SongSo.png` | `0cc5cb01-897c-4b90-a706-cef1ba043c92` |
 | Plate: screen-wall hall | `B15_TuongManHinh.png` (updated 2026-10-02, 4th; never use old `ebb49e7c…` / `54a5db90…`) | `e2fab0e1-0afa-4726-ab31-3bfa83179a9e` |
+| Plate: TEST gate `congtest1` | `congtest1.jpg` (2026-10-03, TEST only; does not replace Fantasy Gate `22c1d2ad`) | `6eeba192-23af-4c30-87ac-aad9e0893f8f` |
+| Plate: TEST forest `rungtest1` | `rungtest1.jpg` (2026-10-03, TEST only; does not replace forest B20 `1bac4a73`) | `5f0b9709-7517-42e9-9319-1792a60478cc` |
 | Plate: back of the gate (screen-wall hall, reverse view) | `B21_MatSauCong.png` (2026-10-03): the SAME hall seen from the screen wall looking back at the entrance gate, where Mai runs in | `791e7f16-d6aa-4f37-af10-6f89f95a550e` |
 | Plate: BOSS arena | `B14_Boss.png` | `c8394b3d-556c-4229-a4a4-73daafabcfd9` |
 
