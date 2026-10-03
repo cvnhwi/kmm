@@ -58,3 +58,16 @@ Cùng media/thông số như v1. Diễn xuất: vai hơi chùng, đầu hơi cú
 Checklist thêm: Mai không nhấc/nhìn/bấm điện thoại; hai tay thả xuôi; mặt chán nản nhẹ (không khóc); phần A là đêm (không trời chiều); Op3 đèn tắt theo hướng từ xa về máy, không khung đen kịt.
 
 DAILY.mp4 `2535cacf…` dùng làm video reference chạy OK (6/6 job COMPLETED).
+
+---
+
+# v3 (2026-10-03): Orbit + RỄ CÂY mọc lên dệt thành CỔNG FANTASY trước mặt Mai. Status: **SUBMITTED** (chưa kiểm tra nội dung). Job `878bec9d-496e-42c7-95a3-b6afe32dff4e`
+Nền v2 op1 (đêm, tay thả, chán nản). Thêm image_5 = Cổng Fantasy `22c1d2ad-9fc6-4ae8-ba39-747a28272bb0`.
+
+| Shot | t | Cỡ/góc/lens | Move | Nội dung |
+|---|---|---|---|---|
+| 1 | 0-2 | MS ngang mắt 3/4 trước, 35° | dolly back | A: Mai lê bước, thở dài |
+| 2 | 2-8 | MS hơi thấp, 30° | orbit liên tục ~200° chiều kim đồng hồ, kết over-shoulder vai TRÁI | 2-3.8 A, máy vòng qua vai phải; 3.8-4.3 lưng che khung → chuyển B; 4.3-6.5 rễ cây nứt đường + chui từ chân tường cách ~4m, cuộn lên khoá thành vòm = cổng image_5, lòng cổng sáng; Mai dừng; 6.5-8 over-shoulder, cổng giữa khung, Mai ngẩng nhìn, ánh cổng viền tóc |
+
+Tự chọn: orbit giảm 270°→200° để kết sau lưng Mai thấy cổng phía trước; rễ chỉ xuất hiện sau khi chuyển style; rễ không chạm Mai.
+Checklist: rễ không chạm Mai; cổng giống B21_CongFantasy; chỉ 1 cổng, không chữ/ký hiệu; chuyển style sạch; rễ có trọng lượng, không slow motion; mặt Mai giữ đúng thiết kế fantasy khi kết.
