@@ -89,4 +89,15 @@ Same base as v5 (Guard punches only, crowd interspersed in depth not a ring, epi
 - Lighting: three-colour contrast (cyan arena, gold on his side, crimson strobes on hers).
 - Avoid adds: fire anywhere; orange/green aura.
 
-Status: SUBMITTED — job `f9353436-f9e4-428f-9283-3aa1423cefeb`
+Status: FAILED (ip_detected) — job `f9353436-f9e4-428f-9283-3aa1423cefeb`
+
+## v6b: re-submit after the IP flag (2026-10-03), 15 s
+v6 (`f9353436`) returned **ip_detected**. The likely trigger was the "golden aura around the fists with a flaring gold body outline" plus all-caps power words, which reads like a well-known anime power-up.
+Fix:
+- The gold glow is limited to the KNUCKLES only, "like a pair of small lanterns": a short gold streak and a small ripple on impact.
+- Explicit avoid: glowing hair, hair changing colour or shape, a whole-body aura, power-up transformation poses, screaming while powering up.
+- The red lightning is toned to "thin jagged threads of red electric sparks like static" with small bursts (less "explosive lightning").
+- Fewer all-caps intensity words.
+Everything else as v6 (punches only, interspersed crowd, 8 shots, teamwork, guide-action).
+
+Status: SUBMITTED — job `d1526132-dcfd-45a1-98d4-b700b8af2e60`
