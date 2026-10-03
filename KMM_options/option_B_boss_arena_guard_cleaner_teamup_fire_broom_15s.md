@@ -101,3 +101,27 @@ Fix:
 Everything else as v6 (punches only, interspersed crowd, 8 shots, teamwork, guide-action).
 
 Status: COMPLETED — job `d1526132-dcfd-45a1-98d4-b700b8af2e60`
+
+## v7: red lightning with EXACT colour codes + full guide-action angle menu (user request 2026-10-03), 15 s, 9 shots
+User: same team-up (Guard punches only; broom with red lightning; interspersed crowd; epic), add blazing-red colour codes to the broom effect, and follow the action guide for sensible angle changes.
+Colour codes in the prompt:
+- Bolts: blazing red #FF1A1A
+- Outer glow: deep crimson #C8000A
+- Brightest forks: hot scarlet #FF3B30
+- Hot core only at bolt centres: #FFE5E5
+- Explicitly never orange (#FF8000-like), pink, magenta, purple or violet.
+Guard: plain fists (no gold aura this time; avoids the earlier IP flag).
+Shot list, one guide angle per shot, never the same angle twice in a row:
+| # | Time | Angle (guide menu) | Action |
+|---|---|---|---|
+| 1 | 0-1.8 s | epic wide, very low, crane up | red lightning erupts from the broom |
+| 2 | 1.8-3.4 s | medium tracking | Guard: jab + cross |
+| 3 | 3.4-5 s | OTS from the enemy side | Cleaner: diagonal lightning arc |
+| 4 | 5-6.2 s | hero close-up, low | Guard's straight punch past the lens |
+| 5 | 6.2-8.2 s | TOP SHOT, rotating crane | back to back; three drop in turn |
+| 6 | 8.2-9.8 s | villain lunging into the lens | broom hits it in front of the lens |
+| 7 | 9.8-11 s | insert on the fist | uppercut with a gold streak |
+| 8 | 11-13 s | medium handheld, teamwork | uppercut launch, then the broom bats it, red lightning explosion |
+| 9 | 13-15 s | hero low-angle wide | side by side; the crowd backs away |
+
+Status: SUBMITTED — job `2532eeac-6cdf-48d8-8912-9fd5fe2a20a8`
