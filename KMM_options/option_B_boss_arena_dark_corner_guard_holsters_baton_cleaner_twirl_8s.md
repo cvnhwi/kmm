@@ -34,7 +34,7 @@ Changes:
 - Avoid adds: the baton still in his hand or belt, the baton returning.
 If "đôi" meant something else (drop it, hand it over, swap it), say so.
 
-Status: SUBMITTED — job `c00518c6-c9b8-4653-8f77-c929bd96b8df`
+Status: COMPLETED — job `c00518c6-c9b8-4653-8f77-c929bd96b8df`
 
 ## v3: the Guard SWITCHES the baton between hands, then poses; side corner (user request 2026-10-03)
 User wrote: "chú an ninh đang đứng sẵn vừa đôi cây baton vừa tay đi, thì đứng thẳng lại và tạo dáng ngầu, mặt hơi nghiêm trọng (góc tối ... một góc bên)". The wording is ambiguous; reading chosen (flagged): "đổi cây baton sang tay (kia)": he flicks the baton from his right hand to his left and settles the grip, then straightens.

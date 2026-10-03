@@ -28,7 +28,7 @@ Changes:
 - The final spring is also all different: high arc leap, low floor dive, sprint-and-vault, straight lunge with arms out, jump off a wall corner; from left, right and behind; a couple hesitate a beat longer. No sync, no mirroring.
 - Note: the model may not render exactly ten; the user can say if the count looks off.
 
-Status: SUBMITTED — job `085240aa-4144-46a1-a5f3-d33300d23938`
+Status: COMPLETED — job `085240aa-4144-46a1-a5f3-d33300d23938`
 
 ## v4: v3 with an OFF-AXIS camera, NOT a frontal view of the background (user request 2026-10-03, new reference image)
 User re-sent the back-to-back reference (Dad with a sword and glasses, Mom with a pan; sword NOT used) and added: "Không phải góc chính diện background".
