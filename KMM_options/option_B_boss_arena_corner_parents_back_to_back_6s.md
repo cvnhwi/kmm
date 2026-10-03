@@ -29,3 +29,14 @@ Changes:
 - Note: the model may not render exactly ten; the user can say if the count looks off.
 
 Status: SUBMITTED — job `085240aa-4144-46a1-a5f3-d33300d23938`
+
+## v4: v3 with an OFF-AXIS camera, NOT a frontal view of the background (user request 2026-10-03, new reference image)
+User re-sent the back-to-back reference (Dad with a sword and glasses, Mom with a pan; sword NOT used) and added: "Không phải góc chính diện background".
+Changes vs v3:
+- The camera is always off-axis, diagonal to the walls: low-angle slow orbit starting from a diagonal three-quarter view from Dad's side; the orbit settles on a three-quarter mid shot from Mom's side (v3 said "from the front", the likely cause of the flat-frontal look).
+- [References] and [Avoid] forbid a flat, head-on or perpendicular view of the arena background or wall.
+- Pose: bodies in a slight twist, looking over their own shoulders, defensive ready stance (from the reference).
+- Dad still has NO weapon; the reference's glasses on Dad are not requested (Dad is copied from his own reference image).
+- About ten villains with different movements and a different spring each (as v3).
+
+Status: SUBMITTED — job `1e2bb99a-4103-4373-bd59-19eb06d27dba`
