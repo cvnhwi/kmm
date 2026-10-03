@@ -34,4 +34,4 @@ Changes vs v1:
 | 6 | 6.8-8 s | hero low angle, close-medium | lowers his arm; cool look; hold |
 - Same hit rhythm (freeze 2-3 frames, white-gold flash, golden hexagon ripple, knocked flying, dissolve), no gun/baton, never frontal, no pupils, no purple, SFX only.
 
-Status: SUBMITTED — job `ef45e592-c06c-41b3-adb8-8127df6ccc08`
+Status: COMPLETED — job `ef45e592-c06c-41b3-adb8-8127df6ccc08`
