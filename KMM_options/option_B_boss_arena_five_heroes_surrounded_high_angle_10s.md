@@ -29,3 +29,14 @@ User asked again for the same scene ("Cho lại cảnh này"). v2 locks the comp
 - Same weapons (Guard fists, Teacher wooden ruler blue bolts and no glasses, Dad bare-handed, Mom pan, Cleaner red-fire broom), guide-action hits, no pupils, no purple, SFX only.
 
 Status: COMPLETED — job `a104b292-ebb8-4ffb-93b2-8f1a5d747278`
+
+## v3: ENDLESS crowd: defeated villains are immediately replaced, the crowd stays large (user request 2026-10-03), 10 s
+User: same scene; even though they are defeated, the villains keep coming, keeping the numbers large.
+Changes vs v2:
+- About 50 villains in several thick rows (v2: ~40 with a wide empty floor ring); a narrow floor ring around the heroes.
+- New [Endless Crowd] block: every defeated villain is instantly replaced; fresh figures pour in from the dark frame edges and the smoke, pushing through the rows, so the ring stays as dense as at the start and is slightly denser at the end; the heroes are clearly outnumbered.
+- End changed: no calm lull; the heroes, tiring but not giving up, are still fighting mid-action, with new figures still arriving.
+- Avoid adds: the crowd thinning, empty floor at the end, a calm lull.
+- Same locked 60-degree high angle with a slow push-in, same weapons, guide-action hits, no pupils, no purple, SFX only.
+
+Status: SUBMITTED — job `2ea00d0e-ed2e-4278-93f4-55eb467270c8`
