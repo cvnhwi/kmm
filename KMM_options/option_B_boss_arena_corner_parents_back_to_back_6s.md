@@ -70,7 +70,7 @@ The user re-sent the 35-villain brief with the verb "đến vịn vào tay và c
 - Each villain now reaches the heroes in a DIFFERENT way (high-arc flight, floor skid, all-fours scramble, run-and-slide, dive, arms-out lunge, drop from the wall, hesitant late limp), then grabs on and hangs its weight on a forearm, the pan arm, upper arm, thigh, calf or ankle, "like a clinging child on a parent" (softer hold wording than "latches").
 - 12 s timeline as v6.
 
-Status: SUBMITTED — job `dd3af627-b35b-44e3-8d88-7e50d953dc8a`
+Status: COMPLETED — job `dd3af627-b35b-44e3-8d88-7e50d953dc8a`
 
 ## v8: CLOSE framing — Dad and Mom start apart, back up until their backs meet and lean back to back, villains fly in at the end (user request 2026-10-03), 8 s, one take
 User: a close shot of the fantasy Dad and Mom standing apart, then leaning back against each other as in the reference image; a corner of the BOSS arena, NOT a frontal view; at the end the villains fly in; Dad has no weapon.

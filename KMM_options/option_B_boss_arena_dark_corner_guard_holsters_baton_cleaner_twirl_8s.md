@@ -73,4 +73,4 @@ Changes vs v4/v5:
 - Pose after the throw: ARMS CROSSED (the request says "tạo dáng ngầu"; v5's arms-down was a specific earlier request; flagged: say if arms should hang down again).
 - 8 s, one continuous take, dark side corner, grave face, SFX only, no villains.
 
-Status: SUBMITTED — job `0a9614b7-90bb-4a26-a720-d2c64bbc4be1`
+Status: COMPLETED — job `0a9614b7-90bb-4a26-a720-d2c64bbc4be1`

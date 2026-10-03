@@ -28,4 +28,4 @@ Defaults and safety (flagged):
 Refs: BOSS arena `c8394b3d`, Guard `682c6b6d`, Cleaner `2f4bb001`, villains 1-5, master `24430dd0`.
 Folder: MV KMM `11749213-086c-4a29-a963-b5a064eb4af7`.
 
-Status: SUBMITTED — job `9ac1ae80-c01c-4778-9ab3-1696b4909d26`
+Status: COMPLETED — job `9ac1ae80-c01c-4778-9ab3-1696b4909d26`
