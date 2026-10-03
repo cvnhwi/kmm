@@ -21,3 +21,14 @@ Same 5-shot script. Changes:
 - Flag: the Teacher reference `89b32a5e` may itself show glasses, so the prompt asks for "as Image 2 EXCEPT no glasses". If glasses still appear, the reference image needs a no-glasses version.
 
 Status: SUBMITTED — job `2d8176c7-8e0d-43fe-9f26-651aab7f6ca1`
+
+## v3: short and snappy, gunshot-style bolts (user request 2026-10-03), 7 s, 4 shots
+User: 3 villains hit in turn by 3 magic bolts ("không quá dài"), then the Teacher firing from her ruler; fired in bursts like a gun, NOT held for long.
+Changes:
+- 7 s, 4 hard cuts: three ~1.5 s hit shots, then one 2.5 s Teacher shot with 3 separate shots and beats of stillness between.
+- New [Magic Bolt Style] block: a short fast pulse (~4-6 frames), never a sustained beam, a gap of darkness between bolts, a flash on impact.
+- Avoid: long, sustained or continuous beams.
+- Teacher still has NO glasses (carried over from v2; flagged: say if glasses should return).
+- Same arena, oblique angles, 3 different targets, all 5 designs attached, no pupils, no purple, SFX only.
+
+Status: SUBMITTED — job `bbe498f6-edd2-406d-b452-1305494f460f`
