@@ -13,3 +13,11 @@ Defaults (flagged):
 Refs: arena `c8394b3d`, Teacher `89b32a5e`, villains 1-5, master `24430dd0`.
 
 Status: COMPLETED — job `e88d809e-80cc-48a7-a557-ebf7618a7518`
+
+## v2: Teacher WITHOUT glasses (user request 2026-10-03)
+Same 5-shot script. Changes:
+- "NO GLASSES" in [References], [Character Look] and [Avoid] (glasses, spectacles, eyewear, lenses, frames).
+- The shot 5 line about light reflecting on her glasses becomes light on her bare face and eyes.
+- Flag: the Teacher reference `89b32a5e` may itself show glasses, so the prompt asks for "as Image 2 EXCEPT no glasses". If glasses still appear, the reference image needs a no-glasses version.
+
+Status: SUBMITTED — job `2d8176c7-8e0d-43fe-9f26-651aab7f6ca1`
