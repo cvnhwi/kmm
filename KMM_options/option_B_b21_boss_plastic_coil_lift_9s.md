@@ -68,4 +68,4 @@ SFX:
 - Stretching creak + rush of air; breathing.
 - No electric or spark sounds.
 
-Status: SUBMITTED 2026-10-03. Job `a5dbfd90-1933-4bf5-9e0b-9c76a650e877`. Content not yet reviewed.
+Status: COMPLETED 2026-10-03 (rendered 03:09 UTC, with SFX). Job `a5dbfd90-1933-4bf5-9e0b-9c76a650e877`. Content not yet reviewed.

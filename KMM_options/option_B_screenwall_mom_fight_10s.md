@@ -69,4 +69,11 @@ Interpretation: "khôn có acting nhanh" read as "không có acting nhanh" = not
 | 6 | 8.5-10 s | wide pull-back | pan on her shoulder, dusts her sleeve; smoke rings dissolve |
 
 SFX: hall hum and echo, whooshes, light footsteps, metallic CLANG + sparkle chime, smoke puffs. No music.
-Status: SUBMITTED 2026-10-03. Job `264a9458-d1e8-4a5d-85f0-1230e8d79438`. Content not yet reviewed.
+Status: FAILED "ip_detected" (intellectual-property filter). Job `264a9458-d1e8-4a5d-85f0-1230e8d79438`. Likely the output read as a known animated character who fights with a frying pan.
+
+### v4b: retry after "ip_detected"
+Same shots, timing, FX and SFX. Changes:
+- The wording stresses an ORIGINAL character of this project (a modern Vietnamese mom in her fantasy outfit, copied exactly from her own design).
+- "Frying pan" is reworded as "household cooking pan / ordinary kitchen pan".
+- Avoid adds: resemblance to any existing film, cartoon or game character, princess or fairy-tale character; long golden hair; tower or castle.
+Status: SUBMITTED 2026-10-03. Job `72f26083-8168-4d67-9465-a5bead0a4acb`. Content not yet reviewed.
