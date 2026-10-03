@@ -152,4 +152,4 @@ Shot list, one creative angle per shot:
 | 11 | 16-18 s | high-angle pull-back crane | they advance and drop two more; the crowd revealed |
 | 12 | 18-20 s | hero low-angle wide | side by side; the crowd backs away |
 
-Status: SUBMITTED — job `c9e6891d-cb4e-4190-95e7-5201eca0ec72`
+Status: COMPLETED — job `c9e6891d-cb4e-4190-95e7-5201eca0ec72`
