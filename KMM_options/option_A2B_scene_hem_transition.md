@@ -61,7 +61,7 @@ DAILY.mp4 `2535cacf…` dùng làm video reference chạy OK (6/6 job COMPLETED)
 
 ---
 
-# v3 (2026-10-03): Orbit + RỄ CÂY mọc lên dệt thành CỔNG FANTASY trước mặt Mai. Status: **SUBMITTED** (chưa kiểm tra nội dung). Job `878bec9d-496e-42c7-95a3-b6afe32dff4e`
+# v3 (2026-10-03): Orbit + RỄ CÂY mọc lên dệt thành CỔNG FANTASY trước mặt Mai. Status: **COMPLETED** 2026-10-03 (chưa kiểm tra nội dung). Job `878bec9d-496e-42c7-95a3-b6afe32dff4e`
 Nền v2 op1 (đêm, tay thả, chán nản). Thêm image_5 = Cổng Fantasy `22c1d2ad-9fc6-4ae8-ba39-747a28272bb0`.
 
 | Shot | t | Cỡ/góc/lens | Move | Nội dung |
