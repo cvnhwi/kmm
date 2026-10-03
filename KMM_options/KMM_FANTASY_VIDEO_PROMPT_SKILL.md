@@ -35,7 +35,7 @@ If the user says they are not attaching the video (or it is unavailable), warn t
 | Duration | 15 s per clip (shorter only if the user asks; 4-30 s supported) |
 | Aspect | 16:9 |
 | Quality | draft 480p for review; finalize to 1080p only after the user picks a take |
-| Audio | off (`generate_audio: false`) |
+| Audio | ON (`generate_audio: true`), SOUND EFFECTS ONLY, NO background music (user 2026-10-03). Every prompt gets an [Audio] block: diegetic SFX and ambience that match the action and the script's sound notes (impacts, whooshes, clangs, footsteps, breathing, room tone, hum, smoke/wind); explicitly "NO music, NO score, NO song, NO singing, NO melody"; no dialogue unless scripted. Avoid list adds "background music, score, soundtrack, singing". |
 | Frame rate / speed | real-time, 24 fps, no slow motion |
 | Higgsfield folder | MV KMM `11749213-086c-4a29-a963-b5a064eb4af7` (ALWAYS, every generation; root folder, not a subfolder; never create a new project/folder) |
 | Declined preset | `24bae836-2c4a-48e0-89b6-49fcc0b21612` |
@@ -285,7 +285,7 @@ Tổng thời lượng kịch bản: X s → N clip × 15 s. (Lý do chia, chỗ
 - Video 1: Fantasy_v2_720p.mp4 (24430dd0-a7ec-4d5c-a555-46abfb7600a1)  ← BẮT BUỘC
 - Image 1: 01_Mai_FAntasy.png (0d56fcb2-47cc-4271-b785-c73f4ab9a17b)
 - Image 2: …
-**Setting:** Seedance 2.5 · omni_reference · 15 s · 16:9 · draft 480p · no audio · ~45 credits
+**Setting:** Seedance 2.5 · omni_reference · 15 s · 16:9 · draft 480p · SFX audio (no music) · ~45 credits
 
 | Thời gian | Góc máy | Nội dung |
 |---|---|---|
