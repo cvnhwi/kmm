@@ -20,3 +20,18 @@ Applies the skill's Fight sequence guide:
 | 7 | 8.5-10 s | MEDIUM, slow arc | blind back-swing bonk on the sneak; pan on her shoulder, guard stance |
 
 Status: COMPLETED 2026-10-03 (rendered 02:54 UTC). Job `3d132d88-f7b3-44a4-a2cb-a9e9302d8093`. Content not yet reviewed.
+
+## v2: "cũng hành động dứt khoát, tuy nhiên góc camera và action khác"
+Same rules (fight guide, fantasy Mom, one pan, smoke + embers, villain variety 5c). New coverage and moves, with no whip-pan opener:
+
+| # | Time | Coverage | Action |
+|---|---|---|---|
+| 1 | 0-1.3 s | INSERT + rack focus | the pan face reflects the cyan wall; grip tightens → low hero angle, 3 shadows close in |
+| 2 | 1.3-3 s | SIDE-ON TRACKING run | sprinting along the wall: forehand + backhand BONG BONG in stride |
+| 3 | 3-3.8 s | SHADOW'S POV | the pan face fills the lens, ring flash |
+| 4 | 3.8-5.6 s | MEDIUM fast arc | pan as a SHIELD, the lunge bounces off (CLANG), pivot + flat counter-swing → dizzy spin |
+| 5 | 5.6-7.2 s | LOW DOLLY at floor | knee-slide under a swing, low pan sweep → 2 shadows flip and burst above |
+| 6 | 7.2-8.4 s | DUTCH LOW, tilt up | rising two-handed uppercut swing launches the big shadow up → burst high |
+| 7 | 8.4-10 s | WIDE HERO crane up/back | alone among dissolving smoke rings, flicks dust off her sleeve |
+
+Status: SUBMITTED 2026-10-03. Job `c0bccc56-ad90-44fe-acc1-272fe99b494a`. Content not yet reviewed.
