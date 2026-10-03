@@ -36,3 +36,11 @@ seedance_2_5 · omni_reference · draft · 480p · 16:9 · 12s · generate_audio
 - Brief: "Tạo lại cảnh rượt đuổi của sói bóng đêm và Mai trên đúng background cổng fantasy"
 - Image 1 = Fantasy Gate `B21_CongFantasy` `22c1d2ad-9fc6-4ae8-ba39-747a28272bb0` (v1 wrongly used dark gate B18).
 - Same 8 shots; shot 7 changed: Mai dashes through the gate opening, the wolf is stopped at the threshold by an invisible barrier (light ripple + dust ring), since the plate's gate design is unseen (no bars assumed).
+
+---
+## v3 — side-view chase on Fantasy Gate, wolf running (2026-10-03)
+**Status:** SUBMITTED — job `664d4a0f-815e-4b53-a235-0fc79bc58290` (10s, 5 shots)
+- Brief: "Tạo lại cảnh rượt đuổi… đúng background cổng fantasy. side view sói đang chạy. Lưu ý mắt sói không có con ngươi màu đen" (then: "ý tôi là con ngươi màu đen" = typo fix con người → con ngươi).
+- All shots side view, L→R: wide track · medium wolf gallop profile · medium Mai profile glance back · low pounce/miss/skid · wide race toward the gate.
+- No flicker (not requested this time).
+- Eyes: a solid uniform glowing amber almond shape, NO black pupil / dark dot / slit / iris.
