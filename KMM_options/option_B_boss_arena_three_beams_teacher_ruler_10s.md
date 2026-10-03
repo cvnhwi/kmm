@@ -50,3 +50,16 @@ Changes vs v4:
 
 Folder: MV KMM `11749213-086c-4a29-a963-b5a064eb4af7` (as always).
 Status: SUBMITTED — job `86a2aa9d-4e4c-4a6d-8f74-c1d63021cc16`
+
+## v6: follows the GUIDE ACTION (user request 2026-10-03), 9 s, 6 shots
+User: redo the Teacher shot following the fight guide (KMM_RULES_SUMMARY.md, section D "Guide action").
+Applied from the guide:
+- Angle menu: over-the-shoulder from behind the enemies, top shot (rotating crane), POV lunge at the lens, hero low angle, insert on the strike (ruler tip), dutch tilt.
+- Every strike has three beats: wind-up, strike, clean stop; 2-3 frame freeze on impact; one strike takes down one figure; cuts land on the action beat.
+- Impact FX: ring of dust shockwave, bright flash; the figure dissolves into black smoke with small warm gold embers. No purple, no blood.
+Kept from the user's latest briefs (flagged: these override the guide's gold on the bolts only):
+- Bolts are short BLUE-WHITE gunshot pulses (the guide's warm gold appears only in the embers).
+- Wooden ruler (plain, unbranded); the Teacher relocates before every shot (positions A, B, C); Teacher with NO glasses; oblique/high/low camera, never frontal; no pupils; SFX only.
+
+Folder: MV KMM `11749213-086c-4a29-a963-b5a064eb4af7`.
+Status: SUBMITTED (job id: see the generation list; first job of the 12:55 UTC batch)
