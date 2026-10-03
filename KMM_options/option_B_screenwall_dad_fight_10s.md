@@ -41,4 +41,4 @@ Same 7-shot coverage and refs (fantasy Dad `8eeb2595`). Changes:
   - mid-air catch + uppercut finisher
 - The prompt states FANTASY Dad (not everyday clothes).
 - Note: the preset recommender now suggests "DROWN IN MUSIC". declined_preset_id `f1821f84-945b-4cd1-9085-1f479db0028e` was used for this retry.
-Status: SUBMITTED 2026-10-03. Job `606390fe-ac0a-4c94-b298-652a35f15ad4`. Content not yet reviewed.
+Status: COMPLETED 2026-10-03 (rendered 02:17 UTC). Job `606390fe-ac0a-4c94-b298-652a35f15ad4`. Content not yet reviewed.
