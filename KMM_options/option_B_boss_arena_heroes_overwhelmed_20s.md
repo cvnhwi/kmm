@@ -22,4 +22,4 @@ Design: each hero loses ground in a DIFFERENT way (non-repeating action). Each B
 | 11 | 17.5-20 s | top shot crane up | heroes squeezed into a shrinking circle of light; sea of shadows |
 
 SFX: arena hum, crowd murmur, punch thud, boot scrape, baton crack/clatter, pan clang + metal strain, broom swish + snap, uneven footsteps, breathing, whispers. No music.
-Status: SUBMITTED 2026-10-03. Job `702b8454-4b8d-4f10-9097-296701e2642b`. Content not yet reviewed.
+Status: COMPLETED 2026-10-03. Job `702b8454-4b8d-4f10-9097-296701e2642b`. Content not yet reviewed.

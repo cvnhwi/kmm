@@ -33,4 +33,4 @@ Defaults and flags:
 | 6 | 17-20 s | MW fast track: guard low baton sweeps + Dad high punches, a team combo |
 | 7 | 20-24 s | high-angle wide crane up: 5 heroes back to back, huge crowd around, cyan smoke |
 
-Status: SUBMITTED 2026-10-03. Job `e97b77ab-c71b-45b7-b412-2eece2763051`. Content not yet reviewed.
+Status: COMPLETED 2026-10-03. Job `e97b77ab-c71b-45b7-b412-2eece2763051`. Content not yet reviewed.
