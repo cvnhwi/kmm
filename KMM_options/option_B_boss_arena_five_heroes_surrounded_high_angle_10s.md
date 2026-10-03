@@ -19,4 +19,13 @@ Defaults carried over (flagged):
 Refs: BOSS arena `c8394b3d`, Guard `682c6b6d`, Teacher `89b32a5e`, Dad `8eeb2595`, Mom `a6286ab4`, Cleaner `2f4bb001`, villains 1-5, master `24430dd0`.
 Folder: MV KMM `11749213-086c-4a29-a963-b5a064eb4af7`.
 
-Status: SUBMITTED — job `f59bd1c6-45b9-419e-b0a9-a9f3e38b44c8`
+Status: COMPLETED — job `f59bd1c6-45b9-419e-b0a9-a9f3e38b44c8`
+
+## v2: redo, closer to the reference composition (user request 2026-10-03), 10 s
+User asked again for the same scene ("Cho lại cảnh này"). v2 locks the composition closer to the reference image:
+- Fixed HIGH ANGLE about 60 degrees for the whole take, with only a very slow push-in; NO orbit (v1's descending orbit could lose the reference layout).
+- [Composition, LOCKED]: the five heroes back to back in a round pool of light in the CENTRE, an empty floor ring around them, about 40 villains in an uneven circle filling the edges and corners; each hero clearly recognisable, exactly one of each.
+- Fighting in overlapping turns (Guard and Mom first, then Teacher, Cleaner, Dad, then the Guard and Mom again), attackers crossing the empty floor one to three at a time; a brief lull at the end with the ring still closing.
+- Same weapons (Guard fists, Teacher wooden ruler blue bolts and no glasses, Dad bare-handed, Mom pan, Cleaner red-fire broom), guide-action hits, no pupils, no purple, SFX only.
+
+Status: SUBMITTED — job `a104b292-ebb8-4ffb-93b2-8f1a5d747278`
