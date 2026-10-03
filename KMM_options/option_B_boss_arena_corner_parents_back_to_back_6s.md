@@ -18,4 +18,4 @@ Same pose, location and rules as v1 (Dad no weapon with raised fists, Mom ordina
 Change: the shot now ends with the shadow figures leaping and flying in at the two heroes from left, right and behind, at slightly different instants (never in sync). The shot ends in mid-air just before contact (default; no hit shown).
 Timeline: 0-3 s orbit, tense; 3-5.5 s worried glances, figures crouch; 5.5-6.5 s front mid shot, a hush; 6.5-8 s the figures spring.
 
-Status: SUBMITTED — job `57e7f734-448b-4fb3-b234-c616065f3b84`
+Status: COMPLETED — job `57e7f734-448b-4fb3-b234-c616065f3b84`
