@@ -39,4 +39,4 @@ Changes vs v2:
 - Avoid adds: the crowd thinning, empty floor at the end, a calm lull.
 - Same locked 60-degree high angle with a slow push-in, same weapons, guide-action hits, no pupils, no purple, SFX only.
 
-Status: SUBMITTED — job `2ea00d0e-ed2e-4278-93f4-55eb467270c8`
+Status: COMPLETED — job `2ea00d0e-ed2e-4278-93f4-55eb467270c8`
