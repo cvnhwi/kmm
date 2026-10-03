@@ -55,4 +55,4 @@ Interpretation (flagged):
 - Shot 2 (camera in front of Mai at the corner) shows the villain and the far monitor-wall glow behind her shoulder.
 - Script change: Mai looks back over her shoulder (no full turn), so the group is across the hall BEHIND her (in front of the monitor wall), not "phía trước". The POV in shot 9 is over her shoulder.
 
-Status: SUBMITTED 2026-10-03. Job `b6a9fd6b-d023-4016-bc53-33db4772e212`. Content not yet reviewed.
+Status: COMPLETED 2026-10-03 (rendered 02:49 UTC). Job `b6a9fd6b-d023-4016-bc53-33db4772e212`. Content not yet reviewed.
