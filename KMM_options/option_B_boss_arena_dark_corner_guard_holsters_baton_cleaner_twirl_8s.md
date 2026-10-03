@@ -64,3 +64,13 @@ Same as v4 (throw toward screen left, dark SIDE corner of the BOSS arena, not th
 - Avoid adds: arms crossed, on hips or raised after the throw.
 
 Status: COMPLETED — job `4f5c63ab-8d55-4ba8-8c83-4dc6495ec218`
+
+## v6: baton thrown TOWARD THE CAMERA; the Cleaner walks in from the NEAR foreground (user request 2026-10-03)
+User message: the Guard has just thrown the baton toward the camera, then stands straight and strikes a cool pose with a slightly grave face (dark side corner of the BOSS scene, not the plate's keyframe); behind him the Cleaner walks up and twirls her broom, "đi từ cảnh gần vào". Directed with the same cinematic approach.
+Changes vs v4/v5:
+- The throw is aimed at the lens: three-quarter FRONT low angle; the throwing arm foreshortened toward the camera; the baton spins and grows toward the lens, whips past just beside it and out of frame (never hits the lens), a tiny camera jolt and a hard whoosh. Then the slow push-in begins.
+- Cleaner: "đi từ cảnh gần vào" read (flagged) as walking IN FROM THE NEAR FOREGROUND: she appears as a soft out-of-focus shape at the near right edge, strolls forward past the Guard on his right and moves into the scene, curves to stand a step behind him; rack focus onto her; then the broom twirl and pose. If the user meant she walks in from far away toward the camera (as in earlier versions), say so.
+- Pose after the throw: ARMS CROSSED (the request says "tạo dáng ngầu"; v5's arms-down was a specific earlier request; flagged: say if arms should hang down again).
+- 8 s, one continuous take, dark side corner, grave face, SFX only, no villains.
+
+Status: SUBMITTED — job `0a9614b7-90bb-4a26-a720-d2c64bbc4be1`
