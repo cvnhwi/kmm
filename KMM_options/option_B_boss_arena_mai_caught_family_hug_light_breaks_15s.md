@@ -22,3 +22,14 @@ Flags:
 - Dog = the real family dog 14_Cho `380caa13` (not a shadow creature).
 - "Ảnh tươi sáng" interpreted as bright, vivid colour and glimpses of a sunny world through the cracks (no specific images/memories). Tell me if you want memory images (e.g. family photos) instead.
 - Mom without the pan in this scene.
+
+## v2: no eye contact with the officer; Mai hops down, turns back to thank him, then runs to her parents (user request 2026-10-03), 15 s, 8 shots
+New details from the user: the officer catches Mai and lowers her (they do not look at each other); she quickly hops down, turns back to greet/thank the officer, then runs to hug the fantasy parents; the dog runs around; the darkness cracks to reveal bright, vivid images.
+Changes vs v1:
+- Shot 3: the catch with their eyes NOT meeting (he watches ahead, she looks toward her parents); avoid: eye contact.
+- Shot 4 (new beat): she hops down, two steps, spins back, a quick cute bow and wave of thanks; he nods and smiles.
+- Shot 5: dainty run (rule 5e) to the kneeling parents.
+- Rest as v1 (hug + dog circling, the dark shell cracks into sunlight, blue sky, green and flower colours; sparkles; the officer watching from a distance).
+- Submission note: the first attempt was blocked by a preset recommendation ("DROWN IN MUSIC"); resubmitted with declined_preset_id `f1821f84-945b-4cd1-9085-1f479db0028e`.
+
+Status: SUBMITTED — job `5c27f7e0-a036-4fcb-97f1-546769294668`

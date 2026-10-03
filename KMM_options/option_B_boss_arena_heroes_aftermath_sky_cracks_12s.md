@@ -14,3 +14,11 @@ Refs: BOSS arena `c8394b3d`, guard `682c6b6d`, driver `aed8c835`, Dad fantasy `8
 6. 10-12 high wide crane up: the group in warm light, sky wide open with vivid colour
 
 Flags: "chào" = a respectful small salute + handshake; Mai / Mom / dog left out (they are in the hug clip `e4c1014a`); the sky crack continues from that clip.
+
+## v2: re-run of the same brief (user re-sent it 2026-10-03), 12 s, 6 shots
+Same story and shot plan as v1 (sky cracks; Guard pats the Driver's shoulder; Dad salutes and shakes hands with the Officer; Teacher's warm smile CU; Cleaner sweeps around feet with a light comic nudge; high wide crane, sky opens). Updates:
+- Teacher without glasses (the latest Teacher default; flagged).
+- Driver chuckles and pats back; the Guard steps aside with a grin after the broom nudge.
+- Explicit never-frontal angles; no Mai, Mom or dog in this clip.
+
+Status: SUBMITTED — job `43504e31-3a97-4132-a11d-39ef37a72829`
