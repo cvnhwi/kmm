@@ -55,7 +55,7 @@ v4 = v2 (throw, then arms crossed, empty hands, grave stare, Cleaner twirl) + v3
 Timeline (8 s): 0-2.5 s the throw follow-through toward screen left, the baton spins away out of sight; 2.5-4.5 s recover and straighten, arms crossed, grave stare; 4.5-6 s the Cleaner steps out of the smoke, rack focus; 6-8 s broom twirl and her pose; end on a low-angle two-shot.
 Avoid adds: the baton returning or hitting anyone.
 
-Status: SUBMITTED — job `14e68e28-4214-4d0f-a5b3-27daa743b8a7`
+Status: COMPLETED — job `14e68e28-4214-4d0f-a5b3-27daa743b8a7`
 
 ## v5: after the throw, arms HANG DOWN at his sides (user request 2026-10-03)
 Same as v4 (throw toward screen left, dark SIDE corner of the BOSS arena, not the plate's keyframe, grave face, Cleaner steps out of the smoke, rack focus, broom twirl and pose, one take, one slow push-in) except the Guard's pose after the throw:
@@ -63,4 +63,4 @@ Same as v4 (throw toward screen left, dark SIDE corner of the BOSS arena, not th
 - The end frame keeps the arms down while the Cleaner twirls; the low-angle two-shot reads as a tall, still hero with a flourish behind.
 - Avoid adds: arms crossed, on hips or raised after the throw.
 
-Status: SUBMITTED — job `4f5c63ab-8d55-4ba8-8c83-4dc6495ec218`
+Status: COMPLETED — job `4f5c63ab-8d55-4ba8-8c83-4dc6495ec218`

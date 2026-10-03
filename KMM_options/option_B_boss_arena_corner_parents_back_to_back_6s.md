@@ -50,7 +50,7 @@ Changes:
 - Moderation-safe wording (flagged): flat black hands only on sleeves/forearms/shoulders/waists/legs; NOTHING touches the neck or face; no injury, no choking; Avoid lists neck, face, choking, injury.
 - Duration raised to 10 s to fit the one-by-one sequence.
 
-Status: SUBMITTED — job `a15ca990-199f-4520-bd25-895b91cf951b`
+Status: COMPLETED — job `a15ca990-199f-4520-bd25-895b91cf951b`
 
 ## v6: about THIRTY-FIVE villains, spring in one at a time and cling to the ARMS and LEGS only (user request 2026-10-03), 12 s, one shot
 Same pose, location and off-axis camera rule as v5 (Dad no weapon with raised fists, Mom ordinary kitchen pan, worried faces, corner of the BOSS arena, never a frontal view of the background, the reference image's back-to-back pose).
