@@ -32,3 +32,8 @@ Flags: duration not given → 6s; one continuous shot each; Mom touches Dad's ar
 - Brief: "lại scene topview nhưng chỉ 4 giây và zoom out không quá rộng, phía sau có vài người xấu đang chạy lao tới 2 nhân vật"
 - 90° top view; medium → medium-wide only; the couple stares up in alarm (Mai off-screen above).
 - 3-4 villains (different designs) run in from the frame edges at uneven speeds, close in but do NOT touch before the end. Rule 5c/5d applied.
+
+## B v3 — Top view, 4s, villains running in, FRANTIC / SCARED faces
+**Status:** SUBMITTED — job `d7389bcc-2c09-4e5f-9352-d67f7a617e09`
+- Same as B v2 + "Khuôn mặt họ hơi hớt hải và sợ": expression raised to about 3/4 (wide fearful eyes, brows knotted, creased foreheads, sharp gasp, tense jaw), still no screaming.
+- Mom clutches Dad's arm with both hands, the pan trembling; Dad reaches up desperately with one arm around Mom; in the last second his eyes flick toward the footsteps.
