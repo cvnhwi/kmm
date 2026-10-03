@@ -30,4 +30,15 @@ Refs: B21 `791e7f16`, Mai `0d56fcb2`, 5 villains shuffled, master `24430dd0`.
 | 10 | 13.5-14.5 s | insert: heavy shadow feet | ECU, low |
 | 11 | 14.5-18 s | hand over her mouth from behind; the villain stares into the lens; Mai frozen | CU, fast push → hard stop; hold |
 
-Status: SUBMITTED 2026-10-03. Job `01911054-310b-4da3-88df-cb2c2751ae25`. Content not yet reviewed.
+Status: COMPLETED 2026-10-03 (rendered 02:35 UTC). Job `01911054-310b-4da3-88df-cb2c2751ae25`. Content not yet reviewed.
+
+## v2: "Mai lúc này đang cầm điện thoại và ngồi ở một bên góc trong B21"
+Same 11 shots and timing. Changes:
+- Mai SITS on the floor near one corner of B21, knees up, a little out from the walls, absorbed in her phone (held vertically, glow on her face, no text). The villain comes out of the dark corner behind her.
+- Shot 1: the phone glow is on the floor next to her shadow.
+- Shot 6: as she cries out, the phone slips and drops to the floor.
+- Shot 9: POV from sitting height; the fallen phone glows in the foreground; the group looms taller.
+- Shot 10: heavy feet step past the glowing phone.
+- Shot 11: she is still sitting in the corner.
+Refs: + phone `b7eeb576`.
+Status: SUBMITTED 2026-10-03. Job `723087cd-dc84-4936-943f-7a4667699671`. Content not yet reviewed.
