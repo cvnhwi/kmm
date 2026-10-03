@@ -24,3 +24,14 @@ Folder: MV KMM `11749213-086c-4a29-a963-b5a064eb4af7`.
 Refs: BOSS arena `c8394b3d`, Guard `682c6b6d`, Cleaner `2f4bb001`, master `24430dd0`.
 
 Status: COMPLETED — job `e3b46974-c911-467b-91f3-7d07881a062f`
+
+## v2: the Guard THROWS the baton away, then poses (user correction 2026-10-03)
+The user rejected the "holster" reading ("không, tạo lại đi") and restated: "chú sẽ đôi cây baton đi xong rồi tạo dáng". "đôi" is ambiguous (possible typo); default chosen (flagged): THROW the baton away, which also matches the earlier clips where the baton flies in from screen left and hits a villain.
+Changes:
+- 0-2 s: start frame already in the follow-through of an overhand throw toward screen left; the baton spins away into the smoke and out of sight.
+- 2-4 s: he recovers and straightens, arms crossed, grave stare; hands empty, NO baton anywhere on him.
+- 4-8 s unchanged: the Cleaner steps out of the smoke, rack focus, broom twirl and pose; end on a low-angle two-shot.
+- Avoid adds: the baton still in his hand or belt, the baton returning.
+If "đôi" meant something else (drop it, hand it over, swap it), say so.
+
+Status: SUBMITTED — job `c00518c6-c9b8-4653-8f77-c929bd96b8df`
