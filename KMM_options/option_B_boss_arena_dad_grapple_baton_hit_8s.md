@@ -1,6 +1,6 @@
 # Option B — BOSS arena: Dad outnumbered, grappling one villain → a black baton flies in and smacks its head (villain NOT gone) (8s, 4 shots)
 
-**Status:** SUBMITTED — job `61f54a69-a8c0-45f1-bab9-bfbe100630d2`
+**Status:** COMPLETED — job `61f54a69-a8c0-45f1-bab9-bfbe100630d2`
 
 Brief: "Cảnh Bố đang yếu thế vì nhiều người xấu bao vây, và đang giằng co với một người xấu. Sau đó bỗng nhiên có một cây baton đen bay đến đập vào đầu người xấu này. (người xấu chưa biến mất)"
 
@@ -15,7 +15,7 @@ Flags: location defaulted to the BOSS arena (matches the earlier allies-arrive s
 
 ---
 ## v2 — Dad pinned by 3: legs held, shoulders pressed, one head-on → baton knocks the head-on one flying (8s)
-**Status:** SUBMITTED — job `f35a9107-5bb6-4006-88b7-ea0329e6a44b`
+**Status:** COMPLETED — job `f35a9107-5bb6-4006-88b7-ea0329e6a44b`
 - Brief: "bố lúc này bị 1 người xấu ghìm chân, 1 người xấu đè ở vai, và đối đầu trực diện thêm 1 người xấu nữa. sau đó thì baton bay đến đầu người xấu đang đối đầu trực diện, và người xấu này bị bật ra"
 1. 0-2 medium-wide low rotating arc: A clamps his legs, B presses his shoulders from behind, C pushes head-on
 2. 2-4.5 medium-close handheld push: strain, knees buckling, losing
