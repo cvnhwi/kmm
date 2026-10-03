@@ -1,6 +1,6 @@
 # Option B — Shadow wolf chases Mai at the fantasy gate, flickering lights (12s)
 
-**Status:** SUBMITTED — job `dff1f8fa-97de-4c1e-aeff-ccc25228139a`
+**Status:** COMPLETED — job `dff1f8fa-97de-4c1e-aeff-ccc25228139a`
 
 ## Brief (Huy PD)
 "Cho tôi cảnh chó rượt đuổi mai trong cổng fantasy, ánh sáng tắt mở lập lòe, sáng tạo góc camera, có theo guide action"

@@ -1,6 +1,6 @@
 # Option B — River test: extreme high straight-down view, Mai standing still (7s)
 
-**Status:** SUBMITTED — job `5b1bcca1-f666-46d3-945c-edb46557e04e`
+**Status:** COMPLETED — job `5b1bcca1-f666-46d3-945c-edb46557e04e`
 
 ## Brief (Huy PD)
 "Cho tôi cảnh siêu cao nhìn thẳng xuống Mai ở dòng sông số test. Mai chỉ đứng nhìn không di chuyển"
