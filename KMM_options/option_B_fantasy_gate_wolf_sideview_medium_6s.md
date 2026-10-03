@@ -1,6 +1,6 @@
 # Option B — Fantasy Gate: medium side-view of the shadow wolf (6s)
 
-**Status:** SUBMITTED — job `306492d1-bc77-4f64-8f66-1e6ae2d750f0`
+**Status:** COMPLETED — job `306492d1-bc77-4f64-8f66-1e6ae2d750f0`
 
 ## Brief (Huy PD)
 "Sideview trung cảnh chó sói bóng đêm (không con ngươi), cổng fantasy"
