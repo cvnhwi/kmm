@@ -19,4 +19,4 @@ Applies the skill's Fight sequence guide:
 | 6 | 7-8.5 s | TOP SHOT, rotating crane | spin with the pan at full reach; the ring bursts outward |
 | 7 | 8.5-10 s | MEDIUM, slow arc | blind back-swing bonk on the sneak; pan on her shoulder, guard stance |
 
-Status: SUBMITTED 2026-10-03. Job `3d132d88-f7b3-44a4-a2cb-a9e9302d8093`. Content not yet reviewed.
+Status: COMPLETED 2026-10-03 (rendered 02:54 UTC). Job `3d132d88-f7b3-44a4-a2cb-a9e9302d8093`. Content not yet reviewed.

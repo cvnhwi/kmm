@@ -66,4 +66,4 @@ Same as v3 (two-plate geography: B21 behind Mai, B15 behind the villains; Mai lo
 - Shot 8 is an uneven ripple (the script's "đồng loạt" is overridden by the user's new note).
 - Shot 10 shows several feet at different rhythms.
 The rule was saved to the skill as 5c.
-Status: SUBMITTED 2026-10-03. Job `7c777b92-ad8b-4e04-8592-d705e426b9bf`. Content not yet reviewed.
+Status: COMPLETED 2026-10-03 (rendered 02:55 UTC). Job `7c777b92-ad8b-4e04-8592-d705e426b9bf`. Content not yet reviewed.
