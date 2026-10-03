@@ -262,6 +262,11 @@ A flexible toolkit, NOT a fixed shot list. Pick and reorder angles to make each 
 - **Teacher:** a wizard who fires ONE thin golden ray from the far tip of her wooden ruler. No thick cartoon beams.
 - **Security guard + father:** allies hitting the same shadow (low baton sweep + high punch). Never hitting each other.
 - **Mother:** holds a frying pan, which is her weapon. Draw only one pan.
+- **Mother + pan IP filter (2026-10-03):** one Mom-with-pan fight returned "ip_detected" (it likely read as a famous animated pan-wielding character). Fix that passed:
+  - Call her "the mother character of THIS project (an original design: a modern Vietnamese mom in her fantasy outfit)" and say "original character, not based on any existing film or cartoon character".
+  - Call the pan "an ordinary kitchen/cooking pan".
+  - Avoid adds: resemblance to any existing film/cartoon/game character, princess or fairy-tale character, long golden hair, tower or castle.
+  - Use this wording in every Mom-with-pan action prompt.
 - **Cleaner:** bamboo broom, nón lá, orange uniform.
 
 ---
