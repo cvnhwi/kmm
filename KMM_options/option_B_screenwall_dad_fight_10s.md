@@ -28,4 +28,4 @@ Defaults:
 | 7.5-8.5 s | CLOSE-UP shadow | 50 mm push | flat black head lunges at the lens out of the smoke |
 | 8.5-10 s | MEDIUM | whip pan → slow arc | Dad catches it, uppercut, burst; settles, breathing hard |
 
-Status: SUBMITTED 2026-10-03. Job `29ec07aa-3283-4962-8df3-f30351102281`. Content not yet reviewed.
+Status: COMPLETED 2026-10-03 (rendered 02:06 UTC). Job `29ec07aa-3283-4962-8df3-f30351102281`. Content not yet reviewed.
