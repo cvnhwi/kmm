@@ -69,3 +69,13 @@ Director fixes:
 - Light-direction logic: the light now blooms from the monitor wall BEHIND the crowd, and the bus comes through that same wall (v2 had the light from the camera side and the bus from the wall).
 - Drift-film grammar: gear shift + handbrake inserts, bumper rigs, Dutch tilt, whip pan; the film name is not in the prompt.
 - A comic button at the end (the particle pops on the salute).
+
+---
+## v4 — bus smashes in FROM OUTSIDE through the monitor wall (no transform) (2026-10-03)
+**Status:** SUBMITTED — job `563561bf-030e-4b53-9f4e-d3fc3ce2a908` (15s, 11 shots)
+Brief: "tạo lại cảnh xe buýt đâm từ bên ngoài phá vỡ tường màn hình lao vào ở trên (không phải bản transformer)"
+- Based on v3 (drift-film direction) + an explicit outside → inside breach:
+  - shot 3 NEW: outside, low tracking behind the bus charging at the BACK of the monitor wall
+  - shot 5: inside, the wall bulges inward then explodes, bus straight at the lens
+- Then: plough + dissolve, beam B-roll, handbrake, 45° drift, crash zoom (the hole in the wall behind), salute + particle pop.
+- Avoid list: transformation, the bus already inside before the breach.
