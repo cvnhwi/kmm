@@ -65,3 +65,9 @@ seedance_2_5 · omni_reference · draft · 480p · 16:9 · 12s · generate_audio
 **Status:** SUBMITTED — job `e99a6a7f-31f7-4f63-8eae-e16eb8b844f5`
 - Brief: same as v5 + "Cách Mai chạy sẽ giống con gái hơn (chỉnh sửa prompt chung)" → skill rule 5e [Running Style] added.
 - Composition fixed: full body, ~2/3 frame height (v5 had conflicting size words).
+
+---
+## v7 — Mai only, side view, 6s, DAINTY little-girl run (2026-10-03)
+**Status:** SUBMITTED — job `604f727c-357c-41ec-9d6f-75895d4eee5c`
+- Feedback on v6: "Dáng chạy này vẫn không phải là dáng chạy của một bé gái… yểu điệu nhẹ nhàng hơn" → rule 5e rewritten (dainty, little bouncy steps, lower legs flick to the SIDES, elbows tucked, floppy hands fluttering sideways, moderate speed).
+- Action softened: a worried glance with a hand near the chest; a tiny hop instead of a stumble.

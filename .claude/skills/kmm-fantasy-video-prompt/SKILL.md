@@ -198,11 +198,12 @@ Every prompt that contains ANY night-shadow person / villain ("người xấu", 
 - Avoid list always adds: "pupils, black pupils, dark dots in the eyes, slit pupils, irises, realistic eyes on any shadow person or creature".
 - If a design image shows pupils/irises, the no-pupil rule still wins unless the user overrides it.
 
-5e. **Mai runs like a girl, ALWAYS (user 2026-10-03, "chỉnh sửa prompt chung").**
+5e. **Mai runs like a DAINTY LITTLE GIRL, ALWAYS (user 2026-10-03, updated: "yểu điệu nhẹ nhàng hơn"; the first version still looked too sporty).**
 Whenever Mai runs, add a **[Running Style]** line:
-- "Mai runs like a young schoolgirl, NOT an athlete: light, quick, shorter steps on the balls of her feet; elbows kept close to her sides with forearms and loose hands swinging a little across her body, wrists relaxed and fingers slightly open; slight side-to-side sway of the shoulders and hips; knees fairly close together with her lower legs kicking a little outward and back; hair and clothes bouncing with every step; head slightly forward, a bit off-balance and urgent."
-- Avoid adds: "athletic sprinter form, long powerful strides, pumping fists, boyish heavy running".
-- Do not write "sprints hard, arms pumping" for Mai any more.
+- "Mai runs the way a small, delicate little girl runs: graceful, soft and light, a little prim, not fast and not sporty. Small, dainty, bouncy steps landing lightly almost on her toes, feet close together; her lower legs flick outward to the SIDES behind her with each step (heels kicking up and out); knees close together; upper body upright and graceful, shoulders soft; elbows bent and tucked in at her waist with forearms held out a little to the sides, hands loose and floppy at the wrist, fingers soft, hands fluttering side to side rather than forward and back; hips and shoulders sway gently; hair and skirt float and bounce softly with every little step. Light, rounded, airy, gentle, like a frightened little girl scurrying, moderate speed."
+- Avoid adds: "athletic or sprinter running, long strides, high knees, pumping arms or fists, arms swinging forward and back like a runner, leaning hard forward, heavy stomping, boyish or adult running".
+- Never write "sprints hard", "arms pumping" or "runs hard" for Mai; use "scurries", "hurries", "runs lightly".
+- Reference clip: `option_B_dark_gate_wolf_chase_flicker_12s.md` v7.
 
 5. **Crowds are never in sync.** Every person or shadow has their own action, speed and rhythm; reactions ripple nearest-first with uneven gaps.
 6. **Monitors:** mostly dark, only a few lit, flickering at random; never all lit, never on a beat.
