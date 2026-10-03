@@ -114,13 +114,13 @@ For each beat decide the shot size, angle, lens (mm), ONE motivated camera move,
 
 | Mood | Camera choice |
 |---|---|
-| Dread, being watched | slow push-in, static locked frame, wide from behind, long held beats |
+| Dread, being watched | slow creeping push-in, slow drift or orbit, wide from behind with a slow track, long held beats (a locked frame only rarely) |
 | Panic, chase | low angle chasing from behind, fast lateral truck, ground-level lens, handheld feel |
 | Something huge, a monster reveal | extreme low angle, 18-24 mm wide lens, slow tilt up, subtle Dutch tilt |
 | Terror reveal / "looking up" | slow reveal (NOT a blurry whip pan): eyes look up first, cut to POV extreme low angle, the figure bends down toward the lens, eyes ignite one by one, background lights die out, a silent held beat |
 | Victim, helpless | high angle looking down (from the creature's point of view), Mai small in frame |
 | Isolation | Mai small in a wide frame, foreground silhouettes out of focus |
-| Intimacy, emotion | 85 mm close-up, static or very slow drift, catchlights in wet eyes |
+| Intimacy, emotion | 85 mm close-up, very slow drift, push-in or gentle arc, catchlights in wet eyes |
 | POV | handheld micro-tremor, the character's own hands in frame |
 | Hero entrance | ground-level insert (boots) → fast tilt up to a low-angle hero pose, rim light |
 | Fight, impact | tracking arc around the fighters, short whip pan following each hit, a small camera jolt on impact |
@@ -186,6 +186,7 @@ Shot N (...-15 s), ...: ...
 11. **Mai's phone is always held vertically** (portrait), never sideways.
 12. **Matte floor, no grid or chequer pattern.**
 13. **Characters belong in the shot:** matching light, contact shadows, mist in front of and behind them; never a pasted-on layer.
+14. **Dynamic camera by default** (user 2026-10-03): most shots MOVE (push-in, pull-back, track, dolly, arc/orbit, crane, handheld drift, rack focus, tilt/pan with motivation). Locked-off/static shots are the exception, at most ~1 in 5 shots and only where stillness is the point (a frozen beat, a hold before a cut). Even in close-ups and "hold" endings keep a slight drift or creep. Write the move in every shot line.
 
 ### Location notes
 - **Screen-wall hall:**
