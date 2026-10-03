@@ -30,3 +30,29 @@ Refs: B15 `e2fab0e1`, green bus `1a436a85` (blank sign/plate), driver `aed8c835`
 
 SFX: engine roar, rumble, revving, glass and screen crash with electric crackle, tyre screech, metal clanks, servos, pistons, steam hiss, silence, power-up hum. No music.
 Status: COMPLETED 2026-10-03 (rendered 03:35 UTC, SFX). Job `c4a32c7e-0d21-4df4-9a8a-6298fc4a0e5b`. Content not yet reviewed.
+
+---
+## v2 — street-racing drift style, decisive (cinematic-director pass, 2026-10-03)
+**Status:** SUBMITTED — job `b997e909-182c-4871-85f7-2da9366072f6` (15s, 10 shots)
+
+Brief: "phát triển shot này để acting dứt khoát, cinematic giống tokyo drift hơn. sắp xếp và sáng tạo shot không cần theo kịch bản" (/cinematic-director).
+
+| # | Time | Shot | Camera |
+|---|---|---|---|
+| 1 | 0-1.2 | lit monitor wall trembles, headlight glare through the seams | wide locked + tremble |
+| 2 | 1.2-2.2 | driver smirk, slams the gear lever | CU bumper rig through the windshield, quick push |
+| 3 | 2.2-3.8 | bus bursts through the monitor wall at the lens | low wide, fast pull-back, speed ramp at impact |
+| 4 | 3.8-4.6 | hand yanks the handbrake (NEW) | ECU in cab |
+| 5 | 4.6-7 | full-lock drift, the tail swings past the lens, smoke | bumper-height tracking, Dutch, whip pan |
+| 6 | 7-8 | front wheel at counter-steer, smoke, sparks | ECU low tracking |
+| 7 | 8-9.5 | arc completes, black skid arc, broadside stop | high top-down slow orbit |
+| 8 | 9.5-12.5 | transformation in 3 beats, driver in the chest cockpit | wide 180° orbit |
+| 9 | 12.5-13.3 | pistons/gears lock | ECU slide |
+| 10 | 13.3-15 | knee dip → stand, fist, back light → crash push-in, eyes ignite, hard stop | low wide push → fast push |
+
+Director's choices:
+- Drift-film grammar: bumper/low rigs, handbrake + counter-steer inserts, whip pans, smoke-filled frames, Dutch tilt.
+- The old shot 3 (gas pedal) became a gear-shift beat inside shot 2 + a handbrake insert (more decisive, sets up the drift).
+- Shots 10+11 merged into one push → crash-zoom ending (the hero pose flows into the eyes).
+- The film name is NOT written in the prompt (IP risk); the style is described in words. The robot is ORIGINAL, no franchise look or logos.
+- The speed ramp in shot 3 is kept (script exception).
