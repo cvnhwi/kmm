@@ -1,6 +1,6 @@
 # Option B — Screen-wall close-ups: side monitors flicker / die, cables snap (8s, 5 shots)
 
-**Status:** SUBMITTED — job `e0d6b704-813c-49ba-86e6-6eead614103b`
+**Status:** COMPLETED — job `e0d6b704-813c-49ba-86e6-6eead614103b`
 
 Brief: "cận cảnh các màn hình 2 bên background tường màn hình bị chập chờn và mất điện, các đường dây điện đứt ra"
 Refs: B15 `e2fab0e1`, master `24430dd0`. SFX only.

@@ -1,6 +1,6 @@
 # Option B — BOSS shrinks, cables on both sides snap one after another (10s, 5 shots)
 
-**Status:** SUBMITTED — job `b5cfd75d-f695-4915-8772-7d046fc18e97`
+**Status:** COMPLETED — job `b5cfd75d-f695-4915-8772-7d046fc18e97`
 
 Brief: "Cận cảnh boss bị đứt các dây và teo nhỏ lại, khi teo lại thì những dây điện nối hai bên bị đứt dần"
 Refs: BOSS arena `c8394b3d`, BOSS `3db1be87`, master `24430dd0`. SFX only.

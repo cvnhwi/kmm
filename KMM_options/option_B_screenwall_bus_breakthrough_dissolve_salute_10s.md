@@ -72,7 +72,7 @@ Director fixes:
 
 ---
 ## v4 — bus smashes in FROM OUTSIDE through the monitor wall (no transform) (2026-10-03)
-**Status:** SUBMITTED — job `563561bf-030e-4b53-9f4e-d3fc3ce2a908` (15s, 11 shots)
+**Status:** COMPLETED — job `563561bf-030e-4b53-9f4e-d3fc3ce2a908` (15s, 11 shots)
 Brief: "tạo lại cảnh xe buýt đâm từ bên ngoài phá vỡ tường màn hình lao vào ở trên (không phải bản transformer)"
 - Based on v3 (drift-film direction) + an explicit outside → inside breach:
   - shot 3 NEW: outside, low tracking behind the bus charging at the BACK of the monitor wall

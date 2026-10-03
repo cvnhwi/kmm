@@ -1,6 +1,6 @@
 # Option B — BOSS arena: police officer, hologram shield block & counter (12s, 8 shots)
 
-**Status:** SUBMITTED — job `2f7f7e18-ada1-4544-9ac3-52f7714ff1ec`
+**Status:** COMPLETED — job `2f7f7e18-ada1-4544-9ac3-52f7714ff1ec`
 
 Brief (Huy PD): "Cảnh ở bối cảnh boss theo guide action, anh công an tấn công và sử dụng tấm khiên hologram để đỡ và trả đòn tiêu diệt nhiều người xấu. 12 giây"
 
