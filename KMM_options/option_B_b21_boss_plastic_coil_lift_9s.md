@@ -48,4 +48,4 @@ Same hard rules. Changes:
 | 6 | 6.5-8 s | far low wide, slow push: tiny Mai rising into the clean dark; smoke fills the spot |
 
 Note: the user wrote both "sợi dây điện" and "đổi thành xúc tu nhựa đen, nhọn"; the plastic coil is used, per the explicit change.
-Status: SUBMITTED 2026-10-03. Job `6f50bc58-577b-4f3a-bbf6-07d5c8a2c03b`. Content not yet reviewed.
+Status: COMPLETED 2026-10-03 (rendered 03:04 UTC). Job `6f50bc58-577b-4f3a-bbf6-07d5c8a2c03b`. Content not yet reviewed.

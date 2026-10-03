@@ -26,3 +26,10 @@ Defaults and flags:
 | 7 | 8.5-10 s | the Boss fills the frame, Mai a dot, crowd like sand | wide pull-back |
 
 Status: COMPLETED 2026-10-03 (rendered 03:01 UTC). Job `dcad864b-fe68-4284-8ce0-e467e83fa864`. Content not yet reviewed.
+
+## v2: same brief re-sent; shot 7 now "Đám bóng đen và người phía dưới nhỏ, nhưng không quá đông"
+Same 7 shots, B15 in cyan smoke, same Boss rules. Change: [Crowd] block.
+- NOT too many: ~12-18 small figures in loose scattered groups with gaps, never a dense mass.
+- Mostly the 5 shadow designs, plus a few ordinary people as small dark back-lit silhouettes ("bóng đen và người").
+- No faces, never in unison. Avoid adds "a dense packed crowd".
+Status: SUBMITTED 2026-10-03. Job `201ace48-b0ad-4046-9d8a-8992cc1ec386`. Content not yet reviewed.

@@ -34,4 +34,21 @@ Same rules (fight guide, fantasy Mom, one pan, smoke + embers, villain variety 5
 | 6 | 7.2-8.4 s | DUTCH LOW, tilt up | rising two-handed uppercut swing launches the big shadow up → burst high |
 | 7 | 8.4-10 s | WIDE HERO crane up/back | alone among dissolving smoke rings, flicks dust off her sleeve |
 
-Status: SUBMITTED 2026-10-03. Job `c0bccc56-ad90-44fe-acc1-272fe99b494a`. Content not yet reviewed.
+Status: COMPLETED 2026-10-03 (rendered 03:02 UTC). Job `c0bccc56-ad90-44fe-acc1-272fe99b494a`. Content not yet reviewed.
+
+## v3: "lúng túng hơn (như không biết võ), chỉ cầm chảo đánh qua về hơi vụng về"
+Mom is an ordinary brave mother with NO martial arts:
+- Both hands on the handle like a bat; wide wobbly side-to-side swings; over-swings and stumbles; eyes squeezed shut.
+- Hits land almost by accident; she peeks one eye open, surprised; a small proud nod at the end.
+- Comic timing, real-time, no slow motion. Avoid: stances, kicks, deliberate spins, acrobatics, confident hero poses.
+
+| # | Time | Shot | Action |
+|---|---|---|---|
+| 1 | 0-2 s | MS handheld | steps back, eyes shut, wild swings; one clangs → dizzy pop |
+| 2 | 2-3 s | CU push-in | peeks one eye, "oh!", nervous determination |
+| 3 | 3-5.5 s | wide lateral track | hurried steps, fly-swatter swings, over-swing half-spin; the backswing bonks one behind her; another clang |
+| 4 | 5.5-6.5 s | insert | the pan wobbling in trembling hands, clang flash |
+| 5 | 6.5-8.5 s | low angle slow arc | a tall shadow looms; yelp, duck, blind upward swing → CLANG, dissolves; frozen awkward pose, messy hair |
+| 6 | 8.5-10 s | MS gentle push | breathing hard, blows hair from her face, small proud nod |
+
+Status: SUBMITTED 2026-10-03. Job `20a5aee1-86a9-45a3-a17c-af84769b1fdd`. Content not yet reviewed.
