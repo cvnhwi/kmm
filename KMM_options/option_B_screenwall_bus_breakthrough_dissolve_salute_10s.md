@@ -1,6 +1,6 @@
 # Option B — Screen-wall hall: light through the wall, bus breaks in, headlights dissolve villains, drift, driver salute (10s, 5 shots)
 
-**Status:** SUBMITTED — job `f8e2764f-8949-4aad-b471-301f94e56feb`
+**Status:** COMPLETED — job `f8e2764f-8949-4aad-b471-301f94e56feb`
 
 ## Brief (Huy PD, 5-shot script)
 1. Wide, fixed, eye level: crowd of villains backs to camera before the big wall; white light pierces the cracks, growing; they turn and shield their eyes; long shadows toward camera; distant engine + long horn.
@@ -25,7 +25,7 @@ B15 `e2fab0e1` · bus `1a436a85` · driver `aed8c835` · villains ×5 (shuffled:
 
 ---
 ## v2 — detailed 9-shot script (13.5s → 14s render)
-**Status:** SUBMITTED — job `08c80133-9f35-4586-9712-e90e97a116ee`
+**Status:** COMPLETED — job `08c80133-9f35-4586-9712-e90e97a116ee`
 
 User sent a detailed version ("CẢNH XE BUÝT PHÁ TƯỜNG, TÔNG TAN NGƯỜI XẤU, DRIFT VÀ TÀI XẾ SALUTE"):
 | # | Time | Shot | Camera |
