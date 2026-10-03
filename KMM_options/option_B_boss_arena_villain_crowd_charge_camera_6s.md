@@ -23,4 +23,4 @@ Changes vs v1:
 - Camera: knee-to-waist low angle, 28-35 mm look, diagonal; holds, then a slow smooth pull-back (no handheld shake).
 - End: the front runner runs right up to the lens and its body fills the frame (no leap); end on black.
 
-Status: SUBMITTED — job `6993e0a4-06ed-4d4a-81de-75249493ae3c`
+Status: COMPLETED — job `6993e0a4-06ed-4d4a-81de-75249493ae3c`

@@ -69,7 +69,7 @@ Same as v2 (Guard punches only, crowd interspersed in depth not a ring, epic ope
 - Lighting: a crimson moving key light, red vs cyan contrast.
 - Avoid adds: orange or yellow flames; the red turning pink, magenta, purple or violet (no-purple rule).
 
-Status: SUBMITTED — job `3effd73f-d791-4a24-bd0c-b79d510f8f9b`
+Status: COMPLETED — job `3effd73f-d791-4a24-bd0c-b79d510f8f9b`
 
 ## v5: RED LIGHTNING on the broom (user request 2026-10-03), 15 s, 8 shots
 Same as v2 (Guard punches only, crowd interspersed in depth not a ring, epic opening and hero ending, same 8 shots and teamwork beat, guide-action rhythm), except the broom effect:
@@ -78,4 +78,4 @@ Same as v2 (Guard punches only, crowd interspersed in depth not a ring, epic ope
 - Lighting: flickering crimson strobes, red vs cyan contrast. SFX: thunder-cracks, electric crackle, a thunderclap on the teamwork hit.
 - Avoid adds: fire; blue, orange, pink, magenta or purple lightning; lightning striking the heroes.
 
-Status: SUBMITTED — job `42884b61-2f55-4db4-bc30-3117d190504a`
+Status: COMPLETED — job `42884b61-2f55-4db4-bc30-3117d190504a`

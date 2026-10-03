@@ -32,4 +32,4 @@ Changes vs v2 (balancing "cool" and "cute", flagged):
 - Avoid adds: a grim or angry face; exaggerated cartoon faces.
 - Kept: no glasses, plain wooden ruler, short blue gunshot-style bolts, gentle 10-15 degree dutch tilt, one take, SFX only.
 
-Status: SUBMITTED — job `f3b9cfe0-135f-4830-a98b-789d282855ff`
+Status: COMPLETED — job `f3b9cfe0-135f-4830-a98b-789d282855ff`
