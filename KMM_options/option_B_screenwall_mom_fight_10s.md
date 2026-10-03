@@ -77,3 +77,12 @@ Same shots, timing, FX and SFX. Changes:
 - "Frying pan" is reworded as "household cooking pan / ordinary kitchen pan".
 - Avoid adds: resemblance to any existing film, cartoon or game character, princess or fairy-tale character; long golden hair; tower or castle.
 Status: SUBMITTED 2026-10-03. Job `72f26083-8168-4d67-9465-a5bead0a4acb`. Content not yet reviewed.
+
+## v5: clumsy again + "phía sau bối cảnh vẫn có những người xấu" + "vụng về nhưng vẫn đánh trúng vài người bóng đêm", SFX ON
+Based on v3 (clumsy, no martial arts) with the v4b anti-IP wording. Changes:
+- [Background Villains]: 8-12 varied shadows lurk behind her in every shot. Some creep closer, some hesitate, one ducks away from her swing, two watch near the wall; never in sync.
+- Some swings MISS (whiff the air); several land by accident: 4-5 hits in total.
+- The ending keeps the remaining shadows hanging back warily (the threat stays).
+
+SFX: hall hum, nervous footsteps and gasps, whiffs, CLANGs, smoke puffs, shuffling/whispers. No music.
+Status: SUBMITTED 2026-10-03. Job `5eb34916-daf3-4790-9c88-287508607a4d`. Content not yet reviewed.
