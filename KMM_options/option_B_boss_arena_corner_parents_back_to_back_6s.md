@@ -63,3 +63,11 @@ Changes vs v5:
 - The model may not render exactly 35 figures; the user can say if the crowd looks too small or too large.
 
 Status: COMPLETED — job `a350a194-865b-40c1-92b5-e466603828e0`
+
+## v7: re-sent request, "vịn vào tay và chân" wording (user request 2026-10-03), 12 s
+The user re-sent the 35-villain brief with the verb "đến vịn vào tay và chân" (come and hold on to the arms and legs) in place of "bay vào bám". v6 (`a350a194`) already covers the same brief; v7 is a variation, not a correction:
+- Same pose, location, off-axis camera, 35 figures, one at a time, arms and legs only, safety wording (nothing on the neck, head or face).
+- Each villain now reaches the heroes in a DIFFERENT way (high-arc flight, floor skid, all-fours scramble, run-and-slide, dive, arms-out lunge, drop from the wall, hesitant late limp), then grabs on and hangs its weight on a forearm, the pan arm, upper arm, thigh, calf or ankle, "like a clinging child on a parent" (softer hold wording than "latches").
+- 12 s timeline as v6.
+
+Status: SUBMITTED — job `dd3af627-b35b-44e3-8d88-7e50d953dc8a`
