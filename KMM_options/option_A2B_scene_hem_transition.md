@@ -42,3 +42,17 @@ Khối chung trong prompt: header A+B master, SPINE, REFERENCES, CHARACTERS, SPA
 - Màn hình điện thoại không có chữ/icon/UI; điện thoại luôn dọc.
 - Op1: orbit liên tục, không cắt/rung; Op2: không trắng xoá; Op3: bóng đi từ xa về máy, mép bóng rõ.
 - Không slow motion; có SFX, không nhạc; da Mai sáng.
+
+---
+
+# v2 (2026-10-03): Mai KHÔNG bấm điện thoại, hai tay thả xuôi, điện thoại lỏng ở tay PHẢI cạnh đùi (màn hình tối), mặt hơi chán nản; style A cũng là ĐÊM. Status: **SUBMITTED** (chưa kiểm tra nội dung)
+Cùng media/thông số như v1. Diễn xuất: vai hơi chùng, đầu hơi cúi, bước chậm nhỏ, một tiếng thở dài; tiết chế 1/3-1/2.
+Ánh sáng A: đêm, đèn đường + vài cửa sổ ấm, rim vàng-hổ phách, haze mỏng. B: đêm fantasy u ám cyan-teal.
+
+| Option | Thay đổi so với v1 | Job |
+|---|---|---|
+| 1 Orbit 270° | Giữ nguyên cách chuyển; điện thoại treo tay phải lướt qua khung khi máy vòng qua vai phải | `9c1e6bf7-58bc-4ec2-a5d1-1c914f96c4fe` |
+| 2 Điện thoại | Shot 2 thành INSERT bàn tay phải cạnh đùi, điện thoại TỰ sáng (cyan trừu tượng, không chữ), push in; Mai không nhấc máy | `497d1aa7-3821-4c7d-ad30-26c844fcc404` |
+| 3 Đường gạt | Đêm không có bóng mây → đổi thành **đèn đường tắt lần lượt** từ đầu hẻm về máy; mép bóng tối = đường gạt A/B | `3af0d101-734b-4f1f-b6fc-076dd8aa42c2` |
+
+Checklist thêm: Mai không nhấc/nhìn/bấm điện thoại; hai tay thả xuôi; mặt chán nản nhẹ (không khóc); phần A là đêm (không trời chiều); Op3 đèn tắt theo hướng từ xa về máy, không khung đen kịt.
