@@ -31,4 +31,4 @@ Changes:
 - Teacher still has NO glasses (carried over from v2; flagged: say if glasses should return).
 - Same arena, oblique angles, 3 different targets, all 5 designs attached, no pupils, no purple, SFX only.
 
-Status: SUBMITTED — job `bbe498f6-edd2-406d-b452-1305494f460f`
+Status: COMPLETED — job `bbe498f6-edd2-406d-b452-1305494f460f`
