@@ -60,4 +60,4 @@ Same as v2 (Guard punches only, crowd interspersed in depth layers not a ring, e
 - Avoid adds: fire or flames on the broom; the red turning pink, magenta, purple or violet.
 - SFX: energy hum and surge instead of fire crackle.
 
-Status: SUBMITTED — job `7a78ec17-78dd-4cc1-a300-3a4fa63a8a62`
+Status: COMPLETED — job `7a78ec17-78dd-4cc1-a300-3a4fa63a8a62`

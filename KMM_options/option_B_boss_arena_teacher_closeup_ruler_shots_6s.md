@@ -20,4 +20,4 @@ Changes vs v1:
 - Bolts are vivid BLUE (white core, electric-blue glow), still short gunshot-style pulses (avoid: held beams, green/gold/purple).
 - Same: no glasses, plain wooden ruler, three separate shots, smoke wisp and half-smile at the end, one take, no villains in focus, SFX only.
 
-Status: SUBMITTED — job `c5ab7d55-98c6-4b39-8a78-87f5e1613d0a`
+Status: COMPLETED — job `c5ab7d55-98c6-4b39-8a78-87f5e1613d0a`
