@@ -13,4 +13,4 @@ Direction (defaults flagged):
 Refs: BOSS arena `c8394b3d`, villains 1-5, master `24430dd0`.
 Folder: MV KMM `11749213-086c-4a29-a963-b5a064eb4af7`.
 
-Status: SUBMITTED — job `2e060f65-ea0e-4b70-a743-305fb4ee75de`
+Status: COMPLETED — job `2e060f65-ea0e-4b70-a743-305fb4ee75de`
