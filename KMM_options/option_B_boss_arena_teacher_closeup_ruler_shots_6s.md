@@ -21,3 +21,15 @@ Changes vs v1:
 - Same: no glasses, plain wooden ruler, three separate shots, smoke wisp and half-smile at the end, one take, no villains in focus, SFX only.
 
 Status: COMPLETED — job `c5ab7d55-98c6-4b39-8a78-87f5e1613d0a`
+
+## v3: same as v2 (slight tilt, blue bolts) with a CUTE expression (user request 2026-10-03), 6 s
+User: same close-up, slightly tilted angle, cool face, firing blue light from the ruler, with a cute facial expression.
+Changes vs v2 (balancing "cool" and "cute", flagged):
+- While aiming: one eye slightly narrowed, bright sparkling eyes, a determined little pout, softly rounded cheeks.
+- Second shot: a tiny satisfied nod; springy recoil.
+- End: she lowers the ruler slightly, a quick playful WINK toward the camera, a cheeky small smile, a slight head tilt (instead of v2's half-smile).
+- Soft flattering fill light on her face; a tiny sparkle SFX on the wink.
+- Avoid adds: a grim or angry face; exaggerated cartoon faces.
+- Kept: no glasses, plain wooden ruler, short blue gunshot-style bolts, gentle 10-15 degree dutch tilt, one take, SFX only.
+
+Status: SUBMITTED — job `f3b9cfe0-135f-4830-a98b-789d282855ff`
