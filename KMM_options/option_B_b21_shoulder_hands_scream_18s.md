@@ -56,3 +56,14 @@ Interpretation (flagged):
 - Script change: Mai looks back over her shoulder (no full turn), so the group is across the hall BEHIND her (in front of the monitor wall), not "phía trước". The POV in shot 9 is over her shoulder.
 
 Status: COMPLETED 2026-10-03 (rendered 02:49 UTC). Job `b6a9fd6b-d023-4016-bc53-33db4772e212`. Content not yet reviewed.
+
+## v4: v3 + "hành động không đồng nhất của đám người xấu, dùng nhiều người xấu khác nhau (lưu lại)"
+Same as v3 (two-plate geography: B21 behind Mai, B15 behind the villains; Mai looks back over her shoulder). Added:
+- [Villain Variety]: 5 different designs all visibly present, never side by side, varied heights.
+- [Crowd Behaviour]:
+  - Reactions: head-only turn, slow full-body turn, a freeze mid-step, a lowered tablet, a head tilt, two late turners.
+  - Approach: varied gaits and speeds, staggered, never in step.
+- Shot 8 is an uneven ripple (the script's "đồng loạt" is overridden by the user's new note).
+- Shot 10 shows several feet at different rhythms.
+The rule was saved to the skill as 5c.
+Status: SUBMITTED 2026-10-03. Job `7c777b92-ad8b-4e04-8592-d705e426b9bf`. Content not yet reviewed.
