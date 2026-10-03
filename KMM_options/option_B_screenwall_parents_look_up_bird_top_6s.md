@@ -19,3 +19,10 @@ Flags: duration not given → 6s; one continuous shot each; Mom touches Dad's ar
 - Medium bird's-eye → slow continuous pull-back/rise to a wide; both stare up in alarm, Mom grabs Dad's arm, Dad half-reaches up.
 - Mai is NOT shown (off-screen above); a distant whoosh fading upward in the audio.
 - Expression ~2/3: wide eyes, pinched brows, small gasp; no screaming.
+
+## A v3 — 4s, gentle zoom out (medium → medium-wide only), a few villains behind
+**Status:** SUBMITTED — job `56d8139a-cdd7-4692-8654-5015816887fb`
+- Brief: "lại scene trên nhưng chỉ 4 giây và zoom out không quá rộng (không thấy phần gì cận cảnh), phía sau có vài người xấu"
+- Pull-back ends at medium-wide (knees-up / full body), never wide.
+- 3-4 shadow figures (different designs) out of focus behind, edging closer unevenly, not touching. All 5 villain refs attached; [Eyes] no pupils.
+- Interpretation flag: "không thấy phần gì cận cảnh" was read as "keep it from opening up into a wide; the couple still fills much of the frame". Tell me if it meant something else.
