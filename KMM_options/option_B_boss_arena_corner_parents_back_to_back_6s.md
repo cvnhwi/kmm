@@ -39,4 +39,4 @@ Changes vs v3:
 - Dad still has NO weapon; the reference's glasses on Dad are not requested (Dad is copied from his own reference image).
 - About ten villains with different movements and a different spring each (as v3).
 
-Status: SUBMITTED — job `1e2bb99a-4103-4373-bd59-19eb06d27dba`
+Status: COMPLETED — job `1e2bb99a-4103-4373-bd59-19eb06d27dba`
