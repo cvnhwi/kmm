@@ -21,14 +21,14 @@ Flags: duration not given → 6s; one continuous shot each; Mom touches Dad's ar
 - Expression ~2/3: wide eyes, pinched brows, small gasp; no screaming.
 
 ## A v3 — 4s, gentle zoom out (medium → medium-wide only), a few villains behind
-**Status:** SUBMITTED — job `56d8139a-cdd7-4692-8654-5015816887fb`
+**Status:** COMPLETED — job `56d8139a-cdd7-4692-8654-5015816887fb`
 - Brief: "lại scene trên nhưng chỉ 4 giây và zoom out không quá rộng (không thấy phần gì cận cảnh), phía sau có vài người xấu"
 - Pull-back ends at medium-wide (knees-up / full body), never wide.
 - 3-4 shadow figures (different designs) out of focus behind, edging closer unevenly, not touching. All 5 villain refs attached; [Eyes] no pupils.
 - Interpretation flag: "không thấy phần gì cận cảnh" was read as "keep it from opening up into a wide; the couple still fills much of the frame". Tell me if it meant something else.
 
 ## B v2 — Top view, 4s, gentle zoom out, villains RUNNING toward them
-**Status:** SUBMITTED — job `bc1be79d-83aa-4d74-9347-247c35010bb5`
+**Status:** COMPLETED — job `bc1be79d-83aa-4d74-9347-247c35010bb5`
 - Brief: "lại scene topview nhưng chỉ 4 giây và zoom out không quá rộng, phía sau có vài người xấu đang chạy lao tới 2 nhân vật"
 - 90° top view; medium → medium-wide only; the couple stares up in alarm (Mai off-screen above).
 - 3-4 villains (different designs) run in from the frame edges at uneven speeds, close in but do NOT touch before the end. Rule 5c/5d applied.
