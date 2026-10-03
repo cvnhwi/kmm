@@ -66,7 +66,7 @@ If the user says they are not attaching the video (or it is unavailable), warn t
 | BOSS: giant brain with cable tentacles | `25_BOss.png` (updated 2026-10-02; never use old `9e4e6ae8…`) | `3db1be87-7da5-4169-b892-e002f1cf2637` |
 | Mai's phone | phone sheet (sky-blue case, yellow buttons, cat+dog sticker) | `b7eeb576-8bcf-4a98-b695-48a4e029fda1` |
 | Mom's photo (only as a round photo on the phone) | mom photo | `d318bcb9-4768-43e3-95f0-14463b434891` ⚠️(ID account CŨ, chưa upload lại) |
-| Plate: fantasy gate (outside) | gate | `5aa39a50-f435-41b1-8f99-def9153bc90f` ⚠️(ID account CŨ, chưa upload lại) |
+| Plate: FANTASY GATE (Cổng Fantasy) | `B21_CongFantasy.png` (2026-10-03): the threshold where Mai FIRST steps from the real city into the fantasy world. NOT the dark gate B18. (File name reuses "B21"; the back-of-gate plate is `B21_MatSauCong`, don't mix them up.) | `22c1d2ad-9fc6-4ae8-ba39-747a28272bb0` (replaces old-account `5aa39a50`) |
 | Plate: dark gate (Cổng tối) | `B18_CongToi.jpg` (added 2026-10-02) | `7c1e33a4-10da-431a-aec4-b396f2103c77` |
 | Plate: fantasy entrance tunnel / cave | tunnel with old monitors | `b97b3e97-5b27-4deb-92ea-a10693bc61e9` ⚠️(ID account CŨ, chưa upload lại) |
 | Plate: alley (relit as gloomy night) | `B02_Hem1_Day` | `c0accc1d-53eb-4d6b-a777-acbac2133117` |
@@ -254,7 +254,7 @@ A flexible toolkit, NOT a fixed shot list. Pick and reorder angles to make each 
   - The giant brain boss hovers at the north end, high up, with tentacles swaying, each on its own rhythm.
   - Ominous violet-teal light.
   - Heroes and golden rays travel screen left → right.
-- **Fantasy gate:** Mai's back faces the camera at the big gate.
+- **Fantasy gate (Cổng Fantasy, `22c1d2ad-9fc6-4ae8-ba39-747a28272bb0`):** the crossing point from the real city into the fantasy world, where Mai enters for the first time; Mai's back faces the camera at the big gate. It is a DIFFERENT place from the dark gate B18 `7c1e33a4` (Cổng Tối); never substitute one for the other. Scripts saying "cổng fantasy" use this plate.
 - **Alley:** always a gloomy night (grey-violet clouds, sodium and white lamps, wet road).
 - **Fantasy entrance tunnel:** old monitor clusters on the walls, a far cold glow at the north end.
 

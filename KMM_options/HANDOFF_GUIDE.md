@@ -40,8 +40,8 @@ Cập nhật: 2026-10-01 ~16:50 UTC. Repo `cvnhwi/kmm`, branch `claude/gracious-
 | **Mặt sau cổng** (cùng sảnh tường màn hình, nhìn ngược về phía cổng) | `791e7f16-d6aa-4f37-af10-6f89f95a550e` | `B21_MatSauCong.png` (2026-10-03). Dùng cho các cảnh quay về phía cổng: Mai chạy vào, tựa cửa, trốn góc cạnh cửa, góc ngược từ tường màn hình. |
 | **Phòng Boss** | `c8394b3d-556c-4229-a4a4-73daafabcfd9` | `B14_Boss.png` (thay `f1ae9d0a…`, `076ec352…`) |
 | **Não Boss** | `3db1be87-7da5-4169-b892-e002f1cf2637` | `25_BOss.png` (cập nhật 2026-10-02; thay `9e4e6ae8…`, không dùng lại). Giữ đúng thiết kế trong ảnh |
-| Cổng lớn | `5aa39a50-f435-41b1-8f99-def9153bc90f` ⚠️(ID account CŨ, chưa upload lại) | |
-| **Cổng tối** (mới) | `7c1e33a4-10da-431a-aec4-b396f2103c77` | `B18_CongToi.jpg` (thêm 2026-10-02, không thay cổng lớn) |
+| **Cổng Fantasy** (Mai lần đầu bước từ thành phố thực sang thế giới fantasy) | `22c1d2ad-9fc6-4ae8-ba39-747a28272bb0` | `B21_CongFantasy.png` (2026-10-03). KHÁC Cổng tối B18. Thay ID cũ `5aa39a50`. |
+| **Cổng tối** (mới) | `7c1e33a4-10da-431a-aec4-b396f2103c77` | `B18_CongToi.jpg` (thêm 2026-10-02, KHÁC Cổng Fantasy) |
 | **Người xấu gốc / người bóng đêm** | `9ee934cf-d4a2-4591-a178-9b3805294450` | `20_NguoiXau.png` (cập nhật 2026-10-02; thay `2f07fe73…`, không dùng lại) |
 | Người xấu 2 / 3 / 4 / 5 | `075000e7-3a8c-454f-b95e-7ba7db0c2cb4` / `7a051c5e-3012-4307-ac81-103174f0a038` / `f448b33f-6e5a-4bd6-b906-bff62ba2bfae` / `4b93a54a-f21a-45f5-8275-7251118e0386` | `22_NguoiXau2.png` / `23_NguoiXau3.png` / `24_NguoiXau4.png` / `26_NguoiXau5.png` (kho người xấu, dùng random) |
 | Quạ / Nhện | `252cd267-8a39-4bf1-8b69-cefa1ddd56a6` / `a01d6370-58c5-4f57-9e49-99938dd25f1a` | |

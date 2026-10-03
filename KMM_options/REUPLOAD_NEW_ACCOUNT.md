@@ -2,7 +2,7 @@
 
 The user switched to a new Higgsfield account. Media IDs are per account, so **every ID in `HANDOFF_GUIDE.md`, `STYLE_GUIDE_B.md` and the skill file belongs to the OLD account** and will not work on the new one. Re-upload the files below. The assistant then replaces each old ID with the new one in all guides and in the skill.
 
-Status: IN PROGRESS. The account DID change on 2026-10-02 (new workspace `ad401adb-c6e7-47e9-824e-4f7d645dc170`). BG + CH uploaded; guides remapped. Still missing: Fantasy.mp4 master video (needs 720p H.264 + silent AAC), fantasy forest, fantasy gate (outside), bus, phone, mom photo, StandardB.
+Status: IN PROGRESS. The account DID change on 2026-10-02 (new workspace `ad401adb-c6e7-47e9-824e-4f7d645dc170`). BG + CH uploaded; guides remapped. Still missing: Fantasy.mp4 master video (needs 720p H.264 + silent AAC), fantasy forest, bus, phone, mom photo, StandardB.
 
 ## Steps
 1. Reconnect Higgsfield (new account) at https://claude.ai/customize/connectors, then start a new Claude session. Connectors only load at session start.
@@ -28,7 +28,7 @@ Master video: upload the original. The assistant must transcode it again to **H.
 | 7 | `B18_CongToi.jpg` (dark gate) | `c578fe23…` | |
 | 8 | fantasy forest | `d823d7cf…` | |
 | 9 | fantasy entrance tunnel (cave with monitors) | `b97b3e97…` | |
-| 10 | fantasy gate (outside) | `5aa39a50…` | |
+| 10 | fantasy gate (outside) | `5aa39a50…` | ✅ `22c1d2ad-9fc6-4ae8-ba39-747a28272bb0` |
 | 11 | `B02_Hem1_Day` (alley) | `875ca1de…` | |
 
 ## Batch 3: villains and creatures
@@ -96,13 +96,14 @@ Status update 2026-10-02: the account DID change (new workspace above, ultra pla
 | B14_Boss_Sheet.png | `d42f15fa-c890-462f-9d54-0d55063bcc1b` | BOSS arena sheet |
 | B15_TuongManHinh.png | `e2fab0e1-0afa-4726-ab31-3bfa83179a9e` | screen wall (old `f8cfd99c`) |
 | B21_MatSauCong.png | `791e7f16-d6aa-4f37-af10-6f89f95a550e` | back of the gate: same screen-wall hall, reverse view toward the entrance gate (2026-10-03) |
+| B21_CongFantasy.png | `22c1d2ad-9fc6-4ae8-ba39-747a28272bb0` | FANTASY GATE: where Mai first crosses from the real city into the fantasy world (2026-10-03; old `5aa39a50`). Different from dark gate B18. |
 | B16_SongSo.png | `0cc5cb01-897c-4b90-a706-cef1ba043c92` | digital river MAIN (old `d1f11795`) |
 | B16_SongSo2.png | `880c4d73-e265-4a88-be8a-66d6fd353f88` | digital river DRAFT/temporary (old `4693fc18`) |
 | B17_Hanhlang.png | `409ef811-4f88-4a99-a0ea-bd14a5eab41b` | corridor; possibly the entrance tunnel (old `b97b3e97`), to confirm |
 | B18_CongToi.jpg | `7c1e33a4-10da-431a-aec4-b396f2103c77` | dark gate (old `c578fe23`) |
 | B19_BOSS.JPG | `65ec906c-0eac-449c-a7fd-78e71f3eb94c` | BOSS plate, new name; role to confirm |
 
-Not yet seen in BG uploads: fantasy forest (old `d823d7cf`), fantasy gate outside (old `5aa39a50`).
+Not yet seen in BG uploads: fantasy forest (old `d823d7cf`). (Fantasy gate uploaded 2026-10-03: `22c1d2ad-9fc6-4ae8-ba39-747a28272bb0`.)
 
 ### CH round 1 (20)
 | File | New ID | Note |
@@ -128,7 +129,7 @@ Not yet seen in BG uploads: fantasy forest (old `d823d7cf`), fantasy gate outsid
 | 21_Me_Fantasy.png | `a6286ab4-eaba-40ed-988f-3452354fe6ce` | fantasy mom (old `0d42f68e`) |
 | 22_NguoiXau2.png | `271c1e53-ec7a-4ea9-8573-7003abc37f52` | villain 2 (old `6fecf90d`) |
 
-Still to upload: 23_NguoiXau3, 24_NguoiXau4, 25_BOss, 26_NguoiXau5, bus, phone, mom photo, Fantasy.mp4 master video, fantasy forest, fantasy gate.
+Still to upload: 23_NguoiXau3, 24_NguoiXau4, 25_BOss, 26_NguoiXau5, bus, phone, mom photo, Fantasy.mp4 master video, fantasy forest. (fantasy gate done 2026-10-03: `22c1d2ad`)
 
 ### CH round 2 (7)
 | File | New ID | Note |
@@ -157,6 +158,6 @@ Villain pool (5): `9ee934cf` · `075000e7` · `7a051c5e` · `f448b33f` · `4b93a
 | B20_RungFantasy.png | `1bac4a73-28ce-4557-a3b3-148077284b0a` | fantasy forest, updated image 2026-10-02 (replaces `b88078fa`; older `d823d7cf`) |
 | 19_Nhen.png | `a01d6370-58c5-4f57-9e49-99938dd25f1a` | spider re-upload; guides now use this (earlier `00ac4f6b` also valid) |
 
-Still missing: fantasy gate (outside, old `5aa39a50`), StandardB (real-world only). Unconfirmed roles: B17_Hanhlang, B19_BOSS, `5e1895bb` (mom photo?).
+Still missing: StandardB (real-world only). Unconfirmed roles: B17_Hanhlang, B19_BOSS, `5e1895bb` (mom photo?).
 
 | Mai_tuong.png | `46c56ac0-d211-43a9-8660-9de33a4b8a78` | smoky cyan void with tiled floor (new plate, 2026-10-02) |
