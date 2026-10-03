@@ -48,3 +48,11 @@ Open choices flagged: the end pose is baton on the shoulder + fist on hip (not a
 Folder: MV KMM `11749213-086c-4a29-a963-b5a064eb4af7`.
 
 Status: COMPLETED — job `f61b553b-adeb-419d-a72e-3526214fc2b5`
+
+## v4: user CONFIRMED "ném" (THROW) and asked for a SIDE corner (2026-10-03)
+User message: "chú an ninh đang đứng sẵn vừa ném cây baton đi, thì đứng thẳng lại và tạo dáng ngầu, mặt hơi nghiêm trọng (... góc tối ở cùng cảnh boss nhưng không phải keyframe với hình gốc, một góc bên), phía sau cô lao công bước đến và xoay cây chổi tạo dáng". This settles the earlier ambiguity: the action is THROWING the baton (the v2 reading was right; the v1 holster and v3 hand-switch readings were not).
+v4 = v2 (throw, then arms crossed, empty hands, grave stare, Cleaner twirl) + v3's side corner (three-quarter profile of the Guard, side wall, dim monitors, cyan smoke). Directed with the same cinematic design: one continuous take, one slow low-angle push-in, one rack focus at 5.5-6 s, no cut/orbit/zoom.
+Timeline (8 s): 0-2.5 s the throw follow-through toward screen left, the baton spins away out of sight; 2.5-4.5 s recover and straighten, arms crossed, grave stare; 4.5-6 s the Cleaner steps out of the smoke, rack focus; 6-8 s broom twirl and her pose; end on a low-angle two-shot.
+Avoid adds: the baton returning or hitting anyone.
+
+Status: SUBMITTED — job `14e68e28-4214-4d0f-a5b3-27daa743b8a7`
