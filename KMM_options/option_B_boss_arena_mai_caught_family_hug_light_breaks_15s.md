@@ -33,3 +33,23 @@ Changes vs v1:
 - Submission note: the first attempt was blocked by a preset recommendation ("DROWN IN MUSIC"); resubmitted with declined_preset_id `f1821f84-945b-4cd1-9085-1f479db0028e`.
 
 Status: SUBMITTED — job `5c27f7e0-a036-4fcb-97f1-546769294668`
+
+## v3: Officer's trousers without the red stripe, a PUPPY, creative angles + pacing (user request 2026-10-03), 15 s, 8 shots
+User: same as v2, plus the police officer's trousers have no red stripe; a little puppy; analyse and create camera angles and appropriate speed.
+Changes vs v2:
+- The Officer is copied exactly EXCEPT plain trousers with no red side stripe (avoid: red stripe).
+- Dog shown as a small fluffy PUPPY of the same breed and colours (avoid: a large adult dog).
+- Pacing: floaty fall, crisp real-time catch and hop, light quick run, a lingering hug, an expansive crack-open; ONE brief subtle speed ramp (~0.5 s eased) only at the catch (flagged; the project otherwise avoids slow motion).
+Creative angles:
+| # | Time | Angle | Action |
+|---|---|---|---|
+| 1 | 0-1.8 s | top-down from above Mai | she floats away from the lens; the Officer runs in far below |
+| 2 | 1.8-3.4 s | floor-up OTS past the Officer's shoulder | the catch (speed ramp); no eye contact |
+| 3 | 3.4-4.8 s | locked side profile | he lowers her; two profiles looking different ways |
+| 4 | 4.8-6.4 s | puppy's-eye view at floor level | shoes land, hop; the puppy enters; she spins back, bows and waves; he nods |
+| 5 | 6.4-8.4 s | low tracking backward | dainty run (rule 5e) to the kneeling parents; the puppy alongside |
+| 6 | 8.4-10.6 s | close half-orbit | family hug; the puppy circles and hops |
+| 7 | 10.6-12.6 s | through the crack, from outside the dark shell | cracks spread; light bursts in on the family |
+| 8 | 12.6-15 s | high crane pull-back | fragments dissolve, colour floods; the Officer smiles at a distance |
+
+Status: SUBMITTED — job `85ebfc56-0a5f-4ebe-8d36-a9f88045b20d`
