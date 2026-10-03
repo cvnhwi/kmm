@@ -39,3 +39,14 @@ Identical to v3 (short gunshot-style bolts, 3 villains then the Teacher, oblique
 - Avoid adds "gold or yellow bolts"; still no purple or violet (blue must not drift to violet).
 
 Status: SUBMITTED — job `6ff1433d-2b8c-4d9f-a9dd-6d28c2dd38db`
+
+## v5: wooden ruler + the Teacher relocates before every shot (user request 2026-10-03), 8 s, 6 shots
+User sent a photo of a plain wooden school ruler (the photo carries a brand name; it was NOT attached, to avoid brand text leaking into the video) and asked: the Teacher's tool is this wooden ruler, and after each firing she must change position.
+Changes vs v4:
+- New [Teacher's Ruler] block: plain flat light natural-wood ruler ~30 cm, fine black tick marks and small numbers, unbranded, held like a wand, does not change shape. Avoid: metal wand, staff, sword, brand names or logos or readable text on the ruler.
+- The Teacher part is now 3 hard cuts (3.9-5.3 s, 5.3-6.7 s, 6.7-8 s), each from a NEW position, stance and camera angle (A standing, B side-stepped with a bent knee, C crouched or leaning). She never fires twice from the same spot or pose.
+- Three villain hits compressed to ~1.3 s each. Bolts remain short blue-white gunshot pulses; Teacher with NO glasses; oblique camera; no pupils; no purple; SFX only.
+- If the ruler looks wrong, upload the ruler photo (cropped, no brand) as an asset and I will attach it.
+
+Folder: MV KMM `11749213-086c-4a29-a963-b5a064eb4af7` (as always).
+Status: SUBMITTED — job `86a2aa9d-4e4c-4a6d-8f74-c1d63021cc16`
