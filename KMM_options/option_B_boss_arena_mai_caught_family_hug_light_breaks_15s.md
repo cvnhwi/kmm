@@ -53,3 +53,13 @@ Creative angles:
 | 8 | 12.6-15 s | high crane pull-back | fragments dissolve, colour floods; the Officer smiles at a distance |
 
 Status: COMPLETED — job `85ebfc56-0a5f-4ebe-8d36-a9f88045b20d`
+
+## v4: v3 + SMILES on everyone's faces (user request 2026-10-03), 15 s, 8 shots
+User re-sent the v3 brief adding: "Nụ cười trên mặt tất cả mọi người" (smiles on everyone's faces).
+Changes vs v3:
+- New [Smiles] block: genuine, natural smiles on every face throughout. Mai beams from the catch onward; the Officer has a calm, kind smile even while looking away; Dad and Mom smile through happy tears; the puppy looks happy (mouth open, tongue out). Not exaggerated grins.
+- Each shot description now carries the smile beat (two smiling profiles in shot 3, beaming bow in shot 4, the smiling family seen through the crack, Mai laughing at the end).
+- Avoid adds: sad, serious or frowning faces; exaggerated cartoon grins.
+- Kept from v3: plain police trousers (no red stripe), puppy, the same creative angles, pacing with one brief speed ramp at the catch, no eye contact.
+
+Status: SUBMITTED — job `3bc1d1ba-124f-4154-bdf3-71f384bdb20f`
