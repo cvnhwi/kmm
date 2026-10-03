@@ -1,6 +1,6 @@
 # Option B — BOSS arena aftermath: the dark sky cracks; heroes' small moments (12s, 6 shots)
 
-**Status:** SUBMITTED — job `0d2ce69e-b315-48c8-ac2c-22c2ff8147e3`
+**Status:** COMPLETED — job `0d2ce69e-b315-48c8-ac2c-22c2ff8147e3`
 
 Brief: "Cảnh ở trong phòng boss khi bầu trời bóng tối rạn nứt dần thì những cảnh chú an ninh vỗ vai bác tài xế, bố fantasy chào anh công an, cô giáo vẻ mặt mỉm cười nhìn mọi người, cô lao công thì quét bụi xung quanh"
 

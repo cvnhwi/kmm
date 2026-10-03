@@ -1,6 +1,6 @@
 # Option B — BOSS arena: Mai falls, police catches her, family hug + dog, darkness cracks into bright colour (15s, 8 shots)
 
-**Status:** SUBMITTED — job `e4c1014a-d6b7-428f-87fa-c1a3ad5c028b`
+**Status:** COMPLETED — job `e4c1014a-d6b7-428f-87fa-c1a3ad5c028b`
 
 Brief: "bé Mai rơi từ trên cao xuống thì anh công an kịp đỡ và hạ bé xuống luôn, bé chạy đến ôm chầm với ba mẹ fantasy. ở dưới có chú chó vui mừng chạy quanh. cảnh quang bóng tối xung quanh rạn nứt dần, khi nứt thì lộ ra những ảnh tươi sáng rực rỡ"
 
