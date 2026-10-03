@@ -19,7 +19,7 @@ Settings: Seedance 2.5 omni_reference, draft 480p, 16:9, no audio, folder MV KMM
 
 ## Clip A: shots 1-11 (15 s)
 Refs: B21, B15, Mai, 5 villains shuffled, master.
-Status: SUBMITTED. Job `bb5cdc91-5c92-4efb-bf93-b02da2030464`. Content not yet reviewed.
+Status: COMPLETED 2026-10-03 (rendered 02:58 UTC). Job `bb5cdc91-5c92-4efb-bf93-b02da2030464`. Content not yet reviewed.
 
 ## Clip B: shots 12-21 (21 s)
 Refs: B21, B15, Mai, Dad fantasy, Mom fantasy, 5 villains shuffled, master.
@@ -37,4 +37,4 @@ Refs: B21, B15, Mai, Dad fantasy, Mom fantasy, 5 villains shuffled, master.
 | 17-19 s | 20 | wide low angle: parents tall, back-lit, small Mai in the foreground |
 | 19-21 s | 21 | CU: Mai's joyful tears |
 
-Status: SUBMITTED. Job `ca4732cb-a63a-481b-ae34-c5b048890e37`. Content not yet reviewed.
+Status: COMPLETED 2026-10-03 (rendered 02:58 UTC). Job `ca4732cb-a63a-481b-ae34-c5b048890e37`. Content not yet reviewed.

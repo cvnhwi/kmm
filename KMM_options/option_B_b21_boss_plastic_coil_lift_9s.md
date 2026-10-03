@@ -30,4 +30,22 @@ Moderation-safe wording, learned from v23 (passed) vs. v24/v24b (flagged):
 | 6 | 7.5-8 s | ECU feet, static | shoes leave the floor and exit the top of the frame |
 | 7 | 8-9 s | POV looking down, wide, breathing shake | the floor shrinks, smoke fills the spot |
 
-Status: SUBMITTED 2026-10-03. Job `fd02a392-6343-433b-b550-b554d2d98b60`. Content not yet reviewed.
+Status: COMPLETED 2026-10-03 (rendered 02:59 UTC). Job `fd02a392-6343-433b-b550-b554d2d98b60`. Content not yet reviewed.
+
+## v2: user re-brief (fast; BLACK pointed plastic coil; second 1 wrap, second 2 lift; creative camera), 8 s, 6 shots
+Same hard rules. Changes:
+- The coil is now glossy BLACK.
+- The lift is brisk and decisive.
+- New camera:
+
+| # | Time | Shot |
+|---|---|---|
+| 1 | 0-1.5 s | slow low orbit from behind Mai: wide gap to the plain wall, low smoke, flickers |
+| 2 | 1.5-2.5 s | 85 mm profile CU; rack focus up to the black tip lowering above her head (unnoticed) |
+| 3 | 2.5-3.5 s | SECOND 1, from straight above: the coil whips past the lens and loops her in one motion; startle |
+| 4 | 3.5-5.5 s | SECOND 2, camera locked to her and rising: the floor and smoke drop away fast; clean dark ceiling |
+| 5 | 5.5-6.5 s | ground-level insert: shoes snap up out of frame, smoke whoosh |
+| 6 | 6.5-8 s | far low wide, slow push: tiny Mai rising into the clean dark; smoke fills the spot |
+
+Note: the user wrote both "sợi dây điện" and "đổi thành xúc tu nhựa đen, nhọn"; the plastic coil is used, per the explicit change.
+Status: SUBMITTED 2026-10-03. Job `6f50bc58-577b-4f3a-bbf6-07d5c8a2c03b`. Content not yet reviewed.

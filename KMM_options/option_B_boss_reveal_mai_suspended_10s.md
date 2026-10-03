@@ -25,4 +25,4 @@ Defaults and flags:
 | 6 | 7-8.5 s | silhouettes' backs in the foreground, the Boss and tiny Mai far above | very low, wide, push |
 | 7 | 8.5-10 s | the Boss fills the frame, Mai a dot, crowd like sand | wide pull-back |
 
-Status: SUBMITTED 2026-10-03. Job `dcad864b-fe68-4284-8ce0-e467e83fa864`. Content not yet reviewed.
+Status: COMPLETED 2026-10-03 (rendered 03:01 UTC). Job `dcad864b-fe68-4284-8ce0-e467e83fa864`. Content not yet reviewed.
