@@ -44,3 +44,8 @@ Flags: duration not given → 6s; one continuous shot each; Mom touches Dad's ar
 - Camera ~70° down (not fully vertical), medium → medium-wide only.
 - Villains run in from BEHIND (the upper part of the frame); the nearest one has both arms stretched forward, flat black hands, no claws; none touch.
 - Faces ~3/4 frantic / fearful; Mom clutches Dad; Dad reaches up + shields Mom; a final glance toward the footsteps.
+
+## B v5 — same as v4 (70°, 4s) but EXACTLY 5 villains behind
+**Status:** SUBMITTED — job `a5a8495a-d375-4276-ad17-d0a783d9cc3d`
+- Brief: "lại, chỉnh lại thêm thành 5 người xấu phía sau"
+- Exactly five figures, one of each of the 5 designs, in a staggered spread (nearest reaching with both hands, the 2nd to one side, the 3rd/4th further back, the 5th just entering); none touch.
