@@ -41,4 +41,18 @@ Same 11 shots and timing. Changes:
 - Shot 10: heavy feet step past the glowing phone.
 - Shot 11: she is still sitting in the corner.
 Refs: + phone `b7eeb576`.
-Status: SUBMITTED 2026-10-03. Job `723087cd-dc84-4936-943f-7a4667699671`. Content not yet reviewed.
+Status: COMPLETED 2026-10-03 (rendered 02:42 UTC). Job `723087cd-dc84-4936-943f-7a4667699671`. Content not yet reviewed.
+
+## v3: two-plate geography ("Mai ở mặt B21 ở một góc, phía sau lưng người xấu là tường màn hình")
+Same 11 shots and timing as v1 (Mai standing). Two plates of the one hall: B21 `791e7f16` (Image 1) and B15 `e2fab0e1` (Image 2).
+
+Interpretation (flagged):
+- Mai stands in a gate-side corner (B21), facing the corner, back to the hall.
+- The villain comes from the hall behind her.
+- Background rule:
+  - Looking at Mai from the hall side → the B21 corner behind her (shots 3, 5, 6).
+  - Looking toward the villains → the B15 monitor wall behind them (shots 4, 7, 8, 9, and 11 far background).
+- Shot 2 (camera in front of Mai at the corner) shows the villain and the far monitor-wall glow behind her shoulder.
+- Script change: Mai looks back over her shoulder (no full turn), so the group is across the hall BEHIND her (in front of the monitor wall), not "phía trước". The POV in shot 9 is over her shoulder.
+
+Status: SUBMITTED 2026-10-03. Job `b6a9fd6b-d023-4016-bc53-33db4772e212`. Content not yet reviewed.

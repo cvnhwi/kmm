@@ -22,4 +22,4 @@ Notes:
 - Sound notes (muffled sobs, whispers, a bell/warm tone, whoosh + thud, pan "keng", a sigh, soft music) are for post; audio is off.
 - Shot 1 uses the same mouth-cover wording as the passed clips (no grabbing, neck or body contact).
 
-Status: SUBMITTED 2026-10-03. Job `1ac7d90e-2ec8-422a-aea9-432aef541bed`. Content not yet reviewed.
+Status: COMPLETED 2026-10-03 (rendered 02:44 UTC). Job `1ac7d90e-2ec8-422a-aea9-432aef541bed`. Content not yet reviewed.
