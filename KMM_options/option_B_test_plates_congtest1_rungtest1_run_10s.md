@@ -32,14 +32,14 @@ Brief: "không dùng đúng hình ảnh background đó làm keyframe mà hãy s
 - Mai always emerges from the far fog along the depth axis; never enters from the side; never stops.
 
 ### A v2 — congtest1 `6eeba192`
-**Status:** SUBMITTED — job `cb4777e3-d2e7-49dd-84ed-4948ebcfb400`
+**Status:** COMPLETED — job `cb4777e3-d2e7-49dd-84ed-4948ebcfb400`
 1. 0-3.5 extreme wide low through the gateway, long lens, slow push: a silhouette in the fog → Mai breaks out toward us
 2. 3.5-5.5 medium front, tracking backward, arch looming
 3. 5.5-7.5 high angle from on top of the gate, moonlit shadow ahead
 4. 7.5-10 low locked: she runs right past the lens without slowing, the gate + fog revealed behind
 
 ### B v2 — rungtest1 `5f0b9709`
-**Status:** SUBMITTED — job `7df1b3b1-27bc-4290-866c-a4c9c0e12645`
+**Status:** COMPLETED — job `7df1b3b1-27bc-4290-866c-a4c9c0e12645`
 1. 0-3.5 low wide pivot down a corridor of trees into fog: she bursts out → whip pan as she passes → follows her away
 2. 3.5-5.5 medium side tracking, foreground trunks, moonlight strobing, ducks a branch
 3. 5.5-7 high angle from the canopy, roots + fog
