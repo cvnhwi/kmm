@@ -5,7 +5,7 @@ Brief (Huy PD): "congtest1 là cảnh Mai chạy từ phía trong ra chạy về
 Settings: seedance_2_5 · omni_reference · draft · 480p · 16:9 · 10s each · generate_audio true (SFX only, NO music) · folder MV KMM. Refs: Mai `0d56fcb2`, master `24430dd0`.
 
 ## A — congtest1 `6eeba192` (gate): Mai runs out toward camera
-**Status:** SUBMITTED — job `0add8640-76eb-4a87-8ce3-76593a8856f8`
+**Status:** COMPLETED — job `0add8640-76eb-4a87-8ce3-76593a8856f8`
 1. 0-2.5 wide locked, the whole gate: a small Mai far inside sprints toward us
 2. 2.5-4 medium low front, tracking backward under the arch
 3. 4-5.5 side medium-wide lateral track through the threshold, glance back
@@ -13,7 +13,7 @@ Settings: seedance_2_5 · omni_reference · draft · 480p · 16:9 · 10s each ·
 5. 6.5-10 close → fast pull-back as she bursts out, slows to a halt panting, looks back at the gate
 
 ## B — rungtest1 `5f0b9709` (forest): Mai runs across L→R, pivot whip pan
-**Status:** SUBMITTED — job `d55e42d4-36af-4456-8f27-9d75d416644e`
+**Status:** COMPLETED — job `d55e42d4-36af-4456-8f27-9d75d416644e`
 1. 0-3 wide, camera FIXED on a pivot: Mai crosses, the pan accelerates into a whip as she passes the lens, then eases
 2. 3-5 medium side tracking through the trees, ducks a branch
 3. 5-6.5 ECU feet on roots / leaves
