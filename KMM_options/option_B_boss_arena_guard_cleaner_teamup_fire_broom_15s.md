@@ -61,3 +61,21 @@ Same as v2 (Guard punches only, crowd interspersed in depth layers not a ring, e
 - SFX: energy hum and surge instead of fire crackle.
 
 Status: COMPLETED — job `7a78ec17-78dd-4cc1-a300-3a4fa63a8a62`
+
+## v4: RED FIRE on the broom, not orange (user request 2026-10-03), 15 s, 8 shots
+Same as v2 (Guard punches only, crowd interspersed in depth not a ring, epic opening and hero ending, same 8 shots and teamwork beat, guide-action rhythm), except the broom fire:
+- New [Red Fire Broom] block: real flames (unlike v3's aura) but deep crimson-red with a scarlet core, NOT orange or yellow; red embers, red fire arcs and trails; broom impacts in a red-white flash with red sparks.
+- Embers: red for broom hits, gold for punches (guide).
+- Lighting: a crimson moving key light, red vs cyan contrast.
+- Avoid adds: orange or yellow flames; the red turning pink, magenta, purple or violet (no-purple rule).
+
+Status: SUBMITTED — job `3effd73f-d791-4a24-bd0c-b79d510f8f9b`
+
+## v5: RED LIGHTNING on the broom (user request 2026-10-03), 15 s, 8 shots
+Same as v2 (Guard punches only, crowd interspersed in depth not a ring, epic opening and hero ending, same 8 shots and teamwork beat, guide-action rhythm), except the broom effect:
+- New [Red Lightning Broom] block: jagged, branching crimson-red lightning with white-hot cores crackling around the broom, densest at the bristle head; a jagged red lightning trail when swung; broom impacts burst into branching red bolts with a red-white flash and electric sparks. Lightning, NOT fire.
+- Shot 1 ignition: the Cleaner slams the broom down and red lightning erupts and forks across the floor with a thunder-crack.
+- Lighting: flickering crimson strobes, red vs cyan contrast. SFX: thunder-cracks, electric crackle, a thunderclap on the teamwork hit.
+- Avoid adds: fire; blue, orange, pink, magenta or purple lightning; lightning striking the heroes.
+
+Status: SUBMITTED — job `42884b61-2f55-4db4-bc30-3117d190504a`
