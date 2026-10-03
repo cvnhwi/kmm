@@ -28,4 +28,4 @@ User asked again for the same scene ("Cho lại cảnh này"). v2 locks the comp
 - Fighting in overlapping turns (Guard and Mom first, then Teacher, Cleaner, Dad, then the Guard and Mom again), attackers crossing the empty floor one to three at a time; a brief lull at the end with the ring still closing.
 - Same weapons (Guard fists, Teacher wooden ruler blue bolts and no glasses, Dad bare-handed, Mom pan, Cleaner red-fire broom), guide-action hits, no pupils, no purple, SFX only.
 
-Status: SUBMITTED — job `a104b292-ebb8-4ffb-93b2-8f1a5d747278`
+Status: COMPLETED — job `a104b292-ebb8-4ffb-93b2-8f1a5d747278`
