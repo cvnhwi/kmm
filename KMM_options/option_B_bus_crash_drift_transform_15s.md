@@ -33,7 +33,7 @@ Status: COMPLETED 2026-10-03 (rendered 03:35 UTC, SFX). Job `c4a32c7e-0d21-4df4-
 
 ---
 ## v2 — street-racing drift style, decisive (cinematic-director pass, 2026-10-03)
-**Status:** SUBMITTED — job `b997e909-182c-4871-85f7-2da9366072f6` (15s, 10 shots)
+**Status:** COMPLETED — job `b997e909-182c-4871-85f7-2da9366072f6` (15s, 10 shots)
 
 Brief: "phát triển shot này để acting dứt khoát, cinematic giống tokyo drift hơn. sắp xếp và sáng tạo shot không cần theo kịch bản" (/cinematic-director).
 

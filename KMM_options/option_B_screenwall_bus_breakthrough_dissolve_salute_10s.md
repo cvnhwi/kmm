@@ -49,7 +49,7 @@ Flags:
 
 ---
 ## v3 — drift-film direction (cinematic-director, 2026-10-03)
-**Status:** SUBMITTED — job `a74c7704-b66e-489f-b345-8fffd33dbb0b` (14s, 10 shots)
+**Status:** COMPLETED — job `a74c7704-b66e-489f-b345-8fffd33dbb0b` (14s, 10 shots)
 Brief: same 9-shot script + "phát triển … acting dứt khoát, cinematic giống tokyo drift hơn. sắp xếp và sáng tạo shot không cần theo kịch bản".
 
 | # | Time | Shot | Camera |
