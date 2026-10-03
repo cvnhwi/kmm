@@ -34,18 +34,18 @@ Flags: duration not given → 6s; one continuous shot each; Mom touches Dad's ar
 - 3-4 villains (different designs) run in from the frame edges at uneven speeds, close in but do NOT touch before the end. Rule 5c/5d applied.
 
 ## B v3 — Top view, 4s, villains running in, FRANTIC / SCARED faces
-**Status:** SUBMITTED — job `d7389bcc-2c09-4e5f-9352-d67f7a617e09`
+**Status:** COMPLETED — job `d7389bcc-2c09-4e5f-9352-d67f7a617e09`
 - Same as B v2 + "Khuôn mặt họ hơi hớt hải và sợ": expression raised to about 3/4 (wide fearful eyes, brows knotted, creased foreheads, sharp gasp, tense jaw), still no screaming.
 - Mom clutches Dad's arm with both hands, the pan trembling; Dad reaches up desperately with one arm around Mom; in the last second his eyes flick toward the footsteps.
 
 ## B v4 — 70° top-down, 4s, villains running in, one reaching with both hands, frantic faces
-**Status:** SUBMITTED — job `0fc13784-36d9-47ee-a4d5-5995a97d6d06`
+**Status:** COMPLETED — job `0fc13784-36d9-47ee-a4d5-5995a97d6d06`
 - Brief: "lại scene topview 70 độ nhưng chỉ 4 giây và zoom out không quá rộng, phía sau có vài người xấu đang chạy lao tới 2 nhân vật, có một người xấu vừa chạy vừa đưa 2 tay tới. Khuôn mặt họ hơi hớt hải và sợ."
 - Camera ~70° down (not fully vertical), medium → medium-wide only.
 - Villains run in from BEHIND (the upper part of the frame); the nearest one has both arms stretched forward, flat black hands, no claws; none touch.
 - Faces ~3/4 frantic / fearful; Mom clutches Dad; Dad reaches up + shields Mom; a final glance toward the footsteps.
 
 ## B v5 — same as v4 (70°, 4s) but EXACTLY 5 villains behind
-**Status:** SUBMITTED — job `a5a8495a-d375-4276-ad17-d0a783d9cc3d`
+**Status:** COMPLETED — job `a5a8495a-d375-4276-ad17-d0a783d9cc3d`
 - Brief: "lại, chỉnh lại thêm thành 5 người xấu phía sau"
 - Exactly five figures, one of each of the 5 designs, in a staggered spread (nearest reaching with both hands, the 2nd to one side, the 3rd/4th further back, the 5th just entering); none touch.
