@@ -40,3 +40,14 @@ Changes vs v3:
 - About ten villains with different movements and a different spring each (as v3).
 
 Status: COMPLETED — job `1e2bb99a-4103-4373-bd59-19eb06d27dba`
+
+## v5: about TWENTY villains, they spring in ONE AT A TIME and cling to Dad and Mom (user request 2026-10-03), 10 s, one shot
+Same pose, location, off-axis camera rule and rules as v4 (Dad no weapon with raised fists, Mom ordinary kitchen pan, worried faces, corner of the BOSS arena, never a frontal view of the background).
+Changes:
+- About 20 shadow figures in three loose rows (five designs, each about four times, never side by side); allowed range 15-25 in [Avoid].
+- The attack is SEQUENTIAL: first figure springs alone (3-4.5 s) and latches on Dad's arm; from 4.5 s the others spring one by one at uneven intervals, each in its own way and from different sides; they cling to forearms, the pan arm, legs, shoulders, back, waist, hips; the heroes strain, shake one off for a moment, are slowly weighed down.
+- End (8-10 s): off-axis three-quarter mid shot, both heroes heavily weighed down by the clinging figures, still back to back, faces visible and worried, more figures arriving at the edges.
+- Moderation-safe wording (flagged): flat black hands only on sleeves/forearms/shoulders/waists/legs; NOTHING touches the neck or face; no injury, no choking; Avoid lists neck, face, choking, injury.
+- Duration raised to 10 s to fit the one-by-one sequence.
+
+Status: SUBMITTED — job `a15ca990-199f-4520-bd25-895b91cf951b`
