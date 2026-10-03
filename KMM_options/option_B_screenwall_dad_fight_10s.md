@@ -29,3 +29,16 @@ Defaults:
 | 8.5-10 s | MEDIUM | whip pan → slow arc | Dad catches it, uppercut, burst; settles, breathing hard |
 
 Status: COMPLETED 2026-10-03 (rendered 02:06 UTC). Job `29ec07aa-3283-4962-8df3-f30351102281`. Content not yet reviewed.
+
+## v2: "hành động dứt khoát, action hơn" + "Bố fantasy nhé"
+Same 7-shot coverage and refs (fantasy Dad `8eeb2595`). Changes:
+- New [Action Design] block: wind-up → explosive strike → firm stop; a 2-3 frame impact freeze (not slow motion); one hit = one down; chained combos; cut on action.
+- Harder moves:
+  - leap into a crouch landing
+  - two-step charge with a punch through the lens
+  - duck + spinning back kick + hook combo
+  - top-shot leg sweep + elbow, with the ring bursting like petals
+  - mid-air catch + uppercut finisher
+- The prompt states FANTASY Dad (not everyday clothes).
+- Note: the preset recommender now suggests "DROWN IN MUSIC". declined_preset_id `f1821f84-945b-4cd1-9085-1f479db0028e` was used for this retry.
+Status: SUBMITTED 2026-10-03. Job `606390fe-ac0a-4c94-b298-652a35f15ad4`. Content not yet reviewed.

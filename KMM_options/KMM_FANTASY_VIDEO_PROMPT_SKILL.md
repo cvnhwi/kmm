@@ -188,6 +188,44 @@ Shot N (...-15 s), ...: ...
 13. **Characters belong in the shot:** matching light, contact shadows, mist in front of and behind them; never a pasted-on layer.
 14. **Dynamic camera by default** (user 2026-10-03): most shots MOVE (push-in, pull-back, track, dolly, arc/orbit, crane, handheld drift, rack focus, tilt/pan with motivation). Locked-off/static shots are the exception, at most ~1 in 5 shots and only where stillness is the point (a frozen beat, a hold before a cut). Even in close-ups and "hold" endings keep a slight drift or creep. Write the move in every shot line.
 
+### Fight sequence guide (user 2026-10-03, from animated-feature trailer refs)
+A flexible toolkit, NOT a fixed shot list. Pick and reorder angles to make each fight look its best for its space, characters and beat.
+
+**Coverage menu** (a strong 8-12 s fight usually mixes most of these):
+- MEDIUM: establish the stance or the first clash; also the finishing blow and guard pose.
+- OVER-THE-SHOULDER: from the enemy's shoulder, so the hero strikes toward or past the lens.
+- CLOSE-UP HERO: determined face between hits (a beat to breathe).
+- WIDE: geography and multiple enemies; combos read clearly here.
+- TOP SHOT: a ring of enemies bursting outward; rotating crane.
+- CLOSE-UP ENEMY / MONSTER: a lunge at the lens out of smoke; a threat beat before the finisher.
+- Optional: low hero angle, POV of the victim watching the rescue, insert of fist or pan on impact, tracking side-on run-up.
+
+**Action design (decisive, not floaty):**
+- Every move has three beats: a quick wind-up, an explosive strike, and a crisp follow-through with a firm stop.
+- Use a 2-3 frame impact freeze on contact (not slow motion), then the enemy blasts away.
+- One hit = one enemy down. Combos chain without pause.
+- Wide dynamic poses (deep lunges, full-body twists, planted feet) with clear silhouettes.
+- Cut ON ACTION: on the impact or at the start of the next move.
+
+**Camera:**
+- Every shot moves (rule 14): fast arc, push with the charge, lateral track, rotating crane, whip pan into the finisher.
+- A small frame shake on big hits.
+- Keep screen direction consistent across cuts (e.g. the hero attacks left to right).
+
+**FX:**
+- Warm-gold motion-smear arcs on strikes, dust shockwave rings on landings, a short white-gold impact flash.
+- Enemies burst into plain black smoke + golden-amber embers.
+- Never purple; no blood.
+
+**Pacing:**
+- 7 shots in 10 s is tight (about 1.3 s each). For more readable action use 12-15 s, or fewer, longer combo shots.
+- Hero-specific moves:
+  - Dad: fists and kicks.
+  - Mom: frying pan swings.
+  - Guard: baton.
+- Always use the FANTASY versions of the family members.
+- Reference clip: `option_B_screenwall_dad_fight_10s.md` (v1 `29ec07aa`, v2 decisive `606390fe`).
+
 ### Location notes
 - **Screen-wall hall:**
   - The giant monitor wall is on the north side, with rows of night-shadow people working at it.
