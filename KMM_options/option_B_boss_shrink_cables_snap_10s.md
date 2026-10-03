@@ -26,4 +26,4 @@ Refs added: villain design 1 `9ee934cf` as the style for the final small shadow 
 | 6 | 10-12 s | floor-level low CU, push-in | smoke clears: one small child-height flat-black shadow person, meek, blinking glowing eyes (no pupils); limp cables around it |
 Defaults (flagged): 12 s; the final figure is child-height and harmless, in the villains' flat-black style; no heroes; no explosion or gore; no purple; SFX only.
 
-Status: SUBMITTED — job `eaafee63-3785-44d6-b435-0793b19aa687`
+Status: COMPLETED — job `eaafee63-3785-44d6-b435-0793b19aa687`

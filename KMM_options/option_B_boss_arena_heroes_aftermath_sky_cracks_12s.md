@@ -21,4 +21,4 @@ Same story and shot plan as v1 (sky cracks; Guard pats the Driver's shoulder; Da
 - Driver chuckles and pats back; the Guard steps aside with a grin after the broom nudge.
 - Explicit never-frontal angles; no Mai, Mom or dog in this clip.
 
-Status: SUBMITTED — job `43504e31-3a97-4132-a11d-39ef37a72829`
+Status: COMPLETED — job `43504e31-3a97-4132-a11d-39ef37a72829`

@@ -32,7 +32,7 @@ Changes vs v1:
 - Rest as v1 (hug + dog circling, the dark shell cracks into sunlight, blue sky, green and flower colours; sparkles; the officer watching from a distance).
 - Submission note: the first attempt was blocked by a preset recommendation ("DROWN IN MUSIC"); resubmitted with declined_preset_id `f1821f84-945b-4cd1-9085-1f479db0028e`.
 
-Status: SUBMITTED — job `5c27f7e0-a036-4fcb-97f1-546769294668`
+Status: COMPLETED — job `5c27f7e0-a036-4fcb-97f1-546769294668`
 
 ## v3: Officer's trousers without the red stripe, a PUPPY, creative angles + pacing (user request 2026-10-03), 15 s, 8 shots
 User: same as v2, plus the police officer's trousers have no red stripe; a little puppy; analyse and create camera angles and appropriate speed.
@@ -52,4 +52,4 @@ Creative angles:
 | 7 | 10.6-12.6 s | through the crack, from outside the dark shell | cracks spread; light bursts in on the family |
 | 8 | 12.6-15 s | high crane pull-back | fragments dissolve, colour floods; the Officer smiles at a distance |
 
-Status: SUBMITTED — job `85ebfc56-0a5f-4ebe-8d36-a9f88045b20d`
+Status: COMPLETED — job `85ebfc56-0a5f-4ebe-8d36-a9f88045b20d`
