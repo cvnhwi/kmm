@@ -51,4 +51,22 @@ Mom is an ordinary brave mother with NO martial arts:
 | 5 | 6.5-8.5 s | low angle slow arc | a tall shadow looms; yelp, duck, blind upward swing → CLANG, dissolves; frozen awkward pose, messy hair |
 | 6 | 8.5-10 s | MS gentle push | breathing hard, blows hair from her face, small proud nod |
 
-Status: SUBMITTED 2026-10-03. Job `20a5aee1-86a9-45a3-a17c-af84769b1fdd`. Content not yet reviewed.
+Status: COMPLETED 2026-10-03 (rendered 03:07 UTC). Job `20a5aee1-86a9-45a3-a17c-af84769b1fdd`. Content not yet reviewed.
+
+## v4: "không có acting nhanh nhưng khéo léo tránh né những người xấu lao đến và dùng chảo (có effect) đập vào đầu" (big screen-wall hall), SFX audio ON
+Interpretation: "khôn có acting nhanh" read as "không có acting nhanh" = not fast, calm and deft.
+- Mom is relaxed and unhurried. She waits for each lunge, then makes a minimal dodge (half-step, lean back, duck); the shadow stumbles past and she taps the back of its head with the pan.
+- Pan FX on hits: a golden starburst flash, a short gold smear, a light ring-shockwave, sparkles.
+- No running, flips or kicks.
+
+| # | Time | Shot | Action |
+|---|---|---|---|
+| 1 | 0-2 s | wide crane down from high | tiny calm Mom in the vast hall; shadows converge unevenly |
+| 2 | 2-4 s | MS slow arc | sidestep → lunge overshoots → back-of-head tap, clang + starburst |
+| 3 | 4-5.5 s | low tracking | lean back → two shadows collide → double bonk |
+| 4 | 5.5-6.5 s | CU push | calm half-smile, eyes on the next one |
+| 5 | 6.5-8.5 s | OTS from a charging shadow → whip pan | duck, it flies over; rising swing, big golden ring-wave, frame shake |
+| 6 | 8.5-10 s | wide pull-back | pan on her shoulder, dusts her sleeve; smoke rings dissolve |
+
+SFX: hall hum and echo, whooshes, light footsteps, metallic CLANG + sparkle chime, smoke puffs. No music.
+Status: SUBMITTED 2026-10-03. Job `264a9458-d1e8-4a5d-85f0-1230e8d79438`. Content not yet reviewed.
