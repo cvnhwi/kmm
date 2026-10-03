@@ -51,3 +51,13 @@ Changes vs v1:
 | 8 | 13-15 s | epic hero shot, very low, push-in + crane up |
 
 Status: SUBMITTED — job `d013b574-7bfc-4689-af68-42a629b613b5`
+
+## v3: the broom has a RED AURA effect instead of fire (user request 2026-10-03), 15 s, 8 shots
+Same as v2 (Guard punches only, crowd interspersed in depth layers not a ring, epic opening and hero ending, guide-action rhythm, same 8-shot list and teamwork uppercut-to-bat beat), except the broom:
+- New [Red Aura Broom] block: a shimmering crimson-red energy aura outlining the whole broom, strongest at the bristle head, with faint red wisps rising; it leaves sharp glowing red light trails and arcs; impacts burst in a red-white flash with red sparks. Energy light, NOT fire.
+- Broom hits: red-white flash, dust ring, black smoke + gold embers + red sparks. Punches keep the guide's white-gold flash and gold streak.
+- Lighting: the red aura as a moving warm key light, a red vs cyan contrast against the arena.
+- Avoid adds: fire or flames on the broom; the red turning pink, magenta, purple or violet.
+- SFX: energy hum and surge instead of fire crackle.
+
+Status: SUBMITTED — job `7a78ec17-78dd-4cc1-a300-3a4fa63a8a62`
