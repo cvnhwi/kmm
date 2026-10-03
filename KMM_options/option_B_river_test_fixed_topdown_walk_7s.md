@@ -1,6 +1,6 @@
 # Option B — River test: fixed high-angle, profiles flow away, Mai walks slowly on bank (7s)
 
-**Status:** SUBMITTED — job `3786fa4e-92bc-4ac3-8206-7510929b2596`
+**Status:** COMPLETED — job `3786fa4e-92bc-4ac3-8206-7510929b2596`
 
 ## Brief (Huy PD)
 "Cho tôi góc fixed camera trên cao chiếu xuống dòng sông số test, các profile đang chảy về phía xa, Mi đang đứng ở bên bờ đi chậm. 7 giây"
