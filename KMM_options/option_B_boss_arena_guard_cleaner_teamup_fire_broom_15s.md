@@ -29,3 +29,25 @@ Refs: BOSS arena `c8394b3d`, Guard `682c6b6d`, Cleaner `2f4bb001`, villains 1-5,
 Folder: MV KMM `11749213-086c-4a29-a963-b5a064eb4af7`.
 
 Status: COMPLETED — job `9ac1ae80-c01c-4778-9ab3-1696b4909d26`
+
+## v2: PUNCHES ONLY for the Guard; crowd INTERSPERSED in depth (not a ring); EPIC and cinematic (user request 2026-10-03), 15 s, 8 shots
+User added: the Guard uses ONLY punches; the villains are not in a circle around them but interspersed through the frame; needs to be epic and cinematic.
+Changes vs v1:
+- Guard: jab, cross, uppercut, hook, straight, and a punch into the lens (POV). Avoid adds: kicks, elbows, grabs, throws, baton.
+- Teamwork beat rewritten without a grab or throw: the Guard's uppercut launches a villain toward the Cleaner, who bats it with the flaming broom mid-air.
+- Crowd staging: about 25 villains scattered in depth layers: huge blurred ones crossing the near foreground, mid-ground between and around the heroes, many small ones receding into the smoke, some on ledges at different heights; moving in different directions. Avoid adds: a circle or ring around the heroes.
+- Epic scale: opening EPIC WIDE very low angle with a rising crane, the heroes striding toward camera through the crowd as the broom ignites; lateral dolly past foreground figures; closing EPIC HERO SHOT side by side (not back to back), embers raining, the remaining villains backing into the smoke.
+- Same guide-action rules (3 beats, 2-3 frame freeze, dust ring, smoke + gold embers, one strike one villain), fire only on the broom head, never frontal, no pupils, no purple, SFX only.
+
+| # | Time | Shot |
+|---|---|---|
+| 1 | 0-2 s | epic wide, very low, rising crane: stride in, broom ignites |
+| 2 | 2-3.8 s | medium tracking: jab + cross, 2 KOs |
+| 3 | 3.8-5.4 s | OTS from a villain: flaming diagonal swing |
+| 4 | 5.4-6.8 s | insert: fist wind-up, gold streak, impact freeze |
+| 5 | 6.8-9 s | wide lateral dolly through layers: uppercut, hook, straight; broom figure-eight |
+| 6 | 9-10.8 s | villain POV: straight punch into the lens |
+| 7 | 10.8-13 s | teamwork: uppercut launches a villain, Cleaner bats it mid-air |
+| 8 | 13-15 s | epic hero shot, very low, push-in + crane up |
+
+Status: SUBMITTED — job `d013b574-7bfc-4689-af68-42a629b613b5`
