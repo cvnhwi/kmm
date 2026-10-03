@@ -71,3 +71,15 @@ The user re-sent the 35-villain brief with the verb "đến vịn vào tay và c
 - 12 s timeline as v6.
 
 Status: SUBMITTED — job `dd3af627-b35b-44e3-8d88-7e50d953dc8a`
+
+## v8: CLOSE framing — Dad and Mom start apart, back up until their backs meet and lean back to back, villains fly in at the end (user request 2026-10-03), 8 s, one take
+User: a close shot of the fantasy Dad and Mom standing apart, then leaning back against each other as in the reference image; a corner of the BOSS arena, NOT a frontal view; at the end the villains fly in; Dad has no weapon.
+Direction:
+- One continuous take, 50 mm look, low angle, always diagonal to the walls (background soft and receding).
+- 0-2.5 s: MCU three-quarter, two steps apart, each backing toward the other while facing a different threat; the camera trucks sideways to hold both.
+- 2.5-4.5 s: their backs touch, a small start, a glance of recognition, then the back-to-back lean (the reference pose); the camera eases into a tight two-shot push-in.
+- 4.5-6.5 s: tight two-shot, worried but determined, a tiny reassuring nod; blurred villains shift unevenly at the edges.
+- 6.5-8 s: villains fly in from left, right and behind, different ways, slightly different instants; the shot ends before contact.
+Locks: Dad empty hands (fists), Mom ordinary kitchen pan, all 5 designs, no sync, no pupils, no purple, SFX only, no wide shots, no cuts.
+
+Status: SUBMITTED — job `006f5ffc-5e59-4752-a849-d1f265e3490e`
