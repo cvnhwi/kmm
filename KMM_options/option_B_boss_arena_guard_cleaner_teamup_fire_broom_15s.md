@@ -124,4 +124,4 @@ Shot list, one guide angle per shot, never the same angle twice in a row:
 | 8 | 11-13 s | medium handheld, teamwork | uppercut launch, then the broom bats it, red lightning explosion |
 | 9 | 13-15 s | hero low-angle wide | side by side; the crowd backs away |
 
-Status: SUBMITTED — job `2532eeac-6cdf-48d8-8912-9fd5fe2a20a8`
+Status: COMPLETED — job `2532eeac-6cdf-48d8-8912-9fd5fe2a20a8`
