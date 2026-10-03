@@ -121,7 +121,7 @@ Not yet seen in BG uploads: fantasy forest (old `d823d7cf`), fantasy gate outsid
 | 14_Cho.png | `380caa13-1788-4fe9-b953-c0818719eebc` | dog |
 | 15_TaiXe.png | `aed8c835-e2eb-477f-a4c5-583726b87181` | bus driver (old `6f2ff8e2`) |
 | 16_Bo_Fantasy.png | `8eeb2595-7127-4d3f-9dc6-9c124caa1c99` | fantasy dad (old `f9500265`) |
-| 17_Soi.png | `d07c926b-5d27-45cf-a1fb-9103dfbaa764` | smoke wolf (old `f48ff106`) |
+| 17_Soi.png | `b5f7908e-fcd3-4b00-ad91-309366da6ae0` | smoke wolf — UPDATED design (prev `d07c926b`, old `f48ff106`) |
 | 18_Qua.png | `252cd267-8a39-4bf1-8b69-cefa1ddd56a6` | crow (old `6a271d30`) |
 | 19_Nhen.png | `00ac4f6b-39f0-49f3-8a9d-6f56ca30c55c` | spider (old `cdcbdc48`) |
 | 20_NguoiXau.png | `ffe68c08-d6b4-469a-9c75-63f7b7b08258` | villain 1 (old `aad31f63`) |

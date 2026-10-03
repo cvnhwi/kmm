@@ -60,7 +60,7 @@ If the user says they are not attaching the video (or it is unavailable), warn t
 | Villain 3 (Người xấu 3) | `23_NguoiXau3.png` | `7a051c5e-3012-4307-ac81-103174f0a038` |
 | Villain 4 (Người xấu 4) | `24_NguoiXau4.png` | `f448b33f-6e5a-4bd6-b906-bff62ba2bfae` |
 | Villain 5 (Người xấu 5) | `26_NguoiXau5.png` | `4b93a54a-f21a-45f5-8275-7251118e0386` |
-| Smoke wolf (Sói bóng đêm) | wolf sheet | `d07c926b-5d27-45cf-a1fb-9103dfbaa764` |
+| Smoke wolf (Sói bóng đêm) | wolf sheet | `b5f7908e-fcd3-4b00-ad91-309366da6ae0` |
 | Smoke crow (Quạ) | crow sheet | `252cd267-8a39-4bf1-8b69-cefa1ddd56a6` |
 | Smoke spider (Nhện) | spider sheet | `a01d6370-58c5-4f57-9e49-99938dd25f1a` |
 | BOSS: giant brain with cable tentacles | `25_BOss.png` (updated 2026-10-02; never use old `9e4e6ae8…`) | `3db1be87-7da5-4169-b892-e002f1cf2637` |
