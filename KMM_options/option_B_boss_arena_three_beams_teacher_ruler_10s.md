@@ -20,7 +20,7 @@ Same 5-shot script. Changes:
 - The shot 5 line about light reflecting on her glasses becomes light on her bare face and eyes.
 - Flag: the Teacher reference `89b32a5e` may itself show glasses, so the prompt asks for "as Image 2 EXCEPT no glasses". If glasses still appear, the reference image needs a no-glasses version.
 
-Status: SUBMITTED — job `2d8176c7-8e0d-43fe-9f26-651aab7f6ca1`
+Status: COMPLETED — job `2d8176c7-8e0d-43fe-9f26-651aab7f6ca1`
 
 ## v3: short and snappy, gunshot-style bolts (user request 2026-10-03), 7 s, 4 shots
 User: 3 villains hit in turn by 3 magic bolts ("không quá dài"), then the Teacher firing from her ruler; fired in bursts like a gun, NOT held for long.
