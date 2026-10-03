@@ -79,3 +79,14 @@ Same as v2 (Guard punches only, crowd interspersed in depth not a ring, epic ope
 - Avoid adds: fire; blue, orange, pink, magenta or purple lightning; lightning striking the heroes.
 
 Status: COMPLETED — job `42884b61-2f55-4db4-bc30-3117d190504a`
+
+## v6: Guard with a GOLDEN AURA on his fists + Cleaner with BLAZING RED LIGHTNING (user request 2026-10-03), 15 s, 8 shots
+Same base as v5 (Guard punches only, crowd interspersed in depth not a ring, epic opening and hero ending, same 8 shots, guide-action rhythm), plus:
+- New [Golden Fist Aura] block: a warm bright gold energy aura around the Guard's fists and forearms, a faint gold body outline that flares on each punch; golden streaks, golden shockwave rings and gold sparks on impact; energy light, not fire; never orange or green.
+- Red lightning pushed to "blazing": more intense, explosive bursts on impact.
+- Shot 1: both powers ignite together (golden aura on the fists + red lightning erupting from the broom).
+- Teamwork beat (shot 7): gold and red collide, red lightning bursting inside a golden shockwave ring, thunderclap + boom.
+- Lighting: three-colour contrast (cyan arena, gold on his side, crimson strobes on hers).
+- Avoid adds: fire anywhere; orange/green aura.
+
+Status: SUBMITTED — job `f9353436-f9e4-428f-9283-3aa1423cefeb`
