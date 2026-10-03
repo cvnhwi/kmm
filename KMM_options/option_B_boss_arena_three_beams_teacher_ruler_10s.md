@@ -62,4 +62,4 @@ Kept from the user's latest briefs (flagged: these override the guide's gold on 
 - Wooden ruler (plain, unbranded); the Teacher relocates before every shot (positions A, B, C); Teacher with NO glasses; oblique/high/low camera, never frontal; no pupils; SFX only.
 
 Folder: MV KMM `11749213-086c-4a29-a963-b5a064eb4af7`.
-Status: SUBMITTED — job `467754eb-d8cc-4d70-95dc-e5cb8d53f7d9`
+Status: COMPLETED — job `467754eb-d8cc-4d70-95dc-e5cb8d53f7d9`
