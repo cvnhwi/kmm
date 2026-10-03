@@ -37,3 +37,10 @@ Flags: duration not given → 6s; one continuous shot each; Mom touches Dad's ar
 **Status:** SUBMITTED — job `d7389bcc-2c09-4e5f-9352-d67f7a617e09`
 - Same as B v2 + "Khuôn mặt họ hơi hớt hải và sợ": expression raised to about 3/4 (wide fearful eyes, brows knotted, creased foreheads, sharp gasp, tense jaw), still no screaming.
 - Mom clutches Dad's arm with both hands, the pan trembling; Dad reaches up desperately with one arm around Mom; in the last second his eyes flick toward the footsteps.
+
+## B v4 — 70° top-down, 4s, villains running in, one reaching with both hands, frantic faces
+**Status:** SUBMITTED — job `0fc13784-36d9-47ee-a4d5-5995a97d6d06`
+- Brief: "lại scene topview 70 độ nhưng chỉ 4 giây và zoom out không quá rộng, phía sau có vài người xấu đang chạy lao tới 2 nhân vật, có một người xấu vừa chạy vừa đưa 2 tay tới. Khuôn mặt họ hơi hớt hải và sợ."
+- Camera ~70° down (not fully vertical), medium → medium-wide only.
+- Villains run in from BEHIND (the upper part of the frame); the nearest one has both arms stretched forward, flat black hands, no claws; none touch.
+- Faces ~3/4 frantic / fearful; Mom clutches Dad; Dad reaches up + shields Mom; a final glance toward the footsteps.
