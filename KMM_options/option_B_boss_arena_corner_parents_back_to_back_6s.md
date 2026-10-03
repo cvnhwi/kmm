@@ -82,4 +82,4 @@ Direction:
 - 6.5-8 s: villains fly in from left, right and behind, different ways, slightly different instants; the shot ends before contact.
 Locks: Dad empty hands (fists), Mom ordinary kitchen pan, all 5 designs, no sync, no pupils, no purple, SFX only, no wide shots, no cuts.
 
-Status: SUBMITTED — job `006f5ffc-5e59-4752-a849-d1f265e3490e`
+Status: COMPLETED — job `006f5ffc-5e59-4752-a849-d1f265e3490e`
