@@ -52,3 +52,10 @@ seedance_2_5 · omni_reference · draft · 480p · 16:9 · 12s · generate_audio
 - One continuous lateral tracking shot L→R at the wolf's speed, medium-wide profile, Fantasy Gate `22c1d2ad` behind it.
 - The wolf hops a small piece of debris at ~3.5s (my addition, for variety). Its target is off-screen.
 - Eyes: [Eyes] no pupils (rule 5d).
+
+---
+## v5 — Mai only, ONE continuous side-view shot, 6s (2026-10-03)
+**Status:** SUBMITTED — job `caf45c8b-65c9-4461-80f5-838e0cec13b6`
+- Brief: "…side view Mai đang chạy. Chỉ có Mai không có sói, thử một shot dài không multishot 6s"
+- Pairs with wolf-only v4 `f1a7fe43` (same L→R direction, same gate, same lateral track) → can be intercut.
+- Mai glances back at ~2.5s and stumbles slightly at ~4s without stopping (my additions).

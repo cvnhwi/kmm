@@ -46,3 +46,26 @@ Flags:
 - The light comes from the camera side (behind the villains) and the bus crashes through the BACKGROUND wall, as scripted (a physical cheat: light from one side, bus from the other).
 - Duration 14s (13.5s rounded).
 - v1 `f8e2764f` was made from the short script before this detail arrived.
+
+---
+## v3 — drift-film direction (cinematic-director, 2026-10-03)
+**Status:** SUBMITTED — job `a74c7704-b66e-489f-b345-8fffd33dbb0b` (14s, 10 shots)
+Brief: same 9-shot script + "phát triển … acting dứt khoát, cinematic giống tokyo drift hơn. sắp xếp và sáng tạo shot không cần theo kịch bản".
+
+| # | Time | Shot | Camera |
+|---|---|---|---|
+| 1 | 0-1.8 | light blooms through the seams of the monitor wall BEHIND the crowd; ripple turn + shield; shadows shoot toward the lens | wide eye level, slow push |
+| 2 | 1.8-2.6 | shadow hand, light through the fingers, eye glow narrows | ECU, then silence |
+| 3 | 2.6-4 | bus bursts through the wall at the camera | low wide locked + shake |
+| 4 | 4-4.8 | headlight flare → windshield, driver slams the gear lever (NEW) | bumper rig, slide up |
+| 5 | 4.8-7 | ploughs the crowd, beams erase figures | ground level racing backward |
+| 6 | 7-7.8 | one figure crumbles in the beam | CU, slowed (exception) |
+| 7 | 7.8-8.4 | handbrake yank (NEW) | ECU cab |
+| 8 | 8.4-10.4 | tail whips out, drift L→R sweeps the last figures, snap stop at 45° | bumper-height track, Dutch, whip pan |
+| 9 | 10.4-11.8 | crash zoom → CU driver | lens zoom, hard stop |
+| 10 | 11.8-14 | smirk + salute; the last tiny particle pops on the flick (comic button, NEW) | CU locked |
+
+Director fixes:
+- Light-direction logic: the light now blooms from the monitor wall BEHIND the crowd, and the bus comes through that same wall (v2 had the light from the camera side and the bus from the wall).
+- Drift-film grammar: gear shift + handbrake inserts, bumper rigs, Dutch tilt, whip pan; the film name is not in the prompt.
+- A comic button at the end (the particle pops on the salute).
