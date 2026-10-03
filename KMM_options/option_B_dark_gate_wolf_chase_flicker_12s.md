@@ -59,3 +59,9 @@ seedance_2_5 · omni_reference · draft · 480p · 16:9 · 12s · generate_audio
 - Brief: "…side view Mai đang chạy. Chỉ có Mai không có sói, thử một shot dài không multishot 6s"
 - Pairs with wolf-only v4 `f1a7fe43` (same L→R direction, same gate, same lateral track) → can be intercut.
 - Mai glances back at ~2.5s and stumbles slightly at ~4s without stopping (my additions).
+
+---
+## v6 — Mai only, one continuous side-view shot, 6s, GIRLISH run (2026-10-03)
+**Status:** SUBMITTED — job `e99a6a7f-31f7-4f63-8eae-e16eb8b844f5`
+- Brief: same as v5 + "Cách Mai chạy sẽ giống con gái hơn (chỉnh sửa prompt chung)" → skill rule 5e [Running Style] added.
+- Composition fixed: full body, ~2/3 frame height (v5 had conflicting size words).

@@ -198,6 +198,12 @@ Every prompt that contains ANY night-shadow person / villain ("người xấu", 
 - Avoid list always adds: "pupils, black pupils, dark dots in the eyes, slit pupils, irises, realistic eyes on any shadow person or creature".
 - If a design image shows pupils/irises, the no-pupil rule still wins unless the user overrides it.
 
+5e. **Mai runs like a girl, ALWAYS (user 2026-10-03, "chỉnh sửa prompt chung").**
+Whenever Mai runs, add a **[Running Style]** line:
+- "Mai runs like a young schoolgirl, NOT an athlete: light, quick, shorter steps on the balls of her feet; elbows kept close to her sides with forearms and loose hands swinging a little across her body, wrists relaxed and fingers slightly open; slight side-to-side sway of the shoulders and hips; knees fairly close together with her lower legs kicking a little outward and back; hair and clothes bouncing with every step; head slightly forward, a bit off-balance and urgent."
+- Avoid adds: "athletic sprinter form, long powerful strides, pumping fists, boyish heavy running".
+- Do not write "sprints hard, arms pumping" for Mai any more.
+
 5. **Crowds are never in sync.** Every person or shadow has their own action, speed and rhythm; reactions ripple nearest-first with uneven gaps.
 6. **Monitors:** mostly dark, only a few lit, flickering at random; never all lit, never on a beat.
 7. **Real-time 24 fps:** no slow motion, speed ramps, freeze frames or fast-forward.
