@@ -47,4 +47,4 @@ Timeline (8 s):
 Open choices flagged: the end pose is baton on the shoulder + fist on hip (not arms crossed, since he still holds the baton). If the user meant another action (e.g. adjusting the grip, passing it), or wants arms crossed with the baton tucked away, say so.
 Folder: MV KMM `11749213-086c-4a29-a963-b5a064eb4af7`.
 
-Status: SUBMITTED — job `f61b553b-adeb-419d-a72e-3526214fc2b5`
+Status: COMPLETED — job `f61b553b-adeb-419d-a72e-3526214fc2b5`
