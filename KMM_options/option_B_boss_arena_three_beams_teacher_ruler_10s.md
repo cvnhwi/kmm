@@ -12,4 +12,4 @@ Defaults (flagged):
 
 Refs: arena `c8394b3d`, Teacher `89b32a5e`, villains 1-5, master `24430dd0`.
 
-Status: SUBMITTED — job `e88d809e-80cc-48a7-a557-ebf7618a7518`
+Status: COMPLETED — job `e88d809e-80cc-48a7-a557-ebf7618a7518`
