@@ -38,7 +38,7 @@ Identical to v3 (short gunshot-style bolts, 3 villains then the Teacher, oblique
 - Bolt colour: bright white core with an electric sky-blue glow (was white-gold); the impact flash is blue-white too.
 - Avoid adds "gold or yellow bolts"; still no purple or violet (blue must not drift to violet).
 
-Status: SUBMITTED — job `6ff1433d-2b8c-4d9f-a9dd-6d28c2dd38db`
+Status: COMPLETED — job `6ff1433d-2b8c-4d9f-a9dd-6d28c2dd38db`
 
 ## v5: wooden ruler + the Teacher relocates before every shot (user request 2026-10-03), 8 s, 6 shots
 User sent a photo of a plain wooden school ruler (the photo carries a brand name; it was NOT attached, to avoid brand text leaking into the video) and asked: the Teacher's tool is this wooden ruler, and after each firing she must change position.
@@ -49,7 +49,7 @@ Changes vs v4:
 - If the ruler looks wrong, upload the ruler photo (cropped, no brand) as an asset and I will attach it.
 
 Folder: MV KMM `11749213-086c-4a29-a963-b5a064eb4af7` (as always).
-Status: SUBMITTED — job `86a2aa9d-4e4c-4a6d-8f74-c1d63021cc16`
+Status: COMPLETED — job `86a2aa9d-4e4c-4a6d-8f74-c1d63021cc16`
 
 ## v6: follows the GUIDE ACTION (user request 2026-10-03), 9 s, 6 shots
 User: redo the Teacher shot following the fight guide (KMM_RULES_SUMMARY.md, section D "Guide action").
