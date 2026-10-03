@@ -51,3 +51,15 @@ Changes:
 - Duration raised to 10 s to fit the one-by-one sequence.
 
 Status: SUBMITTED — job `a15ca990-199f-4520-bd25-895b91cf951b`
+
+## v6: about THIRTY-FIVE villains, spring in one at a time and cling to the ARMS and LEGS only (user request 2026-10-03), 12 s, one shot
+Same pose, location and off-axis camera rule as v5 (Dad no weapon with raised fists, Mom ordinary kitchen pan, worried faces, corner of the BOSS arena, never a frontal view of the background, the reference image's back-to-back pose).
+Changes vs v5:
+- About 35 shadow figures: a dense crowd in four or five loose rows (five designs, each ~7 times, never side by side); allowed range 25-45 in [Avoid]. Large dark figures at the frame edges, many smaller ones receding into the smoke.
+- Sequential attack, as v5, with uneven gaps and sometimes two close together; the rest of the crowd keeps shuffling forward.
+- They cling to the ARMS and LEGS only (forearms, pan arm, upper arms, thighs, calves, ankles) instead of shoulders, back and waist.
+- Safety wording kept (flagged): nothing touches the neck, head or face, faces stay visible, no injury or choking.
+- Duration raised to 12 s: 0-3.5 s standoff and orbit; 3.5-5.5 s first two attackers; 5.5-10 s one-by-one clinging; 10-12 s heavily weighed-down end frame, still back to back.
+- The model may not render exactly 35 figures; the user can say if the crowd looks too small or too large.
+
+Status: SUBMITTED — job `a350a194-865b-40c1-92b5-e466603828e0`
