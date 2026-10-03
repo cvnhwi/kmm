@@ -73,6 +73,7 @@ If the user says they are not attaching the video (or it is unavailable), warn t
 | Plate: fantasy forest | forest | `1bac4a73-28ce-4557-a3b3-148077284b0a` (B20_RungFantasy.png, updated 2026-10-02; old `b88078fa`) |
 | Plate: digital river | `B16_SongSo.png` | `0cc5cb01-897c-4b90-a706-cef1ba043c92` |
 | Plate: screen-wall hall | `B15_TuongManHinh.png` (updated 2026-10-02, 4th; never use old `ebb49e7c…` / `54a5db90…`) | `e2fab0e1-0afa-4726-ab31-3bfa83179a9e` |
+| Plate: back of the gate (screen-wall hall, reverse view) | `B21_MatSauCong.png` (2026-10-03): the SAME hall seen from the screen wall looking back at the entrance gate, where Mai runs in | `791e7f16-d6aa-4f37-af10-6f89f95a550e` |
 | Plate: BOSS arena | `B14_Boss.png` | `c8394b3d-556c-4229-a4a4-73daafabcfd9` |
 
 **Asset rules:**
@@ -228,6 +229,7 @@ A flexible toolkit, NOT a fixed shot list. Pick and reorder angles to make each 
 
 ### Location notes
 - **Screen-wall hall:**
+  - Two plates of ONE hall: B15 `e2fab0e1` looks toward the giant monitor wall; B21 `791e7f16-d6aa-4f37-af10-6f89f95a550e` looks the opposite way, toward the inside of the entrance gate. Use B21 for any shot facing the gate (Mai running in, the gate slamming shut from inside, leaning on the doors, hiding in the corner by the gate, reverse angles from the wall side); use B15 for shots facing the monitor wall. In reverse-angle cutting between them, keep the axis: gate behind one side, wall behind the other.
   - The giant monitor wall is on the north side, with rows of night-shadow people working at it.
   - The gate doors are on the south wall, and Mai's hiding corner is the south-east, behind a pillar.
   - Light: cold cyan-teal backlight.

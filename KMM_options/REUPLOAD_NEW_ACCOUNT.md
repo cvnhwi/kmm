@@ -95,6 +95,7 @@ Status update 2026-10-02: the account DID change (new workspace above, ultra pla
 | B14_Boss.png | `c8394b3d-556c-4229-a4a4-73daafabcfd9` | BOSS arena (old `1c507ac3`) |
 | B14_Boss_Sheet.png | `d42f15fa-c890-462f-9d54-0d55063bcc1b` | BOSS arena sheet |
 | B15_TuongManHinh.png | `e2fab0e1-0afa-4726-ab31-3bfa83179a9e` | screen wall (old `f8cfd99c`) |
+| B21_MatSauCong.png | `791e7f16-d6aa-4f37-af10-6f89f95a550e` | back of the gate: same screen-wall hall, reverse view toward the entrance gate (2026-10-03) |
 | B16_SongSo.png | `0cc5cb01-897c-4b90-a706-cef1ba043c92` | digital river MAIN (old `d1f11795`) |
 | B16_SongSo2.png | `880c4d73-e265-4a88-be8a-66d6fd353f88` | digital river DRAFT/temporary (old `4693fc18`) |
 | B17_Hanhlang.png | `409ef811-4f88-4a99-a0ea-bd14a5eab41b` | corridor; possibly the entrance tunnel (old `b97b3e97`), to confirm |

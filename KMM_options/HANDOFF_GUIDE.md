@@ -37,6 +37,7 @@ Cập nhật: 2026-10-01 ~16:50 UTC. Repo `cvnhwi/kmm`, branch `claude/gracious-
 | Rừng fantasy | `1bac4a73-28ce-4557-a3b3-148077284b0a` (B20_RungFantasy.png) | Cập nhật 2026-10-02, thay `b88078fa` |
 | **Dòng sông số** | `0cc5cb01-897c-4b90-a706-cef1ba043c92` | `B16_SongSo.png` (thay `fa8a5475…`) |
 | **Tường màn hình** | `e2fab0e1-0afa-4726-ab31-3bfa83179a9e` | `B15_TuongManHinh.png` (cập nhật lần 4, 2026-10-02; thay `ebb49e7c…`, `54a5db90…`, `b59fa3e7…`, `b5785b69…`, `b331cb43…`) |
+| **Mặt sau cổng** (cùng sảnh tường màn hình, nhìn ngược về phía cổng) | `791e7f16-d6aa-4f37-af10-6f89f95a550e` | `B21_MatSauCong.png` (2026-10-03). Dùng cho các cảnh quay về phía cổng: Mai chạy vào, tựa cửa, trốn góc cạnh cửa, góc ngược từ tường màn hình. |
 | **Phòng Boss** | `c8394b3d-556c-4229-a4a4-73daafabcfd9` | `B14_Boss.png` (thay `f1ae9d0a…`, `076ec352…`) |
 | **Não Boss** | `3db1be87-7da5-4169-b892-e002f1cf2637` | `25_BOss.png` (cập nhật 2026-10-02; thay `9e4e6ae8…`, không dùng lại). Giữ đúng thiết kế trong ảnh |
 | Cổng lớn | `5aa39a50-f435-41b1-8f99-def9153bc90f` ⚠️(ID account CŨ, chưa upload lại) | |
