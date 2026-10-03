@@ -1,0 +1,26 @@
+# KMM — Option B: dark corner of the BOSS arena — Guard holsters his baton, straightens into a grave arms-crossed pose, Cleaner steps up and twirls her broom (8 s, single shot)
+
+User request (2026-10-03): the Guard is standing; he has just "đôi" the baton away, then straightens and strikes a cool pose with a slightly grave face; a slightly dark background, a dark corner of the same BOSS scene but NOT keyframed on the original image; the Cleaner walks up behind and twirls her broom into a pose. Analyse carefully, cinematic prompt.
+
+Interpretation (flagged): "vừa đôi cây baton đi" read as "just put the baton away": he slides it into a belt loop at his hip. If the user meant something else (e.g. tossed it away), say so.
+
+Director's choice:
+- Story beat: after the fight, the weary hero re-composes himself: holster, straighten, cross arms, grave stare; then the Cleaner's flourish is the release.
+- ONE continuous take; one dominant camera move: a slow low-angle push-in (35 mm look, gimbal feel) with a single rack focus (Guard to Cleaner) at 5.5-6 s. No cut, orbit or zoom.
+- Not a keyframe of the plate: `c8394b3d` is used only for location (dark architecture, cyan smoke, dim monitors); the prompt asks for a new oblique view of a shadowy corner, a different angle from the plate.
+- Light: dark, low-key; cyan ambient from monitors and smoke; soft cool rim light on both; no purple.
+- Timeline:
+  - 0-2.5 s: loose, weary stance; the baton slides into his belt; a breath out.
+  - 2.5-4 s: straightens, arms crossed, grave stare, no smile; the baton stays in the belt, hands empty.
+  - 4-5.5 s: the Cleaner steps out of the smoke behind him, broom on her shoulder.
+  - 5.5-6 s: she arrives behind-right; rack focus onto her.
+  - 6-8 s: broom twirl and stop, her cool pose; end on a low-angle two-shot.
+
+Defaults (flagged):
+- 8 s, SFX only, no villains or other heroes.
+- Guard `682c6b6d` copied exactly (including the baton design), Cleaner `2f4bb001`.
+
+Folder: MV KMM `11749213-086c-4a29-a963-b5a064eb4af7`.
+Refs: BOSS arena `c8394b3d`, Guard `682c6b6d`, Cleaner `2f4bb001`, master `24430dd0`.
+
+Status: SUBMITTED — job `e3b46974-c911-467b-91f3-7d07881a062f`
