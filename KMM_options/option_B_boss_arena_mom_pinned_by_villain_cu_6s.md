@@ -12,4 +12,4 @@ Defaults (flagged):
 
 Refs: arena `c8394b3d`, Mom `a6286ab4`, villains 1-5, master `24430dd0`.
 
-Status: SUBMITTED — job `47e33d48-35b4-4cef-830e-1b83699e7928`
+Status: COMPLETED — job `47e33d48-35b4-4cef-830e-1b83699e7928`

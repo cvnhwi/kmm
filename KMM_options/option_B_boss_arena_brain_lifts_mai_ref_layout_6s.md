@@ -18,4 +18,4 @@ Defaults (flagged to the user):
 Refs: arena `c8394b3d`, BOSS `3db1be87`, Mai `0d56fcb2`, master `24430dd0`.
 Settings: Seedance 2.5 omni_reference, draft 480p, 16:9, audio ON, folder MV KMM, declined preset `24bae836`.
 
-Status: SUBMITTED — job `d4e6ddb7-9c7e-4367-af01-59844ca5fc3e`
+Status: COMPLETED — job `d4e6ddb7-9c7e-4367-af01-59844ca5fc3e`
