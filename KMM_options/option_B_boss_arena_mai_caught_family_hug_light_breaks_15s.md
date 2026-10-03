@@ -62,4 +62,4 @@ Changes vs v3:
 - Avoid adds: sad, serious or frowning faces; exaggerated cartoon grins.
 - Kept from v3: plain police trousers (no red stripe), puppy, the same creative angles, pacing with one brief speed ramp at the catch, no eye contact.
 
-Status: SUBMITTED — job `3bc1d1ba-124f-4154-bdf3-71f384bdb20f`
+Status: COMPLETED — job `3bc1d1ba-124f-4154-bdf3-71f384bdb20f`

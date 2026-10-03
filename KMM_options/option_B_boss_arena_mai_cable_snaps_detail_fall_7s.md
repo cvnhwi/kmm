@@ -17,7 +17,7 @@ Direction (moderation-safe wording, per the project rules for children):
 Refs: BOSS arena `c8394b3d`, Mai `0d56fcb2`, master `24430dd0`.
 Folder: MV KMM `11749213-086c-4a29-a963-b5a064eb4af7`.
 
-Status: SUBMITTED — job `6995570c-458c-456f-bfda-fb26b13105e0`
+Status: COMPLETED — job `6995570c-458c-456f-bfda-fb26b13105e0`
 
 ## v2: electric TENDRIL, EYE-LEVEL horizontal angle, FULL BODY, one take (user request 2026-10-03), 7 s
 User: Mai suspended in the air by an electric tentacle-cable, the cable snaps and she falls; smoke around; BOSS arena; the camera at a horizontal (eye-level) angle showing all of Mai.
@@ -27,4 +27,4 @@ Changes vs v1:
 - Timeline: 0-2.5 s hanging and swaying, looking up; 2.5-4 s strands fray with sparks; 4-5 s SNAP, the loop slides off over her clothes; 5-7 s gentle floaty fall into the smoke, end on smoke.
 - Same safety wording (a loose loop over her clothes like a safety rope, holding on, no neck/face, no thrashing, no impact).
 
-Status: SUBMITTED — job `53ca8e6b-8f43-4ad1-b4a3-16e52f95b5f4`
+Status: COMPLETED — job `53ca8e6b-8f43-4ad1-b4a3-16e52f95b5f4`
