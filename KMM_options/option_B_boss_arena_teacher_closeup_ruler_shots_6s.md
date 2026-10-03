@@ -11,4 +11,4 @@ Defaults carried over from the latest Teacher briefs (flagged):
 Refs: BOSS arena `c8394b3d`, Teacher `89b32a5e`, master `24430dd0`.
 Folder: MV KMM `11749213-086c-4a29-a963-b5a064eb4af7`.
 
-Status: SUBMITTED — job `38e5124d-0499-4677-88db-48260bd1c780`
+Status: COMPLETED — job `38e5124d-0499-4677-88db-48260bd1c780`

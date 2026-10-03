@@ -50,7 +50,7 @@ Changes vs v1:
 | 7 | 10.8-13 s | teamwork: uppercut launches a villain, Cleaner bats it mid-air |
 | 8 | 13-15 s | epic hero shot, very low, push-in + crane up |
 
-Status: SUBMITTED — job `d013b574-7bfc-4689-af68-42a629b613b5`
+Status: COMPLETED — job `d013b574-7bfc-4689-af68-42a629b613b5`
 
 ## v3: the broom has a RED AURA effect instead of fire (user request 2026-10-03), 15 s, 8 shots
 Same as v2 (Guard punches only, crowd interspersed in depth layers not a ring, epic opening and hero ending, guide-action rhythm, same 8-shot list and teamwork uppercut-to-bat beat), except the broom:
