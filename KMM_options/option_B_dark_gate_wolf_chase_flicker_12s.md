@@ -44,3 +44,11 @@ seedance_2_5 · omni_reference · draft · 480p · 16:9 · 12s · generate_audio
 - All shots side view, L→R: wide track · medium wolf gallop profile · medium Mai profile glance back · low pounce/miss/skid · wide race toward the gate.
 - No flicker (not requested this time).
 - Eyes: a solid uniform glowing amber almond shape, NO black pupil / dark dot / slit / iris.
+
+---
+## v4 — wolf only, ONE continuous side-view shot, 6s (2026-10-03)
+**Status:** SUBMITTED — job `f1a7fe43-6109-4a19-9ab6-84a61255a867`
+- Brief: "…side view sói đang chạy. Lưu ý mắt sói không có con ngươi màu đen. Chỉ có sói, không thấy Mai, thử một shot dài không multishot 6s"
+- One continuous lateral tracking shot L→R at the wolf's speed, medium-wide profile, Fantasy Gate `22c1d2ad` behind it.
+- The wolf hops a small piece of debris at ~3.5s (my addition, for variety). Its target is off-screen.
+- Eyes: [Eyes] no pupils (rule 5d).
