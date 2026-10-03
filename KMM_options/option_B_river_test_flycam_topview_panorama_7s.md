@@ -18,3 +18,11 @@ seedance_2_5 · omni_reference · draft · 480p · 16:9 · 7s · generate_audio 
 - Flycam = slow, smooth forward glide + slight rotation, clouds passing under the lens.
 - Mai kept as a tiny standing dot on the bank (continuity with the previous top shot). Remove if an empty landscape is wanted.
 - Duration not given → 7s.
+
+---
+## v2 — high oblique aerial, FIXED (2026-10-03)
+**Status:** SUBMITTED — job `e1936886-abbe-4106-a1d6-795ed8f3a3b8`
+- Feedback: "góc camera phải cao như thế này và fixed, không lướt. Đúng bối cảnh… sử dụng B16_SongSo2" + a drone coastline photo as an angle ref (not uploaded; the composition is described in words).
+- Image 1 = B16_SongSo2 `880c4d73` (same plate as v1, which was attached already).
+- Camera: very high, oblique ~45° down (like the ref photo, horizon near the top edge), NOT 90° straight down; completely locked off.
+- Only the river cards, mist and clouds move; Mai is a tiny still dot on the bank.
