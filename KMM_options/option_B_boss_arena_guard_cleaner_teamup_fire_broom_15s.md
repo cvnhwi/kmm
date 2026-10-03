@@ -125,3 +125,31 @@ Shot list, one guide angle per shot, never the same angle twice in a row:
 | 9 | 13-15 s | hero low-angle wide | side by side; the crowd backs away |
 
 Status: COMPLETED — job `2532eeac-6cdf-48d8-8912-9fd5fe2a20a8`
+
+## v8: TRUE-RED FIRE with colour codes, 20 s, 12 creative guide angles (user request 2026-10-03)
+User: the team-up again, with the broom burning in blazing "true red" fire, the red colour codes added, 20 s long, camera angles changed according to the action guide and creative.
+Colour codes:
+- Flame body: true red #FF0000
+- Licks and trails: #E00000
+- Edges: deep blood-red #B30000
+- Hot base only: #FFD6D6
+- Embers: #FF1A1A
+- Never orange (#FF8000 / #FFA500), yellow, pink, magenta, purple
+Guard: plain fists, punches only, no aura. Crowd: about 30, interspersed in depth, not a ring.
+Shot list, one creative angle per shot:
+| # | Time | Angle | Action |
+|---|---|---|---|
+| 1 | 0-2 s | epic wide, very low, crane up | true-red fire ignites |
+| 2 | 2-3.5 s | floor-level slider between the villains' legs | Guard: jab + cross |
+| 3 | 3.5-5 s | OTS from the enemy side | diagonal fire arc |
+| 4 | 5-6.2 s | hero close-up, low | straight punch past the lens |
+| 5 | 6.2-8 s | top shot, rotating crane | back to back; three drop |
+| 6 | 8-9.4 s | villain lunging into the lens | broom hits in front of the lens |
+| 7 | 9.4-10.6 s | insert on the knuckles | uppercut, gold streak |
+| 8 | 10.6-12.4 s | through the fire, rack focus | broom figure-eight in the foreground; Guard punching behind |
+| 9 | 12.4-14 s | dutch-tilt whip pan | follows the launched villain toward the Cleaner |
+| 10 | 14-16 s | medium handheld, teamwork | the broom bats it; big red-white explosion |
+| 11 | 16-18 s | high-angle pull-back crane | they advance and drop two more; the crowd revealed |
+| 12 | 18-20 s | hero low-angle wide | side by side; the crowd backs away |
+
+Status: SUBMITTED — job `c9e6891d-cb4e-4190-95e7-5201eca0ec72`
