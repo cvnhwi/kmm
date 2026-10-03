@@ -1,7 +1,7 @@
 # KMM — HANDOFF GUIDE (tiếp tục ở box chat khác)
 
 Cập nhật: 2026-10-01 ~16:50 UTC. Repo `cvnhwi/kmm`, branch `claude/gracious-archimedes-cao5q7`, thư mục `KMM_options/`.
-Đọc file này trước, sau đó đọc `STYLE_GUIDE_B.md` (luật đầy đủ) và `CAMERA_LIBRARY_B.md` (camera, mục 8 = director pass). Skill camera: `.claude/skills/cinematic-director/`.
+Đọc `KMM_RULES_SUMMARY.md` (tổng hợp toàn bộ rule) trước, rồi file này, sau đó đọc `STYLE_GUIDE_B.md` (luật đầy đủ) và `CAMERA_LIBRARY_B.md` (camera, mục 8 = director pass). Skill camera: `.claude/skills/cinematic-director/`.
 
 ---
 
@@ -111,5 +111,5 @@ Lịch sử đầy đủ trong các file `option_B_*.md`.
 
 ## 9. Prompt mở đầu cho box chat mới (copy dán)
 ```
-Tiếp tục dự án MV KMM. Đọc KMM_options/HANDOFF_GUIDE.md, rồi STYLE_GUIDE_B.md và CAMERA_LIBRARY_B.md (mục 8) trong repo cvnhwi/kmm, branch claude/gracious-archimedes-cao5q7. Dùng skill .claude/skills/cinematic-director. Trả lời tiếng Việt, prompt tiếng Anh, mọi video gen vào folder MV KMM 11749213-086c-4a29-a963-b5a064eb4af7, cảnh fantasy luôn đính kèm video master 24430dd0-a7ec-4d5c-a555-46abfb7600a1 và Mai fantasy 0d56fcb2-47cc-4271-b785-c73f4ab9a17b.
+Tiếp tục dự án MV KMM. Đọc KMM_options/KMM_RULES_SUMMARY.md trước (tổng hợp rule), rồi KMM_options/HANDOFF_GUIDE.md, rồi STYLE_GUIDE_B.md và CAMERA_LIBRARY_B.md (mục 8) trong repo cvnhwi/kmm, branch claude/gracious-archimedes-cao5q7. Dùng skill .claude/skills/cinematic-director. Trả lời tiếng Việt, prompt tiếng Anh, mọi video gen vào folder MV KMM 11749213-086c-4a29-a963-b5a064eb4af7, cảnh fantasy luôn đính kèm video master 24430dd0-a7ec-4d5c-a555-46abfb7600a1 và Mai fantasy 0d56fcb2-47cc-4271-b785-c73f4ab9a17b.
 ```
