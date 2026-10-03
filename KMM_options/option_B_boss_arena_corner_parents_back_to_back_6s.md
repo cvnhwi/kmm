@@ -62,4 +62,4 @@ Changes vs v5:
 - Duration raised to 12 s: 0-3.5 s standoff and orbit; 3.5-5.5 s first two attackers; 5.5-10 s one-by-one clinging; 10-12 s heavily weighed-down end frame, still back to back.
 - The model may not render exactly 35 figures; the user can say if the crowd looks too small or too large.
 
-Status: SUBMITTED — job `a350a194-865b-40c1-92b5-e466603828e0`
+Status: COMPLETED — job `a350a194-865b-40c1-92b5-e466603828e0`
