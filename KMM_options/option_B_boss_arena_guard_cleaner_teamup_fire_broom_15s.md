@@ -100,4 +100,4 @@ Fix:
 - Fewer all-caps intensity words.
 Everything else as v6 (punches only, interspersed crowd, 8 shots, teamwork, guide-action).
 
-Status: SUBMITTED — job `d1526132-dcfd-45a1-98d4-b700b8af2e60`
+Status: COMPLETED — job `d1526132-dcfd-45a1-98d4-b700b8af2e60`
