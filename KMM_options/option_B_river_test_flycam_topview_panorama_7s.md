@@ -1,6 +1,6 @@
 # Option B — River test: flycam very-high top view, full panorama (7s)
 
-**Status:** SUBMITTED — job `4da69b0f-df51-4965-839f-cb4ab55166a4`
+**Status:** COMPLETED — job `4da69b0f-df51-4965-839f-cb4ab55166a4`
 
 ## Brief (Huy PD)
 "Cho tôi lại cảnh topview toàn cảnh dòng sông số test, đây là flycam nên rất cao"

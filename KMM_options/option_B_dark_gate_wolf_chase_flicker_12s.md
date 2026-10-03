@@ -32,7 +32,7 @@ seedance_2_5 · omni_reference · draft · 480p · 16:9 · 12s · generate_audio
 
 ---
 ## v2 — on the CORRECT Fantasy Gate plate (2026-10-03)
-**Status:** SUBMITTED — job `16aca3fe-b328-4b5a-b22a-2caf2bd42e5e`
+**Status:** COMPLETED — job `16aca3fe-b328-4b5a-b22a-2caf2bd42e5e`
 - Brief: "Tạo lại cảnh rượt đuổi của sói bóng đêm và Mai trên đúng background cổng fantasy"
 - Image 1 = Fantasy Gate `B21_CongFantasy` `22c1d2ad-9fc6-4ae8-ba39-747a28272bb0` (v1 wrongly used dark gate B18).
 - Same 8 shots; shot 7 changed: Mai dashes through the gate opening, the wolf is stopped at the threshold by an invisible barrier (light ripple + dust ring), since the plate's gate design is unseen (no bars assumed).
