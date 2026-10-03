@@ -49,3 +49,23 @@ Same hard rules. Changes:
 
 Note: the user wrote both "sợi dây điện" and "đổi thành xúc tu nhựa đen, nhọn"; the plastic coil is used, per the explicit change.
 Status: COMPLETED 2026-10-03 (rendered 03:04 UTC). Job `6f50bc58-577b-4f3a-bbf6-07d5c8a2c03b`. Content not yet reviewed.
+
+## v3: location = screen-wall hall; only the background directly behind Mai is B21; SFX audio ON (first clip under the new audio rule), 8 s
+Same hard rules (black pointed plastic coil, no sparks, clean top, low smoke, plain wall, no profiles, boss unseen, no parents, fight off-screen). Refs: B15 `e2fab0e1` (the hall, looking out from Mai), B21 `791e7f16` (only behind Mai), Mai, master. `generate_audio: true` with an [Audio] block (SFX only, NO music).
+
+| # | Time | Shot | Camera |
+|---|---|---|---|
+| 1 | 0-1.5 s | from behind Mai looking out into the B15 hall; fight flicker from off-frame left | OTS wide, low, lateral drift |
+| 2 | 1.5-2.5 s | eyes tracking the fight; the B21 plain wall soft several metres behind | frontal CU 85 mm, lateral dolly |
+| 3 | 2.5-3.5 s | the black tip descends from the clean dark ceiling | worm's-eye from her feet |
+| 4 | 3.5-4.5 s | SECOND 1: whip-down loop, gasp, no sparks | side-on MS |
+| 5 | 4.5-6.5 s | SECOND 2: brisk lift; B21 wall behind; smoke swirls | far frontal wide + tilt-up |
+| 6 | 6.5-8 s | the floor drops away, the B15 hall below, smoke fills the spot | POV looking down, breathing shake |
+
+SFX:
+- Distant muffled fight sounds fading out, room hum, smoke hiss.
+- Creak from above; fast whoosh + plastic squeak; gasp.
+- Stretching creak + rush of air; breathing.
+- No electric or spark sounds.
+
+Status: SUBMITTED 2026-10-03. Job `a5dbfd90-1933-4bf5-9e0b-9c76a650e877`. Content not yet reviewed.
