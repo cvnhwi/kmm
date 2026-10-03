@@ -39,7 +39,7 @@ seedance_2_5 · omni_reference · draft · 480p · 16:9 · 12s · generate_audio
 
 ---
 ## v3 — side-view chase on Fantasy Gate, wolf running (2026-10-03)
-**Status:** SUBMITTED — job `664d4a0f-815e-4b53-a235-0fc79bc58290` (10s, 5 shots)
+**Status:** COMPLETED — job `664d4a0f-815e-4b53-a235-0fc79bc58290` (10s, 5 shots)
 - Brief: "Tạo lại cảnh rượt đuổi… đúng background cổng fantasy. side view sói đang chạy. Lưu ý mắt sói không có con ngươi màu đen" (then: "ý tôi là con ngươi màu đen" = typo fix con người → con ngươi).
 - All shots side view, L→R: wide track · medium wolf gallop profile · medium Mai profile glance back · low pounce/miss/skid · wide race toward the gate.
 - No flicker (not requested this time).
