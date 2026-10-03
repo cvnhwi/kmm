@@ -23,4 +23,4 @@ Defaults (flagged):
 Folder: MV KMM `11749213-086c-4a29-a963-b5a064eb4af7`.
 Refs: BOSS arena `c8394b3d`, Guard `682c6b6d`, Cleaner `2f4bb001`, master `24430dd0`.
 
-Status: SUBMITTED — job `e3b46974-c911-467b-91f3-7d07881a062f`
+Status: COMPLETED — job `e3b46974-c911-467b-91f3-7d07881a062f`
