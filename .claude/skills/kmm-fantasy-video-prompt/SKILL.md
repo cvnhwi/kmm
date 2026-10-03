@@ -190,6 +190,12 @@ Whenever "người xấu" appear (even 2-3), attach all 5 villain designs and ad
   - Even when a script says "đồng loạt", write it as an uneven ripple and flag it.
 
 Avoid list adds: "identical shadow figures; one design repeated for the whole group; the group turning or walking in unison or in step".
+5d. **NO PUPILS on any shadow being, ALWAYS (user 2026-10-03, "luôn note").**
+Every prompt that contains ANY night-shadow person / villain ("người xấu", "người bóng đêm"), shadow creature (wolf, crow, spider, snake), shadow hands, or the BOSS must state it explicitly, even if they appear only briefly or in the background:
+- Add an **[Eyes]** line (inside or right after [Villain Look]): "ALL night-shadow people, villains and shadow creatures have NO PUPILS: each eye is a small flat almond shape filled with ONE uniform glowing colour from edge to edge. NO black pupil, NO dark dot, NO slit, NO iris ring, no eye detail at all inside the glow."
+- Avoid list always adds: "pupils, black pupils, dark dots in the eyes, slit pupils, irises, realistic eyes on any shadow person or creature".
+- If a design image shows pupils/irises, the no-pupil rule still wins unless the user overrides it.
+
 5. **Crowds are never in sync.** Every person or shadow has their own action, speed and rhythm; reactions ripple nearest-first with uneven gaps.
 6. **Monitors:** mostly dark, only a few lit, flickering at random; never all lit, never on a beat.
 7. **Real-time 24 fps:** no slow motion, speed ramps, freeze frames or fast-forward.
