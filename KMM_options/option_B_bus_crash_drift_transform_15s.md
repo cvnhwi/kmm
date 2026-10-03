@@ -29,4 +29,4 @@ Refs: B15 `e2fab0e1`, green bus `1a436a85` (blank sign/plate), driver `aed8c835`
 | 11 | 14-15 s | headlight-eyes ignite | CU fast push → hard stop |
 
 SFX: engine roar, rumble, revving, glass and screen crash with electric crackle, tyre screech, metal clanks, servos, pistons, steam hiss, silence, power-up hum. No music.
-Status: SUBMITTED 2026-10-03. Job `c4a32c7e-0d21-4df4-9a8a-6298fc4a0e5b`. Content not yet reviewed.
+Status: COMPLETED 2026-10-03 (rendered 03:35 UTC, SFX). Job `c4a32c7e-0d21-4df4-9a8a-6298fc4a0e5b`. Content not yet reviewed.
