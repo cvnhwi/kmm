@@ -35,3 +35,16 @@ Changes:
 If "đôi" meant something else (drop it, hand it over, swap it), say so.
 
 Status: SUBMITTED — job `c00518c6-c9b8-4653-8f77-c929bd96b8df`
+
+## v3: the Guard SWITCHES the baton between hands, then poses; side corner (user request 2026-10-03)
+User wrote: "chú an ninh đang đứng sẵn vừa đôi cây baton vừa tay đi, thì đứng thẳng lại và tạo dáng ngầu, mặt hơi nghiêm trọng (góc tối ... một góc bên)". The wording is ambiguous; reading chosen (flagged): "đổi cây baton sang tay (kia)": he flicks the baton from his right hand to his left and settles the grip, then straightens.
+Directed with /cinematic-director (same one-take, one slow push-in, one rack focus, dark low-key side corner, not the plate's framing).
+Timeline (8 s):
+- 0-3 s: three-quarter side view, low angle; he flicks the baton right-to-left, rolls it once in his fingers, shifts his weight, a breath out.
+- 3-4.5 s: straightens; baton rests across his shoulder in the left hand, right fist on his hip; grave stare, no smile.
+- 4.5-6 s: the Cleaner steps out of the smoke behind him; rack focus onto her.
+- 6-8 s: broom twirl and stop, her cool pose; end on a low-angle two-shot.
+Open choices flagged: the end pose is baton on the shoulder + fist on hip (not arms crossed, since he still holds the baton). If the user meant another action (e.g. adjusting the grip, passing it), or wants arms crossed with the baton tucked away, say so.
+Folder: MV KMM `11749213-086c-4a29-a963-b5a064eb4af7`.
+
+Status: SUBMITTED — job `f61b553b-adeb-419d-a72e-3526214fc2b5`
