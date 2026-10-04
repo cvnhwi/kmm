@@ -154,8 +154,80 @@ Tham khảo thêm `HANDOFF_GUIDE.md`, `STYLE_GUIDE_B.md`, `REUPLOAD_NEW_ACCOUNT.
 
 ## H. Việc còn mở
 
+- Đã có mục I (câu chuyện + raccord từ draft_1). Cần Huy PD đối chiếu các điểm ở I.3 và cập nhật khi draft đổi.
 - Chưa rõ vai trò của B17 và B19.
 - Ảnh mẹ `5e1895bb` chưa xác nhận.
 - Tên file "B21" đang dùng cho hai bối cảnh khác nhau: B21_CongFantasy và B21_MatSauCong.
 - Có thể tạo lại các clip cũ để có SFX, đúng nền mới, đúng luật không con ngươi, đúng dáng chạy bé gái.
 - Dáng chạy bé gái: nếu tả bằng chữ vẫn chưa đạt thì xin user một video tham khảo chuyển động.
+
+## I. Câu chuyện và raccord (rút từ video draft_1, bản draft mới nhất, dài 3:46)
+
+**Nguồn và độ tin cậy:** rút từ khung hình lấy mỗi 4 giây (1080p, 24fps). Chưa nghe âm thanh/lời bài hát. Cảnh ngắn hơn 4 giây có thể bị sót. Draft sẽ còn sửa nhiều, nên mốc thời gian chỉ là tương đối. Cần Huy PD đối chiếu. Mã cảnh in trên video: `s4.S62-63` (khoảng 1:28 đến 2:32) và `s4.S64` (khoảng 3:36 đến cuối). Có vài dòng chữ ghi chú của editor chồng lên hình, ví dụ ở 2:24: "canh rong hon nguoi me dua chao xuong".
+
+### I.1 Câu chuyện (thứ tự cảnh)
+
+**Phần 1: đời thường (0:00 đến 0:52).** Mai thức dậy với đồng hồ báo thức (0:00), đánh răng (0:04), mẹ nấu ăn trong bếp và Mai ôm mẹ từ phía sau (0:08), ăn bánh mì (0:12). Mai đi qua hẻm (0:16) và chen qua đám học sinh (0:20). Chú công an điều tiết người qua đường (0:24). Mai lên xe buýt xanh cùng bạn béo, cả hai quàng khăn đỏ (0:28 đến 0:36). Xe dừng ở cổng trường có cây phượng (0:36).
+- Lớp học: cô giáo mặc áo dài hồng, quay lưng về camera (0:40).
+- Sân trường: bạn béo đá bóng (0:44), đám bạn đi chơi (0:48).
+
+**Phần 2: cha mẹ không hiểu (0:52 đến 1:08).**
+- Bữa tối buổi tối, quay từ trên cao: bố, mẹ và Mai. Mai cúi vào điện thoại, bố mẹ ăn riêng, không ai nói chuyện (0:52).
+- Cận cảnh bố mẹ lo lắng nhìn Mai (0:56).
+- Gã bóng đen mắt vàng nhìn máy tính bảng có ảnh Mai (1:00).
+- Mai cầm điện thoại ốp hình mèo và chó, có bàn tay đen phủ từ trên xuống (1:04).
+- Khuya, Mai nằm lướt điện thoại, đồng hồ gần 12 giờ (1:08).
+
+**Phần 3: thế giới thật bắt đầu méo (1:12 đến 1:28).** Mai đứng ở cửa lớp, mặt căng thẳng (1:12). Cận cảnh Mai hốt hoảng (1:16). Màn hình "MOM CALL" (1:20). Cô lao công đội nón lá, cầm cán chổi, nét mặt lo lắng (1:24).
+
+**Phần 4: rơi vào thế giới fantasy (1:28 đến 2:20).** Mai đứng sau lưng, hai bên có xúc tu đen (1:28). Con sói bóng đêm ở cuối đường (1:32). Mai chạy trong rừng tối trên con đường giấy phát sáng, có rễ đỏ và tia sáng xanh phía trước (1:36 đến 1:52). Cánh cổng như cửa sổ trình duyệt khổng lồ ghi "nội dung độc hại" (1:56). Sảnh tường màn hình (B15) với các bóng đen cầm máy tính bảng (2:00). Mai khóc, mặt sáng lên vì ánh điện thoại (2:04). Bàn tay đen đặt lên vai rồi bịt miệng Mai (2:08 đến 2:16). Cảnh từ trên cao: Mai nhỏ xíu giữa các bóng bò quanh (2:20).
+
+**Phần 5: giải cứu và chiến đấu (2:24 đến 3:20).**
+- Nổ lửa, bố fantasy và mẹ fantasy xuất hiện (2:24). Mai bị treo bằng dây cáp từ trên cao (2:32).
+- Bố mẹ hoảng sợ, rồi bố đánh nhau và bị người xấu khống chế (2:36 đến 2:44). Người xấu cầm baton đứng sau lưng bố (2:44).
+- Cô giáo vung thước gỗ (2:52). Chú công an xanh lá, nắm đấm phát sáng (2:56). Trong cảnh 3:00, nhóm 5 người đứng dựa lưng nhau giữa vòng vây, quay từ trên cao.
+- Chớp trắng, bóng đen mắt vàng tan rã (3:04 đến 3:08). Chú tài xế xe buýt vẫy tay trong cabin xe sáng (3:12). Khiên vàng hologram của công an, có tàn lửa (3:16). Tường màn hình có tia lửa đỏ (3:20).
+
+**Phần 6: kết (3:24 đến 3:46).** Mai rơi từ trên cao xuống trong cột sáng (3:24). BOSS bộ não (3:28). Bố quỳ mở tay đón Mai, có chó con, mẹ đứng cạnh (3:32). Bầu trời nứt, tia sét vàng chạy dọc tường màn hình, nắng xuyên vào (3:36, mã `S64`). Chú công an và chú mặc áo xanh nhạt đội mũ xanh đặt tay lên vai nhau, cười (3:40). Cận cảnh cô giáo mỉm cười (3:44).
+
+### I.2 Raccord (giữ nhất quán giữa các cảnh)
+
+**Mai**
+- Đồ ngủ và ở nhà: áo phông vàng.
+- Ra ngoài và cả thế giới fantasy: sơ mi trắng, khăn quàng đỏ, váy xanh đen, ba lô xanh nhạt có móc khóa hình ngôi sao, kẹp tóc vàng. Giữ đủ các món này trong mọi cảnh fantasy (xem 2:04 đến 2:32).
+- Điện thoại ốp hình mèo và chó.
+
+**Bố và mẹ**
+- Đời thường: bố tóc muối tiêu, đeo kính, áo phông trắng. Mẹ búi tóc, tạp dề xanh lá.
+- Fantasy: bố mặc áo giáp vest xanh lá kèm áo phông trắng, có bao tay, vẫn đeo kính. Mẹ đội mũ bảo hiểm trắng, khoác áo choàng xanh lá.
+- Bố không vũ khí (đấm tay không). Mẹ dùng chảo.
+
+**Các nhân vật khác**
+- Cô giáo: áo dài hồng, tóc buộc thấp. Cầm thước gỗ trong cảnh fantasy.
+- Cô lao công: nón lá quai tím, đồng phục cam có sọc phản quang. Cầm cán chổi.
+- Chú công an: quân phục xanh lá, mũ có sao đỏ. Đánh bằng nắm đấm phát sáng, khiên hologram vàng.
+- Chú tài xế: mũ xanh nhạt, ria mép, xe buýt xanh lá.
+- Bạn béo: khăn đỏ, ba lô có gấu bông.
+- Chú mặc áo xanh nhạt, mũ xanh, ria mép, có thẻ tên ở ngực (3:40): chưa chắc là chú an ninh hay tài xế, cần user xác nhận.
+
+**Kẻ xấu**
+- Bóng đen phẳng, mắt vàng, không con ngươi.
+- Sói bóng đêm xuất hiện ở 1:32.
+- BOSS là bộ não đen có xúc tu cáp, xuất hiện ở 3:28.
+
+**Ánh sáng và tông màu**
+- Cảnh đời thường (0:00 đến 0:48): sáng ấm, nắng vàng.
+- Bữa tối (0:52): đèn vàng ấm, cửa sổ xanh tối.
+- Từ 1:28: lạnh, xanh lơ/teal, có sương mù. Nhịp này kéo dài đến hết 3:20.
+- Kết (3:36 trở đi): bầu trời xanh thật, nắng xuyên qua vết nứt, ấm lại. Chỉ vết nứt có màu vàng.
+
+**Hướng và bố cục**
+- Cảnh sảnh tường màn hình và đấu trường BOSS luôn chụp xiên hoặc từ trên cao, không chính diện.
+- Cảnh vòng vây 5 nhân vật (3:00) và Mai nhỏ giữa bóng đen (2:20) đều quay từ trên cao.
+
+### I.3 Điểm chưa chắc, cần Huy PD xác nhận
+- Thứ tự cuối: Mai rơi (3:24) rồi BOSS (3:28) rồi cả nhà ôm (3:32). Cần xác nhận BOSS xuất hiện trước hay sau cảnh Mai rơi.
+- Danh tính chú áo xanh nhạt ở 3:40 (an ninh hay tài xế).
+- Chú công an ở 2:56 so với cảnh ôm ở 3:40: cùng một người hay không.
+- Các dòng chữ ghi chú của editor (ví dụ 2:24) có giữ lại hay không.
+- Âm thanh, lời bài hát và nhịp nhạc chưa được kiểm tra.
