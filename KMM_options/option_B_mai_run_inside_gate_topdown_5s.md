@@ -62,4 +62,6 @@ v5 video: v4 prompt + [START FRAME] block (keep exactly the start image's camera
 QA: linter PASS (0 ERROR, 0 WARN).
 Request JSON: `KMM_options/requests/mai_run_inside_gate_topdown_5s_v5.json`.
 
-Status: SUBMITTED — job `2db940f7-4105-4bf4-81b5-c40644cbf41c` (declined preset f1821f84)
+Status: COMPLETED (partly) — job `2db940f7-4105-4bf4-81b5-c40644cbf41c` (declined preset f1821f84) → https://d8j0ntlcm91z4.cloudfront.net/user_3JNS6ee2vsgr9rp9IBmIleZYkaP/hf_20261004_153206_2db940f7-4105-4bf4-81b5-c40644cbf41c.mp4
+Review (Claude, frames 0.3/1.7/3.2/4.7 s): 0-about 2 s GOOD (ceiling camera near top-down, Mai small running down the frame, dim, no smoke). From about 2.5 s the camera swings down to eye level and Mai grows to about 1/3 of the frame running at camera (same drift as v4: pulled back to the master's eye-level tunnel shot).
+Next idea (v6): add an END frame image (same ceiling top-down angle, Mai in the lower-centre) as `end_image` so both ends are locked, and/or drop @Video1 from this shot (style from the start frame instead).
