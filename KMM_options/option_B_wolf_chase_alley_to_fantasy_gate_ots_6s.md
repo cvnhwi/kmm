@@ -13,4 +13,4 @@ Flags: the reference frame itself was not attached (it carries burnt-in text); t
 
 Request JSON: `KMM_options/requests/wolf_chase_alley_gate_6s.json`.
 
-Status: SUBMITTED — job `dc8cfa6f-f7f0-44f5-b7dc-be4d1f32de17` (declined preset 24bae836)
+Status: COMPLETED (chưa kiểm tra nội dung) — job `dc8cfa6f-f7f0-44f5-b7dc-be4d1f32de17` (declined preset 24bae836)
