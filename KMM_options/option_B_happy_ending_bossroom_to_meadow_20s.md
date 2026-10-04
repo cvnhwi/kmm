@@ -297,4 +297,4 @@ Changes vs v7:
 
 Request JSON: `KMM_options/requests/happy_ending_15s_stylelock_v8.json`.
 
-Status: SUBMITTED — job `9dda1962-1ac3-4804-b18f-e5a713f77e64` (declined preset 24bae836)
+Status: COMPLETED (chưa kiểm tra nội dung) — job `9dda1962-1ac3-4804-b18f-e5a713f77e64` (declined preset 24bae836)
