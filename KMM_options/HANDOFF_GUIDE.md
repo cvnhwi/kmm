@@ -50,7 +50,7 @@ Cập nhật: **2026-10-04**. Repo `cvnhwi/kmm`, branch `claude/gracious-archime
 | Mục | Giá trị |
 |---|---|
 | workspace | `ad401adb-c6e7-47e9-824e-4f7d645dc170` (private, gói ultra) |
-| project/folder MV KMM | `11749213-086c-4a29-a963-b5a064eb4af7`: **mọi generation vào đây** (`folder_id`). Thư mục con: ENVIRONMENT `242c1f0f…`, VIDEO `380c30d1…`, CHARACTER `cef6ff7a…`, ART STYLE `75dc09e9…`, PROP `d4f6c2d9…` |
+| project/folder MV KMM | `11749213-086c-4a29-a963-b5a064eb4af7`. **Từ 2026-10-04 mọi generation vào thư mục con FANTASY 2 `08a93ec8-25e5-49aa-83c2-0492790d5567`** (`folder_id`). Thư mục con: ENVIRONMENT `242c1f0f…`, VIDEO `380c30d1…`, CHARACTER `cef6ff7a…`, ART STYLE `75dc09e9…`, PROP `d4f6c2d9…` |
 | model / mode | `seedance_2_5` / `omni_reference` |
 | chất lượng | `draft: true`, `resolution: 480p`, `aspect_ratio: 16:9` |
 | âm thanh | `generate_audio: true`. **Chỉ SFX, không nhạc nền.** Khối [Audio] kết bằng "NO music, NO score, NO melody". |
@@ -79,7 +79,7 @@ Cập nhật: **2026-10-04**. Repo `cvnhwi/kmm`, branch `claude/gracious-archime
 
 ## 3. Asset ID đang dùng
 
-**Video master (luôn đính kèm):** `24430dd0-a7ec-4d5c-a555-46abfb7600a1`
+**Video master (luôn đính kèm):** `000a36ef-3958-42a3-ac67-be28b5139e06`
 
 ### 3a. Nhân vật
 
@@ -241,5 +241,5 @@ Lịch sử đầy đủ nằm trong các file `option_B_*.md`.
 ## 9. Prompt mở đầu cho box chat mới (copy dán)
 
 ```
-Tiếp tục dự án MV KMM. Đọc KMM_options/KMM_RULES_SUMMARY.md (đủ mục A–J; mục J feedback draft_1 ưu tiên cao nhất), rồi KMM_options/HANDOFF_GUIDE.md, STYLE_GUIDE_B.md và CAMERA_LIBRARY_B.md (mục 8) trong repo cvnhwi/kmm, branch claude/gracious-archimedes-cao5q7. Dùng skill .claude/skills/kmm-fantasy-video-prompt và .claude/skills/cinematic-director. Trả lời tiếng Việt, prompt tiếng Anh. Mọi video gen vào folder MV KMM 11749213-086c-4a29-a963-b5a064eb4af7. Cảnh fantasy luôn đính kèm video master 24430dd0-a7ec-4d5c-a555-46abfb7600a1 và Mai fantasy 0d56fcb2-47cc-4271-b785-c73f4ab9a17b. Cảnh ở đấu trường BOSS mà tôi không nói bối cảnh thì HỎI tôi chọn góc trong bảng Boss_Angles (HANDOFF mục 4), không tự chọn.
+Tiếp tục dự án MV KMM. Đọc KMM_options/KMM_RULES_SUMMARY.md (đủ mục A–J; mục J feedback draft_1 ưu tiên cao nhất), rồi KMM_options/HANDOFF_GUIDE.md, STYLE_GUIDE_B.md và CAMERA_LIBRARY_B.md (mục 8) trong repo cvnhwi/kmm, branch claude/gracious-archimedes-cao5q7. Dùng skill .claude/skills/kmm-fantasy-video-prompt và .claude/skills/cinematic-director. Trả lời tiếng Việt, prompt tiếng Anh. Mọi video gen vào folder MV KMM 11749213-086c-4a29-a963-b5a064eb4af7. Cảnh fantasy luôn đính kèm video master 000a36ef-3958-42a3-ac67-be28b5139e06 và Mai fantasy 0d56fcb2-47cc-4271-b785-c73f4ab9a17b. Cảnh ở đấu trường BOSS mà tôi không nói bối cảnh thì HỎI tôi chọn góc trong bảng Boss_Angles (HANDOFF mục 4), không tự chọn.
 ```

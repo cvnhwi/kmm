@@ -91,6 +91,11 @@ def qa(label, params):
     if len(ids) != len(set(ids)):
         E.append("The same media is attached twice (duplicate-character risk).")
 
+    if params.get("folder_id") and params["folder_id"] != "08a93ec8-25e5-49aa-83c2-0492790d5567":
+        E.append("folder_id is not MV KMM > FANTASY 2 (08a93ec8...), RULES J.14.")
+    if any(m.get("value") == "24430dd0-a7ec-4d5c-a555-46abfb7600a1" for m in medias):
+        E.append("Old master video 24430dd0 attached; use the new master 000a36ef (RULES J.14).")
+
     # 2. head count
     hc = block(prompt, "Head Count")
     named = []
@@ -98,7 +103,7 @@ def qa(label, params):
         if n_img >= 3:
             E.append("No [Head Count] block (mandatory when 2+ named characters, RULES J.10).")
     else:
-        m = re.search(r"EXACTLY (\d+|\w+) people", hc)
+        m = re.search(r"EXACTLY (\d+|\w+) (?:people|person)\b", hc)
         total = None
         if not m:
             E.append("[Head Count] does not state 'EXACTLY N people'.")
@@ -193,7 +198,7 @@ def qa(label, params):
     low = prompt.lower()
     if "boss arena" in low and block(prompt, "Arena Scale") is None:
         E.append("BOSS arena scene without [Arena Scale] block (RULES J.8).")
-    if re.search(r"villain|night-shadow|shadow people|the boss\b", body, re.I) and "no villains" not in body.lower():
+    if re.search(r"villain|night-shadow|shadow people|the boss\b(?! arena| room)|brain boss", body, re.I) and not re.search(r"no villains|villains?,? shadow|\(no villains", body, re.I):
         if block(prompt, "Eyes") is None:
             E.append("Villains/BOSS present but no [Eyes] no-pupil block.")
         if re.search(r"villain|night-shadow", body, re.I) and block(prompt, "Villain Variety") is None:

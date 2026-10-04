@@ -33,7 +33,7 @@ Chi tiết đầy đủ nằm trong skill `.claude/skills/kmm-fantasy-video-prom
 | model / mode | `seedance_2_5` / `omni_reference` |
 | chất lượng | `draft: true`, `480p`, `16:9` |
 | âm thanh | `generate_audio: true`. **Chỉ tiếng động (SFX), KHÔNG nhạc nền.** Mỗi prompt có khối [Audio] kết thúc bằng "NO music, NO score, NO melody". |
-| folder | MV KMM `11749213-086c-4a29-a963-b5a064eb4af7` (mọi lần tạo) |
+| folder | **MV KMM › FANTASY 2 `08a93ec8-25e5-49aa-83c2-0492790d5567`** (mọi lần tạo, từ 2026-10-04 theo yêu cầu Huy PD). Project MV KMM `11749213-086c-4a29-a963-b5a064eb4af7`; clip cũ nằm ở thư mục gốc. |
 | declined_preset_id | `24bae836-2c4a-48e0-89b6-49fcc0b21612`. Nếu báo lỗi đòi id khác thì dùng id ghi trong thông báo lỗi, ví dụ `f1821f84-945b-4cd1-9085-1f479db0028e`. |
 | media roles | `image_references` cho ảnh, `video_references` cho video master |
 | thời lượng | 4–30s mỗi clip. Kịch bản dài thì chia thành nhiều clip. |
@@ -60,7 +60,7 @@ Chi tiết đầy đủ nằm trong skill `.claude/skills/kmm-fantasy-video-prom
   16. [Lighting & Integration]
   17. [Visual Style]
   18. [Avoid]
-- **Luôn đính kèm** video master `24430dd0-a7ec-4d5c-a555-46abfb7600a1`.
+- **Luôn đính kèm** video master `000a36ef-3958-42a3-ac67-be28b5139e06`.
 
 ## D. Luật cứng (theo số rule trong skill)
 
@@ -136,7 +136,7 @@ Chi tiết đầy đủ nằm trong skill `.claude/skills/kmm-fantasy-video-prom
 
 | Vai | ID |
 |---|---|
-| Video master (luôn kèm) | `24430dd0-a7ec-4d5c-a555-46abfb7600a1` |
+| Video master (luôn kèm) | `000a36ef-3958-42a3-ac67-be28b5139e06` |
 | Mai fantasy | `0d56fcb2-47cc-4271-b785-c73f4ab9a17b` |
 | Bố fantasy | `8eeb2595-7127-4d3f-9dc6-9c124caa1c99` |
 | Mẹ fantasy (chảo) | `a6286ab4-eaba-40ed-988f-3452354fe6ce` |
@@ -372,3 +372,9 @@ Mục J ưu tiên hơn các mục khác nếu mâu thuẫn. Các dòng ghi "(m�
   4. Nối cảnh bằng ánh nhìn/hành động (eyeline match, cut on action); có thể có 1 shot "establishing" mà người chỉ là bóng nhỏ không đọc được mặt.
   5. Mỗi shot ghi "N people visible: ...", N ≤ 4 (cún/xe không tính); người ngoài nhóm không xuất hiện trong shot đó.
 - Linter cảnh báo khi một shot ghi hơn 4 người rõ mặt.
+
+### J.14 Video master MỚI + thư mục FANTASY 2 (2026-10-04)
+- Huy PD upload lại video reference fantasy: **`000a36ef-3958-42a3-ac67-be28b5139e06` (FANTASY.mp4)**, thay `24430dd0` cho TẤT CẢ video từ giờ.
+  - Định dạng: H.264 High 8-bit yuv420p, 1920x1080, 24fps, AAC, 4,17 s (đúng chuẩn an toàn). Test 4 s job `8b278536` COMPLETED.
+  - Nội dung: Mai trong hẻm hoàng hôn sau mưa, nhìn qua cổng vòm rễ cây đen; rồi chạy vào đường hầm teal có màn hình bay và rễ đỏ.
+- **Mọi generation lưu vào MV KMM › FANTASY 2 `08a93ec8-25e5-49aa-83c2-0492790d5567`.**

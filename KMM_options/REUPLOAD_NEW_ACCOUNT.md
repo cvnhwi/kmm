@@ -172,3 +172,9 @@ Still missing: StandardB (real-world only). Unconfirmed roles: B17_Hanhlang, B19
 |---|---|---|
 | 09_AnNinh.png (2688x1152) | `046ff4df-ba34-4695-9ff6-9ea1a40b2faa` | `6679e746` (2000 px import, still valid) |
 | 30_BoDOi.png (3120x1328) | `4ef44ef0-12cd-4d15-97b8-983be83cde5d` | `f5385a7f` (2000 px import, still valid) |
+
+### Master video replaced (2026-10-04)
+| File | New ID | Note |
+|---|---|---|
+| FANTASY.mp4 | `000a36ef-3958-42a3-ac67-be28b5139e06` | new fantasy master (H.264 1080p 24fps + AAC, 4.17 s); replaces `24430dd0` for every new clip; test job `8b278536` COMPLETED |
+Generation folder from now on: MV KMM › FANTASY 2 `08a93ec8-25e5-49aa-83c2-0492790d5567`.
