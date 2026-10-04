@@ -1,6 +1,6 @@
 # KMM ("KHÔNG MỘT MÌNH"): TỔNG HỢP RULE (đọc file này đầu tiên khi mở box chat mới)
 
-Cập nhật: 2026-10-03. Repo `cvnhwi/kmm`, branch `claude/gracious-archimedes-cao5q7`.
+Cập nhật: 2026-10-04. Repo `cvnhwi/kmm`, branch `claude/gracious-archimedes-cao5q7`.
 Chi tiết đầy đủ nằm trong skill `.claude/skills/kmm-fantasy-video-prompt/SKILL.md`; bản sao ở `KMM_options/KMM_FANTASY_VIDEO_PROMPT_SKILL.md`, phải luôn giống hệt.
 Tham khảo thêm `HANDOFF_GUIDE.md`, `STYLE_GUIDE_B.md`, `REUPLOAD_NEW_ACCOUNT.md`.
 
@@ -23,7 +23,7 @@ Tham khảo thêm `HANDOFF_GUIDE.md`, `STYLE_GUIDE_B.md`, `REUPLOAD_NEW_ACCOUNT.
 6. **Gom việc:** nếu đã có trigger kiểm tra đang chờ thì `update_trigger` để thêm job vào, không tạo trùng. Notification nào báo các job đã hiện rồi thì chỉ trả lời ngắn.
 7. **Asset mới:** khi user nói sẽ upload thì mở `media_upload_widget`. Có media_id thì cập nhật skill (cả hai bản), HANDOFF, REUPLOAD (và STYLE_GUIDE nếu cần), rồi commit.
 8. **Lỗi bị chặn:** nếu bị flag (nsfw hoặc ip_detected) thì tạo lại một lần với cách viết nhẹ hơn, rồi báo user.
-9. **Lỗi kỹ thuật:** `show_medias` của Higgsfield đang lỗi schema, còn CDN ảnh của Higgsfield bị proxy chặn. Không xem được ảnh asset thì gửi user link cloudfront để tự mở.
+9. **Lỗi kỹ thuật:** `show_medias` của Higgsfield đang lỗi schema. CDN ảnh bị proxy của container chặn, NHƯNG xem được qua `sandbox_exec` của Higgsfield (curl, ffmpeg, rồi trả ảnh bằng `image_paths`). Chi tiết ở HANDOFF_GUIDE mục 2.
 
 ## B. Thông số Higgsfield (cố định)
 
@@ -160,7 +160,7 @@ Tham khảo thêm `HANDOFF_GUIDE.md`, `STYLE_GUIDE_B.md`, `REUPLOAD_NEW_ACCOUNT.
 
 ## H. Việc còn mở
 
-- **LUẬT GÓC BOSS (2026-10-04):** Huy PD có một bộ ảnh nhiều góc của nền đấu trường BOSS cuối (local: `C:\Users\louee\Desktop\KMM\BG\Final\Boss_Angles`). Mỗi khi được yêu cầu một cảnh đánh nhau hoặc toàn cảnh ở đấu trường BOSS, PHẢI HỎI LẠI Huy PD dùng góc nào trong bộ này (trừ khi Huy PD đã chỉ định góc), để vừa đa dạng góc máy vừa đồng nhất bối cảnh. Dùng đúng ảnh góc đó làm ảnh tham khảo nền thay cho plate chung `c8394b3d`. Bộ ảnh đã lên Higgsfield (10 góc, upload 2026-10-04). Khi hỏi, liệt kê các góc theo mô tả ngắn trong bảng.
+- **LUẬT GÓC BOSS (2026-10-04):** Huy PD có một bộ ảnh nhiều góc của nền đấu trường BOSS cuối (local: `C:\Users\louee\Desktop\KMM\BG\Final\Boss_Angles`). KHÔNG TỰ ĐỘNG dùng các ảnh góc này. Khi Huy PD yêu cầu một cảnh ở đấu trường BOSS (đặc biệt là đánh nhau hoặc toàn cảnh) mà KHÔNG nói rõ bối cảnh hay góc, PHẢI HỎI LẠI dùng góc nào trong bộ này. Đây là ngoại lệ của luật A.4 "tự chọn mặc định". Khi Huy PD đã chỉ định góc thì dùng đúng góc đó. để vừa đa dạng góc máy vừa đồng nhất bối cảnh. Dùng đúng ảnh góc đó làm ảnh tham khảo nền thay cho plate chung `c8394b3d`. Bộ ảnh đã lên Higgsfield (10 góc, upload 2026-10-04). Khi hỏi, liệt kê các góc theo mô tả ngắn trong bảng.
 
 | Góc BOSS | Mô tả (Claude xem ảnh, 2026-10-04) | ID |
 |---|---|---|
