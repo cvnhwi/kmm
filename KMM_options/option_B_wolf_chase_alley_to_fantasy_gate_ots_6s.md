@@ -56,3 +56,16 @@ Request JSON: `KMM_options/requests/wolf_chase_alley_gate_6s_v4.json`.
 Status: COMPLETED — job `ae2b45d8-152c-4d5e-aff3-972fa7565217` (declined preset 24bae836) → https://d8j0ntlcm91z4.cloudfront.net/user_3JNS6ee2vsgr9rp9IBmIleZYkaP/hf_20261004_134514_ae2b45d8-152c-4d5e-aff3-972fa7565217.mp4
 Review (Claude, frames 0.5/2.5/4/5.5 s): head-only framing OK (no back/rump); wolf head darker and smoother than v3, less fur, but edges still soft-fuzzy and slightly 3D-shaded; at ~5.5 s, inside the teal tunnel, the head turns lighter grey-pink (lit). Mai still starts mid-street, NOT near the gate (model kept the master's distance). Camera enters the tunnel at the end. Waiting for Huy PD review.
 Ideas for v5 if needed: start the camera itself much closer to the gate (gate fills ~half the frame at frame 1), shorten the distance in words ("10 metres"), keep the wolf head pure black even inside teal light, stop the camera before the arch.
+
+## v5: Mai's SCALE matches the master video (user 2026-10-04), 6 s, one take
+User feedback on v4: "lưu ý scale của Mai, giống với video ref".
+Master check (frames of 000a36ef): the root arch is only about twice Mai's height and spans the narrow alley wall to wall; up close Mai fills 1/3 to 1/2 of the frame height. Our v1-v4 wrote "a huge round GATE ARCH" → Mai became a tiny dot in a giant gate.
+Changes vs v4:
+- New [Scale Lock, match @Video1] block: Mai about 1.4 m (6-6.5 heads); arch opening about twice her height (about 3 m), alley-wide, not gigantic; shutters taller than Mai; Mai about 1/3 of frame height at frame 1, growing toward 1/2.
+- Camera starts near the end of the street (gate about 10 m ahead, filling the middle half of the frame); Mai about 8 m from camera, right at the gate; camera STOPS before the arch (never enters).
+- Wolf head stays pure black even in the teal light (v4 went grey-pink).
+- Avoid adds: Mai tiny/far, a giant gate, a long empty street, camera entering the tunnel, wolf head lit grey/pink.
+QA: linter PASS (0 ERROR, 0 WARN). Manual: 1 person + 1 wolf head, no contact, one camera move, style lock, wolf reference still dropped, FANTASY 2, master 000a36ef.
+Request JSON: `KMM_options/requests/wolf_chase_alley_gate_6s_v5.json`.
+
+Status: SUBMITTED — job `6edd622d-9d50-489c-8bb1-3e8a98cd159c` (declined preset 24bae836)
