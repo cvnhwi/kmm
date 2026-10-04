@@ -142,10 +142,11 @@ Tham khảo thêm `HANDOFF_GUIDE.md`, `STYLE_GUIDE_B.md`, `REUPLOAD_NEW_ACCOUNT.
 | Chú an ninh (dùi cui) | `682c6b6d-e255-473f-983c-56cc65aab6d3` |
 | Cô giáo (thước, tia vàng) | `89b32a5e-bfbc-44af-96e9-a274bb04cf51` |
 | Cô lao công (chổi) | `2f4bb001-827c-4409-8887-3cd734d1b89b` |
-| Công an (10_CongAn) | `6afba98a-2c36-4e0d-a373-be24ce4bdc75` (BẢN CŨ: đang chờ bản update, xem H) |
-| Bác sĩ (27_BacSi) | CHỜ UPLOAD (xem H) |
-| Kỹ sư (28_KiSu) | CHỜ UPLOAD (xem H) |
-| Lính cứu hỏa (29_LinhCuuHoa) | CHỜ UPLOAD (xem H) |
+| Công an (10_CongAn, BẢN MỚI 2026-10-04: quân phục xanh ô liu, mũ kê-pi sao vàng, cầu vai đỏ, quần xanh đậm, giày đen) | `3f6416ad-4680-4cb2-8913-922c65b2afa2` (bản cũ `6afba98a` KHÔNG dùng cho clip mới; các file plan cũ giữ nguyên ID cũ như lịch sử) |
+| Bác sĩ (27_BacSi: tóc muối tiêu, kính, khẩu trang y tế, áo blouse trắng, ống nghe, sơ mi xanh nhạt, cà vạt xanh đậm) | `689fabdb-25e4-4996-8cf7-d0e1d71a0636` |
+| Kỹ sư (28_KiSu: mũ bảo hộ vàng, kính, sơ mi trắng xắn tay, quần âu xám, giày nâu) | `de74362d-250c-4e0f-bab9-9e7b603cb901` |
+| Lính cứu hỏa (29_LinhCuuHoa: mũ đỏ, mặt nạ dưỡng khí, đồ chống cháy xanh đậm sọc phản quang vàng, cuộn dây thừng) | `94ba28f4-68b7-4767-8662-663997434ddb` |
+| Bộ đội (CHƯA CÓ MÃ SỐ: mũ cối có sao, quân phục rằn ri xanh, cầu vai vàng, giày lính) | `81b7dde9-08f1-46e2-b4b6-8b7b16674fbf` |
 | Bạn học sinh béo (khăn đỏ, quần short xanh đen, ba lô xanh đậm có móc) | `ea2e4e83-b4d6-47bc-b9bd-554fabaeff06` |
 | Bạn học sinh nữ bím tóc (khăn đỏ, váy xếp ly xanh đen, ba lô jean) | `01c8ad41-09a0-4c26-8605-3b35cabc8ed5` |
 | Tài xế | `aed8c835-e2eb-477f-a4c5-583726b87181` |
@@ -160,7 +161,7 @@ Tham khảo thêm `HANDOFF_GUIDE.md`, `STYLE_GUIDE_B.md`, `REUPLOAD_NEW_ACCOUNT.
 ## H. Việc còn mở
 
 - Đã có mục I (câu chuyện + raccord từ draft_1). Cần Huy PD đối chiếu các điểm ở I.3 và cập nhật khi draft đổi.
-- Cập nhật nhân vật (Huy PD báo ngày 2026-10-04, thư mục local `C:\Users\louee\Desktop\KMM\CH`): THÊM 27_BacSi, 28_KiSu, 29_LinhCuuHoa và UPDATE 10_CongAn. Chưa có trên Higgsfield: cần upload vào MV KMM / CHARACTER (hoặc gửi link Drive công khai). Sau khi có, thay ID ở mục G và ID `6afba98a` cũ trong các file option_B_*police*.
+- Nhân vật cập nhật 2026-10-04 đã lên Higgsfield (mục G): 10_CongAn bản mới, 27_BacSi, 28_KiSu, 29_LinhCuuHoa, và thêm một Bộ đội chưa có mã số (cần Huy PD đặt mã và cho biết vai trò). Chưa rõ vai trò của Bác sĩ, Kỹ sư, Lính cứu hỏa trong câu chuyện (draft_1 chưa có họ).
 - Chưa rõ vai trò của B17 và B19.
 - Ảnh mẹ `5e1895bb` chưa xác nhận.
 - Tên file "B21" đang dùng cho hai bối cảnh khác nhau: B21_CongFantasy và B21_MatSauCong.
