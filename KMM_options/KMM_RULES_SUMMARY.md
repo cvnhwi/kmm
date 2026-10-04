@@ -160,6 +160,11 @@ Tham khảo thêm `HANDOFF_GUIDE.md`, `STYLE_GUIDE_B.md`, `REUPLOAD_NEW_ACCOUNT.
 
 ## H. Việc còn mở
 
+- **LUẬT GÓC BOSS (2026-10-04):** Huy PD có một bộ ảnh nhiều góc của nền đấu trường BOSS cuối (local: `C:\Users\louee\Desktop\KMM\BG\Final\Boss_Angles`). Mỗi khi được yêu cầu một cảnh đánh nhau hoặc toàn cảnh ở đấu trường BOSS, PHẢI HỎI LẠI Huy PD dùng góc nào trong bộ này (trừ khi Huy PD đã chỉ định góc), để vừa đa dạng góc máy vừa đồng nhất bối cảnh. Dùng đúng ảnh góc đó làm ảnh tham khảo nền thay cho plate chung `c8394b3d`. Bộ ảnh CHƯA lên Higgsfield (thư mục ENVIRONMENT đang trống): cần upload rồi ghi ID từng góc vào bảng bên dưới.
+
+| Góc BOSS | Mô tả | ID |
+|---|---|---|
+| (chờ upload) | | |
 - ĐỌC MỤC J (feedback draft_1 vòng 1) trước khi viết bất kỳ prompt nào. Mục J ưu tiên hơn các mục khác.
 - Đã có mục I (câu chuyện + raccord từ draft_1). Cần Huy PD đối chiếu các điểm ở I.3 và cập nhật khi draft đổi.
 - Nhân vật cập nhật 2026-10-04 đã lên Higgsfield (mục G): 10_CongAn bản mới, 27_BacSi, 28_KiSu, 29_LinhCuuHoa, và thêm một Bộ đội chưa có mã số (cần Huy PD đặt mã và cho biết vai trò). Chưa rõ vai trò của Bác sĩ, Kỹ sư, Lính cứu hỏa trong câu chuyện (draft_1 chưa có họ).
