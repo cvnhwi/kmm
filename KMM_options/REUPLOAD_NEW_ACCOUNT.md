@@ -161,3 +161,9 @@ Villain pool (5): `9ee934cf` · `075000e7` · `7a051c5e` · `f448b33f` · `4b93a
 Still missing: StandardB (real-world only). Unconfirmed roles: B17_Hanhlang, B19_BOSS, `5e1895bb` (mom photo?).
 
 | Mai_tuong.png | `46c56ac0-d211-43a9-8660-9de33a4b8a78` | smoky cyan void with tiled floor (new plate, 2026-10-02) |
+
+### Character update (2026-10-04, imported via public GitHub raw URL because the container proxy blocks upload.higgsfield.ai and the upload widget does not render in this client)
+| File | New ID | Note |
+|---|---|---|
+| 30_BoDoi_v2.png | `f5385a7f-1dd1-4e4f-a1a5-1e16aa221d69` | Soldier v2 (replaces `81b7dde9`); file in repo `KMM_options/refs/` |
+| 09_AnNinh_v2.png | `6679e746-029e-4286-a4cf-b8d63388eaa8` | Security guard v2 (replaces `682c6b6d`), no cap, no baton |

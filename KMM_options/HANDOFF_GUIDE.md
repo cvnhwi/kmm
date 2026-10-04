@@ -86,11 +86,11 @@ Cập nhật: **2026-10-04**. Repo `cvnhwi/kmm`, branch `claude/gracious-archime
 | Mai fantasy | `0d56fcb2-47cc-4271-b785-c73f4ab9a17b` | Sơ mi trắng, khăn đỏ, váy xanh đen, ba lô xanh nhạt có móc sao, kẹp tóc vàng |
 | Bố fantasy | `8eeb2595-7127-4d3f-9dc6-9c124caa1c99` | Áo giáp vest xanh lá + áo phông trắng, bao tay, kính. Tay không. **Bố là người đỡ Mai khi rơi.** |
 | Mẹ fantasy | `a6286ab4-eaba-40ed-988f-3452354fe6ce` | Mũ bảo hiểm trắng, áo choàng xanh lá, cầm chảo |
-| Chú an ninh | `682c6b6d-e255-473f-983c-56cc65aab6d3` | Có dùi cui. **KHÔNG ném dùi cui** (J.3). |
+| Chú an ninh **v2** | `6679e746-029e-4286-a4cf-b8d63388eaa8` | Áo kaki ô liu cộc tay, phù hiệu khiên xanh tay trái, không mũ, tóc điểm bạc. Ref mới KHÔNG có dùi cui → tay không. Bản cũ `682c6b6d`. |
 | Cô giáo | `89b32a5e-bfbc-44af-96e9-a274bb04cf51` | Áo dài hồng, thước gỗ, tia xanh trắng. Được khen "quá đẹp". |
 | Cô lao công | `2f4bb001-827c-4409-8887-3cd734d1b89b` | Nón lá, đồng phục cam, chổi (lửa đỏ hoặc sét đỏ) |
 | Công an 10_CongAn **bản mới** | `3f6416ad-4680-4cb2-8913-922c65b2afa2` | Quân phục xanh ô liu, mũ kê-pi. Bản cũ `6afba98a` không dùng cho clip mới. **Xem J.2: vai này chuyển thành an ninh/dân phòng áo bã trầu, chỉ còn cảnh khiên cùng bộ đội. Còn chờ xác nhận đồng phục.** |
-| Bộ đội (chưa có mã số) | `81b7dde9-08f1-46e2-b4b6-8b7b16674fbf` | Mũ cối, quân phục rằn ri. Làm khiên hologram cùng chú an ninh. |
+| Bộ đội **v2** (30_BoDoi_v2) | `f5385a7f-1dd1-4e4f-a1a5-1e16aa221d69` | Mũ cối sao đỏ, rằn ri, cầu vai vàng 2 sao, phù hiệu cổ súng chéo, giày lính xanh. Bản cũ `81b7dde9`. Làm khiên hologram cùng chú an ninh. |
 | Bác sĩ 27_BacSi | `689fabdb-25e4-4996-8cf7-d0e1d71a0636` | Chỉ thấp thoáng trong đoàn người phe mình |
 | Kỹ sư 28_KiSu | `de74362d-250c-4e0f-bab9-9e7b603cb901` | Như trên |
 | Lính cứu hỏa 29_LinhCuuHoa | `94ba28f4-68b7-4767-8662-663997434ddb` | Như trên |
