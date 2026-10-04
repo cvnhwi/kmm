@@ -38,4 +38,16 @@ Changes vs v2:
 QA: linter PASS (0 ERROR, 0 WARN).
 Request JSON: `KMM_options/requests/mai_run_inside_gate_topdown_5s_v3.json`.
 
-Status: SUBMITTED — job `708cbb72-c87b-466b-9212-461d29608751` (declined preset f1821f84)
+Status: COMPLETED — job `708cbb72-c87b-466b-9212-461d29608751` (declined preset f1821f84) → https://d8j0ntlcm91z4.cloudfront.net/user_3JNS6ee2vsgr9rp9IBmIleZYkaP/hf_20261004_150942_708cbb72-c87b-466b-9212-461d29608751.mp4
+Review (Claude, frames 0.3/1.7/3.2/4.7 s): light is now dim/low-key with no beam (OK), no smoke, direction OK, tunnel more human-scaled, Mai roughly constant size (about 1/5, a bit bigger near the end). BUT the camera is only moderately high (about 30-40 degrees down), not tight under the ceiling; user follow-up: "camera góc sát trần".
+
+## v4: camera tight against the CEILING (user 2026-10-04: "camera góc sát trần")
+Changes vs v3:
+- Camera mounted right against the tunnel ceiling, lens pointing almost straight down (about 80 degrees); out-of-focus hanging roots and cables of the ceiling in the extreme foreground along the top and side edges of the frame to sell that the camera is AT the ceiling.
+- Mai seen almost straight from above (top of her head, shoulders, backpack, quick legs), constant size about 1/6 of the frame height.
+- Speed, dim light, scale lock, no smoke, direction (top of frame → bottom) kept from v3.
+Request JSON: `KMM_options/requests/mai_run_inside_gate_topdown_5s_v4.json`.
+
+QA: linter PASS (0 ERROR, 0 WARN).
+
+Status: SUBMITTED — job `2d480b66-aee6-4f64-a09b-880488f73f7f` (declined preset f1821f84)
