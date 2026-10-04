@@ -10,4 +10,5 @@ Refs: master `000a36ef` (@Video1) · @Image1 gate interior `22c1d2ad` · @Image2
 QA: linter PASS (one over-acting false positive on "arch over" → reworded). Manual: 1 person, one camera move, no text, no smoke, Style Lock, Mai's running style.
 Request JSON: `KMM_options/requests/mai_run_inside_gate_topdown_5s.json`.
 
-Status: SUBMITTED — job `7495be11-7e21-42aa-8bf4-7abe44e9b0bd` (declined preset f1821f84)
+Status: COMPLETED — job `7495be11-7e21-42aa-8bf4-7abe44e9b0bd` (declined preset f1821f84) → https://d8j0ntlcm91z4.cloudfront.net/user_3JNS6ee2vsgr9rp9IBmIleZYkaP/hf_20261004_145633_7495be11-7e21-42aa-8bf4-7abe44e9b0bd.mp4
+Review (Claude, frames 0.3/1.7/3.2/4.7 s): location correct (inside the gate: teal tunnel with floating monitors, red roots on the right), NO smoke anywhere, Mai runs away from camera toward the bright end on a glowing path, long shadow toward camera, no text. BUT the angle is only moderately high (about 20-25 degrees down), not the steep near top-down of the reference, and Mai is bigger (about 1/4 of frame height) than the tiny figure in the reference. Waiting for Huy PD review.
