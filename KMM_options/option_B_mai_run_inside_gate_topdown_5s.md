@@ -73,4 +73,5 @@ Next idea (v6): add an END frame image (same ceiling top-down angle, Mai in the 
 QA: linter PASS (0 ERROR, 0 WARN); manual fix: "wide tunnel" vs Avoid "gigantic tunnel" → "cathedral-high ceiling".
 Request JSON: `KMM_options/requests/mai_run_inside_gate_topdown_5s_v6.json`.
 
-Status: SUBMITTED — job `706263b9-ce49-4998-96bd-e70f135466f0` (declined preset f1821f84)
+Status: COMPLETED — job `706263b9-ce49-4998-96bd-e70f135466f0` (declined preset f1821f84) → https://d8j0ntlcm91z4.cloudfront.net/user_3JNS6ee2vsgr9rp9IBmIleZYkaP/hf_20261004_154216_706263b9-ce49-4998-96bd-e70f135466f0.mp4
+Review (Claude, frames 0.3/1.7/3.2/4.7 s): camera FIXED at the ceiling, near top-down, the whole clip (start/end frames worked); wide tunnel; Mai runs from the upper-centre to the lower-centre, dim light, no smoke, no text. Mai only travels about 1/3 of the frame height in 5 s, so the speed may read as moderate (judge in motion). Waiting for Huy PD review.

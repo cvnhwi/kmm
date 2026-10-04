@@ -1,6 +1,6 @@
 # KMM: HANDOFF GUIDE (tiếp tục ở box chat khác)
 
-Cập nhật: **2026-10-04**. Repo `cvnhwi/kmm`, branch `claude/laughing-hypatia-z5fhie` (trước đó: `claude/gracious-archimedes-cao5q7`), thư mục `KMM_options/`.
+Cập nhật: **2026-10-04 (cuối phiên, khoảng 15:45 UTC)**. Repo `cvnhwi/kmm`, branch `claude/laughing-hypatia-z5fhie` (trước đó: `claude/gracious-archimedes-cao5q7`), thư mục `KMM_options/`.
 
 **Thứ tự đọc khi mở box chat mới:**
 1. `KMM_RULES_SUMMARY.md`. Đây là file ghi nhớ chính, đọc đủ các mục A đến J.
@@ -9,9 +9,16 @@ Cập nhật: **2026-10-04**. Repo `cvnhwi/kmm`, branch `claude/laughing-hypatia
    - Mục I chứa câu chuyện và raccord.
 2. **`CHARACTER_BIBLE.md`**: mô tả chuẩn từng nhân vật (copy nguyên văn vào prompt) + luật đấu trường BOSS siêu rộng (RULES J.8) + luật mention `@ImageN`/`@Video1` (RULES J.9).
 3. File này: tổng quan, các thao tác kỹ thuật, trạng thái.
-3. `STYLE_GUIDE_B.md` (luật đầy đủ) và `CAMERA_LIBRARY_B.md` (mục 8 là director pass).
-4. Skill: `.claude/skills/kmm-fantasy-video-prompt/` (bản sao ở `KMM_FANTASY_VIDEO_PROMPT_SKILL.md`) và `.claude/skills/cinematic-director/`.
+4. `QA_RULES.md`: linter + checklist + bài học (đọc mục "Known lessons").
+5. `STYLE_GUIDE_B.md` (luật đầy đủ) và `CAMERA_LIBRARY_B.md` (mục 8 là director pass).
+6. Skill: `.claude/skills/kmm-fantasy-video-prompt/` (bản sao ở `KMM_FANTASY_VIDEO_PROMPT_SKILL.md`) và `.claude/skills/cinematic-director/`.
    - Skill có thể chưa có các update ngày 2026-10-04. Nếu khác nhau thì theo `KMM_RULES_SUMMARY.md`.
+
+**Dùng với LLM/agent khác:** mọi luật, ID và trạng thái nằm trong repo này (không phụ thuộc bộ nhớ chat). Agent mới cần:
+- Quyền đọc/ghi repo `cvnhwi/kmm` (clone, commit, push lên branch ghi ở trên hoặc branch phiên mới).
+- **Higgsfield MCP** (đã kết nối tài khoản của Huy PD) để gen video/ảnh, `jobs_wait`, `sandbox_exec` (xem frame), `media_upload_widget` (user upload).
+- Nếu agent KHÔNG có Higgsfield MCP: chỉ viết request JSON vào `KMM_options/requests/`, chạy linter, rồi đưa JSON cho Huy PD tự submit trên Higgsfield (các trường: model, mode, draft, resolution, aspect_ratio, generate_audio, duration, folder_id, medias, prompt).
+- Python 3 để chạy linter `KMM_options/tools/kmm_prompt_qa.py` (không cần thư viện ngoài).
 
 `KMM_HANDOFF_30_09.md` ở thư mục gốc là handoff CŨ (thời gen keyframe ảnh, account Higgsfield cũ). Chỉ giữ làm lịch sử.
 
@@ -35,6 +42,14 @@ Cập nhật: **2026-10-04**. Repo `cvnhwi/kmm`, branch `claude/laughing-hypatia
 | Sói | Sói bóng đêm = bóng đen phẳng, viền tan khói, KHÔNG lông (không bao giờ viết "fur"). | CHARACTER_BIBLE 2 |
 | Upload | Widget Higgsfield hiện ĐƯỢC trong phiên này (`media_upload_widget`). Proxy chặn upload.higgsfield.ai nên không upload trực tiếp từ container. | — |
 
+| Sói (chốt cuối) | **Đính kèm sheet sói `b5f7908e` và chép đúng thiết kế** (tai dựng, bờm gai, mõm dài, mắt vàng), toàn thân đen đặc như mực; bờm gai CHỈ là đường viền, không có kết cấu lông; sói TO (vai cao hơn Mai). | CHARACTER_BIBLE 2 |
+| Mắt không con ngươi | Khi cận mắt (sói, quái): đặt khối **"EYE RULE (MOST IMPORTANT)"** ngay sau dòng master, nhắc "no pupil" ở mọi khối, KHÔNG viết câu kiểu "focused on its prey". Đã kiểm chứng hiệu quả (wolf profile v2). | QA_RULES (bài học) |
+| Scale | Viết khối **[Scale Lock, match @Video1]** với kích thước thật (Mai ~1,4 m; cổng rễ chỉ cao ~2 lần Mai, rộng bằng hẻm; hầm không khổng lồ) và tỉ lệ khung hình (Mai = 1/3, 1/5…). KHÔNG viết "huge gate/giant tunnel". | QA_RULES |
+| Góc cực đoan | Góc sát trần / top-down / góc lạ: chữ không đủ, model bị video master kéo về ngang tầm mắt. **Tạo ảnh khung đầu + khung cuối** (gpt_image_2_5) cùng góc, truyền `start_image` + `end_image`, ghi @Video1 "style only, do NOT copy its camera". Camera fixed giữ góc tốt nhất. | QA_RULES |
+| Khung tham khảo của user | Ảnh draft có timecode/nhãn cảnh in chữ → KHÔNG đính kèm; mô tả bố cục bằng chữ (hoặc tạo ảnh khung đầu sạch). | — |
+| Review | Claude tự review bằng `sandbox_exec`: tải mp4, trích 4 frame (0.3/1.7/3.2/4.7 s), crop phóng to chi tiết (mắt). Báo "đã xem 4 frame" (không phải xem toàn bộ chuyển động); tốc độ/âm thanh để Huy PD đánh giá. | mục 2 |
+| Test model khác | Khi Huy PD nói "test, không lưu setting" (vd Seedance 2.0): gen bình thường nhưng KHÔNG ghi vào guide/repo (prompt chỉ ở scratchpad). | — |
+
 **Ref nhân vật cập nhật hôm nay:** An ninh v2 `046ff4df` (không mũ, không dùi cui), Bộ đội v2 `4ef44ef0`, Bác sĩ v2 `23d201b9`, Kỹ sư v2 `ea7e2f28` (kính gọng vuông). Lính cứu hỏa vẫn `94ba28f4` (sheet màu nước). Các sheet 2D/màu nước nên được làm lại bản 3D khi có thể.
 
 **Thư mục/request:** file request JSON đã qua QA lưu ở `KMM_options/requests/`; linter ở `KMM_options/tools/kmm_prompt_qa.py`.
@@ -51,7 +66,7 @@ Cập nhật: **2026-10-04**. Repo `cvnhwi/kmm`, branch `claude/laughing-hypatia
 - **Phạm vi:** chỉ làm cảnh **FANTASY**. Không thêm cảnh đời thường ngoài trời (feedback J).
   - "Mai" hoặc "Mi" luôn là Mai fantasy. Bố và mẹ luôn là bản fantasy.
 - **Mọi video: tất cả nhân vật cùng một look 3D như Mai/video master** (khối [Style Lock], RULES J.15; linter báo lỗi nếu thiếu).
-- **Không bao giờ nói đã kiểm tra nội dung output.** Luôn ghi "chưa kiểm tra nội dung" và đưa checklist theo từng clip.
+- **Chỉ báo đúng những gì đã xem:** sau khi job xong, trích 4 frame bằng `sandbox_exec` (mục 2) và báo "đã xem 4 frame" kèm nhận xét ✅/🟡/❌. Không khẳng định về chuyển động, tốc độ hay âm thanh; để Huy PD đánh giá khi xem video. Nếu chưa xem frame thì ghi "chưa kiểm tra nội dung".
 - **Tự chọn mặc định khi thiếu thông tin**, rồi flag rõ đã chọn gì.
   - **NGOẠI LỆ, luật góc BOSS:** xem mục 4.
 - **Quy trình mỗi cảnh:**
@@ -60,7 +75,7 @@ Cập nhật: **2026-10-04**. Repo `cvnhwi/kmm`, branch `claude/laughing-hypatia
   2. Viết file `KMM_options/option_B_<tên>.md` (prompt, thông số, Status SUBMITTED, job id).
   3. Commit và push.
   4. Đặt `send_later` khoảng 8 phút để kiểm tra lại.
-  5. Khi job xong: `jobs_wait`, rồi `show_generation_by_ids`.
+  5. Khi job xong: `jobs_wait` lấy `result_url`, tải về trong `sandbox_exec` và trích 4 frame để review (không dùng `show_generation_by_ids`: output quá lớn).
   6. Đổi Status thành COMPLETED, commit và push.
   7. Báo cáo bằng tiếng Việt kèm checklist.
   - Notification check-in đến sau khi job đã hiện thì chỉ trả lời ngắn.
@@ -80,7 +95,9 @@ Cập nhật: **2026-10-04**. Repo `cvnhwi/kmm`, branch `claude/laughing-hypatia
 | chất lượng | `draft: true`, `resolution: 480p`, `aspect_ratio: 16:9` |
 | âm thanh | `generate_audio: true`. **Chỉ SFX, không nhạc nền.** Khối [Audio] kết bằng "NO music, NO score, NO melody". |
 | declined_preset_id | `24bae836-2c4a-48e0-89b6-49fcc0b21612`. Nếu lỗi đòi id khác thì dùng đúng id trong thông báo lỗi (từng dùng `f1821f84-945b-4cd1-9085-1f479db0028e`). |
-| media roles | `image_references` (ảnh), `video_references` (video master) |
+| media roles | `image_references` (ảnh, đánh số @Image1..N theo thứ tự), `video_references` (video master, @Video1), **`start_image` / `end_image`** (khung đầu/cuối, KHÔNG tính vào @ImageN, nhắc bằng chữ "start frame/end frame") |
+| ảnh khung đầu/cuối | `generate_image` model `gpt_image_2_5`, quality high, 1k, 16:9, folder FANTASY 2; refs = bối cảnh + nhân vật (+ ảnh khung đầu khi tạo khung cuối: "EXACT same image, only Mai moved") |
+| model khác | `seedance_2_0` (mode `std`, 480p, 4-15 s) đã TEST cho cảnh đông người (không lưu setting). Mặc định vẫn là seedance_2_5. |
 | thời lượng / giá | 4–30 giây mỗi clip, khoảng 3 credit mỗi giây |
 
 **Thao tác kỹ thuật đã kiểm chứng:**
@@ -143,6 +160,9 @@ Cập nhật: **2026-10-04**. Repo `cvnhwi/kmm`, branch `claude/laughing-hypatia
 | Dòng sông số B16 | `0cc5cb01-897c-4b90-a706-cef1ba043c92` |
 | Rừng fantasy B20 | `1bac4a73-28ce-4557-a3b3-148077284b0a` |
 | Hẻm (đêm u ám) | `c0accc1d-53eb-4d6b-a777-acbac2133117` |
+| Khung đầu Mai chạy top-down, hầm RỘNG (ảnh gen) | `c87a72ca-3f7a-4914-ace1-be773e0fac11` |
+| Khung cuối Mai chạy top-down, hầm RỘNG (ảnh gen) | `b137c3ba-52f3-4d5e-8482-438657831a9e` |
+| Khung đầu top-down hầm hẹp (cũ, v5) | `c8b4192b-7d18-4632-8b13-433db79374f3` |
 
 Danh sách đầy đủ và lịch sử ID: `KMM_RULES_SUMMARY.md` mục F, G và `REUPLOAD_NEW_ACCOUNT.md`.
 
@@ -241,9 +261,25 @@ Danh sách đầy đủ và lịch sử ID: `KMM_RULES_SUMMARY.md` mục F, G v�
 | Người hùng khi trời nứt | `option_B_boss_arena_heroes_aftermath_sky_cracks_12s.md` | v2 `43504e31` |
 | Mai bị cáp giữ, cáp đứt, rơi | `option_B_boss_arena_mai_cable_snaps_detail_fall_7s.md` | v2 `53ca8e6b` |
 
+**Clip làm ngày 2026-10-04 (cuối phiên), Claude đã xem 4 frame mỗi clip:**
+
+| Cảnh | File plan | Bản mới nhất (job) và tình trạng |
+|---|---|---|
+| Happy ending (phòng BOSS → đồng cỏ hồng) | `option_B_happy_ending_bossroom_to_meadow_20s.md` | v8 15 s style-lock (xem file). Chờ test lại với sheet Bác sĩ/Kỹ sư mới (~45 credit, chờ lệnh). |
+| Sói rượt Mai trong hẻm vào cổng (OTS sau đầu sói) | `option_B_wolf_chase_alley_to_fantasy_gate_ots_6s.md` | v6 `c67f909c`: sói to giống sheet, Mai đứng sẵn ở cổng. Còn: bờm hơi giống lông, Mai nhỏ hơn v5 (v5 `6edd622d` tỉ lệ đúng nhất), camera vẫn xuyên qua cổng cuối clip. Chờ Huy PD chọn. |
+| Sói chạy profile cận đầu trong cổng | `option_B_wolf_profile_run_inside_gate_5s.md` | v2 `dd8c89ca`: **ĐẠT** mắt không con ngươi, bóng đêm đen, đúng bố cục. |
+| Mai chạy trong hầm, camera sát trần top-down | `option_B_mai_run_inside_gate_topdown_5s.md` | v6 `706263b9`: camera FIXED sát trần, hầm rộng, Mai chạy từ trên xuống, tối, không khói. Có thể cần tăng tốc (Mai chỉ đi ~1/3 khung trong 5 s). Chờ Huy PD xem. |
+| TEST tường màn hình (Seedance 2.0) | không lưu file (theo yêu cầu) | v2 `4a3a4fff`: người xấu đúng ref cao gầy, chuyển động rõ; góc chưa cao đủ, đám đông ~15-20 người, áo Mẹ chưa có caro, màn hình còn hình mặt người. |
+
 Lịch sử đầy đủ nằm trong các file `option_B_*.md`.
 
 ## 8. Việc còn mở (ưu tiên từ trên xuống)
+
+0. **Mới nhất (2026-10-04 cuối phiên), chờ Huy PD:**
+   - Xem Mai chạy top-down v6 `706263b9`; nếu cần nhanh hơn: tạo khung cuối với Mai ở sát mép dưới (hoặc ra khỏi khung) để quãng chạy dài hơn, giữ camera fixed.
+   - Chọn bản sói rượt Mai trong hẻm (v5 tỉ lệ đúng / v6 sói giống sheet); nếu làm v7: gộp hai điểm mạnh và dùng ảnh khung đầu để khóa tỉ lệ + cho camera dừng trước cổng.
+   - Test tường màn hình Seedance 2.0 v3 nếu Huy PD muốn (góc cao hơn bằng ảnh khung đầu, đám đông xa và dày hơn).
+   - Gen lại cảnh đông người 15 s (happy ending v8) với sheet Bác sĩ/Kỹ sư mới, ~45 credit.
 
 1. **Chờ Huy PD xác nhận:**
    - Đồng phục an ninh/dân phòng áo bã trầu: cần ảnh ref, hoặc tạo ref mới.
@@ -266,5 +302,7 @@ Lịch sử đầy đủ nằm trong các file `option_B_*.md`.
 ## 9. Prompt mở đầu cho box chat mới (copy dán)
 
 ```
-Tiếp tục dự án MV KMM (repo cvnhwi/kmm, branch claude/laughing-hypatia-z5fhie, thư mục KMM_options/). Đọc theo thứ tự: HANDOFF_GUIDE.md (mục 0 tóm tắt rule mới), KMM_RULES_SUMMARY.md (đủ A–J, J.7–J.15 mới nhất), CHARACTER_BIBLE.md, QA_RULES.md, STYLE_GUIDE_B.md, CAMERA_LIBRARY_B.md (mục 7–8). Dùng skill .claude/skills/kmm-fantasy-video-prompt và .claude/skills/cinematic-director. Trả lời tiếng Việt, prompt tiếng Anh. Video master: 000a36ef-3958-42a3-ac67-be28b5139e06 (@Video1). Mọi gen vào MV KMM › FANTASY 2 08a93ec8-25e5-49aa-83c2-0492790d5567. Mọi nhân vật cùng look 3D như Mai (khối [Style Lock]). Trước mỗi lần gen chạy python3 KMM_options/tools/kmm_prompt_qa.py <request.json> (0 ERROR) + checklist QA_RULES.md. Cảnh ở đấu trường BOSS mà tôi không nói góc thì HỎI tôi chọn góc (Boss_Angles).
+Tiếp tục dự án MV KMM (repo cvnhwi/kmm, branch claude/laughing-hypatia-z5fhie, thư mục KMM_options/). Đọc theo thứ tự: HANDOFF_GUIDE.md (mục 0 tóm tắt rule mới), KMM_RULES_SUMMARY.md (đủ A–J, J.7–J.15 mới nhất), CHARACTER_BIBLE.md, QA_RULES.md, STYLE_GUIDE_B.md, CAMERA_LIBRARY_B.md (mục 7–8). Dùng skill .claude/skills/kmm-fantasy-video-prompt và .claude/skills/cinematic-director. Trả lời tiếng Việt, prompt tiếng Anh. Video master: 000a36ef-3958-42a3-ac67-be28b5139e06 (@Video1). Mọi gen vào MV KMM › FANTASY 2 08a93ec8-25e5-49aa-83c2-0492790d5567. Mọi nhân vật cùng look 3D như Mai (khối [Style Lock]). Trước mỗi lần gen chạy python3 KMM_options/tools/kmm_prompt_qa.py <request.json> (0 ERROR) + checklist QA_RULES.md. Cảnh ở đấu trường BOSS mà tôi không nói góc thì HỎI tôi chọn góc (Boss_Angles). Góc máy cực đoan (sát trần/top-down) thì tạo ảnh khung đầu + khung cuối trước rồi dùng start_image/end_image. Sau mỗi lần gen, trích 4 frame bằng sandbox_exec để tự review rồi báo tôi kèm checklist. Việc đang dở: xem HANDOFF_GUIDE mục 7 (bảng "Clip làm ngày 2026-10-04") và mục 8 bước 0.
 ```
+
+Nếu dùng LLM/agent KHÔNG có Higgsfield MCP: thay câu "gen" bằng "viết request JSON vào KMM_options/requests/, chạy linter, đưa JSON cho tôi submit".
