@@ -83,3 +83,4 @@ QA trước khi gen: Linter 0 ERROR, N WARN (đã sửa: …; chấp nhận: …
 - The word "Disney" sat in the old [Acting] template ("Disney principles") in every prompt until 2026-10-04 → replaced by "Classic animation principles".
 - A 1-second shot with a reveal + head lift + smile is too dense (happy ending v4, shot 3).
 - 13-14 reference images in one clip = high blend risk; split the clip or keep minor people small and far.
+- A reference image with fur-like detail (wolf sheet `b5f7908e`, spiky mane) overrides "no fur" text: the wolf stayed furry and 3D-shaded in wolf chase v1–v3. Drop such a reference and describe the creature in words (v4).

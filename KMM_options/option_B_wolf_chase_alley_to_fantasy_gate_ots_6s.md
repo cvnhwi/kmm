@@ -39,4 +39,18 @@ Changes vs v2:
 QA: linter PASS (0 ERROR, 0 WARN). Manual: 1 person + 1 wolf head, no contact, one camera move, style lock kept, no fur, no pupils, no purple, FANTASY 2, master 000a36ef.
 Request JSON: `KMM_options/requests/wolf_chase_alley_gate_6s_v3.json`.
 
-Status: SUBMITTED — job `1e625548-5187-45bf-abe7-f113d7845e2b` (declined preset 24bae836)
+Status: COMPLETED — job `1e625548-5187-45bf-abe7-f113d7845e2b` (declined preset 24bae836) → https://d8j0ntlcm91z4.cloudfront.net/user_3JNS6ee2vsgr9rp9IBmIleZYkaP/hf_20261004_125605_1e625548-5187-45bf-abe7-f113d7845e2b.mp4
+Review (Claude, frames 0.5/3/5.5 s): framing near head-only but the wolf still shows furry texture + 3D shading and part of its back by 3-5 s; Mai starts mid-street (user: too far from the gate).
+
+## v4: Mai closer to the gate + wolf as a pure night shadow (no fur), wolf reference REMOVED (user 2026-10-04), 6 s, one take
+User feedback on v3: Mai should be closer to the gate; the wolf must not show fur, it is a night shadow.
+Root cause of the fur: the wolf sheet `b5f7908e` (@Image4) has a spiky mane; the model follows the image over the "no fur" text.
+Changes vs v3:
+- Wolf reference image dropped (3 images now: alley, gate interior, Mai). Wolf described in words only: pure flat neutral-black void, like a hole cut out of the picture / black paper cut-out, zero inner detail, smooth outline (rounded back of head, two smooth pointed ears), edges dissolving into thin plain black smoke.
+- Avoid adds: spiky mane, tufts, fur on ears/neck, fur-textured edge, dark brown/grey wolf, 3D-modelled wolf head with light and shading.
+- Mai is already at the threshold of the arch from the first frame (a few steps in front), small but clearly readable against the teal opening; she takes her last few steps in and glances back once.
+- Head-only framing, fast wolf, light handheld shake kept from v3.
+QA: linter PASS (0 ERROR, 0 WARN). Manual: 1 person + 1 wolf head, no contact, one camera move, style lock, no pupils, no purple, FANTASY 2, master 000a36ef. Bible + QA lessons updated (do not attach the wolf sheet).
+Request JSON: `KMM_options/requests/wolf_chase_alley_gate_6s_v4.json`.
+
+Status: SUBMITTED — job `ae2b45d8-152c-4d5e-aff3-972fa7565217` (declined preset 24bae836)
