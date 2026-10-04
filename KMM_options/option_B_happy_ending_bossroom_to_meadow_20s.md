@@ -172,7 +172,7 @@ Changes vs v3:
 - The bus is only parked in shots 1-3, dissolves with the arena in shot 4, never drives; Avoid: any moving vehicle.
 - Shots 4-5: a joyful dreamy pastel-PINK fantasy paradise (pink/peach sky, pink-blossom trees, pink/white/peach flowers, light butterflies, lanterns, sparkles); people laugh softly, Mai hops, the puppy chases petals. Avoid gloomy/cold colours and purple.
 
-Status: SUBMITTED — job `2526c361-3af4-4183-bd30-70e4606e926a` (declined preset 24bae836)
+Status: COMPLETED (chưa kiểm tra nội dung) — job `2526c361-3af4-4183-bd30-70e4606e926a` (declined preset 24bae836)
 
 ```
 FANTASY MASTER REFERENCE FIRST: @Video1 is the master reference for the style, mood and characters of this whole clip. Match its render look, materials, colour palette, lighting mood, atmosphere, character design, proportions and animation feel on every frame; do not copy its exact shots, camera or story.
@@ -254,7 +254,7 @@ Changes vs v4:
 
 Request JSON: `KMM_options/requests/happy_ending_20s_v5.json`.
 
-Status: SUBMITTED — job `6caf0ee2-da1b-4f75-95e3-023742c27a54` (declined preset 24bae836)
+Status: COMPLETED (chưa kiểm tra nội dung) — job `6caf0ee2-da1b-4f75-95e3-023742c27a54` (declined preset 24bae836)
 
 ## v6: DISCREET CAMERA (no face close-ups, max 5 readable people per frame) — RULES J.12, 20 s, 5 shots
 User: rebuild with camera angles that never show face close-ups or too many characters at once (duplicates and wrong counts).
@@ -269,7 +269,7 @@ User: rebuild with camera angles that never show face close-ups or too many char
 - Script deviation (flag): the near/far rows are not shown face-on one by one any more; the arc of friends is suggested by two backs (S3) and the tiny cluster (S5).
 - QA: linter PASS (0 ERROR, 0 WARN) on `KMM_options/requests/happy_ending_20s_v6.json`; head count 11 + puppy; per-shot visible counts 3 / hands / 5 / 3 / 11 tiny.
 
-Status: SUBMITTED — job `b66283d0-f72e-4d41-b325-5148582752c3` (declined preset 24bae836)
+Status: FAILED `ip_detected` (no video; superseded by v7) — job `b66283d0-f72e-4d41-b325-5148582752c3` (declined preset 24bae836)
 
 ## v7: GROUP CUTTING, max 4 named people per shot, raccord kept (RULES J.13), 20 s, 7 shots
 User: for scenes that show many distinct people, cut into shots of 4 people each (not one long shot of 8) while keeping raccord; rebuild the scene.
@@ -285,4 +285,4 @@ Scene map (fixed): family at the centre; group A WEST of the family (screen left
 | 7 | 15.5-20 s | ultra-wide crane up, locked 17-20 s | 11 tiny silhouettes (A left, family middle, B right); no bus |
 - QA: linter 0 ERROR; 2 WARN accepted: "4 people" is the per-shot limit sentence, not a count conflict; 14 images (the user wants all 11 readable, so all are referenced; each appears only in its own group shot). Manual: eyelines A→right / B→left match Mai's look left then right; same light and moment in shots 1-5; one move per shot.
 
-Status: SUBMITTED — job `7561281f-075d-4aff-91f7-79b775d2f03b` (declined preset 24bae836)
+Status: COMPLETED (chưa kiểm tra nội dung) — job `7561281f-075d-4aff-91f7-79b775d2f03b` (declined preset 24bae836)
