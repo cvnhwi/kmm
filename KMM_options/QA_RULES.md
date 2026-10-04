@@ -46,6 +46,11 @@ What it checks:
 14. Camera: ONE dominant move per shot, motivated; the move does not cross the action line.
 15. Words are concrete and unambiguous (no "something happens", "magic stuff"); no contradictory instructions (e.g. "hands free" and "holding the pan").
 
+**C2. Camera for big casts (RULES J.12)**
+- Max ~3-5 recognisable characters per frame; others out of frame or tiny distant silhouettes.
+- No face close-ups in multi-character clips; carry emotion with backs, OTS, hands, feet, props, posture, light.
+- Attach references only for characters readable on screen.
+
 **D. Acting / over-acting**
 16. Expression intensity 1/3-1/2; emotions change in stages; reactions after the trigger.
 17. Joy is shown by smiles, light steps and soft laughter, not wide-open mouths or wild jumping; fear by breath and eyes, not screams.

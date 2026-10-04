@@ -353,3 +353,12 @@ Mục J ưu tiên hơn các mục khác nếu mâu thuẫn. Các dòng ghi "(m�
   3. Báo kết quả QA cho Huy PD theo mẫu trong QA_RULES.md, cùng tin với lúc gửi gen.
 - Bài học đã ghi: sai tổng số người → đúp người; huy hiệu thật, tên giống chó, "football" → `ip_detected`; chữ "Disney" nằm trong mẫu [Acting] cũ → đã đổi thành "Classic animation principles"; shot 1 giây quá nhiều hành động → rối.
 - **Không bao giờ viết tên hãng phim/studio (Disney, Pixar…) trong prompt**, kể cả làm "nguyên tắc diễn xuất".
+
+### J.12 Góc máy cho cảnh ĐÔNG NHÂN VẬT (2026-10-04)
+- Feedback: dùng góc máy KHÔNG thấy cận mặt và KHÔNG có quá nhiều nhân vật trong một khung, vì dễ lặp nhân vật và sai số lượng.
+- Quy tắc:
+  - Mỗi khung tối đa khoảng **3–5 nhân vật nhận diện được**; người còn lại ở ngoài khung, hoặc chỉ là bóng nhỏ ở xa không thấy mặt.
+  - **Không cận mặt** trong clip đông người. Cảm xúc thể hiện bằng: góc sau lưng/qua vai, cận tay–chân–đạo cụ, dáng người, bóng ngược sáng, môi trường.
+  - Ưu tiên: sau lưng (back view), qua vai (OTS), insert tay/chân/cún, low angle ngang mặt đất, wide/ultra-wide với người là bóng nhỏ.
+  - **Chỉ đính kèm ảnh ref cho người lộ rõ trên hình.** Người chỉ xuất hiện như bóng nhỏ thì mô tả bằng chữ (màu mũ/áo), không cần ref → ít ảnh hơn, ít trộn hơn.
+  - Mỗi shot vẫn ghi số người trong khung; linter cảnh báo khi >5 người rõ hoặc có cận mặt.

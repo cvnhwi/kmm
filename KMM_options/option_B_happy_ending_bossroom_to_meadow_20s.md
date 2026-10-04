@@ -255,3 +255,18 @@ Changes vs v4:
 Request JSON: `KMM_options/requests/happy_ending_20s_v5.json`.
 
 Status: SUBMITTED — job `6caf0ee2-da1b-4f75-95e3-023742c27a54` (declined preset 24bae836)
+
+## v6: DISCREET CAMERA (no face close-ups, max 5 readable people per frame) — RULES J.12, 20 s, 5 shots
+User: rebuild with camera angles that never show face close-ups or too many characters at once (duplicates and wrong counts).
+| # | Time | Camera | Visible |
+|---|---|---|---|
+| 1 | 0-4 s | medium-wide low from BEHIND Dad, one slow arc L→R | Mom (back), Mai (face buried), Dad (back) + puppy |
+| 2 | 4-5.5 s | waist-height insert, slight push | Mom's hand on Mai's backpack strap, puppy at her sneaker; no faces |
+| 3 | 5.5-8 s | from BEHIND the arc, through the gap between the Cleaner and the Police Officer (backs, soft), slow push-in | 5 people; Mai lifts her head, face small in the distance; parked bus far behind |
+| 4 | 8-13 s | floor-level wide, one pedestal rise; flowers bloom toward the lens | family small from behind + puppy; friends out of frame/tiny |
+| 5 | 13-20 s | ultra-wide crane up to the pink sky, locked hold 17-20 s | 11 tiny silhouettes, no faces; no bus |
+- References cut from 14 to 8 images: only people readable on screen get a reference (Mai, Mom, Dad, puppy, Cleaner, Police Officer, bus + arena plate). The other six friends are text-described tiny distant figures.
+- Script deviation (flag): the near/far rows are not shown face-on one by one any more; the arc of friends is suggested by two backs (S3) and the tiny cluster (S5).
+- QA: linter PASS (0 ERROR, 0 WARN) on `KMM_options/requests/happy_ending_20s_v6.json`; head count 11 + puppy; per-shot visible counts 3 / hands / 5 / 3 / 11 tiny.
+
+Status: SUBMITTED — job `b66283d0-f72e-4d41-b325-5148582752c3` (declined preset 24bae836)

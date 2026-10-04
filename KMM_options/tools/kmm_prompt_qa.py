@@ -105,14 +105,14 @@ def qa(label, params):
         else:
             t = m.group(1)
             total = int(t) if t.isdigit() else NUMBER_WORDS.get(t.lower())
-        items = re.findall(r"^\s*(\d+)\.\s+(.+?)\s*\((@Image\d+)\)", hc, re.M)
-        named = [(int(n), name.strip(), tag) for n, name, tag in items]
+        items = re.findall(r"^\s*(\d+)\.\s+([^(:\n]+?)\s*(?:\((@Image\d+)\)|\(([^)]*)\))?\s*:", hc, re.M)
+        named = [(int(n), name.strip(), tag or "") for n, name, tag, _ in items]
         if total is not None and len(named) != total:
             E.append(f"[Head Count] says {total} people but lists {len(named)} numbered people.")
         nums = [n for n, _, _ in named]
         if nums and nums != list(range(1, len(nums) + 1)):
             E.append("[Head Count] numbering is not 1..N in order.")
-        tags = [t for _, _, t in named]
+        tags = [t for _, _, t in named if t]
         dup = {t for t in tags if tags.count(t) > 1}
         if dup:
             E.append(f"Same tag used for two people: {sorted(dup)}.")
@@ -136,7 +136,7 @@ def qa(label, params):
                     W.append(f"Other people-count '{mm.group(0)}' (head count {total}); make sure it is a per-shot visible count.")
         # each named person's row/position appears once
         for _, name, tag in named:
-            if len(re.findall(re.escape(tag) + r"\)", hc)) > 1:
+            if tag and len(re.findall(re.escape(tag) + r"\)", hc)) > 1:
                 E.append(f"{name} {tag} placed twice in [Head Count].")
 
     # 3. shots and timing
@@ -162,6 +162,11 @@ def qa(label, params):
             prev_end = b
             if hc is not None and not re.search(r"visible|in frame", rest[:220]):
                 W.append(f"Shot {k}: no per-shot 'N people visible' statement (RULES J.10).")
+            mv = re.search(r"(\d+) (?:people|persons|characters)[^.;:]{0,40}(?:visible|in frame)", rest[:220])
+            if mv and int(mv.group(1)) > 5 and not re.search(r"tiny|silhouette|distant", rest[:260], re.I):
+                W.append(f"Shot {k}: {mv.group(1)} readable people in one frame; max ~5 (RULES J.12). Use backs, inserts or tiny distant silhouettes.")
+            if re.search(r"close-up|\bCU\b|85 ?mm|100 ?mm", rest[:300], re.I) and re.search(r"\bface", rest[:400], re.I) and hc is not None:
+                W.append(f"Shot {k}: face close-up in a multi-character clip (RULES J.12); prefer hands/props/backs.")
             moves = {mv for mv in CAMERA_MOVES if re.search(mv, rest[:400], re.I)}
             if len(moves) > 2:
                 W.append(f"Shot {k}: several camera moves named ({', '.join(sorted(moves))}); keep ONE dominant move.")

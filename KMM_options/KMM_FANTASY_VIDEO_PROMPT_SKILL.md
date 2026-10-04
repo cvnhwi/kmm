@@ -234,6 +234,9 @@ Count the cast, re-count, and write the exact number everywhere: [Generation Goa
 ### 19. QA gate before EVERY generation (user 2026-10-04, MANDATORY)
 Save the exact request JSON and run `python3 KMM_options/tools/kmm_prompt_qa.py <file.json>`. Any ERROR blocks submission; each WARN is fixed or accepted with a reason in the plan file. Then do the manual checklist A-E in `KMM_options/QA_RULES.md` (head count, duplicates, positions/raccord, action logic and density, over-acting, project rules) and report the QA summary to the user with the submission. Never write studio or film names (e.g. "Disney") anywhere in a prompt; the acting line is "Classic animation principles: …".
 
+### 20. Camera for big casts (user 2026-10-04, MANDATORY)
+In clips with many named characters, avoid face close-ups and frames with more than ~3-5 recognisable characters (they cause duplicates and wrong counts). Use back views, over-the-shoulder, inserts of hands/feet/props/the puppy, ground-level lows and wide/ultra-wide shots where people are tiny silhouettes. Attach references only for characters readable on screen; tiny distant figures are described by text. Each shot still states its visible count (rule 18).
+
 ### Fight sequence guide (user 2026-10-03, from animated-feature trailer refs)
 A flexible toolkit, NOT a fixed shot list. Pick and reorder angles to make each fight look its best for its space, characters and beat.
 
