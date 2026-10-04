@@ -71,3 +71,28 @@ Nền v2 op1 (đêm, tay thả, chán nản). Thêm image_5 = Cổng Fantasy `22
 
 Tự chọn: orbit giảm 270°→200° để kết sau lưng Mai thấy cổng phía trước; rễ chỉ xuất hiện sau khi chuyển style; rễ không chạm Mai.
 Checklist: rễ không chạm Mai; cổng giống B21_CongFantasy; chỉ 1 cổng, không chữ/ký hiệu; chuyển style sạch; rễ có trọng lượng, không slow motion; mặt Mai giữ đúng thiết kế fantasy khi kết.
+
+---
+
+# v4 (2026-10-04): SỬA LỖI "không rõ style A" + 2 option mới. Status: **SUBMITTED** (chưa kiểm tra nội dung video mới)
+
+## Chẩn đoán v3 (đã tự trích khung hình v3 + DAILY.mp4 + ảnh ref qua sandbox để xem)
+- v3 0-3s: render 3D/anime bóng, tối, lạnh → gần như giống style B. Không có chất vẽ tay.
+- DAILY.mp4 thật sự: 2D/3D lai mềm, màu ấm dịu (chạng vạng), má hồng, ánh sáng mềm, nền vẽ tay. Đêm tối + grade lạnh đã xoá hết chất này.
+- `fae9baae…` ĐÚNG là 01_Mai (áo thuỷ thủ, bob, balo xanh nhạt) → đã xác nhận bằng mắt.
+- DAILY.mp4 `2535cacf…` là HEVC 10-bit 1080p (định dạng rủi ro). Đã convert H.264 720p yuv420p + upload `f8a3a6cb-4238-4e77-bac2-26092729d416` nhưng user chưa cho confirm → v4 vẫn dùng bản gốc.
+
+## Cách sửa (áp cho cả 3 option)
+- Style A = "đầu đêm vừa tối": trời còn xanh tím, đèn đường/cửa hàng/bóng đèn treo màu đào-hổ phách chiếu sáng rõ, KHÔNG tối; nền vẽ tay màu nước/gouache; nhân vật cel-shade mềm, má hồng.
+- Style B = 3D bóng, đêm sâu, cyan-teal lạnh, haze, tương phản cao.
+- Chuyển = ẤM MỀM VẼ TAY → LẠNH BÓNG 3D (đổi bảng màu để dễ đọc).
+- Đoạn style A kéo dài ~3.5-4.8s, mở bằng MCU/MS thấy rõ mặt 01_Mai.
+- Avoid thêm: style A render 3D bóng, nửa đầu tối/lạnh, hai style giống nhau.
+
+| Option | Ý tưởng | Job |
+|---|---|---|
+| 1 Orbit sửa | Shot1 MCU 0-3.5 A; orbit 200° 3.5-8, chuyển sau lưng 4.8-5.2, rễ → cổng, kết over-shoulder | `63cb55e7-be58-40d9-895e-c0f44d5aa553` |
+| 2 Vũng nước (MỚI) | Shot1 MS A; Shot2 góc sát đất, phản chiếu vũng nước đã là B, Mai dẫm → gợn sóng lan biến A thành B; Shot3 sau lưng, rễ dệt cổng | `4197748d-ec37-42c3-b41c-4ab904e13e7c` |
+| 3 Sóng từ cổng (MỚI) | Shot1 MCU A; Shot2 khoá máy sau lưng, cổng rễ mọc xa phía trước, sóng B lan ngược về máy với mép rõ, quét qua Mai; Shot3 CU Mai fantasy nhìn cổng | `9b356ba6-5280-4a02-963a-72203975c88e` |
+
+Checklist: nửa đầu ẤM, sáng, có chất vẽ tay giống DAILY; khác biệt A/B nhìn ra ngay; một Mai; rễ không chạm Mai; cổng giống B21; op2 phản chiếu là B, gợn sóng lan rõ; op3 mép sóng rõ, đi về phía máy.
