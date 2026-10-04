@@ -1,3 +1,5 @@
+> ⚠️ HANDOFF CŨ (30/09, thời gen keyframe ảnh, account Higgsfield cũ). Bản hiện hành: `KMM_options/HANDOFF_GUIDE.md` và `KMM_options/KMM_RULES_SUMMARY.md`.
+
 # HANDOFF — MV "KHÔNG MỘT MÌNH" (KMM) · 30/09/2026
 
 Dán file này vào chat đầu tiên của LLM mới và nói: "Đọc handoff này rồi tiếp tục gen keyframe KMM theo đúng quy tắc."
