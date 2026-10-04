@@ -160,6 +160,7 @@ Tham khảo thêm `HANDOFF_GUIDE.md`, `STYLE_GUIDE_B.md`, `REUPLOAD_NEW_ACCOUNT.
 
 ## H. Việc còn mở
 
+- ĐỌC MỤC J (feedback draft_1 vòng 1) trước khi viết bất kỳ prompt nào. Mục J ưu tiên hơn các mục khác.
 - Đã có mục I (câu chuyện + raccord từ draft_1). Cần Huy PD đối chiếu các điểm ở I.3 và cập nhật khi draft đổi.
 - Nhân vật cập nhật 2026-10-04 đã lên Higgsfield (mục G): 10_CongAn bản mới, 27_BacSi, 28_KiSu, 29_LinhCuuHoa, và thêm một Bộ đội chưa có mã số (cần Huy PD đặt mã và cho biết vai trò). Chưa rõ vai trò của Bác sĩ, Kỹ sư, Lính cứu hỏa trong câu chuyện (draft_1 chưa có họ).
 - Chưa rõ vai trò của B17 và B19.
@@ -238,3 +239,56 @@ Tham khảo thêm `HANDOFF_GUIDE.md`, `STYLE_GUIDE_B.md`, `REUPLOAD_NEW_ACCOUNT.
 - Chú công an ở 2:56 so với cảnh ôm ở 3:40: cùng một người hay không.
 - Các dòng chữ ghi chú của editor (ví dụ 2:24) có giữ lại hay không.
 - Âm thanh, lời bài hát và nhịp nhạc chưa được kiểm tra.
+
+## J. Feedback draft_1, vòng 1 (2026-10-04, còn có thể đổi). ÁP DỤNG KHI VIẾT PROMPT
+
+Mục J ưu tiên hơn các mục khác nếu mâu thuẫn. Các dòng ghi "(mặc định Claude)" là do Claude tự chọn và cần Huy PD xác nhận.
+
+### J.1 Đánh giá chung
+- Phần đầu (đời thường) cần sửa. Phần fantasy phía sau chất lượng tốt. Cảnh cô giáo được khen là "quá đẹp", giữ nguyên tinh thần.
+- Chưa ổn: các cảnh flycam, cảnh đồng hồ báo thức, cảnh trong phòng (quá 2D, cần chiều sâu và ánh sáng 3D hơn), cảnh xe buýt quay từ trên cao (độ phân giải thấp).
+- **Không kể thêm cảnh ngoài trời đời thường. Các cảnh mới chỉ làm trong thế giới fantasy.**
+
+### J.2 Nhân vật và trang phục
+- **Chú công an đổi thành chú an ninh/dân phòng**, mặc áo an ninh màu **bã trầu** (nâu đỏ sẫm), "như ý anh Duy". Chưa có ảnh tham khảo bộ đồng phục này. Cần Huy PD gửi ảnh, hoặc tạo ref mới trước khi gen clip.
+  - Feedback có nhắc "đồng phục công an mới". Chưa rõ đó là ảnh 10_CongAn bản mới `3f6416ad` hay là bộ áo bã trầu. Cần xác nhận.
+- **Vai của chú này chỉ còn MỘT cảnh solo: cảnh khiên.**
+  - Không bế bé Mai.
+  - Không một mình đánh quái.
+  - Không còng tay ai.
+  - Khiên hologram làm **cùng chú bộ đội** (`81b7dde9`): hai người cùng dựng khiên.
+  - Sau cảnh khiên thì không còn cảnh riêng nào của chú.
+- **Dân phòng: bớt cảnh đánh nhau.**
+- **Người đỡ Mai khi rơi là BỐ (bố mẹ fantasy)**, không phải chú công an hay an ninh. Phải gen lại cảnh bố đỡ bé rơi.
+- **Không có cảnh còng tay** ở bất cứ đâu.
+
+### J.3 Đạo cụ và hiệu ứng
+- **KHÔNG ném dùi cui**, và không ném bất kỳ đồ gì liên quan đến an ninh. Thay bằng hành động khác, hiệu ứng gì cũng được.
+  - (Mặc định Claude) Chú an ninh (`682c6b6d`) cất dùi cui vào thắt lưng, rồi búng tay hoặc vung tay không phóng ra một luồng năng lượng sáng.
+- **Xe buýt khi chạy trên đường không được nhả khói đen.**
+- **Xe buýt khi xuất hiện có hiệu ứng sức mạnh** (power effect): hào quang, vệt sáng, tia năng lượng quanh xe. Không dùng tông tím (luật cũ vẫn áp dụng).
+
+### J.4 Trận đánh BOSS (bộ não)
+- Phá BOSS phải là **công sức của TẤT CẢ mọi người**, không phải một mình chú công an.
+- Cần **MỘT cảnh đông đảo người phe mình** chống lại BOSS:
+  - Thấp thoáng lính cứu hỏa (`94ba28f4`), chú bộ đội (`81b7dde9`), bác sĩ (`689fabdb`), kỹ sư (`de74362d`), cùng các nhân vật cũ.
+  - Không kể solo từng người.
+- Hình tượng chính: rất đông người **nắm tay, đồng hành**, tạo **luồng sáng liên kết** giữa họ để phá đầu não. Tinh thần như cảnh tập hợp lực lượng trong phim siêu anh hùng: thấy sức mạnh tập thể. Mô tả bằng chữ, không nhắc tên phim hay thương hiệu trong prompt (luật IP).
+- Góc máy cho cảnh này:
+  - Toàn cảnh: đám đông quái đối đầu đoàn người phe mình.
+  - Góc từ sau lưng quái nhìn sang đoàn người phe mình.
+  - Góc hơi rộng để đỡ lỗi mặt (mặt nhỏ trong khung thì ít méo).
+- **Cảnh bị đám đông bóng đen bao vây hiện còn giống game, chưa điện ảnh.** Cần làm lại kiểu cinematic: ống kính, chiều sâu, khói, ánh sáng viền, bố cục không đều. Tránh góc top-down kiểu game và vòng tròn đều.
+- Sau khi phá não: **không cần cảnh riêng của chú công an hay an ninh.** Chỉ cần não bị phá hủy.
+
+### J.5 Kết
+- **Dành nhiều thời gian hơn cho happy ending trong thế giới fantasy.**
+
+### J.6 Các shot được yêu cầu gen lại (chưa gen, chờ Huy PD ra lệnh)
+1. Dân phòng/an ninh theo ý anh Duy: áo bã trầu, đồng phục mới.
+2. Bố đỡ bé Mai rơi.
+3. Mai chạy vào cổng dark web ("nội dung độc hại", khoảng 1:56 trong draft_1): bản cũ bị sai, cần gen lại.
+4. Khiên hologram: chú bộ đội và chú an ninh cùng làm.
+5. Cảnh tập thể phe mình đối đầu đám quái, nắm tay, có luồng sáng liên kết, với ba góc ở J.4.
+6. Làm lại cảnh bị bao vây theo kiểu cinematic.
+7. Happy ending fantasy, kéo dài hơn.
