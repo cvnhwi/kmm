@@ -33,7 +33,7 @@ Settings: seedance_2_5 · omni_reference · draft · 480p · 16:9 · generate_au
 
 ## C0_darkgate_run_12s (12 s)
 
-Status: SUBMITTED — job `de47e22e-4f13-497f-b5a0-cde79e38f639` (declined preset 24bae836)
+Status: COMPLETED (chưa kiểm tra nội dung) — job `de47e22e-4f13-497f-b5a0-cde79e38f639` (declined preset 24bae836)
 
 Attach: Video 1 master `24430dd0-a7ec-4d5c-a555-46abfb7600a1`; Image 1 b18 `7c1e33a4-10da-431a-aec4-b396f2103c77`; Image 2 mai `0d56fcb2-47cc-4271-b785-c73f4ab9a17b`; Image 3 wolf `b5f7908e-fcd3-4b00-ad91-309366da6ae0`
 
@@ -74,7 +74,7 @@ Shot 5 (9-12 s), into the gate: wide from behind Mai, camera follows her to the 
 
 ## C1_boss_surrounded_cinematic_15s (15 s)
 
-Status: SUBMITTED — job `82849f45-766c-4489-95d1-46e351cd258e` (declined preset f1821f84)
+Status: COMPLETED (chưa kiểm tra nội dung) — job `82849f45-766c-4489-95d1-46e351cd258e` (declined preset f1821f84)
 
 Attach: Video 1 master `24430dd0-a7ec-4d5c-a555-46abfb7600a1`; Image 1 goc05 `c6e4d549-458a-4d8c-b61f-ebeec563848a`; Image 2 dad `8eeb2595-7127-4d3f-9dc6-9c124caa1c99`; Image 3 mom `a6286ab4-eaba-40ed-988f-3452354fe6ce`; Image 4 teacher `89b32a5e-bfbc-44af-96e9-a274bb04cf51`; Image 5 cleaner `2f4bb001-827c-4409-8887-3cd734d1b89b`; Image 6 guard `682c6b6d-e255-473f-983c-56cc65aab6d3`; Image 7 v4 `f448b33f-6e5a-4bd6-b906-bff62ba2bfae`; Image 8 v1 `9ee934cf-d4a2-4591-a178-9b3805294450`; Image 9 v5 `4b93a54a-f21a-45f5-8275-7251118e0386`; Image 10 v2 `075000e7-3a8c-454f-b95e-7ba7db0c2cb4`; Image 11 v3 `7a051c5e-3012-4307-ac81-103174f0a038`
 
@@ -120,7 +120,7 @@ Shot 6 (12.5-15 s), still outnumbered: high three-quarter angle about 35-40 degr
 
 ## C2_boss_shield_officer_soldier_12s (12 s)
 
-Status: SUBMITTED — job `70eedbc0-6d44-49e0-b4b8-01b06a168fc0` (declined preset f1821f84)
+Status: COMPLETED (chưa kiểm tra nội dung) — job `70eedbc0-6d44-49e0-b4b8-01b06a168fc0` (declined preset f1821f84)
 
 Attach: Video 1 master `24430dd0-a7ec-4d5c-a555-46abfb7600a1`; Image 1 goc02 `4abb6caa-95e6-4d4d-be28-6290f918e998`; Image 2 officer `3f6416ad-4680-4cb2-8913-922c65b2afa2`; Image 3 soldier `81b7dde9-08f1-46e2-b4b6-8b7b16674fbf`; Image 4 dad `8eeb2595-7127-4d3f-9dc6-9c124caa1c99`; Image 5 mom `a6286ab4-eaba-40ed-988f-3452354fe6ce`; Image 6 v2 `075000e7-3a8c-454f-b95e-7ba7db0c2cb4`; Image 7 v5 `4b93a54a-f21a-45f5-8275-7251118e0386`; Image 8 v1 `9ee934cf-d4a2-4591-a178-9b3805294450`; Image 9 v3 `7a051c5e-3012-4307-ac81-103174f0a038`; Image 10 v4 `f448b33f-6e5a-4bd6-b906-bff62ba2bfae`
 
@@ -166,7 +166,7 @@ Shot 6 (10.5-12 s), relief: medium close, low, 50 mm, slow push-in: they lower t
 
 ## C3_boss_bus_power_arrival_12s (12 s)
 
-Status: SUBMITTED — job `2abc1a36-b47f-485b-9a3a-253badedeede` (declined preset f1821f84)
+Status: COMPLETED (chưa kiểm tra nội dung) — job `2abc1a36-b47f-485b-9a3a-253badedeede` (declined preset f1821f84)
 
 Attach: Video 1 master `24430dd0-a7ec-4d5c-a555-46abfb7600a1`; Image 1 goc01 `184025af-2e7a-4310-a3c2-a147c7e14c8a`; Image 2 bus `1a436a85-6ed7-4897-96bd-2ba2cdc4b77a`; Image 3 driver `aed8c835-e2eb-477f-a4c5-583726b87181`; Image 4 fire `94ba28f4-68b7-4767-8662-663997434ddb`; Image 5 doctor `689fabdb-25e4-4996-8cf7-d0e1d71a0636`; Image 6 engineer `de74362d-250c-4e0f-bab9-9e7b603cb901`; Image 7 v5 `4b93a54a-f21a-45f5-8275-7251118e0386`; Image 8 v3 `7a051c5e-3012-4307-ac81-103174f0a038`; Image 9 v4 `f448b33f-6e5a-4bd6-b906-bff62ba2bfae`; Image 10 v1 `9ee934cf-d4a2-4591-a178-9b3805294450`; Image 11 v2 `075000e7-3a8c-454f-b95e-7ba7db0c2cb4`
 
@@ -212,7 +212,7 @@ Shot 6 (10-12 s), the driver: close-up through the side window, 65-85 mm, slight
 
 ## C4_boss_gathering_linked_light_15s (15 s)
 
-Status: SUBMITTED — job `323f0501-1f38-4c4a-8278-ac34b4e2284e` (declined preset f1821f84)
+Status: COMPLETED (chưa kiểm tra nội dung) — job `323f0501-1f38-4c4a-8278-ac34b4e2284e` (declined preset f1821f84)
 
 Attach: Video 1 master `24430dd0-a7ec-4d5c-a555-46abfb7600a1`; Image 1 goc10 `f09bcd5a-a196-493d-898b-44dff118a622`; Image 2 dad `8eeb2595-7127-4d3f-9dc6-9c124caa1c99`; Image 3 mom `a6286ab4-eaba-40ed-988f-3452354fe6ce`; Image 4 fire `94ba28f4-68b7-4767-8662-663997434ddb`; Image 5 soldier `81b7dde9-08f1-46e2-b4b6-8b7b16674fbf`; Image 6 doctor `689fabdb-25e4-4996-8cf7-d0e1d71a0636`; Image 7 engineer `de74362d-250c-4e0f-bab9-9e7b603cb901`; Image 8 v1 `9ee934cf-d4a2-4591-a178-9b3805294450`; Image 9 v4 `f448b33f-6e5a-4bd6-b906-bff62ba2bfae`; Image 10 v2 `075000e7-3a8c-454f-b95e-7ba7db0c2cb4`; Image 11 v5 `4b93a54a-f21a-45f5-8275-7251118e0386`; Image 12 v3 `7a051c5e-3012-4307-ac81-103174f0a038`
 
@@ -258,7 +258,7 @@ Shot 6 (13-15 s), the wave: wide, low, from behind our crowd (shoulders soft in 
 
 ## C5_boss_team_circle_shockwave_blackout_15s (15 s)
 
-Status: SUBMITTED — job `182ce78f-5751-44fa-8f26-4e1abbe7a657` (declined preset f1821f84)
+Status: COMPLETED (chưa kiểm tra nội dung) — job `182ce78f-5751-44fa-8f26-4e1abbe7a657` (declined preset f1821f84)
 
 Attach: Video 1 master `24430dd0-a7ec-4d5c-a555-46abfb7600a1`; Image 1 b14 `c8394b3d-556c-4229-a4a4-73daafabcfd9`; Image 2 boss `3db1be87-7da5-4169-b892-e002f1cf2637`; Image 3 dad `8eeb2595-7127-4d3f-9dc6-9c124caa1c99`; Image 4 mom `a6286ab4-eaba-40ed-988f-3452354fe6ce`; Image 5 engineer `de74362d-250c-4e0f-bab9-9e7b603cb901`; Image 6 doctor `689fabdb-25e4-4996-8cf7-d0e1d71a0636`; Image 7 guard `682c6b6d-e255-473f-983c-56cc65aab6d3`; Image 8 officer `3f6416ad-4680-4cb2-8913-922c65b2afa2`; Image 9 cleaner `2f4bb001-827c-4409-8887-3cd734d1b89b`; Image 10 fire `94ba28f4-68b7-4767-8662-663997434ddb`; Image 11 driver `aed8c835-e2eb-477f-a4c5-583726b87181`
 
@@ -304,7 +304,7 @@ Shot 6 (11.5-15 s), the fall: wide, low angle, 20-24 mm, tilting down to follow:
 
 ## C6_boss_dad_catches_mai_12s (12 s)
 
-Status: SUBMITTED — job `116c3e43-ca5f-4bfc-9bff-9770e2dc5c70` (declined preset f1821f84)
+Status: COMPLETED (chưa kiểm tra nội dung) — job `116c3e43-ca5f-4bfc-9bff-9770e2dc5c70` (declined preset f1821f84)
 
 Attach: Video 1 master `24430dd0-a7ec-4d5c-a555-46abfb7600a1`; Image 1 goc03 `c2c8aab3-3f4e-4c90-b5c2-2cd20eea1de4`; Image 2 mai `0d56fcb2-47cc-4271-b785-c73f4ab9a17b`; Image 3 dad `8eeb2595-7127-4d3f-9dc6-9c124caa1c99`; Image 4 mom `a6286ab4-eaba-40ed-988f-3452354fe6ce`; Image 5 dog `380caa13-1788-4fe9-b953-c0818719eebc`
 
@@ -343,7 +343,7 @@ Shot 6 (10-12 s), first light: wide, high, slow crane up and back, 24 mm: the fa
 
 ## C7_thanks_and_happy_ending_3shots_18s (18 s)
 
-Status: SUBMITTED — job `99d1e7d7-e31d-4d4b-9680-5868d006b3cd` (declined preset 24bae836)
+Status: COMPLETED (chưa kiểm tra nội dung) — job `99d1e7d7-e31d-4d4b-9680-5868d006b3cd` (declined preset 24bae836)
 
 Attach: Video 1 master `24430dd0-a7ec-4d5c-a555-46abfb7600a1`; Image 1 b14 `c8394b3d-556c-4229-a4a4-73daafabcfd9`; Image 2 mai `0d56fcb2-47cc-4271-b785-c73f4ab9a17b`; Image 3 mom `a6286ab4-eaba-40ed-988f-3452354fe6ce`; Image 4 dad `8eeb2595-7127-4d3f-9dc6-9c124caa1c99`; Image 5 dog `380caa13-1788-4fe9-b953-c0818719eebc`; Image 6 officer `3f6416ad-4680-4cb2-8913-922c65b2afa2`; Image 7 soldier `81b7dde9-08f1-46e2-b4b6-8b7b16674fbf`; Image 8 guard `682c6b6d-e255-473f-983c-56cc65aab6d3`; Image 9 teacher `89b32a5e-bfbc-44af-96e9-a274bb04cf51`; Image 10 cleaner `2f4bb001-827c-4409-8887-3cd734d1b89b`; Image 11 driver `aed8c835-e2eb-477f-a4c5-583726b87181`; Image 12 fire `94ba28f4-68b7-4767-8662-663997434ddb`; Image 13 doctor `689fabdb-25e4-4996-8cf7-d0e1d71a0636`; Image 14 engineer `de74362d-250c-4e0f-bab9-9e7b603cb901`
 
