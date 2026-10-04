@@ -11,4 +11,5 @@ The reference frame itself is NOT attached (burnt-in timecode + scene label); co
 QA: linter PASS (after "Nobody else exists in this clip" wording). Manual: 0 people + 1 wolf; one camera move; no pupils; no text; no purple; mouth closed, no teeth; Style Lock with the wolf exception.
 Request JSON: `KMM_options/requests/wolf_profile_run_inside_gate_5s.json`.
 
-Status: SUBMITTED — job `ae5635f3-b977-430c-b047-cf5c0fa2de54` (declined preset 24bae836)
+Status: COMPLETED — job `ae5635f3-b977-430c-b047-cf5c0fa2de54` (declined preset 24bae836) → https://d8j0ntlcm91z4.cloudfront.net/user_3JNS6ee2vsgr9rp9IBmIleZYkaP/hf_20261004_143322_ae5635f3-b977-430c-b047-cf5c0fa2de54.mp4
+Review (Claude, frames 0.3/1.5/3/4.5 s): composition matches the reference frame well (side profile facing right, head fills the left two-thirds, ear top-centre, muzzle tip at about 3/4 width, yellow almond eye with no pupil at centre, blurred teal tunnel with floating monitors behind, no text). BUT the wolf is again a 3D-shaded dark-grey furry animal (fur on neck and crest, soft sheen, a white highlight on the nose tip), not a flat shadow. Speed must be judged in motion. Waiting for Huy PD review.
