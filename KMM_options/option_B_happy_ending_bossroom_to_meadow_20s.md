@@ -112,7 +112,7 @@ Shot 5 (11-20 s), the meadow: ULTRA-WIDE extreme establishing shot, 14-18 mm, th
 - User rule (RULES J.9): every reference is mentioned with Higgsfield tags: `@Video1` for the master, `@Image1..@Image14` in the medias order; the tag is repeated next to each name in [Cast Roll-Call], [No Blending], [Space & Blocking] and [Action & Camera].
 - Everything else as v2 (character bible lines, [Arena Scale], [Cast Roll-Call], Officer/Guard at opposite ends).
 
-Status: SUBMITTED — job `f546d35b-6695-4d59-b75f-c86f5eb75fba` (declined preset 24bae836)
+Status: COMPLETED (chưa kiểm tra nội dung) — job `f546d35b-6695-4d59-b75f-c86f5eb75fba` (declined preset 24bae836)
 
 ```
 FANTASY MASTER REFERENCE FIRST: @Video1 is the master reference for the style, mood and characters of this whole clip. Match its render look, materials, colour palette, lighting mood, atmosphere, character design, proportions and animation feel on every frame; do not copy its exact shots, camera or story.
