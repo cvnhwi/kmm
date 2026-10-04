@@ -178,3 +178,9 @@ Still missing: StandardB (real-world only). Unconfirmed roles: B17_Hanhlang, B19
 |---|---|---|
 | FANTASY.mp4 | `000a36ef-3958-42a3-ac67-be28b5139e06` | new fantasy master (H.264 1080p 24fps + AAC, 4.17 s); replaces `24430dd0` for every new clip; test job `8b278536` COMPLETED |
 Generation folder from now on: MV KMM › FANTASY 2 `08a93ec8-25e5-49aa-83c2-0492790d5567`.
+
+### Doctor + Engineer re-upload (2026-10-04, widget)
+| File | New ID | Replaces |
+|---|---|---|
+| 27_BacSi.png | `23d201b9-0f1e-465d-b5ab-41b71174eaa6` | `689fabdb` |
+| 28_KiSu.png | `ea7e2f28-2923-45fb-8725-72b9df8eea63` | `de74362d` |

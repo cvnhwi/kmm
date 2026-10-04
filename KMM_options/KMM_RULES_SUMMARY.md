@@ -144,8 +144,8 @@ Chi tiết đầy đủ nằm trong skill `.claude/skills/kmm-fantasy-video-prom
 | Cô giáo (thước, tia vàng) | `89b32a5e-bfbc-44af-96e9-a274bb04cf51` |
 | Cô lao công (chổi) | `2f4bb001-827c-4409-8887-3cd734d1b89b` |
 | Công an (10_CongAn, BẢN MỚI 2026-10-04: quân phục xanh ô liu, mũ kê-pi sao vàng, cầu vai đỏ, quần xanh đậm, giày đen) | `3f6416ad-4680-4cb2-8913-922c65b2afa2` (bản cũ `6afba98a` KHÔNG dùng cho clip mới; các file plan cũ giữ nguyên ID cũ như lịch sử) |
-| Bác sĩ (27_BacSi: tóc muối tiêu, kính, khẩu trang y tế, áo blouse trắng, ống nghe, sơ mi xanh nhạt, cà vạt xanh đậm) | `689fabdb-25e4-4996-8cf7-d0e1d71a0636` |
-| Kỹ sư (28_KiSu: mũ bảo hộ vàng, kính, sơ mi trắng xắn tay, quần âu xám, giày nâu) | `de74362d-250c-4e0f-bab9-9e7b603cb901` |
+| Bác sĩ (27_BacSi: tóc muối tiêu, kính, khẩu trang y tế, áo blouse trắng, ống nghe, sơ mi xanh nhạt, cà vạt xanh đậm) | `23d201b9-0f1e-465d-b5ab-41b71174eaa6` |
+| Kỹ sư (28_KiSu: mũ bảo hộ vàng, kính, sơ mi trắng xắn tay, quần âu xám, giày nâu) | `ea7e2f28-2923-45fb-8725-72b9df8eea63` |
 | Lính cứu hỏa (29_LinhCuuHoa: mũ đỏ, mặt nạ dưỡng khí, đồ chống cháy xanh đậm sọc phản quang vàng, cuộn dây thừng) | `94ba28f4-68b7-4767-8662-663997434ddb` |
 | Bộ đội v2 (30_BoDoi_v2, 2026-10-04: khoảng 35-40 tuổi, mặt nghiêm, mũ cối xanh có sao đỏ viền vàng và quai cằm, áo rằn ri xanh lá/xanh đậm/nâu dài tay 4 túi nắp, cầu vai vàng viền đỏ 2 sao bạc, phù hiệu cổ đỏ hình súng chéo vàng, quần rằn ri túi hộp, giày lính xanh cổ cao. Bản cũ `81b7dde9` không dùng cho clip mới) | `4ef44ef0-12cd-4d15-97b8-983be83cde5d` |
 | Bạn học sinh béo (khăn đỏ, quần short xanh đen, ba lô xanh đậm có móc) | `ea2e4e83-b4d6-47bc-b9bd-554fabaeff06` |

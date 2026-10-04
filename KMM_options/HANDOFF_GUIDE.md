@@ -93,8 +93,8 @@ Cập nhật: **2026-10-04**. Repo `cvnhwi/kmm`, branch `claude/gracious-archime
 | Cô lao công | `2f4bb001-827c-4409-8887-3cd734d1b89b` | Nón lá, đồng phục cam, chổi (lửa đỏ hoặc sét đỏ) |
 | Công an 10_CongAn **bản mới** | `3f6416ad-4680-4cb2-8913-922c65b2afa2` | Quân phục xanh ô liu, mũ kê-pi. Bản cũ `6afba98a` không dùng cho clip mới. **Xem J.2: vai này chuyển thành an ninh/dân phòng áo bã trầu, chỉ còn cảnh khiên cùng bộ đội. Còn chờ xác nhận đồng phục.** |
 | Bộ đội **v2** (30_BoDoi_v2) | `4ef44ef0-12cd-4d15-97b8-983be83cde5d` | Mũ cối sao đỏ, rằn ri, cầu vai vàng 2 sao, phù hiệu cổ súng chéo, giày lính xanh. Bản cũ `81b7dde9`. Làm khiên hologram cùng chú an ninh. |
-| Bác sĩ 27_BacSi | `689fabdb-25e4-4996-8cf7-d0e1d71a0636` | Chỉ thấp thoáng trong đoàn người phe mình |
-| Kỹ sư 28_KiSu | `de74362d-250c-4e0f-bab9-9e7b603cb901` | Như trên |
+| Bác sĩ 27_BacSi | `23d201b9-0f1e-465d-b5ab-41b71174eaa6` | Chỉ thấp thoáng trong đoàn người phe mình |
+| Kỹ sư 28_KiSu | `ea7e2f28-2923-45fb-8725-72b9df8eea63` | Như trên |
 | Lính cứu hỏa 29_LinhCuuHoa | `94ba28f4-68b7-4767-8662-663997434ddb` | Như trên |
 | Tài xế 15_TaiXe | `aed8c835-e2eb-477f-a4c5-583726b87181` | Mũ xanh nhạt, ria mép, KHÔNG phải chú an ninh |
 | Bạn học sinh béo | `ea2e4e83-b4d6-47bc-b9bd-554fabaeff06` | |
