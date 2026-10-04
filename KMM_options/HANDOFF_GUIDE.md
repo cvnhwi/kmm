@@ -1,6 +1,6 @@
 # KMM: HANDOFF GUIDE (tiếp tục ở box chat khác)
 
-Cập nhật: **2026-10-04**. Repo `cvnhwi/kmm`, branch `claude/gracious-archimedes-cao5q7`, thư mục `KMM_options/`.
+Cập nhật: **2026-10-04**. Repo `cvnhwi/kmm`, branch `claude/laughing-hypatia-z5fhie` (trước đó: `claude/gracious-archimedes-cao5q7`), thư mục `KMM_options/`.
 
 **Thứ tự đọc khi mở box chat mới:**
 1. `KMM_RULES_SUMMARY.md`. Đây là file ghi nhớ chính, đọc đủ các mục A đến J.
@@ -14,6 +14,30 @@ Cập nhật: **2026-10-04**. Repo `cvnhwi/kmm`, branch `claude/gracious-archime
    - Skill có thể chưa có các update ngày 2026-10-04. Nếu khác nhau thì theo `KMM_RULES_SUMMARY.md`.
 
 `KMM_HANDOFF_30_09.md` ở thư mục gốc là handoff CŨ (thời gen keyframe ảnh, account Higgsfield cũ). Chỉ giữ làm lịch sử.
+
+---
+
+---
+
+## 0. TÓM TẮT RULE MỚI 2026-10-04 (đọc trước khi viết bất kỳ prompt nào)
+
+| Rule | Nội dung ngắn | Ở đâu |
+|---|---|---|
+| J.7 | Đoạn phá BOSS = cả team chụm vũ khí/tay vào tâm vòng tròn → shockwave vòng phẳng → cúp điện → não teo, tan khói. Happy ending 3 shot + title (title thêm hậu kỳ). | RULES |
+| J.8 | Mô tả kỹ từng nhân vật bằng dòng chuẩn; đấu trường BOSS SIÊU RỘNG (khối [Arena Scale]). | CHARACTER_BIBLE 1-3 |
+| J.9 | Mention đúng tag Higgsfield: `@Video1`, `@Image1…@ImageN` theo thứ tự medias; gắn tag cạnh tên mỗi lần nhắc. | RULES, skill 17 |
+| J.10 | ĐẾM NGƯỜI: [Head Count] "EXACTLY N", danh sách đánh số, số người mỗi shot; cấm người thừa/đúp. | CHARACTER_BIBLE 4 |
+| J.11 | QA BẮT BUỘC trước mỗi lần gen: `python3 KMM_options/tools/kmm_prompt_qa.py <request.json>` = 0 ERROR + checklist `QA_RULES.md`; báo cáo QA cho Huy PD. Không viết tên studio/phim (vd "Disney") trong prompt. | QA_RULES.md |
+| J.12 | Cảnh đông người: không cận mặt; mỗi khung tối đa ~3-5 người nhận diện được; chỉ đính kèm ref cho người lộ rõ. | RULES, skill 20 |
+| J.13 | Nhiều nhân vật riêng biệt → CẮT THEO NHÓM ≤4 người/shot, giữ raccord (scene map, trục 180°, hướng nhìn, cùng thời điểm/ánh sáng). | RULES, skill 21 |
+| J.14 | Video master MỚI `000a36ef` (FANTASY.mp4); MỌI gen vào MV KMM › **FANTASY 2 `08a93ec8-25e5-49aa-83c2-0492790d5567`**. Linter báo lỗi nếu sai. | RULES |
+| J.15 | **KHÓA STYLE: mọi nhân vật cùng look 3D như Mai/@Video1 trong MỌI video** (khối [Style Lock] nguyên văn; sheet chỉ là design; bỏ nét vẽ 2D/màu nước/chì). Ngoại lệ: sói/quái bóng đêm = bóng đen phẳng. Linter báo lỗi nếu thiếu. | CHARACTER_BIBLE 5, skill 22 |
+| Sói | Sói bóng đêm = bóng đen phẳng, viền tan khói, KHÔNG lông (không bao giờ viết "fur"). | CHARACTER_BIBLE 2 |
+| Upload | Widget Higgsfield hiện ĐƯỢC trong phiên này (`media_upload_widget`). Proxy chặn upload.higgsfield.ai nên không upload trực tiếp từ container. | — |
+
+**Ref nhân vật cập nhật hôm nay:** An ninh v2 `046ff4df` (không mũ, không dùi cui), Bộ đội v2 `4ef44ef0`, Bác sĩ v2 `23d201b9`, Kỹ sư v2 `ea7e2f28` (kính gọng vuông). Lính cứu hỏa vẫn `94ba28f4` (sheet màu nước). Các sheet 2D/màu nước nên được làm lại bản 3D khi có thể.
+
+**Thư mục/request:** file request JSON đã qua QA lưu ở `KMM_options/requests/`; linter ở `KMM_options/tools/kmm_prompt_qa.py`.
 
 ---
 
@@ -41,7 +65,7 @@ Cập nhật: **2026-10-04**. Repo `cvnhwi/kmm`, branch `claude/gracious-archime
   7. Báo cáo bằng tiếng Việt kèm checklist.
   - Notification check-in đến sau khi job đã hiện thì chỉ trả lời ngắn.
 - **Git:**
-  - Push bằng `git push -u origin claude/gracious-archimedes-cao5q7`.
+  - Push bằng `git push -u origin <branch của phiên hiện tại>` (phiên 2026-10-04: `claude/laughing-hypatia-z5fhie`).
   - Không tạo PR nếu không được yêu cầu.
   - Commit theo trailer attribution của session hiện tại.
   - Không ghi tên model trong commit hay file.
@@ -242,5 +266,5 @@ Lịch sử đầy đủ nằm trong các file `option_B_*.md`.
 ## 9. Prompt mở đầu cho box chat mới (copy dán)
 
 ```
-Tiếp tục dự án MV KMM. Đọc KMM_options/KMM_RULES_SUMMARY.md (đủ mục A–J; mục J feedback draft_1 ưu tiên cao nhất), rồi KMM_options/HANDOFF_GUIDE.md, STYLE_GUIDE_B.md và CAMERA_LIBRARY_B.md (mục 8) trong repo cvnhwi/kmm, branch claude/gracious-archimedes-cao5q7. Dùng skill .claude/skills/kmm-fantasy-video-prompt và .claude/skills/cinematic-director. Trả lời tiếng Việt, prompt tiếng Anh. Mọi video gen vào folder MV KMM 11749213-086c-4a29-a963-b5a064eb4af7. Cảnh fantasy luôn đính kèm video master 000a36ef-3958-42a3-ac67-be28b5139e06 và Mai fantasy 0d56fcb2-47cc-4271-b785-c73f4ab9a17b. Cảnh ở đấu trường BOSS mà tôi không nói bối cảnh thì HỎI tôi chọn góc trong bảng Boss_Angles (HANDOFF mục 4), không tự chọn.
+Tiếp tục dự án MV KMM (repo cvnhwi/kmm, branch claude/laughing-hypatia-z5fhie, thư mục KMM_options/). Đọc theo thứ tự: HANDOFF_GUIDE.md (mục 0 tóm tắt rule mới), KMM_RULES_SUMMARY.md (đủ A–J, J.7–J.15 mới nhất), CHARACTER_BIBLE.md, QA_RULES.md, STYLE_GUIDE_B.md, CAMERA_LIBRARY_B.md (mục 7–8). Dùng skill .claude/skills/kmm-fantasy-video-prompt và .claude/skills/cinematic-director. Trả lời tiếng Việt, prompt tiếng Anh. Video master: 000a36ef-3958-42a3-ac67-be28b5139e06 (@Video1). Mọi gen vào MV KMM › FANTASY 2 08a93ec8-25e5-49aa-83c2-0492790d5567. Mọi nhân vật cùng look 3D như Mai (khối [Style Lock]). Trước mỗi lần gen chạy python3 KMM_options/tools/kmm_prompt_qa.py <request.json> (0 ERROR) + checklist QA_RULES.md. Cảnh ở đấu trường BOSS mà tôi không nói góc thì HỎI tôi chọn góc (Boss_Angles).
 ```
