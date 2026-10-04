@@ -228,6 +228,9 @@ Higgsfield's Seedance reference syntax: images are tagged **`@Image1` … `@Imag
 - Repeat the tag next to the character's name EVERY time they are named in [Cast Roll-Call], [Space & Blocking] and [Action & Camera] (e.g. "Mom (@Image3) kneels and hugs Mai (@Image2)"), not only in [References].
 - Every attached tag appears at least once; no tag that is not attached; never put media ids or URLs in the prompt.
 
+### 18. Head count (user 2026-10-04, MANDATORY)
+Count the cast, re-count, and write the exact number everywhere: [Generation Goal], a numbered [Head Count] block (1..N, each with its @ImageN tag, "nobody else exists in this clip") and a per-shot "N people visible: ..." line. No background crowd, extras, twins or look-alikes unless the scene needs a crowd (then: anonymous townspeople who look clearly different from every named character). A wrong total ("12 people" for an 11-person cast) made the model add duplicates. See `CHARACTER_BIBLE.md` section 4.
+
 ### Fight sequence guide (user 2026-10-03, from animated-feature trailer refs)
 A flexible toolkit, NOT a fixed shot list. Pick and reorder angles to make each fight look its best for its space, characters and beat.
 

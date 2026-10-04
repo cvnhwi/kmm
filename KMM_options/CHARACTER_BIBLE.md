@@ -49,3 +49,13 @@ The BOSS arena is enormous, not a room. Even when a close angle plate (goc02, go
 Avoid adds: "small room, narrow corridor, low ceiling, walls close behind the characters, cramped space, flat shallow background".
 
 Camera help: prefer wide lenses (14-24 mm) for establishing shots; in medium shots keep a deep background (deep focus or a soft but deep haze) and frame so that a distant tower line is visible behind the characters.
+
+## 4. HEAD COUNT (anti-duplication, user 2026-10-04: "vẫn bị đúp nhân vật, phải giới hạn số lượng và ghi số đúng")
+
+Happy ending v3 duplicated characters. Root cause found: the prompt said "Exactly 12 people" and "eleven allies" while the real cast was 11 people (8 allies), so the model invented extra people. Rules:
+1. **Count before writing, then re-count.** Write the exact total and split it by type, e.g. "EXACTLY 11 people: 1 child (Mai), 3 women (Mom, Teacher, Cleaner), 7 men (Dad, Doctor, Police Officer, Security Guard, Engineer, Bus driver, Soldier) + exactly 1 puppy". Totals in [Generation Goal], [Head Count] and every shot must agree.
+2. **Numbered list** in a [Head Count] block: "1. Mai (@Image2) … 11. Soldier (@Image13)", each with its tag; "nobody else exists in this clip".
+3. **Per-shot count:** every shot line states how many people are visible and who, e.g. "Shot 1: 7 people visible: Mai, Mom, Dad + Teacher, Cleaner, Doctor, Police Officer; + the puppy".
+4. **No extras:** "no background crowd, no extra people, no passers-by, no twins or look-alikes; every person appears ONCE per shot; never two copies of the same person in one frame".
+5. Avoid adds: "duplicated characters, the same person twice in one frame, twins, clones, extra people, background crowd, more than <N> people".
+6. If a scene truly needs a crowd, say "<N> named characters + an anonymous crowd of ordinary townspeople who look clearly different from every named character" and keep the crowd behind and out of focus.

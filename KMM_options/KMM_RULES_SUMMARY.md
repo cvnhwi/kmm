@@ -333,3 +333,13 @@ Mục J ưu tiên hơn các mục khác nếu mâu thuẫn. Các dòng ghi "(m�
   - [References]: một dòng mỗi ảnh: "@Image3 = MOM ONLY: …" (dòng mô tả lấy từ CHARACTER_BIBLE).
   - **Trong [Action & Camera], [Cast Roll-Call], [Space & Blocking] cũng gọi tên kèm tag** mỗi lần nhân vật xuất hiện, ví dụ "Mom (@Image3) kneels and hugs Mai (@Image2)". Không chỉ khai báo ở đầu rồi bỏ.
 - Áp dụng cho mọi prompt Seedance omni_reference của dự án.
+
+### J.10 Luật ĐẾM NGƯỜI chống đúp nhân vật (2026-10-04)
+- Feedback: happy ending v3 vẫn bị đúp nhân vật; phải giới hạn số lượng và ghi số đúng.
+- Lỗi gốc: prompt v2/v3 ghi "12 people" và "eleven allies" nhưng thực tế 11 người (8 người phe mình) → model tự thêm người.
+- Bắt buộc (chi tiết `CHARACTER_BIBLE.md` mục 4):
+  - Đếm rồi đếm lại; ghi tổng chính xác và chia theo loại (trẻ em / phụ nữ / đàn ông / cún).
+  - Khối [Head Count] đánh số 1..N kèm `@ImageN`, ghi "nobody else exists".
+  - Mỗi shot ghi rõ số người thấy trong khung và là ai.
+  - Cấm đám đông nền, người thừa, người giống nhau; mỗi người chỉ xuất hiện 1 lần mỗi shot.
+- Happy ending: thế giới fantasy sau khi tan biến phải VUI hơn, tone HỒNG pastel đẹp hơn; sau khi biến đổi KHÔNG còn xe buýt chạy phía sau.
