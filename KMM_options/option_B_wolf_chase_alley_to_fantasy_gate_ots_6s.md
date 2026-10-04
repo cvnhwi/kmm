@@ -53,4 +53,6 @@ Changes vs v3:
 QA: linter PASS (0 ERROR, 0 WARN). Manual: 1 person + 1 wolf head, no contact, one camera move, style lock, no pupils, no purple, FANTASY 2, master 000a36ef. Bible + QA lessons updated (do not attach the wolf sheet).
 Request JSON: `KMM_options/requests/wolf_chase_alley_gate_6s_v4.json`.
 
-Status: SUBMITTED — job `ae2b45d8-152c-4d5e-aff3-972fa7565217` (declined preset 24bae836)
+Status: COMPLETED — job `ae2b45d8-152c-4d5e-aff3-972fa7565217` (declined preset 24bae836) → https://d8j0ntlcm91z4.cloudfront.net/user_3JNS6ee2vsgr9rp9IBmIleZYkaP/hf_20261004_134514_ae2b45d8-152c-4d5e-aff3-972fa7565217.mp4
+Review (Claude, frames 0.5/2.5/4/5.5 s): head-only framing OK (no back/rump); wolf head darker and smoother than v3, less fur, but edges still soft-fuzzy and slightly 3D-shaded; at ~5.5 s, inside the teal tunnel, the head turns lighter grey-pink (lit). Mai still starts mid-street, NOT near the gate (model kept the master's distance). Camera enters the tunnel at the end. Waiting for Huy PD review.
+Ideas for v5 if needed: start the camera itself much closer to the gate (gate fills ~half the frame at frame 1), shorten the distance in words ("10 metres"), keep the wolf head pure black even inside teal light, stop the camera before the arch.
