@@ -160,11 +160,20 @@ Tham khảo thêm `HANDOFF_GUIDE.md`, `STYLE_GUIDE_B.md`, `REUPLOAD_NEW_ACCOUNT.
 
 ## H. Việc còn mở
 
-- **LUẬT GÓC BOSS (2026-10-04):** Huy PD có một bộ ảnh nhiều góc của nền đấu trường BOSS cuối (local: `C:\Users\louee\Desktop\KMM\BG\Final\Boss_Angles`). Mỗi khi được yêu cầu một cảnh đánh nhau hoặc toàn cảnh ở đấu trường BOSS, PHẢI HỎI LẠI Huy PD dùng góc nào trong bộ này (trừ khi Huy PD đã chỉ định góc), để vừa đa dạng góc máy vừa đồng nhất bối cảnh. Dùng đúng ảnh góc đó làm ảnh tham khảo nền thay cho plate chung `c8394b3d`. Bộ ảnh CHƯA lên Higgsfield (thư mục ENVIRONMENT đang trống): cần upload rồi ghi ID từng góc vào bảng bên dưới.
+- **LUẬT GÓC BOSS (2026-10-04):** Huy PD có một bộ ảnh nhiều góc của nền đấu trường BOSS cuối (local: `C:\Users\louee\Desktop\KMM\BG\Final\Boss_Angles`). Mỗi khi được yêu cầu một cảnh đánh nhau hoặc toàn cảnh ở đấu trường BOSS, PHẢI HỎI LẠI Huy PD dùng góc nào trong bộ này (trừ khi Huy PD đã chỉ định góc), để vừa đa dạng góc máy vừa đồng nhất bối cảnh. Dùng đúng ảnh góc đó làm ảnh tham khảo nền thay cho plate chung `c8394b3d`. Bộ ảnh đã lên Higgsfield (10 góc, upload 2026-10-04). Khi hỏi, liệt kê các góc theo mô tả ngắn trong bảng.
 
-| Góc BOSS | Mô tả | ID |
+| Góc BOSS | Mô tả (Claude xem ảnh, 2026-10-04) | ID |
 |---|---|---|
-| (chờ upload) | | |
+| goc01 | Sát sàn, đối xứng: hai tường màn hình hai bên chạy vào điểm tụ giữa đầy sương, trời tối chiếm nửa khung, sàn chỉ là dải mỏng. Hợp cho toàn cảnh hùng vĩ và đoàn người tiến vào. | `184025af-2e7a-4310-a3c2-a147c7e14c8a` |
+| goc02 | Thấp, lệch trái: tường trái rất gần và cao vút, tường phải ở xa, sàn ướt rộng có dây cáp. Hợp cho góc từ sau lưng quái hoặc từ cạnh tường nhìn ra bãi. | `4abb6caa-95e6-4d4d-be28-6290f918e998` |
+| goc03 | Thấp, lệch phải (gần như ngược của goc02): tường phải gần, màn hình to rõ chân dung, tường trái ở xa, sàn có cáp và tia lửa nhỏ. | `c2c8aab3-3f4e-4c90-b5c2-2cd20eea1de4` |
+| goc04 | Góc cao chéo khoảng 35-45 độ nhìn xuống bãi sàn ướt phản chiếu, nhiều dây cáp, tường ở hai mép trên. Hợp cho dàn trận, đám đông, cảnh bao vây kiểu điện ảnh (không top-down hẳn). | `055c0f0a-6861-4817-87ce-84e274d682b4` |
+| goc05 | Sát sàn, rất thấp, hơi nghiêng (dutch): sàn chiếm tiền cảnh lớn, hai tường hội tụ về giữa. Kịch tính, hợp cho chân hoặc nắm đấm lao qua ống kính, quái lao tới. | `c6e4d549-458a-4d8c-b61f-ebeec563848a` |
+| goc06 | Ngang tầm mắt, nhìn gần CHÍNH DIỆN vào một bức tường màn hình (chỉ hơi chéo). LƯU Ý: dễ phạm luật "không chính diện tường", chỉ dùng khi Huy PD chọn, và nên có nhân vật che hoặc đẩy góc xiên hơn. | `9c55f7a2-196d-4cb0-af94-8e847e4aed01` |
+| goc07 | Ngang tầm mắt ở góc trong nơi hai tường gặp nhau. ẢNH CÓ SẴN vài bóng người đang vật lộn trên sàn ở góc trái: khi dùng phải ghi rõ trong prompt là thay hoặc bỏ các bóng này. | `5f57dedc-521a-419c-8204-197f32f184fe` |
+| goc08 | Khung trong khung: hai khối tường màn hình gần ở tiền cảnh trái/phải, nhìn qua khe ra bãi trống và cụm tường xa. Hợp cho góc lén nhìn, phát hiện, hoặc nhân vật bước ra từ khe. | `63b4cda7-021a-4ec7-9d00-605524699b12` |
+| goc09 | Gần top-down (khoảng 70-80 độ) nhìn thẳng xuống sàn giữa hai tường nghiêng, dây cáp, hộp nhỏ. Dùng tiết chế vì feedback J.4 chê cảnh bao vây top-down giống game. | `644fe76c-bd26-4318-9114-2c27fc548264` |
+| goc10 | Thấp, đối xứng, hành lang sâu hơn goc01: sàn rộng hơn, quầng sáng teal ở điểm tụ giữa. Hợp cho cảnh đoàn người phe mình đứng chặn và luồng sáng liên kết hướng về phía xa. | `f09bcd5a-a196-493d-898b-44dff118a622` |
 - ĐỌC MỤC J (feedback draft_1 vòng 1) trước khi viết bất kỳ prompt nào. Mục J ưu tiên hơn các mục khác.
 - Đã có mục I (câu chuyện + raccord từ draft_1). Cần Huy PD đối chiếu các điểm ở I.3 và cập nhật khi draft đổi.
 - Nhân vật cập nhật 2026-10-04 đã lên Higgsfield (mục G): 10_CongAn bản mới, 27_BacSi, 28_KiSu, 29_LinhCuuHoa, và thêm một Bộ đội chưa có mã số (cần Huy PD đặt mã và cho biết vai trò). Chưa rõ vai trò của Bác sĩ, Kỹ sư, Lính cứu hỏa trong câu chuyện (draft_1 chưa có họ).
