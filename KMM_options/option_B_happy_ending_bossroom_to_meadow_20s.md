@@ -270,3 +270,19 @@ User: rebuild with camera angles that never show face close-ups or too many char
 - QA: linter PASS (0 ERROR, 0 WARN) on `KMM_options/requests/happy_ending_20s_v6.json`; head count 11 + puppy; per-shot visible counts 3 / hands / 5 / 3 / 11 tiny.
 
 Status: SUBMITTED — job `b66283d0-f72e-4d41-b325-5148582752c3` (declined preset 24bae836)
+
+## v7: GROUP CUTTING, max 4 named people per shot, raccord kept (RULES J.13), 20 s, 7 shots
+User: for scenes that show many distinct people, cut into shots of 4 people each (not one long shot of 8) while keeping raccord; rebuild the scene.
+Scene map (fixed): family at the centre; group A WEST of the family (screen left), left to right: Police Officer, Teacher, Cleaner, Doctor, facing east (they look screen RIGHT); group B EAST (screen right), left to right: Engineer, bus driver, Soldier, Security Guard, facing west (they look screen LEFT); camera always on the SOUTH side; the bus parked far NORTH. Police Officer and Security Guard at opposite outer ends.
+| # | Time | Shot | Visible |
+|---|---|---|---|
+| 1 | 0-3 s | medium at Mai's eye level from the south, one slow arc L→R | family 3 + puppy (bus far behind) |
+| 2 | 3-4 s | waist-height insert | Mom's hand on the backpack strap, puppy at the sneaker; no faces |
+| 3 | 4-6.5 s | group A, medium-wide from the SW, slow push-in; eyeline screen right | 4 people |
+| 4 | 6.5-9 s | group B, medium-wide from the SE, slow push-in; eyeline screen left | 4 people |
+| 5 | 9-11.5 s | family medium 3/4 front, gentle push; Mai looks left (A) then right (B), shy smile | 3 + puppy |
+| 6 | 11.5-15.5 s | floor-level wide behind the family, pedestal rise; transformation into the pink paradise | family 3 small + puppy; groups out of frame |
+| 7 | 15.5-20 s | ultra-wide crane up, locked 17-20 s | 11 tiny silhouettes (A left, family middle, B right); no bus |
+- QA: linter 0 ERROR; 2 WARN accepted: "4 people" is the per-shot limit sentence, not a count conflict; 14 images (the user wants all 11 readable, so all are referenced; each appears only in its own group shot). Manual: eyelines A→right / B→left match Mai's look left then right; same light and moment in shots 1-5; one move per shot.
+
+Status: SUBMITTED — job `7561281f-075d-4aff-91f7-79b775d2f03b` (declined preset 24bae836)
