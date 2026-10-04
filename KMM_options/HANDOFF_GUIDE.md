@@ -7,7 +7,8 @@ Cập nhật: **2026-10-04**. Repo `cvnhwi/kmm`, branch `claude/gracious-archime
    - **Mục J (feedback draft_1) thắng mọi mục khác nếu mâu thuẫn.**
    - Mục H chứa luật góc BOSS và các việc còn mở.
    - Mục I chứa câu chuyện và raccord.
-2. File này: tổng quan, các thao tác kỹ thuật, trạng thái.
+2. **`CHARACTER_BIBLE.md`**: mô tả chuẩn từng nhân vật (copy nguyên văn vào prompt) + luật đấu trường BOSS siêu rộng (RULES J.8).
+3. File này: tổng quan, các thao tác kỹ thuật, trạng thái.
 3. `STYLE_GUIDE_B.md` (luật đầy đủ) và `CAMERA_LIBRARY_B.md` (mục 8 là director pass).
 4. Skill: `.claude/skills/kmm-fantasy-video-prompt/` (bản sao ở `KMM_FANTASY_VIDEO_PROMPT_SKILL.md`) và `.claude/skills/cinematic-director/`.
    - Skill có thể chưa có các update ngày 2026-10-04. Nếu khác nhau thì theo `KMM_RULES_SUMMARY.md`.

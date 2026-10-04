@@ -2,7 +2,7 @@
 
 Cập nhật: 2026-10-04. Repo `cvnhwi/kmm`, branch `claude/gracious-archimedes-cao5q7`.
 Chi tiết đầy đủ nằm trong skill `.claude/skills/kmm-fantasy-video-prompt/SKILL.md`; bản sao ở `KMM_options/KMM_FANTASY_VIDEO_PROMPT_SKILL.md`, phải luôn giống hệt.
-Tham khảo thêm `HANDOFF_GUIDE.md`, `STYLE_GUIDE_B.md`, `REUPLOAD_NEW_ACCOUNT.md`.
+**Mô tả nhân vật + độ rộng đấu trường BOSS: `CHARACTER_BIBLE.md` (bắt buộc, xem J.8).** Tham khảo thêm `HANDOFF_GUIDE.md`, `STYLE_GUIDE_B.md`, `REUPLOAD_NEW_ACCOUNT.md`.
 
 ---
 
@@ -312,3 +312,13 @@ Mục J ưu tiên hơn các mục khác nếu mâu thuẫn. Các dòng ghi "(m�
 - **Sau khi mọi người vỗ vai: bố fantasy chào chú công an** (user yêu cầu, thắng ghi chú "không còn cảnh riêng của công an" ở J.4).
 - **Happy ending 3 shot:** (1) trung cảnh, đủ nhân vật dàn quanh, mẹ ôm Mai, bố đứng cạnh, có cún; (2) wide, sàn biến đổi sang thế giới happy fantasy; (3) ultra wide, thế giới fantasy biến đổi, trên trời có title "KHÔNG MỘT MÌNH" (ngoại lệ duy nhất của luật không chữ; nếu AI viết sai dấu thì thêm chữ ở hậu kỳ).
 - File: `option_B_feedback1_boss_epic_8clips.md`.
+
+### J.8 Luật mới (2026-10-04): mô tả kỹ từng người, chống trộn nhân vật; đấu trường BOSS SIÊU RỘNG
+- **Feedback:** các nhân vật đang bị blend vào nhau rất nhiều; prompt khi mô tả ref phải mô tả kỹ từng người. Phòng BOSS siêu rộng: dù dùng góc nào vẫn phải tả được độ rộng.
+- **File chuẩn: `KMM_options/CHARACTER_BIBLE.md`.** Mỗi prompt copy NGUYÊN VĂN dòng mô tả tiếng Anh của từng nhân vật vào [References] (một dòng mỗi ảnh, "Image N = <TÊN> ONLY: …, Unique: …"). Thêm khối [Cast Roll-Call] và [No Blending]. File này thắng mọi mô tả cũ.
+- **Mô tả cũ bị SAI đã sửa** (Claude xem lại ref 2026-10-04):
+  - Bố: áo giáp bằng thanh TRE xanh buộc dây, dép sandal nâu, không bao tay.
+  - Mẹ: áo choàng caro VÀNG nhạt (không phải xanh lá), tạp dề xanh hoa cúc, mũ bảo hiểm trắng.
+  - Tài xế: sơ mi xanh nhạt dài tay, mũ lưỡi trai xanh nhạt, ria mép + râu cằm.
+- **Cặp dễ trộn nhất:** công an và an ninh cùng mặc áo ô liu cộc tay. Công an: trẻ, mũ kê-pi, phù hiệu đỏ, quần rất sẫm. An ninh: khoảng 50 tuổi, đầu trần tóc điểm bạc, không có màu đỏ, phù hiệu khiên xanh tay trái. Không xếp đứng cạnh nhau.
+- **Đấu trường BOSS:** luôn thêm khối [Arena Scale] (CHARACTER_BIBLE mục 3). Ảnh góc chỉ là MỘT góc nhìn của một không gian khổng lồ; luôn có lớp tường màn hình cao như nhà chọc trời lùi xa vào sương, trời mở phía trên, người nhỏ so với tường. Cấm "phòng nhỏ / hành lang / trần thấp".

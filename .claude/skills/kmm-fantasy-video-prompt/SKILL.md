@@ -50,8 +50,8 @@ If the user says they are not attaching the video (or it is unavailable), warn t
 |---|---|---|
 | **Video 1: FANTASY MASTER (always)** | `Fantasy_v2_720p.mp4` | `24430dd0-a7ec-4d5c-a555-46abfb7600a1` (Fantasy.mp4, account mới; test job `6a9c8607` COMPLETED 2026-10-02 → dùng được) |
 | Mai (fantasy), always "Mai" | `01_Mai_FAntasy.png` | `0d56fcb2-47cc-4271-b785-c73f4ab9a17b` |
-| Fantasy father (Bố) | fantasy dad sheet | `8eeb2595-7127-4d3f-9dc6-9c124caa1c99` |
-| Fantasy mother (Mẹ), frying pan | fantasy mom sheet | `a6286ab4-eaba-40ed-988f-3452354fe6ce` |
+| Fantasy father (Bố): green bamboo-slat armour vest, glasses, brown sandals (see CHARACTER_BIBLE) | fantasy dad sheet | `8eeb2595-7127-4d3f-9dc6-9c124caa1c99` |
+| Fantasy mother (Mẹ): white motorbike helmet, pale-yellow checked cape, green daisy apron, pan (see CHARACTER_BIBLE) | fantasy mom sheet | `a6286ab4-eaba-40ed-988f-3452354fe6ce` |
 | Security guard (Chú an ninh) v2: olive-khaki short-sleeve shirt, green shield patch on LEFT sleeve, no cap, grey-streaked hair, bare-handed (no baton in the new sheet) | 09_AnNinh_v2.png (2026-10-04; old `682c6b6d`) | `046ff4df-ba34-4695-9ff6-9ea1a40b2faa` |
 | Teacher (Cô giáo), pink áo dài, wooden ruler | `07_CoGiao` | `89b32a5e-bfbc-44af-96e9-a274bb04cf51` |
 | Cleaner (Cô lao công), orange uniform, nón lá, bamboo broom | `08_CoLaoCong` | `2f4bb001-827c-4409-8887-3cd734d1b89b` |
@@ -217,6 +217,10 @@ Whenever Mai runs, add a **[Running Style]** line:
 13. **Characters belong in the shot:** matching light, contact shadows, mist in front of and behind them; never a pasted-on layer.
 14. **Dynamic camera by default** (user 2026-10-03): most shots MOVE (push-in, pull-back, track, dolly, arc/orbit, crane, handheld drift, rack focus, tilt/pan with motivation). Locked-off/static shots are the exception, at most ~1 in 5 shots and only where stillness is the point (a frozen beat, a hold before a cut). Even in close-ups and "hold" endings keep a slight drift or creep. Write the move in every shot line.
 
+### 15-16. Character bible + BOSS scale (user 2026-10-04, MANDATORY)
+15. **Describe every character in detail, never let them blend.** Use the canonical English lines in `KMM_options/CHARACTER_BIBLE.md` verbatim in [References] (one line per image: "Image N = <ROLE> ONLY: ... Unique: ..."), plus a [Cast Roll-Call] block (exact head-count, each once) and the [No Blending] block from that file. That file overrides the short descriptions in section 2 of this skill. Known corrections: Dad's vest is green BAMBOO slats (no gloves, brown sandals); Mom's cape is pale-YELLOW checked with a green daisy apron; the Police Officer and the Security Guard both wear olive short-sleeve shirts, so contrast them explicitly (peaked cap + red tabs vs bare head + green shield patch) and never stand them side by side.
+16. **The BOSS arena is SUPER WIDE.** Every BOSS-arena prompt gets the [Arena Scale] block from `CHARACTER_BIBLE.md` section 3, whatever angle plate is attached: colossal plaza, skyscraper-tall monitor cliffs receding hundreds of metres into fog, open dark sky, people tiny against the walls, deep layered background even in medium shots. Avoid: small room, corridor, low ceiling, walls close behind the characters.
+
 ### Fight sequence guide (user 2026-10-03, from animated-feature trailer refs)
 A flexible toolkit, NOT a fixed shot list. Pick and reorder angles to make each fight look its best for its space, characters and beat.
 
@@ -266,7 +270,7 @@ A flexible toolkit, NOT a fixed shot list. Pick and reorder angles to make each 
 - DIGITAL RIVER crossing (user 2026-10-02, with a frame ref): Mai crosses the river on a FALLEN TREE LOG lying horizontally across the whole river, bank to bank, slightly above the cards; she runs along its top in side profile, screen L → R, arms slightly out, cyan rim. Hero frame: low wide side view from the near bank at water level, log spanning the full frame, glowing cards in the foreground below it, dark gnarled trees with roots/vines framing both sides (one with red veins), cyan light beam behind, storm clouds. No built bridge. Note: the ref frame shows realistic eyes WITH irises/pupils in the trees; the no-pupil rule still applies unless the user overrides it.
   - Mai stays on the dry bank and never walks on the river.
   - Profile cards fly in layers (foreground, middle, background) and swirl toward the vortex centre.
-- **BOSS arena:**
+- **BOSS arena (SUPER WIDE, rule 16):**
   - The giant brain boss hovers at the north end, high up, with tentacles swaying, each on its own rhythm.
   - Ominous violet-teal light.
   - Heroes and golden rays travel screen left → right.
