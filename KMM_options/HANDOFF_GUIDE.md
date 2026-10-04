@@ -26,6 +26,7 @@ Cập nhật: **2026-10-04**. Repo `cvnhwi/kmm`, branch `claude/gracious-archime
 - **Ngôn ngữ:** trả lời bằng tiếng Việt, viết prompt bằng tiếng Anh.
 - **Phạm vi:** chỉ làm cảnh **FANTASY**. Không thêm cảnh đời thường ngoài trời (feedback J).
   - "Mai" hoặc "Mi" luôn là Mai fantasy. Bố và mẹ luôn là bản fantasy.
+- **Mọi video: tất cả nhân vật cùng một look 3D như Mai/video master** (khối [Style Lock], RULES J.15; linter báo lỗi nếu thiếu).
 - **Không bao giờ nói đã kiểm tra nội dung output.** Luôn ghi "chưa kiểm tra nội dung" và đưa checklist theo từng clip.
 - **Tự chọn mặc định khi thiếu thông tin**, rồi flag rõ đã chọn gì.
   - **NGOẠI LỆ, luật góc BOSS:** xem mục 4.
