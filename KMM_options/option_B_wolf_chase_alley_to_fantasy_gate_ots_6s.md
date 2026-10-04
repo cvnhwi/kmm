@@ -70,3 +70,16 @@ Request JSON: `KMM_options/requests/wolf_chase_alley_gate_6s_v5.json`.
 
 Status: COMPLETED — job `6edd622d-9d50-489c-8bb1-3e8a98cd159c` (declined preset 24bae836) → https://d8j0ntlcm91z4.cloudfront.net/user_3JNS6ee2vsgr9rp9IBmIleZYkaP/hf_20261004_135303_6edd622d-9d50-489c-8bb1-3e8a98cd159c.mp4
 Review (Claude, frames 0.3/2/3.5/5.5 s): scale FIXED: Mai about 1/3 of frame height, arch about twice her height, alley-wide, like the master. Head-only wolf framing OK; head mostly black, crisp at the end, edges still a little soft/fuzzy at 2-3.5 s. Camera still pushes through the arch at the end (did not stop before it). Waiting for Huy PD review.
+
+## v6: wolf exactly like its sheet (night shadow, big) + Mai already STANDING at the gate (user 2026-10-04), 6 s, one take
+User feedback on v5: "sói giống với sheet, kiểu bóng đêm, đủ to, Mai đứng sẵn ở gần với cổng".
+Changes vs v5:
+- Wolf sheet `b5f7908e` re-attached as @Image4; design copied exactly (lean silhouette, tall ears, jagged spiky crest, narrow muzzle, yellow almond eyes); spiky crest = outline shape only, solid flat deep black, no fur texture. Bible updated (reverses the v4 "do not attach" note).
+- Wolf HUGE: shoulders taller than Mai, head as tall as Mai's upper body; head + ears + crest fill the LEFT 40% of the frame from the bottom edge to above the middle.
+- Mai already STANDING one step in front of the arch at frame 1, half-turned looking back (0-1.5 s), then runs in (1.5-4 s).
+- Camera ends outside, framing the arch (v5 pushed through).
+- Scale Lock from v5 kept.
+QA: linter PASS (0 ERROR, 0 WARN). Manual: 1 person + 1 wolf head, no contact, one camera move, style lock, FANTASY 2, master 000a36ef.
+Request JSON: `KMM_options/requests/wolf_chase_alley_gate_6s_v6.json`.
+
+Status: SUBMITTED — job `c67f909c-87b6-4ab6-b736-57e6c7a8ce71` (declined preset 24bae836)
