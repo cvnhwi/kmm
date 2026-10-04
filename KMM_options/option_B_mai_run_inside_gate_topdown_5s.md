@@ -57,3 +57,9 @@ Review (Claude, frames 0.3/1.7/3.2/4.7 s): the model ignored the ceiling camera:
 Plan: generate a top-down still (gpt_image_2_5, refs gate interior `22c1d2ad` + Mai `0d56fcb2`, 16:9) with the ceiling camera, Mai 1/6 of frame in the upper-centre, dim light, no smoke; then Seedance 2.5 with that image as `start_image` and @Video1 for STYLE ONLY (not camera/framing).
 Start frame: image job `c8b4192b-7d18-4632-8b13-433db79374f3` (gpt_image_2_5, high, 1k, 16:9) → https://d8j0ntlcm91z4.cloudfront.net/user_3JNS6ee2vsgr9rp9IBmIleZYkaP/hf_20261004_152640_c8b4192b-7d18-4632-8b13-433db79374f3.png
 Review (Claude): near top-down from the ceiling, dark root/cable ceiling edges framing, monitors along both walls, Mai small (about 1/7 of frame) upper-centre running down the frame, dim light, no smoke, no text. Waiting for Huy PD approval before the video.
+Huy PD approved the start frame ("ok").
+v5 video: v4 prompt + [START FRAME] block (keep exactly the start image's camera height/angle/framing/lighting all clip), @Video1 = style only (no camera/framing), Mai 1/7 of frame as in the start frame, Avoid adds camera dropping/tilting, Mai running at camera at eye level, Mai bigger than in the start frame. Start image `c8b4192b` passed as role `start_image` (not counted as @Image).
+QA: linter PASS (0 ERROR, 0 WARN).
+Request JSON: `KMM_options/requests/mai_run_inside_gate_topdown_5s_v5.json`.
+
+Status: SUBMITTED — job `2db940f7-4105-4bf4-81b5-c40644cbf41c` (declined preset f1821f84)
