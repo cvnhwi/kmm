@@ -24,4 +24,18 @@ Changes vs v1:
 QA: linter PASS (0 ERROR, 0 WARN); manual fix: v2 draft said "camera keeps Mai centred" AND "she runs down the frame" (contradiction) → camera slower than Mai.
 Request JSON: `KMM_options/requests/mai_run_inside_gate_topdown_5s_v2.json`.
 
-Status: SUBMITTED — job `747e3916-cda7-44d1-b368-a16793ff7c95` (declined preset f1821f84)
+Status: COMPLETED — job `747e3916-cda7-44d1-b368-a16793ff7c95` (declined preset f1821f84) → https://d8j0ntlcm91z4.cloudfront.net/user_3JNS6ee2vsgr9rp9IBmIleZYkaP/hf_20261004_150205_747e3916-cda7-44d1-b368-a16793ff7c95.mp4
+Review: direction correct (user confirmed). Problems: Mai starts as a tiny figure high up near the bright end (looks like floating near the ceiling) and grows to about 1/3 of frame height by 5 s; tunnel looks gigantic; a strong bright light shaft down the path.
+
+## v3: scale locked, faster, DIM light (user 2026-10-04)
+User: "đúng hướng chạy rồi nhưng cần để ý scale nhân vật Mai, tăng tốc độ lên, ánh sáng yếu lại, vì lúc này đang đi vào trong hầm".
+Changes vs v2:
+- [Scale Lock, match @Video1]: Mai about 1.4 m; tunnel NOT gigantic (about 4 m wide, about 3x Mai's height); monitors about the size of Mai's upper body; Mai a CONSTANT one fifth of the frame height from first to last frame, always on the floor.
+- Camera: ONE fast high backward glide at almost exactly Mai's speed (same distance), so she only drifts from upper-centre to lower-centre; camera about 3 m above the floor, about 70 degrees down.
+- Speed: VERY FAST (top speed, running for her life, still girlish); floor, cables and monitors stream fast past.
+- Lighting: LOW-KEY, no light beam/shaft; faint teal glow far behind, dim flickering monitors; tunnel grows darker as she goes deeper.
+- Avoid adds: bright beam/shaft, overexposed path, Mai tiny then big, floating, gigantic tunnel, running slowly.
+QA: linter PASS (0 ERROR, 0 WARN).
+Request JSON: `KMM_options/requests/mai_run_inside_gate_topdown_5s_v3.json`.
+
+Status: SUBMITTED — job `708cbb72-c87b-466b-9212-461d29608751` (declined preset f1821f84)
