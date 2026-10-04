@@ -14,3 +14,16 @@ Flags: the reference frame itself was not attached (it carries burnt-in text); t
 Request JSON: `KMM_options/requests/wolf_chase_alley_gate_6s.json`.
 
 Status: COMPLETED (chưa kiểm tra nội dung) — job `dc8cfa6f-f7f0-44f5-b7dc-be4d1f32de17` (declined preset 24bae836)
+
+## v2: the wolf as a PURE NIGHT SHADOW (no real fur) + Style Lock (user 2026-10-04), 6 s, one take
+User re-sent the same frame and request, adding: the wolf must be a night-shadow, not real fur.
+Cause in v1: the prompt said "black smoke and shaggy fur" and "black furry head" → furry wolf.
+Changes vs v1:
+- Wolf rewritten everywhere as a flat neutral-black shadow silhouette, outline breaking into plain black smoke, no fur/hair/skin/muscles/3D shading, flat glowing yellow almond eyes; light does not model it (no rim highlights); shadow paws leave rippling smoke in puddles. Avoid adds: realistic animal, fur, hair strands, fluffy/shaggy coat, furry texture, detailed muzzle, 3D-shaded wolf body.
+- [Style Lock] block (RULES J.15); Mai line marked "design only, re-render in Mai's 3D style".
+- Canonical wolf line added to CHARACTER_BIBLE (never write "fur" for the wolf).
+- Same locked composition, folder FANTASY 2, new master `000a36ef`.
+QA: linter PASS (after adding [Style Lock], which the linter flagged).
+Request JSON: `KMM_options/requests/wolf_chase_alley_gate_6s_v2.json`.
+
+Status: SUBMITTED — job `877dfb1b-a668-4e5c-8b25-911a4e03fe40` (declined preset 24bae836)
