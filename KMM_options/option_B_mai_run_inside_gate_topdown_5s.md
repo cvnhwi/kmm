@@ -50,4 +50,8 @@ Request JSON: `KMM_options/requests/mai_run_inside_gate_topdown_5s_v4.json`.
 
 QA: linter PASS (0 ERROR, 0 WARN).
 
-Status: SUBMITTED — job `2d480b66-aee6-4f64-a09b-880488f73f7f` (declined preset f1821f84)
+Status: COMPLETED (FAILED the brief) — job `2d480b66-aee6-4f64-a09b-880488f73f7f` → https://d8j0ntlcm91z4.cloudfront.net/user_3JNS6ee2vsgr9rp9IBmIleZYkaP/hf_20261004_152113_2d480b66-aee6-4f64-a09b-880488f73f7f.mp4
+Review (Claude, frames 0.3/1.7/3.2/4.7 s): the model ignored the ceiling camera: eye-level/low camera, Mai about half the frame height running straight at camera. Likely pulled by the master video's eye-level tunnel shot. Text alone is not enough for an extreme angle.
+
+## v5: START FRAME first (top-down image), then video
+Plan: generate a top-down still (gpt_image_2_5, refs gate interior `22c1d2ad` + Mai `0d56fcb2`, 16:9) with the ceiling camera, Mai 1/6 of frame in the upper-centre, dim light, no smoke; then Seedance 2.5 with that image as `start_image` and @Video1 for STYLE ONLY (not camera/framing).
