@@ -85,3 +85,4 @@ QA trước khi gen: Linter 0 ERROR, N WARN (đã sửa: …; chấp nhận: …
 - 13-14 reference images in one clip = high blend risk; split the clip or keep minor people small and far.
 - A reference image with fur-like detail (wolf sheet `b5f7908e`, spiky mane) overrides "no fur" text: the wolf stayed furry and 3D-shaded in wolf chase v1–v3. v4 dropped it, but the user wants the sheet look: keep the sheet and state that its spikes are outline shape only, solid flat black, no fur texture (v6).
 - "A huge gate" made Mai a tiny dot; scale must follow the master video (arch about twice Mai's height). Write a [Scale Lock] with real sizes and frame-height fractions (wolf chase v5).
+- Wolf eye showed a dark lid line/slit (wolf profile v1). Fix that worked (v2): an "EYE RULE (MOST IMPORTANT)" block right after the master line, "no pupil" repeated in every block, and no wording that implies looking/aiming ("focused on its prey").

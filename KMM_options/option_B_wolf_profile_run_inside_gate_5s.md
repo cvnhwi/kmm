@@ -25,4 +25,5 @@ Changes vs v1:
 QA: linter PASS (0 ERROR, 0 WARN).
 Request JSON: `KMM_options/requests/wolf_profile_run_inside_gate_5s_v2.json`.
 
-Status: SUBMITTED — job `dd8c89ca-344f-4b5e-9cfa-5fdad0ecd6ce` (declined preset 24bae836)
+Status: COMPLETED — job `dd8c89ca-344f-4b5e-9cfa-5fdad0ecd6ce` (declined preset 24bae836) → https://d8j0ntlcm91z4.cloudfront.net/user_3JNS6ee2vsgr9rp9IBmIleZYkaP/hf_20261004_144500_dd8c89ca-344f-4b5e-9cfa-5fdad0ecd6ce.mp4
+Review (Claude, frames + eye crops 0.3/2.5/4.5 s): eye = clean solid yellow almond, NO pupil, no dark line, in all checked frames. Wolf now reads as a black night-shadow silhouette with a jagged crest outline (much flatter than v1; slight soft texture on the crest edge, small light tip on the nose). Composition kept. Lesson: an "EYE RULE (MOST IMPORTANT)" block right after the master line + removing "focused on its prey" fixed the pupil.
