@@ -234,3 +234,24 @@ Shot 5 (11-20 s), the pink paradise, all 11 people tiny in frame, each exactly o
 
 [Avoid] slow motion, speed ramp, freeze frame longer than 3 frames, fast-forward; any text, letters, numbers, signs, logos, readable badges or readable interface anywhere; all monitors lit, screens blinking in sync; crowds moving in sync, identical poses, copy-pasted figures, one villain design repeated; pupils, black pupils, dark dots in the eyes, slit pupils, irises, realistic eyes on any shadow figure, creature or the BOSS; any creature touching Mai; teeth, fangs, gore, blood, injuries; dark, tanned, grey or muddy skin, skin darker than the reference; over-acting, gurning, bulging eyes, constantly open mouth, wide screaming mouth; hoodie, chibi; mirrored layout, crossing the action line, characters swapping sides; chequered or grid floor; flat even lighting, sterile plastic CG, characters looking pasted on; sliding feet, morphing, extra fingers, extra limbs, duplicated characters; mannequin stillness, robotic straight-line motion, floaty weightless motion, reacting before the trigger; handcuffs; background music, score, soundtrack, singing; resemblance to any existing film, cartoon, game or comic character or brand; small room, narrow corridor, low ceiling, walls close behind the characters, cramped space, flat shallow background; characters blending together, swapped costumes, mixed uniforms, a cap or helmet on the wrong person, merged or hybrid characters, duplicated characters, generic extras replacing a named character; a cap on the Security Guard; red collar tabs on the Security Guard; the Police Officer without his peaked cap; camouflage on anyone but the Soldier; gloves on Dad; a green cape on Mom; a pan in Mom's hands; any title, words or letters in the sky; duplicated characters, the same person twice in one frame, twins, clones, extra people, background crowd, more than 11 people, more than one puppy; the bus in shots 4-5, any moving vehicle; gloomy, grey or cold colours in shots 4-5; purple or violet in the pink paradise; villains, shadow people or creatures; top-down framing in shots 1-3; anyone missing from the arc; more than one bus; black smoke from the bus.
 ```
+
+
+## v5: rebuilt under the new QA rule (RULES J.11), 20 s, 5 shots
+User: "tạo lại scene trên với rules mới".
+Changes vs v4:
+- "Disney principles" removed from [Acting] (studio name in the prompt; possible IP trigger) → "Classic animation principles".
+- Shot 3 was 4 actions in 1 s → now 2.5 s with 2 beats (far row revealed by the same arc, then Mai lifts her head and smiles). New cut points: S1 0-3.5, S2 insert 3.5-4.5, S3 4.5-7, S4 7-12, S5 12-20 (still hold 17-20 kept). Scene 1 ends at 7 s instead of 6 s (flag to Huy PD).
+- ONE dominant camera move per shot (S4 = one crane up-and-back; S5 = one crane up ending tilted to the sky, then locked).
+- Prompt trimmed (Arena Scale, Acting, Lighting, Audio; villain-only Avoid items removed since no villains are present).
+
+### QA report (Gate 1 + Gate 2)
+- Linter `kmm_prompt_qa.py`: 0 ERROR, 2 WARN accepted: prompt 17 068 chars (bible lines must stay verbatim); 14 images (the script needs the whole cast + puppy + bus).
+- Head count: EXACTLY 11 people (1 child, 3 women, 7 men) + 1 puppy; S1 7 people + puppy; S2 insert (Mom's hand, Mai's shoulder, puppy); S3-S5 all 11 each once.
+- Positions/raccord: family centre, Dad at Mom's right; near row Teacher-Cleaner-Doctor-Officer, far row Guard-Engineer-Driver-Soldier (Officer and Guard at opposite ends); arc left to right in S1 and S3; the bus parked only in S1-S3 and dissolves in S4; Mom's hands free throughout.
+- Action logic: one main action per shot; the transformation reads outward from the family; no vehicle moves.
+- Over-acting: soft laughter, one small hop; Expression block at 1/3-1/2 intensity.
+- Accepted on purpose: cold blue-violet light in S1-S3 (the user's script; no villains present).
+
+Request JSON: `KMM_options/requests/happy_ending_20s_v5.json`.
+
+Status: SUBMITTED — job `6caf0ee2-da1b-4f75-95e3-023742c27a54` (declined preset 24bae836)
