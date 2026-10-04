@@ -167,3 +167,8 @@ Still missing: StandardB (real-world only). Unconfirmed roles: B17_Hanhlang, B19
 |---|---|---|
 | 30_BoDoi_v2.png | `f5385a7f-1dd1-4e4f-a1a5-1e16aa221d69` | Soldier v2 (replaces `81b7dde9`); file in repo `KMM_options/refs/` |
 | 09_AnNinh_v2.png | `6679e746-029e-4286-a4cf-b8d63388eaa8` | Security guard v2 (replaces `682c6b6d`), no cap, no baton |
+**Superseded same day by widget uploads (original full-resolution files, same images; guides now use these):**
+| File | ID (use this) | Replaces |
+|---|---|---|
+| 09_AnNinh.png (2688x1152) | `046ff4df-ba34-4695-9ff6-9ea1a40b2faa` | `6679e746` (2000 px import, still valid) |
+| 30_BoDOi.png (3120x1328) | `4ef44ef0-12cd-4d15-97b8-983be83cde5d` | `f5385a7f` (2000 px import, still valid) |

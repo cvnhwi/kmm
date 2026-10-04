@@ -139,14 +139,14 @@ Tham khảo thêm `HANDOFF_GUIDE.md`, `STYLE_GUIDE_B.md`, `REUPLOAD_NEW_ACCOUNT.
 | Mai fantasy | `0d56fcb2-47cc-4271-b785-c73f4ab9a17b` |
 | Bố fantasy | `8eeb2595-7127-4d3f-9dc6-9c124caa1c99` |
 | Mẹ fantasy (chảo) | `a6286ab4-eaba-40ed-988f-3452354fe6ce` |
-| Chú an ninh v2 (09_AnNinh_v2, 2026-10-04: khoảng 50 tuổi, tóc đen điểm bạc, mặt hiền cười, KHÔNG mũ, áo sơ mi cộc tay màu xanh ô liu/kaki có cầu vai và 2 túi nắp, phù hiệu khiên xanh lá viền vàng bông lúa ở tay áo TRÁI, quần cùng màu, giày da đen; KHÔNG có dùi cui trong ref → tay không. Bản cũ `682c6b6d` không dùng cho clip mới) | `6679e746-029e-4286-a4cf-b8d63388eaa8` |
+| Chú an ninh v2 (09_AnNinh_v2, 2026-10-04: khoảng 50 tuổi, tóc đen điểm bạc, mặt hiền cười, KHÔNG mũ, áo sơ mi cộc tay màu xanh ô liu/kaki có cầu vai và 2 túi nắp, phù hiệu khiên xanh lá viền vàng bông lúa ở tay áo TRÁI, quần cùng màu, giày da đen; KHÔNG có dùi cui trong ref → tay không. Bản cũ `682c6b6d` không dùng cho clip mới) | `046ff4df-ba34-4695-9ff6-9ea1a40b2faa` |
 | Cô giáo (thước, tia vàng) | `89b32a5e-bfbc-44af-96e9-a274bb04cf51` |
 | Cô lao công (chổi) | `2f4bb001-827c-4409-8887-3cd734d1b89b` |
 | Công an (10_CongAn, BẢN MỚI 2026-10-04: quân phục xanh ô liu, mũ kê-pi sao vàng, cầu vai đỏ, quần xanh đậm, giày đen) | `3f6416ad-4680-4cb2-8913-922c65b2afa2` (bản cũ `6afba98a` KHÔNG dùng cho clip mới; các file plan cũ giữ nguyên ID cũ như lịch sử) |
 | Bác sĩ (27_BacSi: tóc muối tiêu, kính, khẩu trang y tế, áo blouse trắng, ống nghe, sơ mi xanh nhạt, cà vạt xanh đậm) | `689fabdb-25e4-4996-8cf7-d0e1d71a0636` |
 | Kỹ sư (28_KiSu: mũ bảo hộ vàng, kính, sơ mi trắng xắn tay, quần âu xám, giày nâu) | `de74362d-250c-4e0f-bab9-9e7b603cb901` |
 | Lính cứu hỏa (29_LinhCuuHoa: mũ đỏ, mặt nạ dưỡng khí, đồ chống cháy xanh đậm sọc phản quang vàng, cuộn dây thừng) | `94ba28f4-68b7-4767-8662-663997434ddb` |
-| Bộ đội v2 (30_BoDoi_v2, 2026-10-04: khoảng 35-40 tuổi, mặt nghiêm, mũ cối xanh có sao đỏ viền vàng và quai cằm, áo rằn ri xanh lá/xanh đậm/nâu dài tay 4 túi nắp, cầu vai vàng viền đỏ 2 sao bạc, phù hiệu cổ đỏ hình súng chéo vàng, quần rằn ri túi hộp, giày lính xanh cổ cao. Bản cũ `81b7dde9` không dùng cho clip mới) | `f5385a7f-1dd1-4e4f-a1a5-1e16aa221d69` |
+| Bộ đội v2 (30_BoDoi_v2, 2026-10-04: khoảng 35-40 tuổi, mặt nghiêm, mũ cối xanh có sao đỏ viền vàng và quai cằm, áo rằn ri xanh lá/xanh đậm/nâu dài tay 4 túi nắp, cầu vai vàng viền đỏ 2 sao bạc, phù hiệu cổ đỏ hình súng chéo vàng, quần rằn ri túi hộp, giày lính xanh cổ cao. Bản cũ `81b7dde9` không dùng cho clip mới) | `4ef44ef0-12cd-4d15-97b8-983be83cde5d` |
 | Bạn học sinh béo (khăn đỏ, quần short xanh đen, ba lô xanh đậm có móc) | `ea2e4e83-b4d6-47bc-b9bd-554fabaeff06` |
 | Bạn học sinh nữ bím tóc (khăn đỏ, váy xếp ly xanh đen, ba lô jean) | `01c8ad41-09a0-4c26-8605-3b35cabc8ed5` |
 | Tài xế | `aed8c835-e2eb-477f-a4c5-583726b87181` |

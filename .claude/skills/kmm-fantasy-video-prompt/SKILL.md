@@ -52,7 +52,7 @@ If the user says they are not attaching the video (or it is unavailable), warn t
 | Mai (fantasy), always "Mai" | `01_Mai_FAntasy.png` | `0d56fcb2-47cc-4271-b785-c73f4ab9a17b` |
 | Fantasy father (Bố) | fantasy dad sheet | `8eeb2595-7127-4d3f-9dc6-9c124caa1c99` |
 | Fantasy mother (Mẹ), frying pan | fantasy mom sheet | `a6286ab4-eaba-40ed-988f-3452354fe6ce` |
-| Security guard (Chú an ninh) v2: olive-khaki short-sleeve shirt, green shield patch on LEFT sleeve, no cap, grey-streaked hair, bare-handed (no baton in the new sheet) | 09_AnNinh_v2.png (2026-10-04; old `682c6b6d`) | `6679e746-029e-4286-a4cf-b8d63388eaa8` |
+| Security guard (Chú an ninh) v2: olive-khaki short-sleeve shirt, green shield patch on LEFT sleeve, no cap, grey-streaked hair, bare-handed (no baton in the new sheet) | 09_AnNinh_v2.png (2026-10-04; old `682c6b6d`) | `046ff4df-ba34-4695-9ff6-9ea1a40b2faa` |
 | Teacher (Cô giáo), pink áo dài, wooden ruler | `07_CoGiao` | `89b32a5e-bfbc-44af-96e9-a274bb04cf51` |
 | Cleaner (Cô lao công), orange uniform, nón lá, bamboo broom | `08_CoLaoCong` | `2f4bb001-827c-4409-8887-3cd734d1b89b` |
 | Villain 1 / night-shadow person (Người xấu gốc) | `20_NguoiXau.png` (updated 2026-10-02; never use old `2f07fe73…`) | `9ee934cf-d4a2-4591-a178-9b3805294450` |
@@ -63,7 +63,7 @@ If the user says they are not attaching the video (or it is unavailable), warn t
 | Smoke wolf (Sói bóng đêm) | wolf sheet | `b5f7908e-fcd3-4b00-ad91-309366da6ae0` |
 | Smoke crow (Quạ) | crow sheet | `252cd267-8a39-4bf1-8b69-cefa1ddd56a6` |
 | Smoke spider (Nhện) | spider sheet | `a01d6370-58c5-4f57-9e49-99938dd25f1a` |
-| Soldier (Bộ đội) v2: green pith helmet with red star, green camouflage, yellow shoulder boards with 2 silver stars, red collar tabs with crossed rifles, green combat boots | 30_BoDoi_v2.png (2026-10-04; old `81b7dde9`) | `f5385a7f-1dd1-4e4f-a1a5-1e16aa221d69` |
+| Soldier (Bộ đội) v2: green pith helmet with red star, green camouflage, yellow shoulder boards with 2 silver stars, red collar tabs with crossed rifles, green combat boots | 30_BoDoi_v2.png (2026-10-04; old `81b7dde9`) | `4ef44ef0-12cd-4d15-97b8-983be83cde5d` |
 | BOSS: giant brain with cable tentacles | `25_BOss.png` (updated 2026-10-02; never use old `9e4e6ae8…`) | `3db1be87-7da5-4169-b892-e002f1cf2637` |
 | Mai's phone | phone sheet (sky-blue case, yellow buttons, cat+dog sticker) | `b7eeb576-8bcf-4a98-b695-48a4e029fda1` |
 | Mom's photo (only as a round photo on the phone) | mom photo | `d318bcb9-4768-43e3-95f0-14463b434891` ⚠️(ID account CŨ, chưa upload lại) |
