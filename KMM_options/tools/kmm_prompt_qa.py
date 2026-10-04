@@ -190,6 +190,8 @@ def qa(label, params):
     for b_ in ["References", "Character Look", "Expression", "Audio", "Avoid", "Visual Style"]:
         if block(prompt, b_) is None:
             E.append(f"Missing [{b_}] block.")
+    if re.search(r"@Image\d+ = [A-Z ]+ ONLY", prompt) and block(prompt, "Style Lock") is None:
+        E.append("Characters present but no [Style Lock] block (RULES J.15): all characters must share @Video1/Mai's 3D style.")
     if hc is not None and block(prompt, "No Blending") is None:
         E.append("Missing [No Blending] block.")
     au = block(prompt, "Audio") or ""

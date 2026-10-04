@@ -378,3 +378,10 @@ Mục J ưu tiên hơn các mục khác nếu mâu thuẫn. Các dòng ghi "(m�
   - Định dạng: H.264 High 8-bit yuv420p, 1920x1080, 24fps, AAC, 4,17 s (đúng chuẩn an toàn). Test 4 s job `8b278536` COMPLETED.
   - Nội dung: Mai trong hẻm hoàng hôn sau mưa, nhìn qua cổng vòm rễ cây đen; rồi chạy vào đường hầm teal có màn hình bay và rễ đỏ.
 - **Mọi generation lưu vào MV KMM › FANTASY 2 `08a93ec8-25e5-49aa-83c2-0492790d5567`.**
+
+### J.15 KHÓA STYLE nhân vật theo video master + Mai (2026-10-04)
+- Feedback: style các nhân vật không giống nhau; phải khóa đúng theo reference video và giống nhân vật Mai.
+- Nguyên nhân: các ảnh character sheet vẽ khác style (Mai 3D mềm; bố/mẹ 3D có nét phác; cô giáo/lao công/tài xế 2D có viền; công an/bộ đội/cứu hỏa/bác sĩ/kỹ sư/an ninh màu nước-chì) → model chép luôn nét vẽ.
+- Bắt buộc mọi prompt có nhân vật: khối **[Style Lock]** (nguyên văn trong `CHARACTER_BIBLE.md` mục 5) ngay sau [References]; mỗi dòng ref nhân vật thêm "(design only, re-render in Mai's 3D style)"; Avoid thêm "mixed art styles, 2D/sketch/watercolour…".
+- Linter báo LỖI nếu prompt có nhân vật mà thiếu [Style Lock].
+- Cách triệt để (đề xuất): làm lại toàn bộ character sheet thành turnaround 3D cùng style Mai rồi thay ID.

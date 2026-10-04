@@ -240,6 +240,9 @@ In clips with many named characters, avoid face close-ups and frames with more t
 ### 21. Group cutting with raccord (user 2026-10-04, MANDATORY)
 When several distinct named characters must all be seen (not an anonymous crowd), never show them all in one readable long shot: cut into group shots of at most 4 named characters each. Groups follow their real positions on the scene map (e.g. group A = left half of the arc, listed left to right; group B = right half); the camera stays on one side of the action line; eyelines point to the shared centre (group A looks screen-right, group B screen-left); same moment, light, props and background logic in every group shot; join them with eyeline matches or cuts on action. An establishing shot is allowed only if people are tiny silhouettes. Each shot states "N people visible: ..." with N ≤ 4.
 
+### 22. STYLE LOCK (user 2026-10-04, MANDATORY)
+Every prompt with characters gets the [Style Lock] block from `KMM_options/CHARACTER_BIBLE.md` section 5 right after [References]: one render style for everyone = the premium stylized 3D look of @Video1 and of Mai; character sheets are design only and their drawing style (sketch, watercolour, flat 2D, outlines) must be ignored; every person is re-rendered with Mai's stylisation, shading, materials and detail level. Prefix each character reference line with "(design only, re-render in Mai's 3D style)". Avoid: mixed art styles, 2D/flat characters, sketch lines, watercolour/pencil texture, realistic humans.
+
 ### Fight sequence guide (user 2026-10-03, from animated-feature trailer refs)
 A flexible toolkit, NOT a fixed shot list. Pick and reorder angles to make each fight look its best for its space, characters and beat.
 

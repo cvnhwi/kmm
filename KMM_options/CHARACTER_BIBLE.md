@@ -59,3 +59,16 @@ Happy ending v3 duplicated characters. Root cause found: the prompt said "Exactl
 4. **No extras:** "no background crowd, no extra people, no passers-by, no twins or look-alikes; every person appears ONCE per shot; never two copies of the same person in one frame".
 5. Avoid adds: "duplicated characters, the same person twice in one frame, twins, clones, extra people, background crowd, more than <N> people".
 6. If a scene truly needs a crowd, say "<N> named characters + an anonymous crowd of ordinary townspeople who look clearly different from every named character" and keep the crowd behind and out of focus.
+
+
+## 5. STYLE LOCK (user 2026-10-04: "style của các nhân vật đang không giống nhau, phải lưu và lock đúng với reference video và giống với nhân vật Mai")
+
+Cause found (Claude viewed every sheet): the reference sheets are drawn in DIFFERENT styles: Mai = soft 3D render; Mom/Dad = painterly 3D with sketch lines; Teacher/Cleaner/Driver = 2D with outlines; Police Officer, Soldier, Firefighter, Doctor, Engineer, Security Guard = watercolour/pencil illustrations. The model copies each sheet's drawing style, so characters do not match.
+Mandatory in EVERY prompt with characters, placed right after [References] (verbatim):
+
+```
+[Style Lock] ONE single render style for every character and creature: exactly the premium stylized 3D CG look of @Video1 and of Mai as she appears in @Video1. The character reference images are DESIGN ONLY (face shape, hair, costume, colours, props); many of them are drawn in other styles (pencil sketch, watercolour, flat 2D, outlined illustration, paper texture): IGNORE their drawing style completely and never copy outlines, sketch lines, watercolour washes, flat shading or paper grain. Re-render every person as a 3D character from the same film as Mai: the same proportion system and stylisation (rounded soft volumes, slightly large expressive eyes with catchlights, small nose, simplified features), the same skin shading and subsurface warmth, the same cloth and hair materials, the same lighting response, film grain and level of detail. Adults stay adult proportions (7-7.5 heads) but share Mai's stylisation. Nobody may look like a different art style, a 2D drawing, a realistic human or a different film.
+```
+- Prefix every character line in [References] with "(design only, re-render in Mai's 3D style)".
+- Avoid adds: "mixed art styles, 2D or flat-shaded characters, sketch lines or outlines on characters, watercolour or pencil texture, paper texture, realistic photographic humans, characters that look like they come from different films".
+- Permanent fix (recommended): re-make every character sheet as a 3D turnaround in Mai's style (image model, Mai + master video frames as style reference), then replace the IDs here. Until then the [Style Lock] block is mandatory.

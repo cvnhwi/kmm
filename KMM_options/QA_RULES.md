@@ -55,6 +55,9 @@ What it checks:
 - Distinct named characters are never shown 5+ at once in a readable shot: split into group shots of max 4.
 - Groups follow real positions on the scene map; same side of the axis; eyelines point toward the shared centre of attention; same moment, light and prop state across the group shots; background behind each group matches its position.
 
+**C4. Style lock (RULES J.15)**
+- [Style Lock] block present after [References]; every character line says "(design only, re-render in Mai's 3D style)"; Avoid lists mixed art styles.
+
 **D. Acting / over-acting**
 16. Expression intensity 1/3-1/2; emotions change in stages; reactions after the trigger.
 17. Joy is shown by smiles, light steps and soft laughter, not wide-open mouths or wild jumping; fear by breath and eyes, not screams.
