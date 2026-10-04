@@ -27,3 +27,16 @@ QA: linter PASS (after adding [Style Lock], which the linter flagged).
 Request JSON: `KMM_options/requests/wolf_chase_alley_gate_6s_v2.json`.
 
 Status: COMPLETED — job `877dfb1b-a668-4e5c-8b25-911a4e03fe40` (declined preset 24bae836) → https://d8j0ntlcm91z4.cloudfront.net/user_3JNS6ee2vsgr9rp9IBmIleZYkaP/hf_20261004_124052_877dfb1b-a668-4e5c-8b25-911a4e03fe40.mp4 — chờ Huy PD review (sói phải là bóng đêm, không lông)
+
+## v3: only the wolf's HEAD in frame + faster wolf + light handheld shake (user 2026-10-04), 6 s, one take
+User feedback on v2: camera must not show the wolf's rear/hindquarters, only its head; the wolf should feel faster; handheld camera with a little shake.
+Changes vs v2:
+- Composition: camera held tight behind the wolf's head; only the back of the skull + two ears in the lower-left third; frame cuts at the neck; shoulders/back/hindquarters/rump/legs/tail never visible (body behind and below camera).
+- Speed: wolf sprints in a quick urgent gallop; houses/lamp/poles rush past noticeably fast; gate grows clearly larger; wolf still never reaches Mai.
+- Camera: ONE fast forward HANDHELD tracking move with slight natural shake (small bumps/micro-sway synced to strides, horizon level, never chaotic).
+- Audio: rapid footfalls, fast ghostly panting.
+- Avoid adds: wolf body/hindquarters/tail visible, full-body wolf, slow trot/loping, smooth gimbal/locked-off, violent shaky-cam, whip pans, heavy motion-blur smear, tilted horizon.
+QA: linter PASS (0 ERROR, 0 WARN). Manual: 1 person + 1 wolf head, no contact, one camera move, style lock kept, no fur, no pupils, no purple, FANTASY 2, master 000a36ef.
+Request JSON: `KMM_options/requests/wolf_chase_alley_gate_6s_v3.json`.
+
+Status: SUBMITTED — job `1e625548-5187-45bf-abe7-f113d7845e2b` (declined preset 24bae836)
