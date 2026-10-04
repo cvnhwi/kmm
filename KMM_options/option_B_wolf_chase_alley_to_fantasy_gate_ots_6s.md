@@ -68,4 +68,5 @@ Changes vs v4:
 QA: linter PASS (0 ERROR, 0 WARN). Manual: 1 person + 1 wolf head, no contact, one camera move, style lock, wolf reference still dropped, FANTASY 2, master 000a36ef.
 Request JSON: `KMM_options/requests/wolf_chase_alley_gate_6s_v5.json`.
 
-Status: SUBMITTED — job `6edd622d-9d50-489c-8bb1-3e8a98cd159c` (declined preset 24bae836)
+Status: COMPLETED — job `6edd622d-9d50-489c-8bb1-3e8a98cd159c` (declined preset 24bae836) → https://d8j0ntlcm91z4.cloudfront.net/user_3JNS6ee2vsgr9rp9IBmIleZYkaP/hf_20261004_135303_6edd622d-9d50-489c-8bb1-3e8a98cd159c.mp4
+Review (Claude, frames 0.3/2/3.5/5.5 s): scale FIXED: Mai about 1/3 of frame height, arch about twice her height, alley-wide, like the master. Head-only wolf framing OK; head mostly black, crisp at the end, edges still a little soft/fuzzy at 2-3.5 s. Camera still pushes through the arch at the end (did not stop before it). Waiting for Huy PD review.
