@@ -30,6 +30,7 @@ Cập nhật: **2026-10-04**. Repo `cvnhwi/kmm`, branch `claude/gracious-archime
 - **Tự chọn mặc định khi thiếu thông tin**, rồi flag rõ đã chọn gì.
   - **NGOẠI LỆ, luật góc BOSS:** xem mục 4.
 - **Quy trình mỗi cảnh:**
+  0. **QA bắt buộc** (RULES J.11): `python3 KMM_options/tools/kmm_prompt_qa.py <request.json>` = 0 ERROR + checklist `QA_RULES.md`.
   1. Gọi `generate_video_batch`.
   2. Viết file `KMM_options/option_B_<tên>.md` (prompt, thông số, Status SUBMITTED, job id).
   3. Commit và push.

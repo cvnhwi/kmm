@@ -70,7 +70,7 @@ The script is not copied into the prompt line by line. Before writing any B prom
 | Transition | How the previous beat ends and this one starts (no emotional jumps without a visible moment of change). |
 
 **Step 2: the [Acting] block in every B prompt (between [Action] and [Integration])**
-Write specific, motivated acting per shot, using the Disney principles:
+Write specific, motivated acting per shot, using classic animation principles (NEVER write the word "Disney" or any studio name inside a prompt; use "Classic animation principles:"):
 - Thought before action: eyes and head move first, then the body (the eyes lead every turn and reach).
 - Anticipation: a small counter-move before every big action (crouch before a run, wind-up before a punch or swing, intake of breath before a scream).
 - Timing and spacing: each action has its own speed from the beat analysis; slow-in/slow-out on starts and stops; vary rhythm between actions; real holds (moving holds with breathing) on emotional peaks instead of constant motion.

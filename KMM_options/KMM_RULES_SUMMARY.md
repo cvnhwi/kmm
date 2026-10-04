@@ -13,6 +13,7 @@ Chi tiết đầy đủ nằm trong skill `.claude/skills/kmm-fantasy-video-prom
 3. **Không bao giờ nói đã kiểm tra nội dung video hay ảnh.** Luôn ghi "chưa kiểm tra nội dung" và đưa checklist theo từng clip.
 4. **Tự chọn mặc định khi thiếu thông tin**, không hỏi lại. Sau đó báo rõ (flag) những gì đã tự chọn hoặc chỗ kịch bản mâu thuẫn. Thiếu thời lượng thì tự chọn theo nhịp cảnh.
 5. **Quy trình cho mỗi yêu cầu:**
+   0. **QA (J.11): chạy `KMM_options/tools/kmm_prompt_qa.py` + checklist `QA_RULES.md`; còn ERROR thì không gen.**
    1. `generate_video_batch`.
    2. Viết file kế hoạch `KMM_options/option_B_<tên>.md` có Status SUBMITTED kèm job ID.
    3. Commit và push.
@@ -343,3 +344,12 @@ Mục J ưu tiên hơn các mục khác nếu mâu thuẫn. Các dòng ghi "(m�
   - Mỗi shot ghi rõ số người thấy trong khung và là ai.
   - Cấm đám đông nền, người thừa, người giống nhau; mỗi người chỉ xuất hiện 1 lần mỗi shot.
 - Happy ending: thế giới fantasy sau khi tan biến phải VUI hơn, tone HỒNG pastel đẹp hơn; sau khi biến đổi KHÔNG còn xe buýt chạy phía sau.
+
+### J.11 RULE QA trước mỗi lần gen (2026-10-04, BẮT BUỘC)
+- File: **`KMM_options/QA_RULES.md`** + script **`KMM_options/tools/kmm_prompt_qa.py`**.
+- Trước MỌI lần gen:
+  1. Lưu đúng JSON request sẽ gửi, chạy `python3 KMM_options/tools/kmm_prompt_qa.py <file.json>`. **Còn ERROR thì không gen.** WARN thì sửa, hoặc ghi rõ lý do chấp nhận trong file plan.
+  2. Tự rà checklist thủ công A–E (số người, lặp người, vị trí/raccord, logic hành động, overact, luật dự án).
+  3. Báo kết quả QA cho Huy PD theo mẫu trong QA_RULES.md, cùng tin với lúc gửi gen.
+- Bài học đã ghi: sai tổng số người → đúp người; huy hiệu thật, tên giống chó, "football" → `ip_detected`; chữ "Disney" nằm trong mẫu [Acting] cũ → đã đổi thành "Classic animation principles"; shot 1 giây quá nhiều hành động → rối.
+- **Không bao giờ viết tên hãng phim/studio (Disney, Pixar…) trong prompt**, kể cả làm "nguyên tắc diễn xuất".

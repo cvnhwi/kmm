@@ -156,7 +156,7 @@ Shot 2 (X-Y s), ...: ... Cut.
 ...
 Shot N (...-15 s), ...: ...
 
-[Acting] <Per character: want/feel, trigger, energy and tempo, body logic, transition. Disney principles: eyes lead, then head, then body; anticipation before big actions; follow-through on hair, scarf, backpack and smoke; arcs; secondary action (trembling fingers, clutching a strap); real weight; emotion changes in stages; reactions come a beat AFTER the trigger.> Night-shadow people (and every crowd): each a separate individual with its own timing, rhythm and gesture; no two move at the same moment or in the same way; reactions ripple with uneven delays.
+[Acting] <Per character: want/feel, trigger, energy and tempo, body logic, transition. Classic animation principles: eyes lead, then head, then body; anticipation before big actions; follow-through on hair, scarf, backpack and smoke; arcs; secondary action (trembling fingers, clutching a strap); real weight; emotion changes in stages; reactions come a beat AFTER the trigger.> Night-shadow people (and every crowd): each a separate individual with its own timing, rhythm and gesture; no two move at the same moment or in the same way; reactions ripple with uneven delays.
 
 [Character Look] Skin tone exactly as in the character reference: fair, light, warm-ivory skin with a soft healthy blush on the cheeks. Coloured scene light (cyan, teal, amber) only tints the skin softly on the lit side and in the rim; it never darkens, greys or browns the overall skin tone. Faces stay bright and readable, with a gentle fill on the face even in dark scenes.
 
@@ -230,6 +230,9 @@ Higgsfield's Seedance reference syntax: images are tagged **`@Image1` … `@Imag
 
 ### 18. Head count (user 2026-10-04, MANDATORY)
 Count the cast, re-count, and write the exact number everywhere: [Generation Goal], a numbered [Head Count] block (1..N, each with its @ImageN tag, "nobody else exists in this clip") and a per-shot "N people visible: ..." line. No background crowd, extras, twins or look-alikes unless the scene needs a crowd (then: anonymous townspeople who look clearly different from every named character). A wrong total ("12 people" for an 11-person cast) made the model add duplicates. See `CHARACTER_BIBLE.md` section 4.
+
+### 19. QA gate before EVERY generation (user 2026-10-04, MANDATORY)
+Save the exact request JSON and run `python3 KMM_options/tools/kmm_prompt_qa.py <file.json>`. Any ERROR blocks submission; each WARN is fixed or accepted with a reason in the plan file. Then do the manual checklist A-E in `KMM_options/QA_RULES.md` (head count, duplicates, positions/raccord, action logic and density, over-acting, project rules) and report the QA summary to the user with the submission. Never write studio or film names (e.g. "Disney") anywhere in a prompt; the acting line is "Classic animation principles: …".
 
 ### Fight sequence guide (user 2026-10-03, from animated-feature trailer refs)
 A flexible toolkit, NOT a fixed shot list. Pick and reorder angles to make each fight look its best for its space, characters and beat.
