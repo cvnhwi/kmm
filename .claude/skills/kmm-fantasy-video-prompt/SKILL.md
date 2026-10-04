@@ -140,11 +140,11 @@ For each beat decide the shot size, angle, lens (mm), ONE motivated camera move,
 ## 4. Prompt template (fill every block; keep the fixed sentences word for word)
 
 ```
-FANTASY MASTER REFERENCE FIRST: Video 1 is the master reference for the style, mood and characters of this whole clip. Match its render look, materials, colour palette, lighting mood, atmosphere, character design, proportions and animation feel on every frame; do not copy its exact shots, camera or story.
+FANTASY MASTER REFERENCE FIRST: @Video1 is the master reference for the style, mood and characters of this whole clip. Match its render look, materials, colour palette, lighting mood, atmosphere, character design, proportions and animation feel on every frame; do not copy its exact shots, camera or story.
 
 [Generation Goal] 15 seconds, <N> shots with hard cuts, 16:9, real-time 24 fps, no slow motion. <2-3 sentence summary of the story of this clip.>
 
-[References] Video 1: style, mood, characters and world only (not camera). Image 1: Mai, exactly as in this fantasy reference image (face, hair, costume, accessories), design only, ONE figure; never a hoodie; girl about 11, 6-6.5 heads tall. Image 2: <...>. Image 3: <...>. <Creatures: dark smoky forms with small glowing amber eyes, no teeth.> All rendered in the style of Video 1. Adults 7-7.5 heads tall.
+[References] @Video1: style, mood, characters and world only (not camera). @Image1 = MAI ONLY: <CHARACTER_BIBLE line>, exactly as in this fantasy reference image (face, hair, costume, accessories), design only, ONE figure; never a hoodie; girl about 11, 6-6.5 heads tall. @Image2 = <ROLE> ONLY: <CHARACTER_BIBLE line>. @Image3 = ... <Creatures: dark smoky forms with small glowing amber eyes, no teeth.> All rendered in the style of Video 1. Adults 7-7.5 heads tall.
 
 [Phone Handling] (only if Mai's phone appears) Mai ALWAYS holds the phone VERTICALLY, in portrait orientation: long side up and down, camera at the top, held upright in front of her chest with both hands, screen facing her. The phone screen is a tall vertical rectangle. Never sideways, never landscape, never horizontal.
 
@@ -164,9 +164,9 @@ Shot N (...-15 s), ...: ...
 
 [Monitors] (if any screens appear) Most monitors are DARK; only some lit at any moment, each flickering, glitching and switching on and off at random on its own irregular timing, never all lit, never on a beat; static and vague silhouettes only, never text.
 
-[Lighting] Match Video 1. Motivated cinematic lighting: <key source and direction>; strong rim light from <back source> outlining hair, shoulders and scarf; coloured bounce and spill from <sources> onto skin and clothes; small catchlights in the eyes; volumetric haze and light shafts through the mist; soft halation around bright sources; dust catching the light; rich but readable shadows with teal-indigo tones, never crushed black; fine film grain, slight bloom.
+[Lighting] Match @Video1. Motivated cinematic lighting: <key source and direction>; strong rim light from <back source> outlining hair, shoulders and scarf; coloured bounce and spill from <sources> onto skin and clothes; small catchlights in the eyes; volumetric haze and light shafts through the mist; soft halation around bright sources; dust catching the light; rich but readable shadows with teal-indigo tones, never crushed black; fine film grain, slight bloom.
 
-[Visual Style] Exactly the style of Video 1. Mai 6-6.5 heads tall, adults 7-7.5, not chibi. 16:9, 24 fps, real-time speed.
+[Visual Style] Exactly the style of @Video1. Mai 6-6.5 heads tall, adults 7-7.5, not chibi. 16:9, 24 fps, real-time speed.
 
 [Avoid] slow motion, speed ramp, freeze frame; any text, letters, numbers, signs, logos or readable interface anywhere; all monitors lit, screens blinking in sync; crowds or shadow people moving in sync, identical poses, copy-pasted figures; any creature touching Mai; teeth, fangs, gore, blood; dark, tanned, grey or muddy skin, skin darker than the reference; over-acting, gurning, bulging eyes, constantly open mouth; hoodie, chibi; mirrored layout, crossing the action line; chequered or grid floor; flat even lighting, sterile plastic CG; sliding feet, morphing, extra fingers, duplicated characters; <scene-specific mistakes>.
 ```
@@ -220,6 +220,13 @@ Whenever Mai runs, add a **[Running Style]** line:
 ### 15-16. Character bible + BOSS scale (user 2026-10-04, MANDATORY)
 15. **Describe every character in detail, never let them blend.** Use the canonical English lines in `KMM_options/CHARACTER_BIBLE.md` verbatim in [References] (one line per image: "Image N = <ROLE> ONLY: ... Unique: ..."), plus a [Cast Roll-Call] block (exact head-count, each once) and the [No Blending] block from that file. That file overrides the short descriptions in section 2 of this skill. Known corrections: Dad's vest is green BAMBOO slats (no gloves, brown sandals); Mom's cape is pale-YELLOW checked with a green daisy apron; the Police Officer and the Security Guard both wear olive short-sleeve shirts, so contrast them explicitly (peaked cap + red tabs vs bare head + green shield patch) and never stand them side by side.
 16. **The BOSS arena is SUPER WIDE.** Every BOSS-arena prompt gets the [Arena Scale] block from `CHARACTER_BIBLE.md` section 3, whatever angle plate is attached: colossal plaza, skyscraper-tall monitor cliffs receding hundreds of metres into fog, open dark sky, people tiny against the walls, deep layered background even in medium shots. Avoid: small room, corridor, low ceiling, walls close behind the characters.
+
+### 17. @-mentions for every reference (user 2026-10-04, MANDATORY)
+Higgsfield's Seedance reference syntax: images are tagged **`@Image1` … `@ImageN`** and the master video **`@Video1`** (exact case, no space). Numbering follows the `medias` order, with videos and images counted separately: the master video is `@Video1`, the first `image_references` item is `@Image1`, the next `@Image2`, and so on.
+- Replace every "Video 1" / "Image N" in the template with `@Video1` / `@ImageN`.
+- [References]: one line per image, "@ImageN = <ROLE> ONLY: <CHARACTER_BIBLE line>".
+- Repeat the tag next to the character's name EVERY time they are named in [Cast Roll-Call], [Space & Blocking] and [Action & Camera] (e.g. "Mom (@Image3) kneels and hugs Mai (@Image2)"), not only in [References].
+- Every attached tag appears at least once; no tag that is not attached; never put media ids or URLs in the prompt.
 
 ### Fight sequence guide (user 2026-10-03, from animated-feature trailer refs)
 A flexible toolkit, NOT a fixed shot list. Pick and reorder angles to make each fight look its best for its space, characters and beat.

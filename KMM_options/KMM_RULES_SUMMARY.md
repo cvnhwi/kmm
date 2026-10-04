@@ -39,7 +39,7 @@ Chi tiết đầy đủ nằm trong skill `.claude/skills/kmm-fantasy-video-prom
 
 ## C. Cấu trúc prompt
 
-- **Dòng đầu tiên:** `FANTASY MASTER REFERENCE FIRST: Video 1 is the master reference…`
+- **Dòng đầu tiên:** `FANTASY MASTER REFERENCE FIRST: @Video1 is the master reference…` (mention @ theo J.9)
 - **Các khối, theo thứ tự (dùng khối nào cần thiết):**
   1. [Generation Goal]
   2. [References], ghi "this IS the location" và "copy exactly; ONE …"
@@ -322,3 +322,14 @@ Mục J ưu tiên hơn các mục khác nếu mâu thuẫn. Các dòng ghi "(m�
   - Tài xế: sơ mi xanh nhạt dài tay, mũ lưỡi trai xanh nhạt, ria mép + râu cằm.
 - **Cặp dễ trộn nhất:** công an và an ninh cùng mặc áo ô liu cộc tay. Công an: trẻ, mũ kê-pi, phù hiệu đỏ, quần rất sẫm. An ninh: khoảng 50 tuổi, đầu trần tóc điểm bạc, không có màu đỏ, phù hiệu khiên xanh tay trái. Không xếp đứng cạnh nhau.
 - **Đấu trường BOSS:** luôn thêm khối [Arena Scale] (CHARACTER_BIBLE mục 3). Ảnh góc chỉ là MỘT góc nhìn của một không gian khổng lồ; luôn có lớp tường màn hình cao như nhà chọc trời lùi xa vào sương, trời mở phía trên, người nhỏ so với tường. Cấm "phòng nhỏ / hành lang / trần thấp".
+
+### J.9 Luật mention @ theo ảnh đính kèm (2026-10-04, BẮT BUỘC từ prompt sau)
+- **Lý do:** prompt cũ viết "Image 2", "Video 1" (chữ thường) nên model không gắn chắc chữ với đúng ảnh → nhân vật bị blend.
+- **Quy tắc Higgsfield (theo workflow chính thức của Higgsfield trên Seedance):** gọi tham chiếu bằng tag **`@Image1`…`@ImageN`** cho ảnh và **`@Video1`** cho video master, đúng hoa thường, không cách.
+  - Thứ tự tag = thứ tự trong `medias`: video và ảnh đánh số RIÊNG. Video master là `@Video1`; ảnh đầu tiên trong danh sách `image_references` là `@Image1`, ảnh thứ hai `@Image2`…
+  - Mỗi tag đã đính kèm phải xuất hiện ít nhất 1 lần trong prompt; không có tag nào không đính kèm; không ghi media id hay URL trong prompt.
+- **Cách viết:**
+  - Dòng đầu: "FANTASY MASTER REFERENCE FIRST: @Video1 is the master reference…".
+  - [References]: một dòng mỗi ảnh: "@Image3 = MOM ONLY: …" (dòng mô tả lấy từ CHARACTER_BIBLE).
+  - **Trong [Action & Camera], [Cast Roll-Call], [Space & Blocking] cũng gọi tên kèm tag** mỗi lần nhân vật xuất hiện, ví dụ "Mom (@Image3) kneels and hugs Mai (@Image2)". Không chỉ khai báo ở đầu rồi bỏ.
+- Áp dụng cho mọi prompt Seedance omni_reference của dự án.

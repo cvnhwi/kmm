@@ -1,11 +1,11 @@
 # KMM — CHARACTER BIBLE + BOSS ARENA SCALE (canonical wording for prompts)
 
 Updated 2026-10-04 after feedback: "characters blend into each other a lot; the reference description must describe each person carefully" and "whatever angle plate is used, the prompt must still convey that the BOSS arena is SUPER wide".
-Descriptions below were written by Claude from the actual reference sheets (viewed 2026-10-04). Copy the English lines **verbatim** into the [References] block of every prompt, one line per image. This file wins over older descriptions in other guides.
+Descriptions below were written by Claude from the actual reference sheets (viewed 2026-10-04). Copy the English lines **verbatim** into the [References] block of every prompt, one line per image, prefixed with the matching `@ImageN` tag; repeat the tag next to the name every time the character is mentioned later in the prompt. This file wins over older descriptions in other guides.
 
 ## 1. Anti-blend rules (add to EVERY prompt with 2+ named characters)
 
-1. **One line per image, full identity:** `Image N = <ROLE NAME> ONLY: <age/sex/build>, <hair/face>, <head item>, <top>, <bottom>, <shoes>, <prop>. Unique identifier: <the 1-2 things nobody else has>.`
+1. **One line per image, full identity, with the Higgsfield @-tag (RULES J.9):** `@ImageN = <ROLE NAME> ONLY: <age/sex/build>, <hair/face>, <head item>, <top>, <bottom>, <shoes>, <prop>. Unique identifier: <the 1-2 things nobody else has>.`
 2. **Add a [Cast Roll-Call] block:** "Exactly N people and the puppy, each appearing ONCE: ..." with a one-phrase tag per person, in the left-to-right order they stand in.
 3. **Add a [No Blending] block** (verbatim):
    "Every character is a SEPARATE person who keeps ONLY the costume, colours, hair, face and props of their own reference image. Never mix or swap clothing, hats, helmets, hair or props between characters. Never merge two characters into one. Only the Soldier wears camouflage and a pith helmet; only the Police Officer wears a peaked cap; only the Engineer wears a hard hat; only the Cleaner wears a conical hat; only the bus driver wears a light-blue baseball cap; only Mom wears a white motorbike helmet and the yellow checked cape; only Dad wears the green bamboo-slat armour vest; only the Teacher wears an áo dài; only the Doctor wears a white coat; only the Firefighter wears the navy suit with yellow stripes and red helmet. Faces differ in age, shape and hair as described."
