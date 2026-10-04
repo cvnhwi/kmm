@@ -362,3 +362,13 @@ Mục J ưu tiên hơn các mục khác nếu mâu thuẫn. Các dòng ghi "(m�
   - Ưu tiên: sau lưng (back view), qua vai (OTS), insert tay/chân/cún, low angle ngang mặt đất, wide/ultra-wide với người là bóng nhỏ.
   - **Chỉ đính kèm ảnh ref cho người lộ rõ trên hình.** Người chỉ xuất hiện như bóng nhỏ thì mô tả bằng chữ (màu mũ/áo), không cần ref → ít ảnh hơn, ít trộn hơn.
   - Mỗi shot vẫn ghi số người trong khung; linter cảnh báo khi >5 người rõ hoặc có cận mặt.
+
+### J.13 Cắt theo NHÓM ≤4 người, giữ raccord (2026-10-04)
+- Feedback: với cảnh cần thấy nhiều người cùng lúc mà mỗi người có đặc điểm riêng (không phải đám đông vô danh), KHÔNG dùng 1 long shot thấy đủ cả 8 người. **Cắt thành nhiều shot, mỗi shot tối đa 4 nhân vật có tên.**
+- Cách giữ raccord khi cắt nhóm (CAMERA_LIBRARY_B mục 7):
+  1. Scene map cố định: chia người thành nhóm theo VỊ TRÍ THẬT (ví dụ nhóm A bên trái vòng cung, nhóm B bên phải), ghi rõ thứ tự từ trái sang phải trong mỗi nhóm.
+  2. Máy luôn ở cùng một phía của trục hành động (180°); hướng nhìn đúng map (nhóm A nhìn sang phải về phía gia đình, nhóm B nhìn sang trái).
+  3. Cùng một thời điểm câu chuyện, cùng ánh sáng, cùng trạng thái đạo cụ/trang phục; cảnh nền phía sau mỗi nhóm khớp với vị trí của nhóm trên map.
+  4. Nối cảnh bằng ánh nhìn/hành động (eyeline match, cut on action); có thể có 1 shot "establishing" mà người chỉ là bóng nhỏ không đọc được mặt.
+  5. Mỗi shot ghi "N people visible: ...", N ≤ 4 (cún/xe không tính); người ngoài nhóm không xuất hiện trong shot đó.
+- Linter cảnh báo khi một shot ghi hơn 4 người rõ mặt.

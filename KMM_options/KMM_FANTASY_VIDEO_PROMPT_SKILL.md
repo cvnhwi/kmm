@@ -237,6 +237,9 @@ Save the exact request JSON and run `python3 KMM_options/tools/kmm_prompt_qa.py 
 ### 20. Camera for big casts (user 2026-10-04, MANDATORY)
 In clips with many named characters, avoid face close-ups and frames with more than ~3-5 recognisable characters (they cause duplicates and wrong counts). Use back views, over-the-shoulder, inserts of hands/feet/props/the puppy, ground-level lows and wide/ultra-wide shots where people are tiny silhouettes. Attach references only for characters readable on screen; tiny distant figures are described by text. Each shot still states its visible count (rule 18).
 
+### 21. Group cutting with raccord (user 2026-10-04, MANDATORY)
+When several distinct named characters must all be seen (not an anonymous crowd), never show them all in one readable long shot: cut into group shots of at most 4 named characters each. Groups follow their real positions on the scene map (e.g. group A = left half of the arc, listed left to right; group B = right half); the camera stays on one side of the action line; eyelines point to the shared centre (group A looks screen-right, group B screen-left); same moment, light, props and background logic in every group shot; join them with eyeline matches or cuts on action. An establishing shot is allowed only if people are tiny silhouettes. Each shot states "N people visible: ..." with N ≤ 4.
+
 ### Fight sequence guide (user 2026-10-03, from animated-feature trailer refs)
 A flexible toolkit, NOT a fixed shot list. Pick and reorder angles to make each fight look its best for its space, characters and beat.
 

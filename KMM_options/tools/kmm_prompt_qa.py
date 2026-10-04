@@ -163,8 +163,8 @@ def qa(label, params):
             if hc is not None and not re.search(r"visible|in frame", rest[:220]):
                 W.append(f"Shot {k}: no per-shot 'N people visible' statement (RULES J.10).")
             mv = re.search(r"(\d+) (?:people|persons|characters)[^.;:]{0,40}(?:visible|in frame)", rest[:220])
-            if mv and int(mv.group(1)) > 5 and not re.search(r"tiny|silhouette|distant", rest[:260], re.I):
-                W.append(f"Shot {k}: {mv.group(1)} readable people in one frame; max ~5 (RULES J.12). Use backs, inserts or tiny distant silhouettes.")
+            if mv and int(mv.group(1)) > 4 and not re.search(r"tiny|silhouette|distant", rest[:260], re.I):
+                W.append(f"Shot {k}: {mv.group(1)} readable people in one frame; max 4 per shot (RULES J.12-J.13). Split into group shots of up to 4 with matching raccord, or use tiny distant silhouettes.")
             if re.search(r"close-up|\bCU\b|85 ?mm|100 ?mm", rest[:300], re.I) and re.search(r"\bface", rest[:400], re.I) and hc is not None:
                 W.append(f"Shot {k}: face close-up in a multi-character clip (RULES J.12); prefer hands/props/backs.")
             moves = {mv for mv in CAMERA_MOVES if re.search(mv, rest[:400], re.I)}
