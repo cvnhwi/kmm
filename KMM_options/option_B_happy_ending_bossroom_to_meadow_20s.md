@@ -2,7 +2,7 @@
 
 User script (2026-10-04): BOSS room, no villains. Scene 1 (0-6 s) medium at Mai's eye level, slow arc L→R: Mom kneels hugging Mai, Dad's hand on both, the puppy at Mai's feet; the near row (Teacher, Cleaner, Doctor, Police Officer), then the far row (Security Guard, Engineer, Driver, Soldier) in an arc; the bus parked far behind; Mai lifts her head and smiles. [suggested] 1 s insert: Mom's hand squeezes Mai's shoulder, the puppy nuzzles her. Scene 2 (6-11 s) wide, pull back + rise: a golden light ring, the room dissolves into smoke → leaves/petals, grass, the ceiling opens to a sunset, wind in the red scarf. Scene 3 (11-20 s) ultra wide: a meadow, the bus drives L→R, grass waves, crane up/tilt to the sky, locked hold 17-20 s; title "Không Một Mình" added in post.
 
-Status: SUBMITTED — job `a8264532-d03b-44b0-aef8-6664abf56333` (declined preset 24bae836)
+Status: COMPLETED (chưa kiểm tra nội dung) — job `a8264532-d03b-44b0-aef8-6664abf56333` (declined preset 24bae836)
 Settings: seedance_2_5 · omni_reference · draft 480p · 16:9 · 20 s · SFX only · folder MV KMM · ~60 credits.
 
 Decisions / flags:
