@@ -286,3 +286,15 @@ Scene map (fixed): family at the centre; group A WEST of the family (screen left
 - QA: linter 0 ERROR; 2 WARN accepted: "4 people" is the per-shot limit sentence, not a count conflict; 14 images (the user wants all 11 readable, so all are referenced; each appears only in its own group shot). Manual: eyelines A→right / B→left match Mai's look left then right; same light and moment in shots 1-5; one move per shot.
 
 Status: COMPLETED (chưa kiểm tra nội dung) — job `7561281f-075d-4aff-91f7-79b775d2f03b` (declined preset 24bae836)
+
+## v8: STYLE LOCK test, 15 s, 7 shots (RULES J.15), new master, folder FANTASY 2
+User: lock the prompt first (style of all characters = reference video + Mai), then redo the crowd scene in 15 s to check; if it still fails, the user will remake the characters as 3D sheets.
+Changes vs v7:
+- [Style Lock] block (CHARACTER_BIBLE section 5) after [References]; each character line prefixed "(design only, re-render in Mai's 3D style)"; Avoid adds mixed art styles / 2D / sketch / watercolour / realistic humans.
+- New master `000a36ef` (FANTASY.mp4); folder MV KMM › FANTASY 2 `08a93ec8`.
+- 15 s cut points: S1 0-2.5 family · S2 2.5-3.5 insert · S3 3.5-5.5 group A · S4 5.5-7.5 group B · S5 7.5-9 Mai looks up (looks to group A only, to fit 1.5 s) · S6 9-12 transformation · S7 12-15 ultra-wide, locked hold 13.5-15 s.
+- QA: linter 0 ERROR; WARN accepted: 17 062 chars (11 verbatim bible lines), "4 people" per-shot limit sentence, 14 images (all 11 must be readable).
+
+Request JSON: `KMM_options/requests/happy_ending_15s_stylelock_v8.json`.
+
+Status: SUBMITTED — job `9dda1962-1ac3-4804-b18f-e5a713f77e64` (declined preset 24bae836)
