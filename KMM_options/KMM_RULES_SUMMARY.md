@@ -142,7 +142,12 @@ Tham khảo thêm `HANDOFF_GUIDE.md`, `STYLE_GUIDE_B.md`, `REUPLOAD_NEW_ACCOUNT.
 | Chú an ninh (dùi cui) | `682c6b6d-e255-473f-983c-56cc65aab6d3` |
 | Cô giáo (thước, tia vàng) | `89b32a5e-bfbc-44af-96e9-a274bb04cf51` |
 | Cô lao công (chổi) | `2f4bb001-827c-4409-8887-3cd734d1b89b` |
-| Công an (10_CongAn) | `6afba98a-2c36-4e0d-a373-be24ce4bdc75` |
+| Công an (10_CongAn) | `6afba98a-2c36-4e0d-a373-be24ce4bdc75` (BẢN CŨ: đang chờ bản update, xem H) |
+| Bác sĩ (27_BacSi) | CHỜ UPLOAD (xem H) |
+| Kỹ sư (28_KiSu) | CHỜ UPLOAD (xem H) |
+| Lính cứu hỏa (29_LinhCuuHoa) | CHỜ UPLOAD (xem H) |
+| Bạn học sinh béo (khăn đỏ, quần short xanh đen, ba lô xanh đậm có móc) | `ea2e4e83-b4d6-47bc-b9bd-554fabaeff06` |
+| Bạn học sinh nữ bím tóc (khăn đỏ, váy xếp ly xanh đen, ba lô jean) | `01c8ad41-09a0-4c26-8605-3b35cabc8ed5` |
 | Tài xế | `aed8c835-e2eb-477f-a4c5-583726b87181` |
 | Xe buýt | `1a436a85-6ed7-4897-96bd-2ba2cdc4b77a` |
 | Chó nhà (14_Cho, chó thật, vui vẻ) | `380caa13-1788-4fe9-b953-c0818719eebc` |
@@ -155,6 +160,7 @@ Tham khảo thêm `HANDOFF_GUIDE.md`, `STYLE_GUIDE_B.md`, `REUPLOAD_NEW_ACCOUNT.
 ## H. Việc còn mở
 
 - Đã có mục I (câu chuyện + raccord từ draft_1). Cần Huy PD đối chiếu các điểm ở I.3 và cập nhật khi draft đổi.
+- Cập nhật nhân vật (Huy PD báo ngày 2026-10-04, thư mục local `C:\Users\louee\Desktop\KMM\CH`): THÊM 27_BacSi, 28_KiSu, 29_LinhCuuHoa và UPDATE 10_CongAn. Chưa có trên Higgsfield: cần upload vào MV KMM / CHARACTER (hoặc gửi link Drive công khai). Sau khi có, thay ID ở mục G và ID `6afba98a` cũ trong các file option_B_*police*.
 - Chưa rõ vai trò của B17 và B19.
 - Ảnh mẹ `5e1895bb` chưa xác nhận.
 - Tên file "B21" đang dùng cho hai bối cảnh khác nhau: B21_CongFantasy và B21_MatSauCong.
