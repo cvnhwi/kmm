@@ -4,7 +4,7 @@ Cập nhật: 2026-10-03. Repo `cvnhwi/kmm`, branch `claude/gracious-archimedes-
 Chi tiết đầy đủ nằm trong skill `.claude/skills/kmm-fantasy-video-prompt/SKILL.md`; bản sao ở `KMM_options/KMM_FANTASY_VIDEO_PROMPT_SKILL.md`, phải luôn giống hệt.
 Tham khảo thêm `HANDOFF_GUIDE.md`, `STYLE_GUIDE_B.md`, `REUPLOAD_NEW_ACCOUNT.md`.
 
-> **HAI STYLE (user 2026-10-03):** toàn bộ rule dưới đây = **STYLE B** (fantasy, Mai fantasy). **STYLE A** = đời thực, hand-painted, dùng **01_Mai** (KHÔNG dùng Mai fantasy), prompt mở đầu `DAILY-LIFE MASTER REFERENCE FIRST`. Đọc `STYLE_GUIDE_A.md` + prompt mẫu `STYLE_A_SAMPLE_PROMPT.md`. Branch làm việc hiện tại: `claude/busy-hawking-7f4dok`.
+> **HAI STYLE (user 2026-10-03):** toàn bộ rule dưới đây = **STYLE B** (fantasy, Mai fantasy). **STYLE A** = đời thực, hand-painted, dùng **01_Mai** (KHÔNG dùng Mai fantasy), prompt mở đầu `DAILY-LIFE MASTER REFERENCE FIRST`. Đọc `STYLE_GUIDE_A.md` + prompt mẫu `STYLE_A_SAMPLE_PROMPT.md`. Branch làm việc hiện tại: `claude/busy-hawking-7f4dok`. Handoff mới nhất: `HANDOFF_2026-10-04_STYLE_A_B.md`.
 
 ---
 
