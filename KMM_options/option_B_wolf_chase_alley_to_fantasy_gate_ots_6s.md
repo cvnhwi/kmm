@@ -26,4 +26,4 @@ Changes vs v1:
 QA: linter PASS (after adding [Style Lock], which the linter flagged).
 Request JSON: `KMM_options/requests/wolf_chase_alley_gate_6s_v2.json`.
 
-Status: SUBMITTED — job `877dfb1b-a668-4e5c-8b25-911a4e03fe40` (declined preset 24bae836)
+Status: COMPLETED — job `877dfb1b-a668-4e5c-8b25-911a4e03fe40` (declined preset 24bae836) → https://d8j0ntlcm91z4.cloudfront.net/user_3JNS6ee2vsgr9rp9IBmIleZYkaP/hf_20261004_124052_877dfb1b-a668-4e5c-8b25-911a4e03fe40.mp4 — chờ Huy PD review (sói phải là bóng đêm, không lông)
